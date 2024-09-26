@@ -1,0 +1,412 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0120_f00_s0.png|width=40]] 0120 [[별가사리/포켓몬 카드 게임|별가사리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0121_f00_s0.png|width=40]] 0121 [[아쿠스타/포켓몬 카드 게임|아쿠스타]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0122_f00_s0.png|width=40]] 0122 [[마임맨/포켓몬 카드 게임|마임맨]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_121.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''수수께끼의 혜성'''}}}
+자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스피드어택''' 50{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''몸을 고속으로 회전시켜 바다를 헤엄치며 작은 플랑크톤을 흡수한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_039.png|width=100%]] ||<width=50%> [[파일:SV4a_222.png|width=100%]]||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 121/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 039/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 222/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+== F 레귤레이션 ==
+=== [[소드&실드 스타트 덱 100]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_167.png|width=100%]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''사이코키네시스''' 10+
+상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 추가한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''파워젬''' 60{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강렬한 사이코 파워를 발산할 때 코어라고 불리는 기관이 일곱 색깔로 빛난다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' -- ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SPD_003.png|width=512px]] ||
+|| [[소드&실드 VSTAR&VMAX 하이클래스덱 「테오키스」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI.png|height=25]] | 167/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SPD.png|height=25]] | 003/020 | [[소드&실드 VSTAR&VMAX 하이클래스덱 「테오키스」]] ||
+=== [[배틀리전]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9a_017.png|width=100%]] ||
+|| [[배틀리전]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 190 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー V{{{#!wiki style="float:right;"
+
+}}}}}}Starmie V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스피드스타''' 50
+이 기술의 데미지는 약점, 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''에너지 스파이럴''' 50×
+상대 필드의 포켓몬에게 붙어 있는 에너지의 개수 × 50데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9a_075.png|width=100%]] ||<width=50%> [[파일:S9a_083.png|width=100%]]||
+|| [[배틀리전]][br][include(틀:포케카 레어도/SR)] || [[배틀리전]][br][include(틀:포케카 레어도/CSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9A.png|height=25]] | 017/067 | [[배틀리전]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9A.png|height=25]] | 075/067 | [[배틀리전]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9A.png|height=25]] | 083/067 | [[배틀리전]] | [include(틀:포케카 레어도/CSR)] ||
+== E 레귤레이션 ==
+=== [[퓨전아츠]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_019.png|width=100%]] ||
+|| [[퓨전아츠]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''연속탄스타''' 
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지를 원하는 만큼 트래쉬하고 그 장수만큼 상대의 포켓몬을 선택한다(1마리를 2번 이상 선택할 수 있다). 그 뒤, 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''기하학적인 몸을 회전시켜 수중에서 헤엄친다. 항상 의문의 전파를 발신하고 있다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8.png|height=25]] | 019/100 | [[퓨전아츠]] | [include(틀:포케카 레어도/R)] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_049.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스트레인지 웨이브''' 40
+자신의 덱에 있는 [[파일:포켓몬 카드 게임 물타입.png|width=17px]]  또는 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지를 3장까지 자신의 벤치 포켓몬 1마리에게 붙인다. 그리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛나는 코어는 바다의 보석이라고 불린다. 고가의 액세서리로 만들어져 은밀히 거래된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 049/095 | [[태그볼트]] | [include(틀:포케카 레어도/U)] ||
+=== [[썬&문 스타터 세트 격투 「롱스톤 GX」 물 「아쿠스타 GX」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMK_004.png|width=100%]] ||
+|| [[썬&문 스타터 세트 격투 「롱스톤 GX」 물 「아쿠스타 GX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타 [[파일:포케카 GX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 190 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー GX{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''스타스트림''' 40
+자신의 트래쉬에 있는 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지를 2장 자신의 포켓몬 1마리에게 붙인다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''회전어택''' 100}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''하이드로펌프 GX''' 40+
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지의 개수 × 40데미지를 추가한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMK.png|height=25]] | 004/031 | [[썬&문 스타터 세트 격투 「롱스톤 GX」 물 「아쿠스타 GX」]] ||
+== A 레귤레이션 ==
+=== [[각성의 용사]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4S_010.png|width=100%]] ||
+|| [[각성의 용사]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''이스케이프'''}}}
+자신의 차례에 1번 사용할 수 있다. 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''회전어택''' 40{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛나는 핵으로부터 의문의 전파를 송수신하고 있다고 한다. 다가가면 두통이 생길 때도 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4S.png|height=25]] | 010/050 | [[각성의 용사]] | [include(틀:포케카 레어도/U)] ||
+== XY 시리즈 ==
+=== [[X컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_X_017.jpg|width=100%]] ||
+|| [[X컬렉션]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''HP회복''' 
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 이 포켓몬의 HP를 모두 회복한다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''코어 스플래시''' 60+
+이 포켓몬에게 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지가 붙어 있다면 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''코어라고 불리는 중심 부분은 일곱 빛깔로 빛난다. 이것을 보석으로 삼는 사람도 있다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 017/060 | [[X컬렉션]] | [include(틀:포케카 레어도/U)] ||
+=== [[타이달스톰]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_TS_043.jpg|width=100%]] ||
+|| [[타이달스톰]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''싱크로스타''' 10+
+이 포켓몬과 상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수가 같으면 60데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''몸의 중심에 있는 빨간 핵에서 밤하늘을 향해 알 수 없는 전파를 발신한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5T.png|height=25]] | 043/070 | [[타이달스톰]] | [include(틀:포케카 레어도/U)] ||
+=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_016.jpg|width=100%]] ||
+|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''심해의회오리''' 
+자신의 패를 모두 덱으로 되돌리고 덱을 섞는다. 그 뒤 덱을 7장 뽑는다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''이븐바인드''' 30
+자신의 벤치 포켓몬과 상대의 벤치 포켓몬이 같은 수라면 상대의 배틀 포켓몬을 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''몸의 중심에 있는 빨간 핵에서 밤하늘을 향해 알 수 없는 전파를 발신한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 016/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+=== [[BASE PACK 20th Anniversary]] ===
+==== 아쿠스타 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_031.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''우주비컨'''}}}
+자신의 패를 1장 선택해서 트래쉬한다. 그 뒤, 자신의 트래쉬에서 기본 에너지를 2장 선택해서 상대에게 보여주고 패로 가져온다. (이 카드의 효과로 트래쉬한 에너지는 선택할 수 없다.) 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스타프리즈''' 30
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''기하학적인 몸 때문에 우주생물이 아닌가 하고 지역에서는 의심받고 있다''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 031/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/U)] ||
+==== 아쿠스타 BREAK ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_032.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타 [[파일:포케카 BREAK.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー BREAK{{{#!wiki style="float:right;"
+아쿠스타에서 진화
+}}}}}}Starmie BREAK
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+BREAK진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''브레이크스타''' 
+상대의 [BREAK진화] 포켓몬 전원에게 각각 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}BREAK진화 : BREAK진화 전의 아쿠스타가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 032/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/RR)] ||
+== BW 시리즈 ==
+=== [[사이코 드라이브]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw3_pd_013.jpg|width=100%]] ||
+|| [[사이코 드라이브]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''이상한빛''' 
+상대의 배틀 포켓몬을 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''스피드스타''' 50
+이 기술의 데미지는 약점 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''몸의 중심에 있는 빨간 핵에서 밤하늘을 향해 알 수 없는 전파를 발신한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3P.png|height=25]] | 013/052 | [[사이코 드라이브]] | [include(틀:포케카 레어도/U)] ||
+== DP 시리즈 ==
+=== [[DP 펄기아 덱]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:st2_palkia_ko_2.jpg|width=100%]] ||
+|| [[DP 펄기아 덱]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아쿠스타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+スターミー{{{#!wiki style="float:right;"
+별가사리에서 진화
+}}}}}}Starmie
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''스타부메랑''' 30
+원한다면 자신과 자신에게 붙어 있는 모든 카드를 자신의 패로 되돌려도 좋다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''코어플래시''' 
+포켓파워 포켓바디를 가지고 있는 상대의 포켓몬 1마리에게 50데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''몸의 중심에 있는 빨간 핵에서 밤하늘을 향해 알 수 없는 전파를 발신한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:ST2P.png|height=25]] | 02/12 | [[DP 펄기아 덱]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/물 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

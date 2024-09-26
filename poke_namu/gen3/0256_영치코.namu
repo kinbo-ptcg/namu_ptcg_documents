@@ -1,0 +1,184 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0255_f00_s0.png|width=40]] 0255 [[아차모/포켓몬 카드 게임|아차모]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0256_f00_s0.png|width=40]] 0256 [[영치코/포켓몬 카드 게임|영치코]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0257_f00_s0.png|width=40]] 0257 [[번치코/포켓몬 카드 게임|번치코]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== D 레귤레이션 ==
+=== [[무한존]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3_011.png|width=100%]] ||
+|| [[무한존]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''걷어차기''' 20
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''히트비크''' 40
+상대의 배틀 포켓몬을 화상으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''싸우게 되면 체내의 불꽃이 세차게 타오른다. 킥은 파괴력이 굉장하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S3.png|height=25]] | 011/100 | [[무한존]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[챔피언로드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6B_012.png|width=100%]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''자연회복'''}}}
+패에서 이 포켓몬에게 에너지를 붙일 때마다 이 포켓몬의 특수 상태를 모두 회복한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''덤벼들기''' 60
+동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''싸우게 되면 체내의 불꽃이 세차게 타오른다. 킥은 파괴력이 굉장하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6B_087.png|width=100%]] ||<width=50%> [[파일:SM8b_013.png|width=100%]]||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 012/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 012/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 013/150 | [[GX 울트라샤이니]] ||
+=== [[창공의 카리스마]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7_017.png|width=100%]] ||
+|| [[창공의 카리스마]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''두번치기''' 30×
+동전을 2번 던져서 앞면이 나온 수 × 30데미지를 준다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염방사''' 80
+이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''싸우게 되면 체내의 불꽃이 세차게 타오른다. 킥은 파괴력이 굉장하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7.png|height=25]] | 017/096 | [[창공의 카리스마]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[라이징피스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY3_013.jpg|width=100%]] ||
+|| [[라이징피스트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 30
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''공중 내리찍기''' 50+
+동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''1초에 킥을 10번 날릴 정도로 발을 사용하는 기술에 능하다. 날카로운 울음소리로 위협한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY3.png|height=25]] | 013/096 | [[라이징피스트]] | [include(틀:포케카 레어도/C)] ||
+=== [[가이아 볼케이노]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_019.jpg|width=100%]] ||
+|| [[가이아 볼케이노]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''전광석화''' 20+
+동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''회전차기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''싸우게 되면 체내의 불꽃이 세차게 타오른다. 킥은 파괴력이 굉장하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 019/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/C)] ||
+== BW 시리즈 ==
+=== [[다크러시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw4_011.jpg|width=100%]] ||
+|| [[다크러시]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''영치코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ワカシャモ{{{#!wiki style="float:right;"
+아차모에서 진화
+}}}}}}Combusken
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''두번치기''' 20×
+동전을 두 번 던져서 앞면이 나온 수 × 20데미지를 준다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염방사''' 70
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''1초에 킥을 10번 날릴 정도로 발을 사용하는 기술에 능하다. 날카로운 울음소리로 위협한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW4.png|height=25]] | 011/069 | [[다크러시]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/3세대]][[분류:포켓몬 카드 게임/불꽃 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

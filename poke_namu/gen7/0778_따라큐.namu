@@ -1,0 +1,428 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0777_f00_s0.png|width=40]] 0777 [[토게데마루/포켓몬 카드 게임|토게데마루]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0778_f00_s0.png|width=40]] 0778 [[따라큐/포켓몬 카드 게임|따라큐]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0779_f00_s0.png|width=40]] 0779 [[치갈기/포켓몬 카드 게임|치갈기]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVAW_006.png|width=100%]] ||
+|| [[스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 190 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ ex{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''공허한귀환''' 30
+원한다면 이 포켓몬을 벤치 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''에너지버스트''' 30×
+서로의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVAW.png|height=25]] | 006/023 | [[스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」]] ||
+=== [[스노해저드]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2P_034.png|width=100%]] ||
+|| [[스노해저드]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''신비의부적'''}}}
+이 포켓몬은 상대의 「포켓몬 ex ・ V」로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''고스트아이''' 
+상대의 배틀 포켓몬에게 데미지 카운터를 7개 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''볕이 들지 않는 어두운 곳에 산다. 사람들 앞에 나타날 때는 피카츄를 본뜬 천으로 온몸을 가린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_088.png|width=100%]] ||<width=50%> [[파일:SV4a_265.png|width=100%]]||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:SV4a_341.png|width=100%]] ||<width=50%> [[파일:SV-P_079.png|width=100%]] ||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/AR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2P.png|height=25]] | 034/071 | [[스노해저드]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 088/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 265/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 341/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/AR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:PROMO.png|height=25]] | 079/SV-P | [[unknown]] ||
+== F 레귤레이션 ==
+=== [[로스트어비스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11_050.png|width=100%]] ||
+|| [[로스트어비스]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''혼란시키기''' 
+상대의 배틀 포켓몬을 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''워스트기프트''' 10×
+상대 필드의 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''겁을 주지 않기 위해 피카츄와 닮은 누더기를 쓰고 있지만 오히려 더 으스스해졌다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 050/100 | [[로스트어비스]] | [include(틀:포케카 레어도/U)] ||
+== E 레귤레이션 ==
+=== [[일격마스터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_027.png|width=100%]] ||
+|| [[일격마스터]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 160 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ V{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''더미인형'''}}}
+자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 상대의 다음 차례가 끝날 때까지 이 「따라큐 V」는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''부러운눈동자''' 
+상대가 이미 가져간 프라이즈의 장수 × 3개만큼의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다. }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5I_073.png|width=100%]] ||<width=50%> [[파일:S8b_076.png|width=100%]]||
+|| [[일격마스터]][br][include(틀:포케카 레어도/SR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_233.png|width=100%]] ||<width=50%> [[파일:SI_197.png|width=100%]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 027/070 | [[일격마스터]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 073/070 | [[일격마스터]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 076/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 233/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 197/414 | [[소드&실드 스타트 덱 100]] ||
+=== [[VMAX 클라이맥스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8b_077.png|width=100%]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 300 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ VMAX{{{#!wiki style="float:right;"
+따라큐 V에서 진화
+}}}}}}Mimikyu VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''오컬트넘버''' 
+데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다. 이 차례에 자신의 패에서 「아세로라의 예감」을 꺼내서 사용했다면 올리는 데미지 카운터의 수는 13개가 된다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''다이섀도''' 120
+상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_234.png|width=512px]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 077/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 234/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
+== D 레귤레이션 ==
+=== [[무한존]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3_042.png|width=100%]] ||
+|| [[무한존]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''치유방해'''}}}
+이 포켓몬이 있는 한, 상대 벤치 포켓몬 전원의 HP는 회복되지 않는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''발톱 베어가르기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''겁을 주지 않기 위해 피카츄와 닮은 누더기를 쓰고 있지만 오히려 더 으스스해졌다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S3.png|height=25]] | 042/100 | [[무한존]] | [include(틀:포케카 레어도/U)] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_038.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀&따라큐 [[파일:포케카 GXTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 240 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー&ミミッキュ GX{{{#!wiki style="float:right;"
+
+}}}}}}Gengar&Mimikyu GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''폴터가이스트''' 50x
+상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 50데미지를 준다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''호러하우스 GX''' 
+상대의 다음 차례에 상대는 패에서 카드를 꺼내서 사용할 수 없다. [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지 1개가 추가로 붙어 있다면 서로의 플레이어는 각각의 패가 7장이 되도록 덱을 뽑는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_102.png|width=100%]] ||<width=50%> [[파일:SM9_103.png|width=100%]]||
+|| [[태그볼트]][br][include(틀:포케카 레어도/SR)] || [[태그볼트]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 038/095 | [[태그볼트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 102/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 103/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+=== [[드림리그(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11b_028.png|width=100%]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''행세하기''' 
+자신의 패에 있는 서포트를 1장 트래쉬한다. 그 뒤, 그 서포트의 효과를 이 기술의 효과로써 사용한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''짓궂은손''' 
+상대의 포켓몬 2마리에게 각각 데미지 카운터를 2개 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''얌전하고 외로움을 잘 타지만, 넝마 조각의 속을 보려고 하면 격렬하게 싫어하며 저항한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM11b_058.png|width=512px]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/CHR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 028/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 058/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/CHR)] ||
+=== [[태그올스타즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_063.png|width=100%]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''섀도박스'''}}}
+이 포켓몬이 있는 한, 서로의 필드의 데미지 카운터가 올려져 있는 「포켓몬 GX」의 [[파일:포케카 특성.png|height=18px]]은 모두 없어진다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''꼬리로 혼란시키기''' 20
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''얌전하고 외로움을 잘 타지만, 넝마 조각의 속을 보려고 하면 격렬하게 싫어하며 저항한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 063/173 | [[태그올스타즈]] ||
+== B 레귤레이션 ==
+=== [[페어리라이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7B_038.png|width=100%]] ||
+|| [[페어리라이즈]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐 [[파일:포케카 GX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ GX{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] '''혼란시키기''' 
+상대의 배틀 포켓몬을 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''투닥투닥폴''' 10+
+상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 추가한다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] '''드림피어 GX''' 
+상대의 벤치 포켓몬 1마리와 그 포켓몬에게 붙어 있는 모든 카드를 상대의 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM7B_054.png|width=512px]] ||
+|| [[페어리라이즈]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7B.png|height=25]] | 038/050 | [[페어리라이즈]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7B.png|height=25]] | 054/050 | [[페어리라이즈]] | [include(틀:포케카 레어도/SR)] ||
+=== [[GX 울트라샤이니]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8b_095.png|width=100%]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬쩍 훔치기''' 
+자신의 덱을 2장 뽑는다.
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''흉내쟁이''' 
+상대의 이전 차례에 상대의 포켓몬이 기술(GX기술 제외)을 사용했다면 그 기술을 이 기술로써 사용한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''정체불명. 누더기 속을 본 어떤 학자는 공포에서 헤어나오지 못하고 쇼크사했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 095/150 | [[GX 울트라샤이니]] ||
+== A 레귤레이션 ==
+=== [[알로라의 달빛]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2L_020.png|width=100%]] ||
+|| [[알로라의 달빛]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''따라큐'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミミッキュ{{{#!wiki style="float:right;"
+
+}}}}}}Mimikyu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬쩍 훔치기''' 
+자신의 덱을 2장 뽑는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''흉내쟁이''' 
+상대의 이전 차례에 상대의 포켓몬이 기술( GX 기술 제외)을 사용했다면 그 기술을 이 기술로써 사용한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''정체불명. 누더기 속을 본 어떤 학자는 공포에서 헤어나오지 못하고 쇼크사했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_043.png|width=100%]] ||<width=50%> [[파일:SM4plus_043.png|width=100%]]||
+|| [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2L.png|height=25]] | 020/050 | [[알로라의 달빛]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 043/114 | [[GX 배틀부스트]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 043/114 | [[GX 배틀부스트]] ||
+=== [[썬&문 30장덱 대전 세트 「지우vs로켓단」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMD_010.png|width=100%]] ||
+|| [[썬&문 30장덱 대전 세트 「지우vs로켓단」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''로켓단의 따라큐 [[파일:포케카 GX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+로켓단의 ミミッキュ GX{{{#!wiki style="float:right;"
+
+}}}}}}로켓단의 Mimikyu GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''중얼거리기''' 20
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''고스트크루''' 90+
+동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''탈 GX''' 100
+상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SMD.png|height=25]] | 010/026 | [[썬&문 30장덱 대전 세트 「지우vs로켓단」]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/7세대]][[분류:포켓몬 카드 게임/초 타입]][[분류:포켓몬 카드 게임/페어리 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

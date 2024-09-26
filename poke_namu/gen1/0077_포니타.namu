@@ -1,0 +1,389 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0076_f00_s0.png|width=40]] 0076 [[딱구리/포켓몬 카드 게임|딱구리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0077_f00_s0.png|width=40]] 0077 [[포니타/포켓몬 카드 게임|포니타]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0078_f00_s0.png|width=40]] 0078 [[날쌩마/포켓몬 카드 게임|날쌩마]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[-]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVHK_001.png|width=100%]] ||
+|| [[-]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''에너지차지''' 
+자신의 덱에서 기본 에너지를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃 꼬리''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''갓 태어났을 때는 달리는 것이 서툴다. 동료와 달리기 경주를 하는 사이에 하반신이 튼튼하게 성장한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVHK.png|height=25]] | 001/053 | [[-]] ||
+=== [[스칼렛&바이올렛 「배틀 아카데미」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVI_007_N.png|width=100%]] ||
+|| [[스칼렛&바이올렛 「배틀 아카데미」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''돌아다니며 뛰기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''부모의 뒤를 쫓아다니는 동안 다리가 강인해진다. 온종일 산과 들을 뛰어다닌다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVI.png|height=25]] | 007/066 | [[스칼렛&바이올렛 「배틀 아카데미」]] ||
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_077.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''가져오기''' 
+자신의 덱을 1장 뽑는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''돌아다니며 뛰기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''포니타에게 인정받으면 타오르는 갈기를 만져도 뜨거움을 느끼지 않게 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 077/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
+== F 레귤레이션 ==
+=== [[스페이스 저글러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10P_011.png|width=100%]] ||
+|| [[스페이스 저글러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃 꼬리''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''초원에 무리를 이루며 산다. 갓 태어난 새끼에게는 불로 된 갈기가 없으나 1시간 정도 지나면 갖춰진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10P.png|height=25]] | 011/067 | [[스페이스 저글러]] | [include(틀:포케카 레어도/C)] ||
+=== [[패러다임트리거]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_010.png|width=100%]] ||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''돌진''' 50
+이 포켓몬에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''갓 태어났을 때는 달리는 것이 서툴다. 동료와 달리기 경주를 하는 사이에 하반신이 튼튼하게 성장한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S-P_192.png|width=512px]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 010/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 192/S-P | [[unknown]] ||
+== D 레귤레이션 ==
+=== [[실드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1H_021.png|width=100%]] ||
+|| [[실드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''가라르 포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ガラル ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Galar Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''염동력''' 10
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''눈동자를 들여다보고 마음을 읽는다. 비뚤어진 마음을 발견하면 홀연 모습을 감춰버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_067.png|width=100%]] ||<width=50%> [[파일:S4a_246.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1H.png|height=25]] | 021/060 | [[실드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 067/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 246/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_006.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''가라르 포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ガラル ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Galar Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''치유파동''' 
+자신의 포켓몬을 1마리 선택해서 HP를 「30」회복한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''돌아다니며 뛰기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''작은 뿔에 치유의 힘을 숨기고 있다. 작은 상처라면 뿔을 갖다 대서 치료해준다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:PROMO.png|height=25]] | 006/S-P | [[unknown]] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_016.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불씨''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''짓밟기''' 10+
+동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''막 태어나서는 겨우 일어설 수 있을 정도이지만 많이 달리면 하반신이 단련되어 달리는 속도가 빨라진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 016/095 | [[태그볼트]] | [include(틀:포케카 레어도/C)] ||
+=== [[리믹스바우트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11a_009.png|width=100%]] ||
+|| [[리믹스바우트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''작은 선물''' 
+자신의 덱에 있는 기본 에너지를 2장까지 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''막 태어나서는 겨우 일어설 수 있을 정도이지만 많이 달리면 하반신이 단련되어 달리는 속도가 빨라진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 009/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[와일드 블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY2_012.jpg|width=100%]] ||
+|| [[와일드 블레이즈]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''고속이동''' 10
+동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃 꼬리''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''막 태어나서는 겨우 일어설 수 있을 정도이지만 많이 달리면 하반신이 단련되어 달리는 속도가 빨라진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY2.png|height=25]] | 012/080 | [[와일드 블레이즈]] | [include(틀:포케카 레어도/C)] ||
+=== [[타오르는 투사]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY11A_006.jpg|width=100%]] ||
+|| [[타오르는 투사]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃되돌리기''' 
+자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2장 선택해서 상대에게 보여주고 패로 가져온다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불씨''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''부모의 뒤를 쫓아다니는 동안 다리가 강인해진다. 온종일 산과 들을 뛰어다닌다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY11B.png|height=25]] | 006/054 | [[타오르는 투사]] | [include(틀:포케카 레어도/C)] ||
+=== [[BASE PACK 20th Anniversary]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_019.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''걷어차기''' 20
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃 꼬리''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''발의 발굽은 다이아몬드의 10배 단단하다. 어떤 것이라도 납작하게 밟아버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 019/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/C)] ||
+== DP 시리즈 ==
+=== [[DP 랜덤 구축덱]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:st1_kr_13.jpg|width=100%]] ||
+|| [[DP 랜덤 구축덱]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''몸통박치기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃 꼬리''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어나서 1시간이 지나면 불꽃의 갈기와 꼬리가 자라나 멋진 모습이 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:ST1.png|height=25]] | 13/55 | [[DP 랜덤 구축덱]] ||
+=== [[모험의 시작(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs1_kr_11.jpg|width=100%]] ||
+|| [[모험의 시작(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포니타'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ポニータ{{{#!wiki style="float:right;"
+
+}}}}}}Ponyta
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''걷어차기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''고속이동''' 20
+동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술의 데미지나 효과를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''부모의 뒤를 쫓아다니는 동안 다리가 강인해진다. 온종일 산과 들을 뛰어다닌다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS1.png|height=25]] | 11/60 | [[모험의 시작(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/불꽃 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

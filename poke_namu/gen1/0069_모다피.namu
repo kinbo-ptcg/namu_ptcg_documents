@@ -1,0 +1,190 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0068_f00_s0.png|width=40]] 0068 [[괴력몬/포켓몬 카드 게임|괴력몬]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0069_f00_s0.png|width=40]] 0069 [[모다피/포켓몬 카드 게임|모다피]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0070_f00_s0.png|width=40]] 0070 [[우츠동/포켓몬 카드 게임|우츠동]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_069.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''풀베기''' 10
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''붙들어매기''' 20
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람 얼굴 같은 봉오리 때문에 전설의 꽃 만드라고라의 일종이 아닐까 하는 소문이 돌고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 069/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[연격마스터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5R_001.png|width=100%]] ||
+|| [[연격마스터]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베놈쇼크''' 10+
+상대의 배틀 포켓몬이 독이라면 40데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람 얼굴 같은 봉오리 때문에 전설의 꽃 만드라고라의 일종이 아닐까 하는 소문이 돌고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 001/070 | [[연격마스터]] | [include(틀:포케카 레어도/C)] ||
+== C 레귤레이션 ==
+=== [[나이트유니슨]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_003.png|width=100%]] ||
+|| [[나이트유니슨]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''잎날가르기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''홀쭉한 체격이지만 먹이를 잡을 때의 움직임은 눈에 보이지 않을 정도로 빠르다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM9a_065.png|width=512px]] ||
+|| [[나이트유니슨]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9A.png|height=25]] | 003/055 | [[나이트유니슨]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9A.png|height=25]] | 003/055 | [[나이트유니슨]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[챔피언로드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6B_001.png|width=100%]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''조금흡수''' 20
+이 포켓몬의 HP를 「10」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람 얼굴 같은 봉오리 때문에 전설의 꽃 만드라고라의 일종이 아닐까 하는 소문이 돌고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM6B_078.png|width=512px]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 001/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 001/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== A 레귤레이션 ==
+=== [[알로라의 햇빛]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2K_001.png|width=100%]] ||
+|| [[알로라의 햇빛]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''덩굴채찍''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''홀쭉한 체격이지만 먹이를 잡을 때의 움직임은 눈에 보이지 않을 정도로 빠르다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SMC_001.png|width=100%]] ||<width=50%> [[파일:SM2plus_001.png|width=100%]]||
+|| [[썬&문 개조 스타터 세트 「카푸브루루 GX」]][br][include(틀:포케카 레어도/N)] || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff> [[파일:SM2plus_067.png|width=100%]] ||
+|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2K.png|height=25]] | 001/050 | [[알로라의 햇빛]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SMC.png|height=25]] | 001/021 | [[썬&문 개조 스타터 세트 「카푸브루루 GX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 001/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 001/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+== XY 시리즈 ==
+=== [[라이징피스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY3_001.jpg|width=100%]] ||
+|| [[라이징피스트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모다피'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マダツボミ{{{#!wiki style="float:right;"
+
+}}}}}}Bellsprout
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''덩굴채찍''' 10
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''탁쳐서떨구기''' 
+상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''홀쭉한 체격이지만 먹이를 잡을 때의 움직임은 눈에 보이지 않을 정도로 빠르다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY3.png|height=25]] | 001/096 | [[라이징피스트]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/풀 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

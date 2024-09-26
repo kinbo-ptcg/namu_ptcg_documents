@@ -1,0 +1,106 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0872_f00_s0.png|width=40]] 0872 [[누니머기/포켓몬 카드 게임|누니머기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0873_f00_s0.png|width=40]] 0873 [[모스노우/포켓몬 카드 게임|모스노우]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0874_f00_s0.png|width=40]] 0874 [[돌헨진/포켓몬 카드 게임|돌헨진]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[와일드포스(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_020.png|width=100%]] ||
+|| [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모스노우'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+モスノウ{{{#!wiki style="float:right;"
+누니머기에서 진화
+}}}}}}Frosmoth
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''얼어붙는냉기''' 100
+상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''더듬이로 대기의 흐름을 감지한다. 날개 가루에 냉기를 섞어서 눈처럼 내리게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5K.png|height=25]] | 020/071 | [[와일드포스(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[퓨전아츠]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_029.png|width=100%]] ||
+|| [[퓨전아츠]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모스노우'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+モスノウ{{{#!wiki style="float:right;"
+누니머기에서 진화
+}}}}}}Frosmoth
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''얼다바람''' 
+상대의 배틀 포켓몬을 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''블리자드루프''' 160
+이 포켓몬에게 붙어 있는 에너지를 모두 패로 되돌린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''산과 들을 황폐하게 만들면 용서하지 않는다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8.png|height=25]] | 029/100 | [[퓨전아츠]] | [include(틀:포케카 레어도/U)] ||
+== D 레귤레이션 ==
+=== [[실드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1H_016.png|width=100%]] ||
+|| [[실드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모스노우'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+モスノウ{{{#!wiki style="float:right;"
+누니머기에서 진화
+}}}}}}Frosmoth
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''빙설의 춤'''}}}
+자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 패에서 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지를 1장 선택해서 벤치의 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''오로라빔''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''산과 들을 황폐하게 만들면 용서하지 않는다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_048.png|width=100%]] ||<width=50%> [[파일:S4a_233.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_040.png|width=100%]] ||<width=50%> [[파일:S8b_192.png|width=100%]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CHR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1H.png|height=25]] | 016/060 | [[실드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 048/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 233/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 040/184 | [[VMAX 클라이맥스]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 192/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CHR)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/물 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,459 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0003_f00_s0.png|width=40]] 0003 [[이상해꽃/포켓몬 카드 게임|이상해꽃]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0004_f00_s0.png|width=40]] 0004 [[파이리/포켓몬 카드 게임|파이리]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0005_f00_s0.png|width=40]] 0005 [[리자드/포켓몬 카드 게임|리자드]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_004.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''통째로태우기''' 
+필드에 나와 있는 스타디움을 트래쉬한다. 
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불토하기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2a_168.png|width=100%]] ||<width=50%> [[파일:SV4a_025.png|width=100%]]||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/AR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:SV4a_210.png|width=100%]] ||<width=50%> [[파일:SVJL_001.png|width=100%]] ||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] || [[스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 004/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 168/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/AR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 025/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 210/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVJL.png|height=25]] | 001/021 | [[스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」]] ||
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_012.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''히트태클''' 30
+이 포켓몬에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SVG_007.png|width=100%]] ||<width=50%> [[파일:SVG_051.png|width=100%]]||
+|| [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]][br][include(틀:포케카 레어도/N)] || [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 012/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG.png|height=25]] | 007/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG.png|height=25]] | 051/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV-P_040.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃세례''' 40
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어날 때부터 꼬리에 불꽃이 타오르고 있다. 불꽃이 꺼지면 생명도 다하고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:PROMO.png|height=25]] | 040/SV-P | [[unknown]] ||
+== F 레귤레이션 ==
+=== [[Pokémon Go]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_008.png|width=100%]] ||
+|| [[Pokémon Go]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불타는꼬리''' 10
+자신의 덱에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S-P_163.png|width=512px]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10B.png|height=25]] | 008/071 | [[Pokémon Go]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 163/S-P | [[unknown]] ||
+== D 레귤레이션 ==
+=== [[앙천의 볼트태클]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4_010.png|width=100%]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''가져오기''' 
+자신의 덱을 1장 뽑는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''뜨거운 것을 좋아하는 성격이다. 비에 젖으면 꼬리 끝에서 연기가 난다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_015.png|width=100%]] ||<width=50%> [[파일:S-P_066.png|width=100%]]||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 010/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 015/184 | [[VMAX 클라이맥스]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:PROMO.png|height=25]] | 066/S-P | [[unknown]] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+==== 파이리 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_010.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''대갚음''' 20x
+이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꼬리의 불꽃은 파이리의 생명력의 상징이다. 건강할 때 왕성하게 불타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 010/095 | [[태그볼트]] | [include(틀:포케카 레어도/C)] ||
+==== 파이리 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_011.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃세례''' 30
+이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꼬리의 불꽃은 파이리의 생명력의 상징이다. 건강할 때 왕성하게 불타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 011/095 | [[태그볼트]] | [include(틀:포케카 레어도/C)] ||
+=== [[명탐정 피카츄(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_005.png|width=100%]] ||
+|| [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''돌격''' 20
+이 포켓몬에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꼬리의 불꽃은 파이리의 생명력의 상징이다. 건강할 때 왕성하게 불타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_005.png|width=512px]] ||
+|| [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMP2.png|height=25]] | 005/024 | [[명탐정 피카츄(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMP2.png|height=25]] | 005/024 | [[명탐정 피카츄(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+=== [[썬&문 「패밀리 포켓몬 카드 게임」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SML_007.png|width=100%]] ||
+|| [[썬&문 「패밀리 포켓몬 카드 게임」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''갉기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꼬리의 불꽃은 파이리의 생명력의 상징이다. 건강할 때 왕성하게 불타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM30A_009.png|width=512px]] ||
+|| [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SML.png|height=25]] | 007/051 | [[썬&문 「패밀리 포켓몬 카드 게임」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM30A.png|height=25]] | 009/080 | [[썬&문 「랜덤30장덱」]] ||
+== B 레귤레이션 ==
+=== [[드래곤스톰]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6A_001.png|width=100%]] ||
+|| [[드래곤스톰]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃엄니''' 20
+상대의 배틀 포켓몬을 화상으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어날 때부터 꼬리의 불꽃이 타오르고 있다. 불꽃이 꺼지면 그 생명이 다하고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6A_069.png|width=100%]] ||<width=50%> [[파일:SM8b_166.png|width=100%]]||
+|| [[드래곤스톰]][br][include(틀:포케카 레어도/C)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6A.png|height=25]] | 001/053 | [[드래곤스톰]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6A.png|height=25]] | 001/053 | [[드래곤스톰]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 166/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/S)] ||
+== A 레귤레이션 ==
+=== [[어둠을 밝힌 무지개]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3H_009.png|width=100%]] ||
+|| [[어둠을 밝힌 무지개]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃 꼬리''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꼬리의 불꽃은 파이리의 생명력의 상징이다. 건강할 때 왕성하게 불타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMN_001.png|width=512px]] ||
+|| [[썬&문 파워업덱 BOX 「TAG TEAM GX」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3H.png|height=25]] | 009/051 | [[어둠을 밝힌 무지개]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SMN.png|height=25]] | 001/043 | [[썬&문 파워업덱 BOX 「TAG TEAM GX」]] ||
+== XY 시리즈 ==
+=== [[포켓심쿵 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP3_003.png|width=100%]] ||
+|| [[포켓심쿵 컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''개구쟁이''' 20×
+동전을 한 번 던져서 앞면이 나오면 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''기운이 넘치는 나의 파이리. 어떻게 하면 더 사이좋게 지낼 수 있을까?''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP3.png|height=25]] | 003/032 | [[포켓심쿵 컬렉션]] | [include(틀:포케카 레어도/C)] ||
+=== [[BASE PACK 20th Anniversary]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_009.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃세례''' 30
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태어날 때부터 꼬리의 불꽃이 타오르고 있다. 불꽃이 꺼지면 그 생명이 다하고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 009/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/C)] ||
+== BW 시리즈 ==
+=== [[프리즈볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_freezevolt_010.jpg|width=100%]] ||
+|| [[프리즈볼트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''빨아들이기''' 
+자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2장 선택해서 이 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''파이리 꼬리의 불꽃은 생명의 등불이다. 건강할 때는 불꽃도 강하게 타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_009.jpg|width=512px]] ||
+|| [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6F.png|height=25]] | 010/059 | [[프리즈볼트]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:EBB.png|height=25]] | 009/093 | [[EX 배틀 부스트]] ||
+== DP 시리즈 ==
+=== [[고대의 수호자(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs10_ko_5.jpg|width=100%]] ||
+|| [[고대의 수호자(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파이리'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒトカゲ{{{#!wiki style="float:right;"
+
+}}}}}}Charmander
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''갉기''' 10
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불구슬''' 20
+상대의 벤치 포켓몬 1마리에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''파이리 꼬리의 불꽃은 생명의 등불이다. 건강할 때는 불꽃도 강하게 타오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS10.png|height=25]] | 05/40 | [[고대의 수호자(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/불꽃 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

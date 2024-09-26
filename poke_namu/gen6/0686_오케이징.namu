@@ -1,0 +1,376 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0685_f00_s0.png|width=40]] 0685 [[나루림/포켓몬 카드 게임|나루림]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0686_f00_s0.png|width=40]] 0686 [[오케이징/포켓몬 카드 게임|오케이징]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0687_f00_s0.png|width=40]] 0687 [[칼라마네로/포켓몬 카드 게임|칼라마네로]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[나이트 원더러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6a_033.png|width=100%]] ||
+|| [[나이트 원더러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''짓궂은촉수''' 
+상대의 덱을 위에서부터 1장 보고 원래대로 되돌린다. 원한다면 그 덱을 섞는다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''쪼기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6A.png|height=25]] | 033/064 | [[나이트 원더러]] | [include(틀:포케카 레어도/C)] ||
+== G 레귤레이션 ==
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_075.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''껴안기''' 30
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''상대를 향해 발광체를 깜빡여서 전의를 상실시킨다. 그 틈에 도망간다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 075/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/C)] ||
+== F 레귤레이션 ==
+=== [[소드&실드 스타터 세트 VSTAR 「다크라이」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SLD_009.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 VSTAR 「다크라이」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''동료부르기''' 
+자신의 덱에서 기본 포켓몬을 2장까지 선택해서 벤치로 내보낸다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''몸통박치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SLD.png|height=25]] | 009/020 | [[소드&실드 스타터 세트 VSTAR 「다크라이」]] ||
+=== [[스페이스 저글러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10P_032.png|width=100%]] ||
+|| [[스페이스 저글러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''변덕공격''' 30
+동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10P.png|height=25]] | 032/067 | [[스페이스 저글러]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[칠흑의 가이스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6K_032.png|width=100%]] ||
+|| [[칠흑의 가이스트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''회전어택''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''상대를 향해 발광체를 깜빡여서 전의를 상실시킨다. 그 틈에 도망간다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_071.png|width=512px]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 032/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 071/184 | [[VMAX 클라이맥스]] ||
+== D 레귤레이션 ==
+=== [[무한존]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3_059.png|width=100%]] ||
+|| [[무한존]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''몸통박치기''' 10
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''배후노리기''' 20+
+상대의 배틀 포켓몬이 혼란이라면 50데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''회전하면서 발광체를 깜빡인다. 빛의 패턴으로 동료와 의사소통한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S3.png|height=25]] | 059/100 | [[무한존]] | [include(틀:포케카 레어도/C)] ||
+== C 레귤레이션 ==
+=== [[나이트유니슨]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_029.png|width=100%]] ||
+|| [[나이트유니슨]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''혼란시키기''' 
+상대의 배틀 포켓몬을 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛을 깜박여 먹이를 꾀어내고 긴 촉수로 포박하여 움직이지 못하게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM9a_084.png|width=512px]] ||
+|| [[나이트유니슨]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9A.png|height=25]] | 029/055 | [[나이트유니슨]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9A.png|height=25]] | 029/055 | [[나이트유니슨]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[금단의 빛]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6_036.png|width=100%]] ||
+|| [[금단의 빛]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''최면술''' 
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛을 깜박여서 덮쳐온 적의 전의를 잃게 한다._x000D_ 그 틈에 모습을 감춘다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_042.png|width=100%]] ||<width=50%> [[파일:SM8b_177.png|width=100%]]||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:SMM_004.png|width=100%]] ||<width=50%> [[파일:SM12a_061.png|width=100%]] ||
+|| [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]][br][include(틀:포케카 레어도/N)] || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff> [[파일:SM30A_030.png|width=100%]] ||
+|| [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6.png|height=25]] | 036/094 | [[금단의 빛]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 042/150 | [[GX 울트라샤이니]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 177/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/S)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SMM.png|height=25]] | 004/031 | [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM12A.png|height=25]] | 061/173 | [[태그올스타즈]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM30A.png|height=25]] | 030/080 | [[썬&문 「랜덤30장덱」]] ||
+== A 레귤레이션 ==
+=== [[어둠을 밝힌 무지개]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3H_035.png|width=100%]] ||
+|| [[어둠을 밝힌 무지개]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''휘감기''' 
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''몸통박치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''깜빡이는 발광체를 바라본 상대는 눈앞이 어두컴컴해져 전의를 상실해버리고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3H.png|height=25]] | 035/051 | [[어둠을 밝힌 무지개]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[Y컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_Y_035.jpg|width=100%]] ||
+|| [[Y컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''거꾸로 진화'''}}}
+이 [[파일:포케카 특성.png|height=18px]]은 이 포켓몬이 혼란이라면 자신의 차례에 한 번 사용할 수 있다. 이 포켓몬에서 진화하는 카드를 자신의 덱에서 1장 선택하여 이 포켓몬에게 올려서 진화시킨다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''괴상한 염력파''' 
+서로의 배틀 포켓몬을 각각 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''깜빡이는 발광체를 바라본 상대는 눈앞이 어두컴컴해져 전의를 상실해버리고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 035/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/C)] ||
+=== [[XY 퍼스트 세트 「도치마론의 진화」「푸호꼬의 진화」「개구마르의 진화」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:FXY_R_018.jpg|width=100%]] ||
+|| [[XY 퍼스트 세트 「도치마론의 진화」「푸호꼬의 진화」「개구마르의 진화」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''쪼기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''깜빡이는 발광체를 바라본 상대는 눈앞이 어두컴컴해져 전의를 상실해버리고 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:FXYR.png|height=25]] | 018/036 | [[XY 퍼스트 세트 「도치마론의 진화」「푸호꼬의 진화」「개구마르의 진화」]] ||
+=== [[밴디트링]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY7_045.jpg|width=100%]] ||
+|| [[밴디트링]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''먹물뿜기''' 10
+상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛을 깜박여서 덮쳐온 적의 전의를 잃게 한다. 그 틈에 모습을 감춘다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY7.png|height=25]] | 045/081 | [[밴디트링]] | [include(틀:포케카 레어도/C)] ||
+=== [[레전드 컬렉션(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP2_016.jpg|width=100%]] ||
+|| [[레전드 컬렉션(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''오케이징'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーイーカ{{{#!wiki style="float:right;"
+
+}}}}}}Inkay
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마구회전''' 10×
+동전을 네 번 던져서 앞면이 나온 수 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''빛을 깜박여서 덮쳐온 적의 전의를 잃게 한다. 그 틈에 모습을 감춘다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP2.png|height=25]] | 016/027 | [[레전드 컬렉션(포켓몬 카드 게임)]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/6세대]][[분류:포켓몬 카드 게임/악 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

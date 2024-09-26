@@ -1,0 +1,457 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0002_f00_s0.png|width=40]] 0002 [[이상해풀/포켓몬 카드 게임|이상해풀]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0003_f00_s0.png|width=40]] 0003 [[이상해꽃/포켓몬 카드 게임|이상해꽃]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0004_f00_s0.png|width=40]] 0004 [[파이리/포켓몬 카드 게임|파이리]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_003.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 340 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ ex{{{#!wiki style="float:right;"
+이상해풀에서 진화
+}}}}}}Venusaur ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''평온의 꽃'''}}}
+이 포켓몬이 배틀필드에 있다면 자신의 차례에 1번 사용할 수 있다. 자신의 포켓몬 1마리의 HP를 「60」회복한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''맹독휩''' 150
+상대의 배틀 포켓몬을 독과 혼란으로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2a_184.png|width=100%]] ||<width=50%> [[파일:SV2a_200.png|width=100%]]||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/SR)] || [[포켓몬 카드 151]][br][include(틀:포케카 레어도/SAR)] ||
+||<rowbgcolor=#ffffff> [[파일:SVG_003.png|width=100%]] ||
+|| [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 003/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 184/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 200/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/SAR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG.png|height=25]] | 003/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
+== F 레귤레이션 ==
+=== [[Pokémon Go]] ===
+==== 이상해꽃 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_003.png|width=100%]] ||
+|| [[Pokémon Go]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ{{{#!wiki style="float:right;"
+이상해풀에서 진화
+}}}}}}Venusaur
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''어질어질캐처'''}}}
+자신의 차례에 1번 사용할 수 있다. 동전을 1번 던져서 앞면이 나오면 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬을 독과 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''솔라빔''' 130{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태양에너지를 양분으로 큰 꽃을 피운다. 양지를 향해 이끌려가듯이 이동한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10B.png|height=25]] | 003/071 | [[Pokémon Go]] | [include(틀:포케카 레어도/R)] ||
+==== 찬란한 이상해꽃 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_004.png|width=100%]] ||
+|| [[Pokémon Go]][br][include(틀:포케카 레어도/K)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''찬란한 이상해꽃'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+찬란한 フシギバナ{{{#!wiki style="float:right;"
+
+}}}}}}찬란한 Venusaur
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 찬란한  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''서니블룸'''}}}
+자신의 차례의 마지막에 1번 사용할 수 있다. 자신의 패가 4장이 되도록 덱을 뽑는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''위험한꽃가루''' 90
+상대의 배틀 포켓몬을 독과 화상과 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''태양에너지를 양분으로 큰 꽃을 피운다. 양지를 향해 이끌려가듯이 이동한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}찬란한 룰 : 찬란한 포켓몬은 덱에 1장만 넣을 수 있다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10B.png|height=25]] | 004/071 | [[Pokémon Go]] | [include(틀:포케카 레어도/K)] ||
+== E 레귤레이션 ==
+=== [[소드&실드 스타터 세트 VMAX 「이상해꽃」]] ===
+==== 이상해꽃 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SEF_001.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 VMAX 「이상해꽃」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 220 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ V{{{#!wiki style="float:right;"
+
+}}}}}}Venusaur V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리프드레인''' 50
+이 포켓몬의 HP를 「30」회복한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''이판사판태클''' 190
+이 포켓몬에게도 30데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_001.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SEF.png|height=25]] | 001/021 | [[소드&실드 스타터 세트 VMAX 「이상해꽃」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 001/414 | [[소드&실드 스타트 덱 100]] ||
+==== 이상해꽃 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SEF_002.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 VMAX 「이상해꽃」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 330 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ VMAX{{{#!wiki style="float:right;"
+이상해꽃 V에서 진화
+}}}}}}Venusaur VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''포레스트스톰''' 30×
+자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지의 개수 × 30데미지를 준다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거다이블룸''' 210
+이 포켓몬의 HP를 「30」회복한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SEF.png|height=25]] | 002/021 | [[소드&실드 스타터 세트 VMAX 「이상해꽃」]] ||
+== D 레귤레이션 ==
+=== [[소드&실드 확장팩 세트 V]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SD_001.png|width=100%]] ||
+|| [[소드&실드 확장팩 세트 V]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 220 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ V{{{#!wiki style="float:right;"
+
+}}}}}}Venusaur V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''꽃가루폭탄''' 80
+상대의 배틀 포켓몬을 독과 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''솔라타이푼''' 220
+자신의 다음 차례에 이 포켓몬은 「솔라타이푼」을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 001/031 | [[소드&실드 확장팩 세트 V]] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_001.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''세레비&이상해꽃 [[파일:포케카 GXTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 270 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+セレビィ&フシギバナ GX{{{#!wiki style="float:right;"
+
+}}}}}}Celebi&Venusaur GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''위험한꽃가루''' 50
+상대의 배틀 포켓몬을 독과 화상과 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''솔라빔''' 150}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''에버그린 GX''' 180
+이 포켓몬의 HP를 모두 회복한다. [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지 1개가 추가로 붙어 있다면 자신의 트래쉬에 있는 카드를 모두 덱으로 되돌리고 섞는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_096.png|width=100%]] ||<width=50%> [[파일:SM9_097.png|width=100%]]||
+|| [[태그볼트]][br][include(틀:포케카 레어도/SR)] || [[태그볼트]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 001/095 | [[태그볼트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 096/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 097/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+=== [[리믹스바우트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11a_001.png|width=100%]] ||
+|| [[리믹스바우트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃&주리비얀 [[파일:포케카 GXTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 270 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ&ツタージャ GX{{{#!wiki style="float:right;"
+
+}}}}}}Venusaur&Snivy GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''빛나는덩굴'''}}}
+자신의 차례에 이 포켓몬이 배틀필드에 있다면 자신의 패에서 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지를 이 포켓몬에게 붙일 때마다 1번 사용할 수 있다. 상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''포레스트덤프''' 160}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''솔라플랜트GX''' 
+상대의 포켓몬 전원에게 각각 50데미지를 준다. 에너지 2개가 추가로 붙어 있다면 자신의 포켓몬 전원의 HP를 모두 회복한다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM11a_065.png|width=100%]] ||<width=50%> [[파일:SM11a_066.png|width=100%]]||
+|| [[리믹스바우트]][br][include(틀:포케카 레어도/SR)] || [[리믹스바우트]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 001/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 065/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 066/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/SR)] ||
+== A 레귤레이션 ==
+=== [[빛나는 전설]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3plus_003.png|width=100%]] ||
+|| [[빛나는 전설]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 160 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ{{{#!wiki style="float:right;"
+이상해풀에서 진화
+}}}}}}Venusaur
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''밀림의 주인'''}}}
+이 포켓몬이 있는 한, 자신의 필드의 포켓몬에게 붙어 있는 모든 기본 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지는 각각 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지 2개분으로 작용한다. 이효과는 이 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''솔라빔''' 90{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''큰 꽃잎을 펼쳐 햇빛을 받고 있으면 몸에 힘이 넘쳐흐른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8b_003.png|width=512px]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3PLUS.png|height=25]] | 003/072 | [[빛나는 전설]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 003/150 | [[GX 울트라샤이니]] ||
+== XY 시리즈 ==
+=== [[X컬렉션]] ===
+==== 이상해꽃 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_X_001.jpg|width=100%]] ||
+|| [[X컬렉션]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ EX{{{#!wiki style="float:right;"
+
+}}}}}}Venusaur EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''독가루''' 60
+상대의 배틀 포켓몬을 독으로 만든다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''정글해머''' 90
+이 포켓몬의 HP를 「30」회복한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP6_001.jpg|width=100%]] ||<width=50%> [[파일:CP6_101.jpg|width=100%]]||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/RR)] || [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 001/060 | [[X컬렉션]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 001/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 101/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/SR)] ||
+==== M이상해꽃 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_X_002.jpg|width=100%]] ||
+|| [[X컬렉션]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''[[파일:M_pkc.png|height=18px]]이상해꽃 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 230 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+Mフシギバナ EX{{{#!wiki style="float:right;"
+이상해꽃 EX에서 진화
+}}}}}}MVenusaur EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 EX | M진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''크라이시스 바인''' 120
+상대의 배틀 포켓몬을 독과 마비로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}M진화 : M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.
+EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP6_002.jpg|width=100%]] ||<width=50%> [[파일:CP6_102.jpg|width=100%]]||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/RR)] || [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 002/060 | [[X컬렉션]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 002/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 102/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/SR)] ||
+==== 이상해꽃 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_X_061.jpg|width=100%]] ||
+|| [[X컬렉션]][br][include(틀:포케카 레어도/SR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ EX{{{#!wiki style="float:right;"
+
+}}}}}}Venusaur EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''정글해머''' 60
+상대의 배틀 포켓몬을 독으로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 061/060 | [[X컬렉션]] | [include(틀:포케카 레어도/SR)] ||
+== BW 시리즈 ==
+=== [[다크러시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw4_003.jpg|width=100%]] ||
+|| [[다크러시]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ{{{#!wiki style="float:right;"
+이상해풀에서 진화
+}}}}}}Venusaur
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''꽃향기'''}}}
+자신의 덱에서 포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''독가루''' 70
+상대의 배틀 포켓몬을 독으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''비가 내린 다음 날은 등의 꽃향기가 강해진다. 향기에 이끌려 포켓몬이 모여든다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW4.png|height=25]] | 003/069 | [[다크러시]] | [include(틀:포케카 레어도/R)] ||
+== DP 시리즈 ==
+=== [[호수의 기적]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs9_ko_3.jpg|width=100%]] ||
+|| [[호수의 기적]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''이상해꽃'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+フシギバナ{{{#!wiki style="float:right;"
+이상해풀에서 진화
+}}}}}}Venusaur
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포켓파워.png|height=18px]] '''미라클 아로마'''}}}
+자신의 차례에 한 번 사용할 수 있다. 동전을 한 번 던져서 앞면이 나오면 독 화상 잠듦 중 한가지를 선택하여 상대의 배틀 포켓몬을 그 상태로 만든다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''자이언트 블룸''' 60
+동전을 한 번 던져서 앞면이 나오면 자신의 데미지 카운터를 4개 제거한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''비가 내린 다음 날은 등의 꽃향기가 강해진다. 향기에 이끌려 포켓몬이 모여든다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS9.png|height=25]] | 03/40 | [[호수의 기적]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/풀 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

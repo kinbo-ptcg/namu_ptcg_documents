@@ -1,0 +1,200 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0965_f00_s0.png|width=40]] 0965 [[부르롱/포켓몬 카드 게임|부르롱]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0966_f00_s0.png|width=40]] 0966 [[부르르룸/포켓몬 카드 게임|부르르룸]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0967_f00_s0.png|width=40]] 0967 [[모토마/포켓몬 카드 게임|모토마]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[스칼렛&바이올렛 「배틀 아카데미」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVI_043_L.png|width=100%]] ||
+|| [[스칼렛&바이올렛 「배틀 아카데미」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''우락부락대시''' 100{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVI.png|height=25]] | 043/066 | [[스칼렛&바이올렛 「배틀 아카데미」]] ||
+=== [[변환의 가면]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6_078.png|width=100%]] ||
+|| [[변환의 가면]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''반격하기''' 30+
+상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''내닫기''' 100×
+뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 100데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''배기음을 내어 거세게 위협한다. 원통형의 입을 통해 혀를 꺼내고는 독액을 흩뿌린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6.png|height=25]] | 078/101 | [[변환의 가면]] | [include(틀:포케카 레어도/U)] ||
+=== [[나이트 원더러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6a_015.png|width=100%]] ||
+|| [[나이트 원더러]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 280 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム ex{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  테라스탈 '''테라스탈'''}}}
+이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''액셀플래시''' 20+
+이 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔다면 120데미지를 추가한다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''스피드 브레이크''' 250
+이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV6a_078.png|width=512px]] ||
+|| [[나이트 원더러]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6A.png|height=25]] | 015/064 | [[나이트 원더러]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6A.png|height=25]] | 078/064 | [[나이트 원더러]] | [include(틀:포케카 레어도/SR)] ||
+== G 레귤레이션 ==
+=== [[스칼렛ex]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1S_061.png|width=100%]] ||
+|| [[스칼렛ex]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''럼블엔진'''}}}
+자신의 차례에 자신의 패에서 에너지를 1장 트래쉬한다면 1번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''띄워날리기''' 90+
+동전을 1번 던져서 앞면이 나오면 90데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SVD_087.png|width=100%]] ||<width=50%> [[파일:SV4a_131.png|width=100%]]||
+|| [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff> [[파일:SV4a_301.png|width=100%]] ||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV1S.png|height=25]] | 061/078 | [[스칼렛ex]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 087/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 131/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 301/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_085.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 280 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム ex{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''튠 업'''}}}
+이 포켓몬은 「포켓몬의 도구」를 4장까지 붙일 수 있다. (이 [[파일:포케카 특성.png|height=18px]]이 없어졌을 때 자신은 「포켓몬의 도구」를 1장이 되도록 트래쉬한다.)
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''와일드 드리프트''' 170
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV3_127.png|width=100%]] ||<width=50%> [[파일:SV3_135.png|width=100%]]||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/SR)] || [[흑염의 지배자]][br][include(틀:포케카 레어도/SAR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 085/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 127/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 135/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/SAR)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV-P_047.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부르르룸'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブロロローム{{{#!wiki style="float:right;"
+부르롱에서 진화
+}}}}}}Revavroom
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''뽐내기''' 
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''휴지태클''' 70+
+자신의 패의 장수가 상대의 패의 장수보다 많다면 80데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''독소와 바위 성분이 섞인 가스를 8개로 늘어난 실린더에서 폭발시켜 에너지를 만들어 낸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:PROMO.png|height=25]] | 047/SV-P | [[unknown]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/9세대]][[분류:포켓몬 카드 게임/강철 타입]][[분류:포켓몬 카드 게임/번개 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,168 @@
+[
+    {
+        "id": "SV5K-053",
+        "cardID": "날뛰드240터뜨000극뇌070",
+        "name": "날뛰는우레 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex",
+            "고대"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 240,
+        "pokemons": [
+            {
+                "name": "날뛰는우레",
+                "pokedexNumber": 1021
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "터뜨린포효",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다."
+            },
+            {
+                "name": "극뇌굉",
+                "cost": "(번개)(격투)",
+                "damage": "70×",
+                "text": "자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 원하는 만큼 트래쉬하고 그 장수 × 70데미지를 준다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "053",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "aky CG Works",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_053.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004053",
+                "regu": "H",
+                "debug": "1"
+            },
+            {
+                "number": "089",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "aky CG Works",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004089",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "095",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "Teeziro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_095.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004095",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "100",
+                "prodNumber": "071",
+                "prodCode": "SV5K",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV5K.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「와일드포스」",
+                "artist": "aky CG Works",
+                "rarity": "UR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV5K/SV5K_100.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024004100",
+                "regu": "H",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV7-075",
+        "cardID": "날뛰드130낙뢰000드래130",
+        "name": "날뛰는우레",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "고대"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "날뛰는우레",
+                "pokedexNumber": 1021
+            }
+        ],
+        "type": "(드래곤)",
+        "attacks": [
+            {
+                "name": "낙뢰폭풍",
+                "cost": "(번개)(격투)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 이 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            },
+            {
+                "name": "드래곤헤드",
+                "cost": "(번개)(격투)(무색)",
+                "damage": "130",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "",
+            "value": "--"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "털에서 나오는 벼락으로 주변을 모조리 태워 버린다고 전해진다. 자세한 정보는 밝혀진 것이 없다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "075",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "kodama",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_075.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012075",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    }
+]

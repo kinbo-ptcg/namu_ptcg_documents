@@ -1,0 +1,138 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0824_f00_s0.png|width=40]] 0824 [[두루지벌레/포켓몬 카드 게임|두루지벌레]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0825_f00_s0.png|width=40]] 0825 [[레돔벌레/포켓몬 카드 게임|레돔벌레]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0826_f00_s0.png|width=40]] 0826 [[이올브/포켓몬 카드 게임|이올브]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[미래의 일섬]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_004.png|width=100%]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레돔벌레'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レドームシ{{{#!wiki style="float:right;"
+두루지벌레에서 진화
+}}}}}}Dottler
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''방어''' 
+동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''사념의박치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_067.png|width=512px]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 004/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 067/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/AR)] ||
+== F 레귤레이션 ==
+=== [[스페이스 저글러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10P_009.png|width=100%]] ||
+|| [[스페이스 저글러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레돔벌레'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レドームシ{{{#!wiki style="float:right;"
+두루지벌레에서 진화
+}}}}}}Dottler
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''배리어어택''' 30
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''거의 움직이지 않지만 살아 있다. 식음을 전폐하고 껍질에 은둔하는 동안 초능력에 눈을 뜬 모양이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10P.png|height=25]] | 009/067 | [[스페이스 저글러]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[연격마스터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5R_037.png|width=100%]] ||
+|| [[연격마스터]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레돔벌레'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レドームシ{{{#!wiki style="float:right;"
+두루지벌레에서 진화
+}}}}}}Dottler
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''레이더''' 
+자신의 덱을 위에서부터 4장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''부딪치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_078.png|width=512px]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 037/070 | [[연격마스터]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 078/184 | [[VMAX 클라이맥스]] ||
+== D 레귤레이션 ==
+=== [[실드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1H_002.png|width=100%]] ||
+|| [[실드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레돔벌레'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レドームシ{{{#!wiki style="float:right;"
+두루지벌레에서 진화
+}}}}}}Dottler
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리플렉터''' 
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-40」이 된다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''부딪치기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍질 안에서 성장 중이다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_012.png|width=100%]] ||<width=50%> [[파일:S4a_207.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1H.png|height=25]] | 002/060 | [[실드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 012/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 207/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/풀 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

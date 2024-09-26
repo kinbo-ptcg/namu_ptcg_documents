@@ -1,0 +1,234 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0801_f00_s0.png|width=40]] 0801 [[마기아나/포켓몬 카드 게임|마기아나]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0802_f00_s0.png|width=40]] 0802 [[마샤도/포켓몬 카드 게임|마샤도]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0803_f00_s0.png|width=40]] 0803 [[베베놈/포켓몬 카드 게임|베베놈]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== E 레귤레이션 ==
+=== [[이브이 히어로즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6a_044.png|width=100%]] ||
+|| [[이브이 히어로즈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''래피드헌트''' 
+자신의 덱에서 「연격」의 카드를 2장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도플리커''' 10
+자신의 다음 차례에 이 기술을 받은 포켓몬이 기절했을 때 프라이즈를 1장 더 가져온다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람이나 포켓몬의 그림자 속에 숨는다. 숨은 상대의 마음을 이해하고 능력을 복사한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 044/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/R)] ||
+== C 레귤레이션 ==
+=== [[나이트유니슨]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_020.png|width=100%]] ||
+|| [[나이트유니슨]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''리셋홀'''}}}
+이 포켓몬이 벤치에 있다면 자신의 차례에 1번 사용할 수 있다. 필드에 나와 있는 스타디움을 트래쉬한다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 트래쉬한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''레드너클''' 10+
+상대의 배틀 포켓몬이 「울트라비스트」라면 60데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''상대 그림자에 숨어들어 움직임이나 능력을 흉내 낸다. 그러다가 진짜보다 강해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_064.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9A.png|height=25]] | 020/055 | [[나이트유니슨]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 064/173 | [[태그올스타즈]] ||
+=== [[더블블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_042.png|width=100%]] ||
+|| [[더블블레이즈]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도&괴력몬 [[파일:포케카 GXTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 270 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー&カイリキー GX{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow&Machamp GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리벤지''' 30+
+상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''백열임팩트''' 160}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''진정한호걸GX''' 200
+에너지 1개가 추가로 붙어 있다면 상대의 다음 차례에 이 포켓몬이 기술의 데미지를 받아 기절할 때 이 포켓몬은 기절하지 않고 남은 HP가 「10」인 상태로 필드에 남는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10_100.png|width=100%]] ||<width=50%> [[파일:SM10_101.png|width=100%]]||
+|| [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] ||
+||<rowbgcolor=#ffffff> [[파일:SM12a_067.png|width=100%]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 042/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 100/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 101/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 067/173 | [[태그올스타즈]] | [include(틀:포케카 레어도/RR)] ||
+=== [[리믹스바우트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11a_030.png|width=100%]] ||
+|| [[리믹스바우트]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''그림자흉내''' 
+상대의 배틀 포켓몬이 가지고 있는 기술(GX기술 제외)을 1개 선택해서 이 기술로써 사용한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''상대 그림자에 숨어들어 움직임이나 능력을 흉내 낸다. 그러다가 진짜보다 강해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 030/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/U)] ||
+== A 레귤레이션 ==
+=== [[빛을 삼킨 어둠]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3N_033.png|width=100%]] ||
+|| [[빛을 삼킨 어둠]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도 [[파일:포케카 GX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー GX{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''섀도헌트'''}}}
+이 포켓몬은 자신의 트래쉬에 있는 기본 포켓몬이 가지고 있는 기술을 모두 사용할 수 있다. (기술을 사용하기 위한 에너지는 필요하다.)
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''정권찌르기''' 120}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''백열무쌍 GX''' 50×
+이 포켓몬에게 붙어 있는 기본 에너지의 개수 × 50데미지를 준다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_054.png|width=100%]] ||<width=50%> [[파일:SM8b_064.png|width=100%]]||
+|| [[빛을 삼킨 어둠]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3N.png|height=25]] | 033/051 | [[빛을 삼킨 어둠]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3N.png|height=25]] | 054/051 | [[빛을 삼킨 어둠]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 064/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/RR)] ||
+=== [[빛나는 전설]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3plus_046.png|width=100%]] ||
+|| [[빛나는 전설]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''피장파장'''}}}
+자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 4장 뽑는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도펀치''' 30
+이 기술의 데미지는 저항력 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그림자 안에 숨어 들을 수 있어 사람들 앞에 모습을 보이지 않아 그 존재는 환상이었다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8b_050.png|width=512px]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3PLUS.png|height=25]] | 046/072 | [[빛나는 전설]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 050/150 | [[GX 울트라샤이니]] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP_103.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''마샤도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+マーシャドー{{{#!wiki style="float:right;"
+
+}}}}}}Marshadow
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''피장파장'''}}}
+자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 플레이어는 각각 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 4장 뽑는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도펀치''' 10+
+이 기술의 데미지는 저항력 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그림자 안에 숨어 들을 수 있어 사람들 앞에 모습을 보이지 않아 그 존재는 환상이었다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:PROMO.png|height=25]] | 078/SM-P | [[unknown]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/7세대]][[분류:포켓몬 카드 게임/초 타입]][[분류:포켓몬 카드 게임/격투 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

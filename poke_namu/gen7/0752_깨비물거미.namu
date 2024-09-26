@@ -1,0 +1,247 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0751_f00_s0.png|width=40]] 0751 [[물거미/포켓몬 카드 게임|물거미]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0752_f00_s0.png|width=40]] 0752 [[깨비물거미/포켓몬 카드 게임|깨비물거미]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0753_f00_s0.png|width=40]] 0753 [[짜랑랑/포켓몬 카드 게임|짜랑랑]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== F 레귤레이션 ==
+=== [[로스트어비스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11_032.png|width=100%]] ||
+|| [[로스트어비스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''빠뜨리는구슬''' 20
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다. 그리고 그 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''머리박치기''' 60{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''다리로 수포를 날려서 먹이를 감싼 다음 익사시킨다. 그리고는 시간을 들여 천천히 음미한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 032/100 | [[로스트어비스]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[이브이 히어로즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6a_008.png|width=100%]] ||
+|| [[이브이 히어로즈]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''벌레먹음''' 30
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거품방울 날리기''' 110
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐준다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_031.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 008/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 031/414 | [[소드&실드 스타트 덱 100]] ||
+== C 레귤레이션 ==
+=== [[미라클트윈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_019.png|width=100%]] ||
+|| [[미라클트윈]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''감아서 잡아끌기''' 
+상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''끈적끈적네트''' 80
+상대의 다음 차례에 이 기술을 받은 포켓몬은 기술에 필요한 에너지와 후퇴에 필요한 에너지가 각각 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] 에너지 1개만큼 많아진다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''평소에는 물 안에서 지낸다. 배가 부를 때는 숨통을 끊은 먹이를 머리의 수포에 넣어 둔다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11.png|height=25]] | 019/094 | [[미라클트윈]] | [include(틀:포케카 레어도/U)] ||
+=== [[드림리그(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11b_015.png|width=100%]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''헤드 스트라이크''' 40
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아쿠아브레이크''' 80
+자신의 다음 차례에 이 기술을 받은 포켓몬이 받는 기술의 데미지는 「+60」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''평소에는 물 안에서 지낸다. 배가 부를 때는 숨통을 끊은 먹이를 머리의 수포에 넣어 둔다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 015/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[울트라포스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5plus_012.png|width=100%]] ||
+|| [[울트라포스]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''거품''' 30
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''버블트랩''' 40+
+자신의 이전 차례에 자신의 포켓몬이 「거품」을 사용했다면 80데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM5plus_067.png|width=512px]] ||
+|| [[울트라포스]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5PLUS.png|height=25]] | 012/050 | [[울트라포스]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5PLUS.png|height=25]] | 012/050 | [[울트라포스]] ||
+== A 레귤레이션 ==
+=== [[썬 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1S_019.png|width=100%]] ||
+|| [[썬 컬렉션]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''수포'''}}}
+이 포켓몬은 상대의 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 포켓몬으로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아쿠아에지''' 70{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''두부의 수포로 박치기한다. 작은 포켓몬이라면 그대로 수포에 싸여 익사한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_018.png|width=100%]] ||<width=50%> [[파일:SM1plus_073.png|width=100%]]||
+|| [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1S.png|height=25]] | 019/060 | [[썬 컬렉션]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1PLUS.png|height=25]] | 018/051 | [[썬&문(포켓몬 카드 게임)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1PLUS.png|height=25]] | 018/051 | [[썬&문(포켓몬 카드 게임)]] ||
+=== [[어둠을 밝힌 무지개]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3H_008.png|width=100%]] ||
+|| [[어둠을 밝힌 무지개]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''버블네트''' 30
+상대의 다음 차례에 이 기술을 받은 포켓몬은 패에서 에너지를 꺼내서 붙일 수 없다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''예리한이빨''' 80{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''두부의 수포로 박치기한다. 작은 포켓몬이라면 그대로 수포에 싸여 익사한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3H.png|height=25]] | 008/051 | [[어둠을 밝힌 무지개]] | [include(틀:포케카 레어도/U)] ||
+=== [[GX 배틀부스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4plus_005.png|width=100%]] ||
+|| [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''깨비물거미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+オニシズクモ{{{#!wiki style="float:right;"
+물거미에서 진화
+}}}}}}Araquanid
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''수포'''}}}
+이 포켓몬은 상대의 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 포켓몬으로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아쿠아에지''' 70{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''두부의 수포로 박치기한다. 작은 포켓몬이라면 그대로 수포에 싸여 익사한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 005/114 | [[GX 배틀부스트]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 005/114 | [[GX 배틀부스트]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/7세대]][[분류:포켓몬 카드 게임/물 타입]][[분류:포켓몬 카드 게임/풀 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

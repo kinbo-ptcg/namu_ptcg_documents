@@ -1,0 +1,251 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0288_f00_s0.png|width=40]] 0288 [[발바로/포켓몬 카드 게임|발바로]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0289_f00_s0.png|width=40]] 0289 [[게을킹/포켓몬 카드 게임|게을킹]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0290_f00_s0.png|width=40]] 0290 [[토중몬/포켓몬 카드 게임|토중몬]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[스노해저드]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2P_062.png|width=100%]] ||
+|| [[스노해저드]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''다시자기'''}}}
+포켓몬 체크 때 이 포켓몬의 잠듦으로 던지는 동전은 2번이 되며, 모두 앞면이 나오지 않으면 회복되지 않는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''꾸물 헤드 스트라이크''' 240
+이 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으르지만 쌓인 에너지를 한 번에 표출하면 무서울 정도의 파워를 발휘한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2P.png|height=25]] | 062/071 | [[스노해저드]] | [include(틀:포케카 레어도/R)] ||
+== F 레귤레이션 ==
+=== [[Pokémon Go]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_059.png|width=100%]] ||
+|| [[Pokémon Go]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 230 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング V{{{#!wiki style="float:right;"
+
+}}}}}}Slaking V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''게으른 버릇'''}}}
+자신의 남은 프라이즈 장수가 6장・4장・2장이라면 이 포켓몬은 기술을 사용할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''헤비임팩트''' 260}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S10b_079.png|width=512px]] ||
+|| [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10B.png|height=25]] | 059/071 | [[Pokémon Go]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10B.png|height=25]] | 079/071 | [[Pokémon Go]] | [include(틀:포케카 레어도/SR)] ||
+== E 레귤레이션 ==
+=== [[마천퍼펙트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7D_052.png|width=100%]] ||
+|| [[마천퍼펙트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬 | [[파일:일격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''설치기'''}}}
+필드에 스타디움이 나와 있다면 이 포켓몬은 기술을 사용할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''차서흩뜨리기''' 120+
+상대의 벤치 포켓몬의 수 × 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으르지만 쌓인 에너지를 한 번에 내면 무서울 정도의 파워를 발휘한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_346.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 052/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 346/414 | [[소드&실드 스타트 덱 100]] ||
+== C 레귤레이션 ==
+=== [[명탐정 피카츄(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_024.png|width=100%]] ||
+|| [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''던져버리기''' 150
+상대의 배틀 포켓몬을 벤치 포켓몬과 교체한다. (배틀필드로 내보낼 포켓몬은 상대가 선택한다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으른 포켓몬이다. 손이 닿는 범위의 먹이를 다 먹으면 있는 거처를 바꾼다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_024.png|width=512px]] ||
+|| [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMP2.png|height=25]] | 024/024 | [[명탐정 피카츄(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMP2.png|height=25]] | 024/024 | [[명탐정 피카츄(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+=== [[미라클트윈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_076.png|width=100%]] ||
+|| [[미라클트윈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''반격'''}}}
+이 포켓몬이 배틀필드에서 상대의 포켓몬으로부터 기술의 데미지를 받았을 때 기술을 사용한 포켓몬에게 데미지 카운터를 4개 올린다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다이내믹스윙''' 100+
+원한다면 100데미지를 추가한다. 그 경우 상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「+100」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으른 포켓몬이다. 손이 닿는 범위의 먹이를 다 먹으면 있는 거처를 바꾼다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11.png|height=25]] | 076/094 | [[미라클트윈]] | [include(틀:포케카 레어도/R)] ||
+== B 레귤레이션 ==
+=== [[챔피언로드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6B_051.png|width=100%]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 160 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''태만한얼굴'''}}}
+이 포켓몬이 배틀필드에 있는 한, 상대 필드의 포켓몬의 [[파일:포케카 특성.png|height=18px]](「태만한얼굴」은 제외)은 모두 없어진다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파멸의일격''' 160
+이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으르지만 쌓인 에너지를 한 번에 내면 무서울 정도의 파워를 발휘한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 051/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+== XY 시리즈 ==
+=== [[라이징피스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY3_078.jpg|width=100%]] ||
+|| [[라이징피스트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''망각술''' 50
+상대의 배틀 포켓몬이 가지고 있는 기술을 1개 선택한다. 상대의 다음 차례에 이 기술을 받은 포켓몬은 선택된 기술을 사용할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''묵펀치''' 120
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으른 포켓몬이다. 손이 닿는 범위의 먹이를 다 먹으면 있는 거처를 바꾼다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY3.png|height=25]] | 078/096 | [[라이징피스트]] | [include(틀:포케카 레어도/R)] ||
+== BW 시리즈 ==
+=== [[드래곤 블레이드(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw5_blade_043.jpg|width=100%]] ||
+|| [[드래곤 블레이드(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''게을킹'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ケッキング{{{#!wiki style="float:right;"
+발바로에서 진화
+}}}}}}Slaking
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''얼렁뚱땅'''}}}
+상대의 배틀필드에 기본 포켓몬이 있다면 이 포켓몬은 기술을 사용할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파괴의일격''' 
+상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''세계에서 제일 게으른 포켓몬이다. 누워 뒹굴기만 하는 것처럼 보여도 반격할 파워를 모으는 중이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW5E.png|height=25]] | 043/050 | [[드래곤 블레이드(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/3세대]][[분류:포켓몬 카드 게임/무색 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

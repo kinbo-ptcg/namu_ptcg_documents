@@ -1,0 +1,110 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0904_f00_s0.png|width=40]] 0904 [[장침바루/포켓몬 카드 게임|장침바루]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0905_f00_s0.png|width=40]] 0905 [[러브로스/포켓몬 카드 게임|러브로스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0906_f00_s0.png|width=40]] 0906 [[나오하/포켓몬 카드 게임|나오하]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[크림슨헤이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5a_039.png|width=100%]] ||
+|| [[크림슨헤이즈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''러브로스'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ラブトロス{{{#!wiki style="float:right;"
+
+}}}}}}Enamorus
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''하트사인''' 30
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''러브레저넌스''' 80+
+자신의 필드에 상대 필드의 포켓몬과 같은 타입의 포켓몬이 있다면 120데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5a_074.png|width=512px]] ||
+|| [[크림슨헤이즈]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5A.png|height=25]] | 039/066 | [[크림슨헤이즈]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5A.png|height=25]] | 074/066 | [[크림슨헤이즈]] | [include(틀:포케카 레어도/AR)] ||
+== F 레귤레이션 ==
+=== [[다크판타스마]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_031.png|width=100%]] ||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''러브로스 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ラブトロス V{{{#!wiki style="float:right;"
+
+}}}}}}Enamorus V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''사랑의 수호신'''}}}
+이 포켓몬이 있는 한, [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지가 붙어 있는 자신의 포켓몬(「러브로스 V」는 제외) 전원은 상대의 포켓몬으로부터 [[파일:포케카 특성.png|height=18px]]의 효과를 받지 않는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''블로섬테일''' 100
+자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬에게 원하는 대로 붙인다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_080.png|width=100%]] ||<width=50%> [[파일:S10a_088.png|width=100%]]||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/SR)] || [[다크판타스마]][br][include(틀:포케카 레어도/CSR)] ||
+||<rowbgcolor=#ffffff> [[파일:S12a_068.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 031/071 | [[다크판타스마]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 080/071 | [[다크판타스마]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 088/071 | [[다크판타스마]] | [include(틀:포케카 레어도/CSR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 068/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RR)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_179.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''러브로스'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ラブトロス{{{#!wiki style="float:right;"
+
+}}}}}}Enamorus
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''드레인키스''' 20
+이 포켓몬의 HP를 「20」회복한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''러브심퍼시''' 70+
+자신의 패와 상대의 패가 같은 장수라면 70데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''바다를 건너 날아와 혹독한 겨울의 끝을 알린다. 자애로움이 히스이 땅에 새로운 생명을 싹틔우게 했다는 전승이 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 179/S-P | [[unknown]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

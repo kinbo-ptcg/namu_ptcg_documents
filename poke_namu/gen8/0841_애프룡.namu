@@ -1,0 +1,141 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0840_f00_s0.png|width=40]] 0840 [[과사삭벌레/포켓몬 카드 게임|과사삭벌레]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0841_f00_s0.png|width=40]] 0841 [[애프룡/포켓몬 카드 게임|애프룡]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0842_f00_s0.png|width=40]] 0842 [[단지래플/포켓몬 카드 게임|단지래플]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== E 레귤레이션 ==
+=== [[일격마스터]] ===
+==== 애프룡 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_007.png|width=100%]] ||
+|| [[일격마스터]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''애프룡 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 190 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アップリュー V{{{#!wiki style="float:right;"
+
+}}}}}}Flapple V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''새콤한타액''' 20
+상대의 다음 차례에 이 기술을 받은 포켓몬은 기술을 사용하기 위한 에너지가 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] 에너지 2개만큼 많아진다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''날개치기''' 120}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5I_071.png|width=100%]] ||<width=50%> [[파일:SI_041.png|width=100%]]||
+|| [[일격마스터]][br][include(틀:포케카 레어도/SR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 007/070 | [[일격마스터]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 071/070 | [[일격마스터]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 041/414 | [[소드&실드 스타트 덱 100]] ||
+==== 애프룡 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_008.png|width=100%]] ||
+|| [[일격마스터]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''애프룡 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アップリュー VMAX{{{#!wiki style="float:right;"
+애프룡 V에서 진화
+}}}}}}Flapple VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거다이롤링''' 250-
+이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지만큼 이 기술의 데미지는 작아진다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 008/070 | [[일격마스터]] | [include(틀:포케카 레어도/RRR)] ||
+=== [[창공스트림]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7R_050.png|width=100%]] ||
+|| [[창공스트림]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#818D41; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''애프룡'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アップリュー{{{#!wiki style="float:right;"
+과사삭벌레에서 진화
+}}}}}}Flapple
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''강산점액''' 50×
+상대 필드의 특성을 가진 포켓몬의 수 × 50데미지를 준다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''투지의태클''' 80+
+상대의 배틀 포켓몬이 「포켓몬 V」라면 80데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사과 껍질로 된 날개로 날며 강산성의 타액을 뱉는다. 사과의 형태로 변형한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 050/067 | [[창공스트림]] | [include(틀:포케카 레어도/U)] ||
+== D 레귤레이션 ==
+=== [[반역크래시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2_012.png|width=100%]] ||
+|| [[반역크래시]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''애프룡'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アップリュー{{{#!wiki style="float:right;"
+과사삭벌레에서 진화
+}}}}}}Flapple
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''애플드롭'''}}}
+자신의 차례에 1번 사용할 수 있다. 상대의 포켓몬 1마리에게 데미지 카운터를 2개 올린다. 그 뒤, 이 포켓몬과 붙어 있는 모든 카드를 자신의 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''애시드봄''' 60
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''새콤한 사과를 먹고 진화했다. 화상을 입을 정도로 강한 산성을 띠는 액체를 볼주머니에 저장하고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_018.png|width=100%]] ||<width=50%> [[파일:S4a_212.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_013.png|width=100%]] ||<width=50%> [[파일:S8b_186.png|width=100%]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CHR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2.png|height=25]] | 012/096 | [[반역크래시]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 018/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 212/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 013/184 | [[VMAX 클라이맥스]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 186/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CHR)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/풀 타입]][[분류:포켓몬 카드 게임/드래곤 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

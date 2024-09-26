@@ -1,0 +1,594 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0491_f00_s0.png|width=40]] 0491 [[다크라이/포켓몬 카드 게임|다크라이]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0492_f00_s0.png|width=40]] 0492 [[쉐이미/포켓몬 카드 게임|쉐이미]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0493_f00_s0.png|width=40]] 0493 [[아르세우스/포켓몬 카드 게임|아르세우스]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[와일드포스(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_006.png|width=100%]] ||
+|| [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''핀포인트 다이브''' 
+상대 벤치의 「포켓몬 ex・V」 1마리에게 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''뒤로 차기''' 50{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''대기의 독소를 분해해서 거칠어진 대지를 일순간에 꽃밭으로 만드는 힘을 가지고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5K.png|height=25]] | 006/071 | [[와일드포스(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
+== F 레귤레이션 ==
+=== [[스타버스]] ===
+==== 쉐이미 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_012.png|width=100%]] ||
+|| [[스타버스]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 190 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ V{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''홰치기''' 30
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리벤지버스트''' 60+
+상대가 이미 가져간 프라이즈의 장수 × 40데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9_101.png|width=100%]] ||<width=50%> [[파일:S-P_158.png|width=100%]]||
+|| [[스타버스]][br][include(틀:포케카 레어도/SR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 012/100 | [[스타버스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 101/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 158/S-P | [[unknown]] ||
+==== 쉐이미 VSTAR ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_013.png|width=100%]] ||
+|| [[스타버스]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 VSTAR.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 250 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ VSTAR{{{#!wiki style="float:right;"
+쉐이미 V에서 진화
+}}}}}}Shaymin VSTAR
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VSTAR | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리벤지버스트''' 120+
+상대가 이미 가져간 프라이즈의 장수 × 40데미지를 추가한다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
+'''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''스타블룸'''}}}
+자신의 차례에 사용할 수 있다. 자신의 벤치의 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 포켓몬 전원의 HP를 각각 「120」회복한다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VSTAR 룰 : 포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S9_117.png|width=512px]] ||
+|| [[스타버스]][br][include(틀:포케카 레어도/HR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 013/100 | [[스타버스]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 117/100 | [[스타버스]] | [include(틀:포케카 레어도/HR)] ||
+=== [[타임 게이저]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10D_004.png|width=100%]] ||
+|| [[타임 게이저]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''해맑은기프트''' 
+이 기술은 후공 플레이어의 첫 차례에만 사용할 수 있다. 자신의 덱에서 원하는 카드를 3장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''돌아다니며 뛰기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''엄동설한의 계절이 끝난 것에 기뻐하여 하늘에 감사를 드릴 때, 이 포켓몬이 나타나 말라 버린 대지를 꽃으로 가득 채운다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10D.png|height=25]] | 004/067 | [[타임 게이저]] | [include(틀:포케카 레어도/U)] ||
+=== [[패러다임트리거]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_081.png|width=100%]] ||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''꽃줍기''' 
+자신의 트래쉬에서 에너지를 2장까지 선택해서 상대에게 보여주고 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''뒤로 차기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S-P_189.png|width=512px]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 081/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 189/S-P | [[unknown]] ||
+== E 레귤레이션 ==
+=== [[쌍벽의 파이터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5a_057.png|width=100%]] ||
+|| [[쌍벽의 파이터]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''은혜갚기''' 10
+원한다면 자신의 패가 6장이 되도록 덱을 뽑는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스카이리턴''' 30
+이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_348.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 057/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 348/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[전설의 고동]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3a_010.png|width=100%]] ||
+|| [[전설의 고동]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''씨뿌리기''' 20
+이 포켓몬의 HP를 「20」회복한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''꽃배달''' 
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬과 붙어 있는 모든 카드를 모두 뒷면으로 하여 섞고 상대의 덱의 아래로 되돌린다. {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S3A.png|height=25]] | 010/076 | [[전설의 고동]] | [include(틀:포케카 레어도/R)] ||
+== B 레귤레이션 ==
+=== [[울트라문(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5M_049.png|width=100%]] ||
+|| [[울트라문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''동료부르기''' 
+자신의 덱에 있는 기본 포켓몬을 2장까지 벤치로 내보낸다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''활공''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM60B_010.png|width=100%]] ||<width=50%> [[파일:SMI_020.png|width=100%]]||
+|| [[썬&문 전격 스타터 세트 「라이코 GX」]][br][include(틀:포케카 레어도/N)] || [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5M.png|height=25]] | 049/066 | [[울트라문(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM60B.png|height=25]] | 010/022 | [[썬&문 전격 스타터 세트 「라이코 GX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SMI.png|height=25]] | 020/038 | [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]] ||
+=== [[울트라썬(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5S_014.png|width=100%]] ||
+|| [[울트라썬(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''손짓''' 
+자신의 덱에 있는 각각 다른 타입의 기본 포켓몬을 3장까지 벤치로 내보낸다. 그리고 덱을 섞는다. 
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아로마슬립''' 30
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5S.png|height=25]] | 014/066 | [[울트라썬(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+=== [[페어리라이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7B_013.png|width=100%]] ||
+|| [[페어리라이즈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''플로럴힐'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 배틀필드의 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 포켓몬의 HP를 「20」회복한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''부딪치기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7B.png|height=25]] | 013/050 | [[페어리라이즈]] | [include(틀:포케카 레어도/R)] ||
+=== [[GX 울트라샤이니]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8b_006.png|width=100%]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/PR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:프리즘스타.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ ◇{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin ◇
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 프리즘스타  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''플라워스톰''' 30×
+자신의 필드의 포켓몬에게 붙어 있는 기본 에너지의 개수 × 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}프리즘스타	룰 : 같은 이름의 ◇ (프리즘스타) 의 카드는 덱에 1장만 넣을 수 있다. 트래쉬가 아닌 로스트존에 둔다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_011.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/PR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 006/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/PR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM12A.png|height=25]] | 011/173 | [[태그올스타즈]] | [include(틀:포케카 레어도/PR)] ||
+== A 레귤레이션 ==
+=== [[빛나는 전설]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3plus_008.png|width=100%]] ||
+|| [[빛나는 전설]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''파닥파닥''' 
+자신의 패를 모두 덱으로 되돌리고 섞는다. 그 뒤, 덱을 6장 뽑는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''반격하기''' 30+
+상대의 이전 차례에 기술의 데미지로 자신의 포켓몬이 기절했다면 90데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''대기의 독소를 분해해서 거칠어진 대지를 일순간에 꽃밭으로 만드는 힘을 가지고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3PLUS.png|height=25]] | 008/072 | [[빛나는 전설]] | [include(틀:포케카 레어도/R)] ||
+== XY 시리즈 ==
+=== [[에메랄드 브레이크]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY6_063.jpg|width=100%]] ||
+|| [[에메랄드 브레이크]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ EX{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''세트업'''}}}
+이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 패가 6장이 되도록 덱을 뽑는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스카이리턴''' 30
+이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY6_087.jpg|width=100%]] ||<width=50%> [[파일:CP4_098.jpg|width=100%]]||
+|| [[에메랄드 브레이크]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff> [[파일:SMXY_106.png|width=100%]] ||
+|| [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY6.png|height=25]] | 063/078 | [[에메랄드 브레이크]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY6.png|height=25]] | 087/078 | [[에메랄드 브레이크]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 098/131 | [[프리미엄 챔피언팩]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 106/171 | [[THE BEST OF XY]] ||
+=== [[환상 전설 드림 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP5_003.jpg|width=100%]] ||
+|| [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아로마테라피''' 
+자신의 포켓몬 전원의 HP를 각각 「30」회복한다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메지컬리프''' 40+
+동전을 한 번 던져서 앞면이 나오면 20데미지를 추가하고 이 포켓몬의 HP를 「20」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그라시데아꽃이 피는 계절에 감사의 마음을 전하기 위해 날아오른다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP5_004.jpg|width=512px]] ||
+|| [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/U)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP5.png|height=25]] | 003/036 | [[환상 전설 드림 컬렉션]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP5.png|height=25]] | 004/036 | [[환상 전설 드림 컬렉션]] | [include(틀:포케카 레어도/U)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_146.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ EX{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''감사의향기'''}}}
+자신의 벤치의 기본 포켓몬 전원의 HP를 각각 「20」회복한다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''플라워게인''' 60
+이 포켓몬의 HP를 「20」회복하고 특수 상태를 모두 회복한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 146/XY-P | [[unknown]] ||
+== BW 시리즈 ==
+=== [[사이코 드라이브]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw3_pd_005.jpg|width=100%]] ||
+|| [[사이코 드라이브]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ EX{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''광합성''' 
+자신의 덱에서 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리벤지버스트''' 30+
+상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw3_pd_053.jpg|width=512px]] ||
+|| [[사이코 드라이브]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3P.png|height=25]] | 005/052 | [[사이코 드라이브]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3P.png|height=25]] | 053/052 | [[사이코 드라이브]] | [include(틀:포케카 레어도/SR)] ||
+=== [[샤이니 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:sc_021.jpg|width=100%]] ||
+|| [[샤이니 컬렉션]][br][include(틀:포케카 레어도/SR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ EX{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''광합성''' 
+자신의 덱에서 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지를 1장 선택해서 자신의 포켓몬에게 붙인다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리벤지버스트''' 
+상대가 이미 가져간 프라이즈의 장수 × 30데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SC.png|height=25]] | 021/025 | [[샤이니 컬렉션]] | [include(틀:포케카 레어도/SR)] ||
+== DP 시리즈 ==
+=== [[화려한 전설]] ===
+==== 쉐이미 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs8_ko_8.jpg|width=100%]] ||
+|| [[화려한 전설]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ{{{#!wiki style="float:right;"
+
+}}}}}}Shaymin
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''플라워 아로마''' 10
+자신의 데미지 카운터를 2개 제거하고 상대를 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''데미지 에이드''' 30+
+상대가 특수 상태라면 50데미지를 추가한다. 그 뒤 상대의 특수 상태를 모두 회복시킨다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''꽃밭 속에서 살고 있지만 몸을 웅크리면 꽃처럼 보이기 때문에 누구도 눈치 채지 못한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS8.png|height=25]] | 08/40 | [[화려한 전설]] | [include(틀:포케카 레어도/R)] ||
+==== 쉐이미 LV.X ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs8_ko_9.jpg|width=100%]] ||
+|| [[화려한 전설]][br][include(틀:포케카 레어도/HR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''쉐이미 LV.X'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+シェイミ LV.X{{{#!wiki style="float:right;"
+쉐이미에서 진화
+}}}}}}Shaymin LV.X
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+레벨업  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포켓바디.png|height=18px]] '''감사의 마음'''}}}
+자신의 필드에 있는 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 포켓몬 전원(「쉐이미」는 제외)의 최대 HP는 각각 「40」씩 커진다. 자신의 필드에서 이미 다른 「감사의 마음」이 작용하고 있다면 이 [[파일:포켓바디.png|height=18px]]는 작용하지 않는다.
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''시드플레어''' 40+
+원한다면 자신의 패에 있는 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙여도 좋다. 그 경우 붙인 에너지의 장수 × 20데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}레벨업 : 이 카드는 배틀필드의 쉐이미에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS8.png|height=25]] | 09/40 | [[화려한 전설]] | [include(틀:포케카 레어도/HR)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/4세대]][[분류:포켓몬 카드 게임/풀 타입]][[분류:포켓몬 카드 게임/무색 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

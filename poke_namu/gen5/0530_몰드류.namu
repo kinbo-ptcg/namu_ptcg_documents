@@ -1,0 +1,330 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0529_f00_s0.png|width=40]] 0529 [[두더류/포켓몬 카드 게임|두더류]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0530_f00_s0.png|width=40]] 0530 [[몰드류/포켓몬 카드 게임|몰드류]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0531_f00_s0.png|width=40]] 0531 [[다부니/포켓몬 카드 게임|다부니]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[사이버저지]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5M_040.png|width=100%]] ||
+|| [[사이버저지]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''머드샷''' 20
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''와일드태클''' 180
+이 포켓몬에게도 50데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''자연적으로 생긴 동굴로 보이지만 사실은 몰드류가 파낸 흔적인 경우는 흔히 있는 일이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5M_079.png|width=512px]] ||
+|| [[사이버저지]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5M.png|height=25]] | 040/071 | [[사이버저지]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5M.png|height=25]] | 079/071 | [[사이버저지]] | [include(틀:포케카 레어도/AR)] ||
+== G 레귤레이션 ==
+=== [[스칼렛&바이올렛 ex 스타트 덱]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVD_082.png|width=100%]] ||
+|| [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''궤찌르기''' 60{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 082/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+== E 레귤레이션 ==
+=== [[퓨전아츠]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_067.png|width=100%]] ||
+|| [[퓨전아츠]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메탈크로우''' 50
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''암석봉인''' 120
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''별명은 드릴킹이다. 땅속을 파는 속도는 시속 150km에 달한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_304.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8.png|height=25]] | 067/100 | [[퓨전아츠]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 304/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[앙천의 볼트태클]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4_077.png|width=100%]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드릴라이너''' 30
+상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬래시크루''' 130{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''자연적으로 생긴 동굴로 보이지만 사실은 몰드류가 파낸 흔적인 경우는 흔히 있는 일이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 077/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/C)] ||
+== C 레귤레이션 ==
+=== [[미라클트윈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_050.png|width=100%]] ||
+|| [[미라클트윈]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''일구기''' 
+자신의 트래쉬에서 원하는 카드를 4장 상대에게 보여주고 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 90{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11.png|height=25]] | 050/094 | [[미라클트윈]] | [include(틀:포케카 레어도/U)] ||
+=== [[드림리그(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11b_031.png|width=100%]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''막판태클''' 30+
+자신의 덱의 남은 장수가 3장 이하라면 150데미지를 추가한다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''드릴바주카''' 120
+자신의 덱을 위에서부터 4장 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM11b_059.png|width=512px]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/CHR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 031/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 059/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/CHR)] ||
+== XY 시리즈 ==
+=== [[가이아 볼케이노]] ===
+==== 몰드류 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_048.jpg|width=100%]] ||
+|| [[가이아 볼케이노]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''드릴라이너''' 20
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스트레이트 클로''' 60+
+원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 048/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/U)] ||
+==== 몰드류 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_049.jpg|width=100%]] ||
+|| [[가이아 볼케이노]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  고대능력 '''【Ω연타】'''}}}
+이 포켓몬은 기술을 2번 연속으로 사용할 수 있다. (1번째에 상대의 배틀 포켓몬이 기절했다면 다음 포켓몬이 나온 후 2번째 기술을 사용한다.)
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''캐내기''' 
+자신의 덱에서 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마하크루''' 50
+이 기술의 데미지는 저항력 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 049/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/R)] ||
+== BW 시리즈 ==
+=== [[블랙 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw1_black_032.jpg|width=100%]] ||
+|| [[블랙 컬렉션]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메탈크로우''' 30
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''드릴라이너''' 80
+상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강철로 진화한 드릴은 철판을 뚫는 파괴력을 가졌다. 터널 공사에서 크게 활약한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW1B.png|height=25]] | 032/053 | [[블랙 컬렉션]] | [include(틀:포케카 레어도/R)] ||
+=== [[다크러시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw4_041.jpg|width=100%]] ||
+|| [[다크러시]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ{{{#!wiki style="float:right;"
+두더류에서 진화
+}}}}}}Excadrill
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''터널홀''' 
+상대의 벤치 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''파내기어택''' 50
+자신의 트래쉬에서 원하는 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅 밑 100m에 미로 같은 굴을 만든다. 지하철 터널에 구멍을 뚫어 버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW4.png|height=25]] | 041/069 | [[다크러시]] | [include(틀:포케카 레어도/U)] ||
+=== [[EX 배틀 부스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_066.jpg|width=100%]] ||
+|| [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''몰드류 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ドリュウズ EX{{{#!wiki style="float:right;"
+
+}}}}}}Excadrill EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''딕아웃''' 40
+자신의 덱을 위에서부터 1장 트래쉬하고 그 카드가 기본 에너지라면 자신의 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''그라운드 브레이크''' 120
+자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다. (벤치 포켓몬에게 주는 데미지는 약점 저항력 계산을 하지 않는다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:EBB.png|height=25]] | 066/093 | [[EX 배틀 부스트]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/격투 타입]][[분류:포켓몬 카드 게임/강철 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

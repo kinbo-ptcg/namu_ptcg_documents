@@ -1,0 +1,304 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0848_f00_s0.png|width=40]] 0848 [[일레즌/포켓몬 카드 게임|일레즌]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0849_f00_s0.png|width=40]] 0849 [[스트린더/포켓몬 카드 게임|스트린더]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0850_f00_s0.png|width=40]] 0850 [[태우지네/포켓몬 카드 게임|태우지네]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[바이올렛ex]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1V_032.png|width=100%]] ||
+|| [[바이올렛ex]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쥐어뜯기''' 
+상대의 패에서 앞면을 보지 않고 2장 선택해서 그 카드의 앞면을 보고 상대의 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''번개''' 120
+이 포켓몬에게도 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''거칠게 가슴팍의 돌기를 긁어서 발산하는 전격은 15000볼트를 가볍게 뛰어넘는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV1V.png|height=25]] | 032/078 | [[바이올렛ex]] | [include(틀:포케카 레어도/U)] ||
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_038.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''째려보기''' 
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''믹스라우드''' 50+
+자신의 벤치 포켓몬의 타입의 수 × 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''상대가 누구라도 동요하지 않고 나른한 모습으로 싸움을 거는 스타일에 동경하는 젊은이도 많다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_065.png|width=100%]] ||<width=50%> [[파일:SV4a_246.png|width=100%]]||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 038/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 065/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 246/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+=== [[미래의 일섬]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_040.png|width=100%]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 260 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー ex{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  테라스탈 '''테라스탈'''}}}
+이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''노크해머''' 70
+상대의 덱을 위에서부터 1장 트래쉬한다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''가이아펑크''' 270
+자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 에너지를 3개 선택해서 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_081.png|width=512px]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 040/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 081/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/SR)] ||
+== E 레귤레이션 ==
+=== [[창공스트림]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7R_032.png|width=100%]] ||
+|| [[창공스트림]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''펑크쇼크''' 70
+원한다면 상대의 배틀 포켓몬을 마비로 만든다. 그 경우, 이 포켓몬에게도 70데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''호전적이며 성미가 급하다. 고인 물을 벌컥벌컥 마셔서 물속의 독소를 흡수한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_158.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 032/067 | [[창공스트림]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 158/414 | [[소드&실드 스타트 덱 100]] ||
+=== [[퓨전아츠]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_037.png|width=100%]] ||
+|| [[퓨전아츠]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 퓨전  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''맥스다우너'''}}}
+자신의 필드의 포켓몬 전원이 「퓨전」의 포켓몬이라면 작용한다. 이 포켓몬이 있는 한, 상대 필드의 「포켓몬 VMAX」 전원의 최대 HP는 각각 「30」작아진다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''헤드볼트''' 90{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''발전 기관이 가슴에 있다. 전기가 만들어질 때 베이스 기타 같은 소리가 울린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_044.png|width=100%]] ||<width=50%> [[파일:S12a_181.png|width=100%]]||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8.png|height=25]] | 037/100 | [[퓨전아츠]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 044/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 181/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
+== D 레귤레이션 ==
+=== [[VMAX 라이징]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1a_033.png|width=100%]] ||
+|| [[VMAX 라이징]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''포이즌샤우팅''' 
+상대의 포켓몬 전원에게 각각 20데미지를 준다. 상대의 배틀 포켓몬을 독으로 만든다. (벤치는 약점, 저항력 계산을 하지 않는다.)
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''한방 먹이기''' 90{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''가슴에 난 돌기를 긁으면 전기가 일어나며 주위에 기타와 비슷한 소리가 울려퍼진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1A.png|height=25]] | 033/070 | [[VMAX 라이징]] | [include(틀:포케카 레어도/U)] ||
+=== [[반역크래시]] ===
+==== 스트린더 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2_036.png|width=100%]] ||
+|| [[반역크래시]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー V{{{#!wiki style="float:right;"
+
+}}}}}}Toxtricity V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''독찌르기''' 20
+상대의 배틀 포켓몬을 독으로 만든다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''일렉트릭 라이엇''' 90+
+상대의 배틀 포켓몬이 독이라면 90데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S2_100.png|width=100%]] ||<width=50%> [[파일:S4a_059.png|width=100%]]||
+|| [[반역크래시]][br][include(틀:포케카 레어도/SR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/RR)] ||
+||<rowbgcolor=#ffffff> [[파일:S4a_314.png|width=100%]] ||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2.png|height=25]] | 036/096 | [[반역크래시]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2.png|height=25]] | 100/096 | [[반역크래시]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 059/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 314/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/SSR)] ||
+==== 스트린더 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2_037.png|width=100%]] ||
+|| [[반역크래시]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー VMAX{{{#!wiki style="float:right;"
+스트린더 V에서 진화
+}}}}}}Toxtricity VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거다이라이엇''' 160+
+상대의 배틀 포켓몬이 독이라면 80데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_060.png|width=100%]] ||<width=50%> [[파일:S4a_315.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/RRR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2.png|height=25]] | 037/096 | [[반역크래시]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 060/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 315/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/SSR)] ||
+=== [[폭염워커]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2a_027.png|width=100%]] ||
+|| [[폭염워커]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''스트린더'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ストリンダー{{{#!wiki style="float:right;"
+일레즌에서 진화
+}}}}}}Toxtricity
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''리스크테이커''' 
+동전을 1번 던져서 앞면이 나오면 상대의 덱을 위에서부터 5장 트래쉬한다. 뒷면이 나오면 자신의 덱을 위에서부터 5장 트래쉬한다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''전격''' 160
+이 포켓몬에게도 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''15000볼트나 되는 전기를 발생시킬 수 있다. 상대가 누구라도 깔본다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_058.png|width=100%]] ||<width=50%> [[파일:S4a_241.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2A.png|height=25]] | 027/070 | [[폭염워커]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 058/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 241/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/번개 타입]][[분류:포켓몬 카드 게임/격투 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

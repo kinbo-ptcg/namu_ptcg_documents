@@ -1,0 +1,63 @@
+[
+    {
+        "id": "SV7-012",
+        "cardID": "과미풀330숙성꿀사030",
+        "name": "과미드라 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "2진화"
+        ],
+        "rules": [],
+        "hp": 330,
+        "pokemons": [
+            {
+                "name": "과미드라",
+                "pokedexNumber": 1019
+            }
+        ],
+        "type": "(풀)",
+        "attacks": [
+            {
+                "name": "꿀사탕스톰",
+                "cost": "(무색)(무색)",
+                "damage": "30+",
+                "text": "자신의 포켓몬 전원에게 붙어 있는 (풀) 에너지의 개수 × 30데미지를 추가한다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "숙성 차지",
+                "text": "자신의 차례에 1번 사용할 수 있다. 자신의 패에서 「기본 (풀) 에너지」를 1장 선택해서 자신의 포켓몬에게 붙인다. 그 뒤, 붙인 포켓몬의 HP를 「30」회복한다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "012",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_012.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012012",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    }
+]

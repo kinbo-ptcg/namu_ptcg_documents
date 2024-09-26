@@ -1,0 +1,231 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0684_f00_s0.png|width=40]] 0684 [[나룸퍼프/포켓몬 카드 게임|나룸퍼프]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0685_f00_s0.png|width=40]] 0685 [[나루림/포켓몬 카드 게임|나루림]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0686_f00_s0.png|width=40]] 0686 [[오케이징/포켓몬 카드 게임|오케이징]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[변환의 가면]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6_052.png|width=100%]] ||
+|| [[변환의 가면]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''날름날름할짝''' 90×
+동전을 2번 던져서 앞면이 나온 수 × 90데미지를 준다. 모두 뒷면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체취로 몸과 마음의 상태를 알아낸다. 의료계에서 응용될 것으로 기대되고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6.png|height=25]] | 052/101 | [[변환의 가면]] | [include(틀:포케카 레어도/U)] ||
+== F 레귤레이션 ==
+=== [[로스트어비스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11_048.png|width=100%]] ||
+|| [[로스트어비스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드레인키스''' 30
+이 포켓몬의 HP를 「30」회복한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''매지컬숏''' 100{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체취로 몸과 마음의 상태를 알아낸다. 의료계에서 응용될 것으로 기대되고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 048/100 | [[로스트어비스]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[쌍벽의 파이터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5a_029.png|width=100%]] ||
+|| [[쌍벽의 파이터]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''냄새쫓기''' 
+동전을 3번 던져서 앞면이 나온 수만큼까지 자신의 트래쉬에서 원하는 카드를 선택해서 상대에게 보여주고 패로 가져온다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''요정의바람''' 80{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''털에 많은 공기를 담고 있어 촉감이 부드럽고 보기보다 가볍다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 029/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/U)] ||
+== C 레귤레이션 ==
+=== [[얼터제네시스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12_063.png|width=100%]] ||
+|| [[얼터제네시스]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] '''황홀한냄새''' 
+상대의 배틀 포켓몬을 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] '''스위트패닉''' 110
+상대의 배틀 포켓몬이 혼란이 아니라면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''아주 약간의 냄새도 구별할 수 있는 민감한 후각을 살려 파티시에를 돕고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12.png|height=25]] | 063/095 | [[얼터제네시스]] | [include(틀:포케카 레어도/U)] ||
+== XY 시리즈 ==
+=== [[X컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_X_043.jpg|width=100%]] ||
+|| [[X컬렉션]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''스위트베일'''}}}
+이 포켓몬이 있는 한 [[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] 에너지가 붙어 있는 자신의 포켓몬 전원은 특수 상태가 되지 않는다. (받고 있는 특수 상태는 모두 회복한다.)
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드레인키스''' 30
+이 포켓몬의 HP를 「30」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''아주 약간의 냄새도 구별할 수 있는 민감한 후각을 살려 파티시에를 돕고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 043/060 | [[X컬렉션]] | [include(틀:포케카 레어도/R)] ||
+=== [[팬텀게이트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY4_062.jpg|width=100%]] ||
+|| [[팬텀게이트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''테이스팅'''}}}
+자신의 덱을 1장 뽑는다. 이 포켓몬이 배틀필드에 있다면 1장 더 뽑는다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''빛의파동''' 60
+상대의 다음 차례에 이 포켓몬은 상대의 포켓몬이 사용하는 기술의 효과를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''아주 약간의 냄새도 구별할 수 있는민감한 후각을 살려파티시에를 돕고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 062/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/R)] ||
+=== [[포켓심쿵 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP3_024.png|width=100%]] ||
+|| [[포켓심쿵 컬렉션]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] '''혀로 집기''' 
+자신의 덱을 3장 뽑는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''요정의바람''' 40{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''나루림이 도와주는 케이크는 언제나 사이좋은 그 아이와 꼭 닮았어.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP3.png|height=25]] | 024/032 | [[포켓심쿵 컬렉션]] | [include(틀:포케카 레어도/U)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_023.jpg|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''나루림'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ペロリーム{{{#!wiki style="float:right;"
+나룸퍼프에서 진화
+}}}}}}Slurpuff
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''코튼가드''' 30
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.
+[[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬리피볼''' 60
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''아주 약간의 냄새도 구별할 수 있는 민감한 후각을 살려 파티시에를 돕고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 023/XY-P | [[unknown]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/6세대]][[분류:포켓몬 카드 게임/페어리 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

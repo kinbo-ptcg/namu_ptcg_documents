@@ -1,0 +1,302 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0026_f00_s0.png|width=40]] 0026 [[라이츄/포켓몬 카드 게임|라이츄]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0027_f00_s0.png|width=40]] 0027 [[모래두지/포켓몬 카드 게임|모래두지]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0028_f00_s0.png|width=40]] 0028 [[고지/포켓몬 카드 게임|고지]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[변환의 가면]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6_057.png|width=100%]] ||
+|| [[변환의 가면]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''구르기''' 10
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''더블할퀴기''' 20×
+동전을 2번 던져서 앞면이 나온 수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''아무리 높은 곳에서 떨어져도 몸을 둥글게 말면 바운드해서 살 수 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6.png|height=25]] | 057/101 | [[변환의 가면]] | [include(틀:포케카 레어도/C)] ||
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_027.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''모래로 감추기'''}}}
+이 포켓몬이 있는 한, 상대의 트래쉬에 있는 트레이너스는 상대의 아이템 또는 서포트의 효과로 덱으로 되돌릴 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅을 파서 굴을 만든다. 땅속의 단단한 바위도 날카로운 발톱으로 부수며 파고들어 간다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 027/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[창공스트림]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7R_034.png|width=100%]] ||
+|| [[창공스트림]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''다시파내기''' 
+자신의 덱을 위에서부터 1장 보고 원래대로 되돌린다. 원한다면 그 카드를 트래쉬한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다함께구르기''' 20×
+자신의 벤치의 기술 「다함께구르기」를 가진 포켓몬의 수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''습기로 인해 피부가 불면 화산으로 이동한다. 지열이 높은 지면에 달라붙어 말리는 것이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_205.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 034/067 | [[창공스트림]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 205/414 | [[소드&실드 스타트 덱 100]] ||
+== C 레귤레이션 ==
+=== [[풀메탈월]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9b_021.png|width=100%]] ||
+|| [[풀메탈월]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가져오기''' 
+자신의 덱을 1장 뽑는다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''구르기 태클''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''비가 적은 토지에 살고 있다. 위험한 상황이 되면 몸을 웅크려 부드러운 배를 지킨다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM30A_034.png|width=512px]] ||
+|| [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9B.png|height=25]] | 021/054 | [[풀메탈월]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM30A.png|height=25]] | 034/080 | [[썬&문 「랜덤30장덱」]] ||
+=== [[얼터제네시스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12_051.png|width=100%]] ||
+|| [[얼터제네시스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラサンド{{{#!wiki style="float:right;"
+
+}}}}}}AlolaSandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''들뜸''' 
+이 포켓몬을 벤치 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메탈크로우''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''화산 분화로부터 도망가다 설산으로 옮겨 살게 되었다. 얼음 껍질은 강철처럼 단단하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12.png|height=25]] | 051/095 | [[얼터제네시스]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[울트라문(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5M_001.png|width=100%]] ||
+|| [[울트라문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラサンド{{{#!wiki style="float:right;"
+
+}}}}}}AlolaSandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''마구할퀴기''' 10×
+동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''얼음 위에 모래두지를 미끄러뜨려 그 거리를 겨룬다. 먼 옛날부터 이어진 알로라의 축제 중 하나다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5M.png|height=25]] | 001/066 | [[울트라문(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== A 레귤레이션 ==
+=== [[알로라의 햇빛]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2K_010.png|width=100%]] ||
+|| [[알로라의 햇빛]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラサンド{{{#!wiki style="float:right;"
+
+}}}}}}AlolaSandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''웅크리기''' 
+동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아이스볼''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''설산에 산다. 강철의 등껍질은 아주 튼튼하지만 너무 딱딱해서 몸을 구부릴 수가 없다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2plus_011.png|width=100%]] ||<width=50%> [[파일:SM2plus_075.png|width=100%]]||
+|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_020.png|width=100%]] ||<width=50%> [[파일:SM4plus_020.png|width=100%]] ||
+|| [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2K.png|height=25]] | 010/050 | [[알로라의 햇빛]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 020/114 | [[GX 배틀부스트]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 020/114 | [[GX 배틀부스트]] ||
+== XY 시리즈 ==
+=== [[푸른 충격(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_031.jpg|width=100%]] ||
+|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''더블할퀴기''' 10×
+동전을 두 번 던져서 앞면이 나온 수 × 10데미지를 준다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''모래지옥''' 20
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''습기를 싫어해서 건조한 땅에 깊은 구멍을 파고 생활한다. 눈 깜짝할 사이에 몸을 둥글게 만다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 031/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+=== [[BASE PACK 20th Anniversary]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_054.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''모래뿌리기''' 10
+상대의 다음 차례에 이 기술을 받은 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''지면에 구멍을 파고 산다. 자신에게 위험이 닥쳐오면 둥글게 말아서 몸을 보호한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 054/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/C)] ||
+== BW 시리즈 ==
+=== [[콜드플레어]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_031.jpg|width=100%]] ||
+|| [[콜드플레어]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''모래두지'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+サンド{{{#!wiki style="float:right;"
+
+}}}}}}Sandshrew
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''구르기''' 10
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 40{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''깊은 구멍을 파서 생활한다. 위험이 닥치면 몸을 말아 상대의 공격을 가만히 견딘다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6C.png|height=25]] | 031/059 | [[콜드플레어]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/격투 타입]][[분류:포켓몬 카드 게임/물 타입]][[분류:포켓몬 카드 게임/강철 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,529 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0093_f00_s0.png|width=40]] 0093 [[고우스트/포켓몬 카드 게임|고우스트]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0094_f00_s0.png|width=40]] 0094 [[팬텀/포켓몬 카드 게임|팬텀]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0095_f00_s0.png|width=40]] 0095 [[롱스톤/포켓몬 카드 게임|롱스톤]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[와일드포스(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_047.png|width=100%]] ||
+|| [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 310 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー ex{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''침식하는 저주'''}}}
+이 포켓몬이 있는 한, 상대는 패에서 에너지를 포켓몬에게 붙일 때마다 그 포켓몬에게 데미지 카운터를 2개 올린다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''트릭스텝''' 160
+원한다면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 상대의 벤치 포켓몬에게 붙인다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5K_088.png|width=512px]] ||
+|| [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5K.png|height=25]] | 047/071 | [[와일드포스(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV5K.png|height=25]] | 088/071 | [[와일드포스(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/SR)] ||
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_094.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''폴터가이스트''' 50×
+상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 50데미지를 준다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할로우다이브''' 110
+데미지 카운터 3개를 상대의 벤치 포켓몬에게 원하는 대로 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''생명을 빼앗기로 정한 먹잇감의 그림자에 숨어들어 꼼짝하지 않고 기회를 노린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 094/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/R)] ||
+=== [[레이징서프]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3a_035.png|width=100%]] ||
+|| [[레이징서프]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''나이트 게이트'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''악몽''' 100
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''생명을 빼앗기로 정한 먹잇감의 그림자에 숨어들어 꼼짝하지 않고 기회를 노린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3A.png|height=25]] | 035/062 | [[레이징서프]] | [include(틀:포케카 레어도/U)] ||
+== F 레귤레이션 ==
+=== [[다크판타스마]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_023.png|width=100%]] ||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''나락의 뒷문'''}}}
+이 카드가 트래쉬에 있다면 자신의 차례에 1번 사용할 수 있다. 이 카드를 벤치로 내보낸다. 그 뒤, 이 포켓몬에게 데미지 카운터를 3개 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''스크림서클''' 
+상대의 벤치 포켓몬의 수 × 2개만큼의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''보름달이 뜬 밤에 그림자가 멋대로 움직이면서 웃는다면 팬텀의 소행임이 틀림없다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_074.png|width=100%]] ||<width=50%> [[파일:S12a_048.png|width=100%]]||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/CHR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 023/071 | [[다크판타스마]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 074/071 | [[다크판타스마]] | [include(틀:포케카 레어도/CHR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 048/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/R)] ||
+== E 레귤레이션 ==
+=== [[칠흑의 가이스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6K_027.png|width=100%]] ||
+|| [[칠흑의 가이스트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''다잉기프트'''}}}
+이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 자신의 덱에서 원하는 카드를 2장까지 선택해서 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''페인버스트''' 10+
+상대의 배틀 포켓몬에게 올려져 있는 데미지 카운터의 수 × 40데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''산에서 조난하면 목숨을 빼앗기 위해 어둠 속에서 나타난다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 027/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/R)] ||
+=== [[소드&실드 하이클래스 덱 「팬텀 VMAX」]] ===
+==== 팬텀 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SGG_001.png|width=100%]] ||
+|| [[소드&실드 하이클래스 덱 「팬텀 VMAX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー V{{{#!wiki style="float:right;"
+
+}}}}}}Gengar V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V | [[파일:일격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''검은꿈결''' 40
+상대의 배틀 포켓몬을 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''페인 익스플로전''' 190
+이 포켓몬에게 데미지 카운터를 3개 올린다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_253.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGG.png|height=25]] | 001/019 | [[소드&실드 하이클래스 덱 「팬텀 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 253/414 | [[소드&실드 스타트 덱 100]] ||
+==== 팬텀 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SGG_002.png|width=100%]] ||
+|| [[소드&실드 하이클래스 덱 「팬텀 VMAX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー VMAX{{{#!wiki style="float:right;"
+팬텀 V에서 진화
+}}}}}}Gengar VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''패닉피어''' 60×
+상대 필드의 「포켓몬 V・GX」의 수 × 60데미지를 준다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''거다이통째로삼키기''' 250
+자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGG.png|height=25]] | 002/019 | [[소드&실드 하이클래스 덱 「팬텀 VMAX」]] ||
+== D 레귤레이션 ==
+=== [[소드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1W_025.png|width=100%]] ||
+|| [[소드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''라이프셰이커'''}}}
+자신의 차례에 몇 번이라도 사용할 수 있다. 자신의 필드의 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 자신의 다른 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 포켓몬에게 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''최면파동''' 90
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''보름달이 뜬 밤에 그림자가 멋대로 움직이면서 웃는다면 팬텀의 소행임이 틀림없다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4a_071.png|width=512px]] ||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1W.png|height=25]] | 025/060 | [[소드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 071/190 | [[샤이니스타V]] ||
+== C 레귤레이션 ==
+=== [[태그볼트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_038.png|width=100%]] ||
+|| [[태그볼트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀&따라큐 [[파일:포케카 GXTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 240 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー&ミミッキュ GX{{{#!wiki style="float:right;"
+
+}}}}}}Gengar&Mimikyu GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''폴터가이스트''' 50x
+상대의 패를 보고 그 중에 있는 트레이너스의 장수 × 50데미지를 준다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''호러하우스 GX''' 
+상대의 다음 차례에 상대는 패에서 카드를 꺼내서 사용할 수 없다. [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지 1개가 추가로 붙어 있다면 서로의 플레이어는 각각의 패가 7장이 되도록 덱을 뽑는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_102.png|width=100%]] ||<width=50%> [[파일:SM9_103.png|width=100%]]||
+|| [[태그볼트]][br][include(틀:포케카 레어도/SR)] || [[태그볼트]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 038/095 | [[태그볼트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 102/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9.png|height=25]] | 103/095 | [[태그볼트]] | [include(틀:포케카 레어도/SR)] ||
+=== [[더블블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_033.png|width=100%]] ||
+|| [[더블블레이즈]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''섀도페인'''}}}
+자신의 차례에 이 카드를 패에서 꺼내서 진화시켰을 때 1번 사용할 수 있다. 데미지 카운터 6개를 상대의 「포켓몬 GX・EX」에게 원하는 대로 올린다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''땅거미독''' 70
+상대의 배틀 포켓몬을 독과 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''못된 아이가 있는 곳에 팬텀이 찾아온다고 하는 이야기는 전 세계에서 들을 수 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 033/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/U)] ||
+== A 레귤레이션 ==
+=== [[각성의 용사]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4S_022.png|width=100%]] ||
+|| [[각성의 용사]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''침식하는 저주'''}}}
+이 포켓몬이 있는 한, 상대는 패에서 에너지를 포켓몬에게 붙일 때마다 그 포켓몬에게 데미지 카운터를 2개 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''암흑''' 70
+상대의 배틀 포켓몬을 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''갑자기 졸음이 쏟아진다면 팬텀이 노리고 있다는 증거다. 도망갈 방법은 없으니 포기하자.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4S.png|height=25]] | 022/050 | [[각성의 용사]] | [include(틀:포케카 레어도/R)] ||
+== XY 시리즈 ==
+=== [[팬텀게이트]] ===
+==== 팬텀 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY4_033.jpg|width=100%]] ||
+|| [[팬텀게이트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー EX{{{#!wiki style="float:right;"
+
+}}}}}}Gengar EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도어택''' 
+상대의 포켓몬을 1마리 선택해서 데미지 카운터를 3개 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''어둠의회랑''' 60
+상대의 배틀 포켓몬을 독으로 만든다. 이 포켓몬을 벤치 포켓몬과 교체한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_090.jpg|width=100%]] ||<width=50%> [[파일:CP4_048.jpg|width=100%]]||
+|| [[팬텀게이트]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 033/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 090/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 048/131 | [[프리미엄 챔피언팩]] ||
+==== M팬텀 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY4_034.jpg|width=100%]] ||
+|| [[팬텀게이트]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''[[파일:M_pkc.png|height=18px]]팬텀 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 220 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+Mゲンガー EX{{{#!wiki style="float:right;"
+팬텀 EX에서 진화
+}}}}}}MGengar EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 EX | M진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''팬텀게이트''' 
+상대의 필드에 있는 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}M진화 : M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.
+EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_049.jpg|width=512px]] ||
+|| [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 034/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 049/131 | [[프리미엄 챔피언팩]] ||
+=== [[푸른 충격(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_024.jpg|width=100%]] ||
+|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''불길한안개''' 
+상대의 배틀 포켓몬을 독으로 만든다. 상대의 벤치 포켓몬 전원에게 데미지 카운터를 각각 1개씩 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''크리프쇼''' 
+상대의 배틀 포켓몬에게 데미지 카운터가 3개 이상 올려져 있다면 그 포켓몬을 기절시킨다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''한밤중 사람의 그림자에 숨어들어 조금씩 체온을 뺏는다. 숨어들면 한기가 멈추지 않는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 024/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/R)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_017.jpg|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''[[파일:M_pkc.png|height=18px]]팬텀 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+Mゲンガー EX{{{#!wiki style="float:right;"
+팬텀 EX에서 진화
+}}}}}}MGengar EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 EX | M진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할로우 가이스트''' 
+상대의 배틀 포켓몬을 독과 혼란으로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}M진화 : M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.
+EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 017/XY-P | [[unknown]] ||
+== DP 시리즈 ==
+=== [[시공의 격돌]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs3_ko_5.jpg|width=100%]] ||
+|| [[시공의 격돌]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー{{{#!wiki style="float:right;"
+고우스트에서 진화
+}}}}}}Gengar
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''라이프다운''' 
+동전을 한 번 던져서 앞면이 나오면 상대의 남은 HP가 「10」이 되도록 상대에게 데미지 카운터를 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''그림자춤''' 
+데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다. 그 뒤 자신을 자신의 벤치 포켓몬과 교체한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그림자에 모습을 숨긴다. 팬텀이 숨어 있는 방은 온도가 5도 내려간다고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] 30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS3.png|height=25]] | 05/60 | [[시공의 격돌]] | [include(틀:포케카 레어도/R)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:pr_kr_12.jpg|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/P)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''팬텀 LV.X'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ゲンガー LV.X{{{#!wiki style="float:right;"
+팬텀에서 진화
+}}}}}}Gengar LV.X
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+레벨업  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포켓파워.png|height=18px]] '''레벨다운'''}}}
+자신의 차례에 한 번 사용할 수 있다. 상대의 「포켓몬 LV.X」 1마리의 위에서부터 「포켓몬 LV.X」 카드를 한 장 떼어내 레벨다운시킨다. 떼어낸 카드는 상대의 덱으로 되돌리고 덱을 섞는다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''데미지페인''' 0
+데미지 카운터가 올려져 있는 상대의 포켓몬 전원에게 각각 30데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}레벨업 : 이 카드는 배틀필드의 팬텀에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 12/DP-P | [[unknown]] | [include(틀:포케카 레어도/P)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/초 타입]][[분류:포켓몬 카드 게임/악 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

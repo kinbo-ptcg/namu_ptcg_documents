@@ -1,0 +1,431 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0441_f00_s0.png|width=40]] 0441 [[페라페/포켓몬 카드 게임|페라페]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0442_f00_s0.png|width=40]] 0442 [[화강돌/포켓몬 카드 게임|화강돌]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0443_f00_s0.png|width=40]] 0443 [[딥상어동/포켓몬 카드 게임|딥상어동]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[바이올렛ex]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1V_052.png|width=100%]] ||
+|| [[바이올렛ex]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''도발''' 
+상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''멸망의선고''' 
+동전을 2번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 기절시킨다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼으로 되어 있다. 두 번 다시 나쁜 짓을 하지 못하게 쐐기돌에 묶여 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV1V.png|height=25]] | 052/078 | [[바이올렛ex]] | [include(틀:포케카 레어도/U)] ||
+=== [[클레이버스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2D_028.png|width=100%]] ||
+|| [[클레이버스트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''칠흑의 재앙'''}}}
+이 포켓몬이 있는 한, 서로의 필드의 기본 포켓몬인 「포켓몬 V」의 [[파일:포케카 특성.png|height=18px]]은 모두 없어진다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''휙사라지기''' 10
+이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''항상 나쁜 짓만 하고 있었기에 신비한 술법에 의해 본모습을 쐐기돌에 속박당했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_086.png|width=100%]] ||<width=50%> [[파일:SV4a_263.png|width=100%]]||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2D.png|height=25]] | 028/071 | [[클레이버스트]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 086/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 263/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+== F 레귤레이션 ==
+=== [[스타버스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_065.png|width=100%]] ||
+|| [[스타버스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''공포새기기''' 
+자신의 다음 차례가 끝날 때까지 이 기술을 받은 포켓몬의 약점은 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 타입이 된다. (약점은 「×2」로 데미지 계산을 한다.)
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''저주의물방울''' 
+데미지 카운터 2개를 상대의 포켓몬에게 원하는 대로 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여 포켓몬이 되었지만 성질이 나쁜 영혼이 섞여버린 듯하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 065/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+=== [[다크판타스마]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_046.png|width=100%]] ||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''저주의 전언'''}}}
+이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때, 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''연쇄혼령불''' 10+
+자신의 트래쉬에 있는 「화강돌」의 장수 × 60데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여 포켓몬이 되었지만 성질이 나쁜 영혼이 섞여버린 듯하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_046_m.png|width=100%]] ||<width=50%> [[파일:S10a_076.png|width=100%]]||
+|| [[다크판타스마]][br][include(틀:포케카 레어도/U)] || [[다크판타스마]][br][include(틀:포케카 레어도/CHR)] ||
+||<rowbgcolor=#ffffff> [[파일:S12a_084.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/U)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 046/071 | [[다크판타스마]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 046/071 | [[다크판타스마]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10A.png|height=25]] | 076/071 | [[다크판타스마]] | [include(틀:포케카 레어도/CHR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 084/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/U)] ||
+== E 레귤레이션 ==
+=== [[쌍벽의 파이터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5a_049.png|width=100%]] ||
+|| [[쌍벽의 파이터]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''망자의외침''' 
+상대의 트래쉬에 있는 포켓몬의 장수만큼의 데미지 카운터를 상대의 포켓몬에게 원하는 대로 올린다. 그 뒤, 상대의 트래쉬에 있는 포켓몬을 모두 상대의 덱으로 되돌리고 섞는다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''도깨비불''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''500년 전에 나쁜 짓을 했기 때문에 쐐기돌의 균열에 몸이 연결되어 갇혀 버렸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_107.png|width=512px]] ||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 049/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 107/184 | [[VMAX 클라이맥스]] ||
+== D 레귤레이션 ==
+=== [[반역크래시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2_065.png|width=100%]] ||
+|| [[반역크래시]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''원한나누기''' 
+서로의 덱을 위에서부터 1장씩 트래쉬한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''무념의물방울''' 
+자신의 트래쉬에 있는 포켓몬의 장수만큼의 데미지 카운터를 상대의 배틀 포켓몬에게 올린다. {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''500년 전에 나쁜 짓을 했기 때문에 쐐기돌의 균열에 몸이 연결되어 갇혀 버렸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2.png|height=25]] | 065/096 | [[반역크래시]] | [include(틀:포케카 레어도/U)] ||
+== C 레귤레이션 ==
+=== [[더블블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_057.png|width=100%]] ||
+|| [[더블블레이즈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''원한쌓기'''}}}
+자신의 차례에 1번 사용할 수 있다. 이 포켓몬에게 데미지 카운터를 1개 올린다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''괴로운외침''' 10+
+이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여서 태어난 포켓몬이다. 쐐기돌의 균열과 연결되어 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_076.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 057/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 076/173 | [[태그올스타즈]] ||
+== B 레귤레이션 ==
+=== [[울트라문(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5M_025.png|width=100%]] ||
+|| [[울트라문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''빛이없는세계''' 
+자신의 트래쉬에 있는 서포트를 2장 상대에게 보여주고 패로 가져온다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''전율''' 10
+상대의 다음 차례에 이 기술을 받은  기본 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''500년 전에 나쁜 짓을 했기 때문에 쐐기돌의 균열에 몸이 연결되어 갇혀 버렸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5M.png|height=25]] | 025/066 | [[울트라문(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+=== [[다크오더]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_024.png|width=100%]] ||
+|| [[다크오더]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''소울컴프레서''' 
+자신의 덱에 있는 포켓몬을 4장까지 트래쉬한다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''홀로숏''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''500년 전에 나쁜 짓을 했기 때문에 쐐기돌의 균열에 몸이 연결되어 갇혀 버렸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8a_077.png|width=512px]] ||
+|| [[다크오더]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8A.png|height=25]] | 024/052 | [[다크오더]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8A.png|height=25]] | 024/052 | [[다크오더]] | [include(틀:포케카 레어도/C)] ||
+== A 레귤레이션 ==
+=== [[빛나는 전설]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3plus_048.png|width=100%]] ||
+|| [[빛나는 전설]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''속박의 회오리'''}}}
+이 포켓몬이 배틀필드에 있는 한, 상대의 배틀 포켓몬은 후퇴할 수 없다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''저주의물방울''' 
+데미지 카운터 3개를 상대의 포켓몬에게 원하는 대로 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여서 태어난 포켓몬이다. 쐐기돌의 균열과 연결되어 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3PLUS.png|height=25]] | 048/072 | [[빛나는 전설]] | [include(틀:포케카 레어도/U)] ||
+== XY 시리즈 ==
+=== [[팬텀게이트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY4_054.jpg|width=100%]] ||
+|| [[팬텀게이트]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''B캔슬''' 10
+상대의 다음 차례에 이 기술을 받은 포켓몬은 패에서 포켓몬을 꺼내서 진화시킬 수 없다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''이상한빛''' 30
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여서 태어난 포켓몬이다. 쐐기돌의 균열과 연결되어 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 054/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/U)] ||
+=== [[냉혹한 반역자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY11B_030.jpg|width=100%]] ||
+|| [[냉혹한 반역자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''악몽''' 10
+상대의 배틀 포켓몬을 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''상처놀이''' 
+상대의 벤치 포켓몬에게 올려져 있는 데미지 카운터를 원하는 만큼 선택해서 상대 필드의 포켓몬에게 원하는 대로 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''500년 전에 나쁜 짓을 했기 때문에 쐐기돌의 균열에 몸이 연결되어 갇혀 버렸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY11H.png|height=25]] | 030/054 | [[냉혹한 반역자]] | [include(틀:포케카 레어도/C)] ||
+== BW 시리즈 ==
+=== [[EX 배틀 부스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_071.jpg|width=100%]] ||
+|| [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''봉인의외침'''}}}
+이 포켓몬이 있는 한 서로의 플레이어는 패에서「ACE SPEC」 카드를 꺼내서 사용할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''오컬트미러''' 
+자신의 패를 모두 덱으로 되돌리고 덱을 섞는다. 그 뒤 상대의 패의 장수만큼 자신의 덱을 뽑는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''항상 나쁜 짓만 하고 있었기에 이상한 술수로 본모습을 쐐기돌에 속박당했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:EBB.png|height=25]] | 071/093 | [[EX 배틀 부스트]] ||
+== DP 시리즈 ==
+=== [[고대의 수호자(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs10_ko_22.jpg|width=100%]] ||
+|| [[고대의 수호자(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''화강돌'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミカルゲ{{{#!wiki style="float:right;"
+
+}}}}}}Spiritomb
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포켓파워.png|height=18px]] '''저주의 숨결'''}}}
+자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 데미지 카운터가 올려져 있는 서로의 포켓몬 전원에게 데미지 카운터를 각각 1개씩 올린다. 이 차례에 이미 다른 「저주의 숨결」을 사용했다면 이 파워는 사용할 수 없다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''아픔옮기기''' 
+자신의 포켓몬의 데미지 카운터를 1개 선택하여 상대의 포켓몬에게 올린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''108개의 영혼이 모여서 태어난 포켓몬이다. 쐐기돌의 균열과 연결되어 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' -- '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS10.png|height=25]] | 22/40 | [[고대의 수호자(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/4세대]][[분류:포켓몬 카드 게임/악 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

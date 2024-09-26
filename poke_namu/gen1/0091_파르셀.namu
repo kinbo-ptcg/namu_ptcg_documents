@@ -1,0 +1,211 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0090_f00_s0.png|width=40]] 0090 [[셀러/포켓몬 카드 게임|셀러]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0091_f00_s0.png|width=40]] 0091 [[파르셀/포켓몬 카드 게임|파르셀]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0092_f00_s0.png|width=40]] 0092 [[고오스/포켓몬 카드 게임|고오스]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_091.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''프로텍트차지''' 80
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-80」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''조수의 흐름이 격한 바다에 서식하는 파르셀의 껍데기에 붙은 가시는 크고 날카롭다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 091/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/U)] ||
+== E 레귤레이션 ==
+=== [[창공스트림]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7R_019.png|width=100%]] ||
+|| [[창공스트림]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | [[파일:연격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''조가비갑옷'''}}}
+이 포켓몬이 받는 기술의 데미지는 「-30」이 된다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아쿠아스플릿''' 60
+상대의 벤치 포켓몬 2마리에게도 각각 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''한번 껍질을 닫아버리면 어떤 괴력의 소유자도 여는 것은 불가능하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_079.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 019/067 | [[창공스트림]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 079/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[소드&실드 스타터 세트 V 5종]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_W_002.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 V 5종]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''껍질로조르기''' 30
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''하이드로 크래시''' 100{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍데기가 상당히 단단하여 네이팜탄으로도 부술 수 없다. 공격할 때만 연다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SA_W.png|height=25]] | 002/023 | [[소드&실드 스타터 세트 V 5종]] ||
+== A 레귤레이션 ==
+=== [[썬 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1S_015.png|width=100%]] ||
+|| [[썬 컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''헤드록''' 30+
+동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다. 뒷면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가드프레스''' 80
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''단단한 껍질은 폭탄이라도 깨지지 않는다. 껍질 속의 정체는 아직 밝혀지지 않았다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1S.png|height=25]] | 015/060 | [[썬 컬렉션]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[Y컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_Y_017.jpg|width=100%]] ||
+|| [[Y컬렉션]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''집어뭉개기''' 30
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다. 그리고 그 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가시대포''' 30×
+동전을 다섯 번 던져서 앞면이 나온 수 × 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''조수의 흐름이 격한 바다에 서식하고 있는 파르셀의 껍질의 가시는 크고 날카롭다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 017/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
+=== [[천공의 분노]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY9_017.jpg|width=100%]] ||
+|| [[천공의 분노]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''갑자기찝기''' 10
+이 차례에 이 포켓몬이 「셀러」에서 진화했다면 상대의 배틀 포켓몬을 마비로 만든다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파도타기''' 70{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍데기가 상당히 단단하여 네이팜탄으로도 부술 수 없다. 공격할 때만 연다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY9.png|height=25]] | 017/080 | [[천공의 분노]] | [include(틀:포케카 레어도/U)] ||
+== DP 시리즈 ==
+=== [[불꽃 튀는 대결]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs2_kr_14.jpg|width=100%]] ||
+|| [[불꽃 튀는 대결]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파르셀'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 80 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+パルシェン{{{#!wiki style="float:right;"
+셀러에서 진화
+}}}}}}Cloyster
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''껍질에숨기''' 
+동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 자신은 기술에 의한 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가시 미사일''' 
+동전을 네 번 던져서 앞면이 나온 수만큼 상대 필드에 있는 포켓몬을 선택한다(같은 포켓몬을 2회 이상 선택해도 된다). 그 뒤 선택한 포켓몬 전원에게 그것이 선택된 횟수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''껍질을 잘 닫아 몸을 보호하면서 가시를 날려 상대를 물리치는 전법을 쓴다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS2.png|height=25]] | 14/40 | [[불꽃 튀는 대결]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/물 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

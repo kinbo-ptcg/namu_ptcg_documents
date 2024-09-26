@@ -1,0 +1,186 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0803_f00_s0.png|width=40]] 0803 [[베베놈/포켓몬 카드 게임|베베놈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0804_f00_s0.png|width=40]] 0804 [[아고용/포켓몬 카드 게임|아고용]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0805_f00_s0.png|width=40]] 0805 [[차곡차곡/포켓몬 카드 게임|차곡차곡]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== C 레귤레이션 ==
+=== [[스카이 레전드]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10b_034.png|width=100%]] ||
+|| [[스카이 레전드]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#818D41; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아고용 [[파일:포케카 GXRED.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アーゴヨン GX{{{#!wiki style="float:right;"
+베베놈에서 진화
+}}}}}}Naganadel GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''울트라변환'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 「울트라비스트」를 1장 트래쉬한다. 그 뒤, 덱을 3장 뽑는다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베놈슈트''' 
+이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 170데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(45deg, #d03620, #0a0000); color: #FFF;;"
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''인젝션 GX''' 
+상대의 트래쉬에서 원하는 카드를 1장 상대에게 보여주고 뒷면으로 하여 상대의 프라이즈로 놓는다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM10b_058.png|width=512px]] ||
+|| [[스카이 레전드]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10B.png|height=25]] | 034/054 | [[스카이 레전드]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10B.png|height=25]] | 058/054 | [[스카이 레전드]] | [include(틀:포케카 레어도/SR)] ||
+=== [[얼터제네시스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12_066.png|width=100%]] ||
+|| [[얼터제네시스]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#818D41; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아고용&악식킹 [[파일:포케카 GXREDTT.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アーゴヨン&アクジキング GX{{{#!wiki style="float:right;"
+
+}}}}}}Naganadel&Guzzlord GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:TAG TEAM.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''폭식'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 패에 있는 포켓몬을 1장 트래쉬한다. 그 뒤, 이 포켓몬의 HP를 「60」회복한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''제트피어스''' 180}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(45deg, #d03620, #0a0000); color: #FFF;;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 플러스.png|width=17px]] '''카오스오더GX''' 
+자신의 프라이즈를 모두 앞면으로 한다(대전이 종료될 때까지 그 프라이즈는 앞면이 위를 향한 채로 둔다). [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 에너지와 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지가 1개씩 추가로 붙어 있다면 자신의 프라이즈를 2장 가져간다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}TAG TEAM 룰 : TAG TEAM이 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_101.png|width=100%]] ||<width=50%> [[파일:SM12_102.png|width=100%]]||
+|| [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12.png|height=25]] | 066/095 | [[얼터제네시스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12.png|height=25]] | 101/095 | [[얼터제네시스]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12.png|height=25]] | 102/095 | [[얼터제네시스]] | [include(틀:포케카 레어도/SR)] ||
+== B 레귤레이션 ==
+=== [[울트라포스]] ===
+==== 아고용 GX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5plus_023.png|width=100%]] ||
+|| [[울트라포스]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아고용 [[파일:포케카 GXRED.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アーゴヨン GX{{{#!wiki style="float:right;"
+베베놈에서 진화
+}}}}}}Naganadel GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''비스트레이드''' 20×
+자신의 필드의 「울트라비스트」의 수 × 20데미지를 준다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''제트타커''' 110
+이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(45deg, #d03620, #0a0000); color: #FFF;;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스팅어 GX''' 
+서로의 플레이어는 각각 프라이즈를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 위에서부터 3장 프라이즈로 놓는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_052.png|width=100%]] ||<width=50%> [[파일:SM8b_223.png|width=100%]]||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5PLUS.png|height=25]] | 023/050 | [[울트라포스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 052/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 223/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/SSR)] ||
+==== 아고용 GX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5plus_052.png|width=100%]] ||
+|| [[울트라포스]][br][include(틀:포케카 레어도/SR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아고용 [[파일:포케카 GXRED.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アーゴヨン GX{{{#!wiki style="float:right;"
+베베놈에서 진화
+}}}}}}Naganadel GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''비스트레이드''' 20×110
+자신의 필드의 「울트라비스트」의 수 × 20데미지를 준다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''제트타커''' 
+이 기술의 데미지는 약점, 저항력 계산을 하지 않는다. }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(45deg, #d03620, #0a0000); color: #FFF;;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스팅어 GX''' 
+서로의 플레이어는 각각 프라이즈를 모두 덱으로 되돌리고 섞는다. 그 뒤, 각각 덱을 위에서부터 3장 프라이즈로 놓는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5PLUS.png|height=25]] | 052/050 | [[울트라포스]] | [include(틀:포케카 레어도/SR)] ||
+=== [[버스트 임팩트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8_0048.png|width=100%]] ||
+|| [[버스트 임팩트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''아고용'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アーゴヨン{{{#!wiki style="float:right;"
+베베놈에서 진화
+}}}}}}Naganadel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''차지업'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 트래쉬에 있는 기본 에너지를 1장 이 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''터닝포인트''' 80+
+자신의 남은 프라이즈 장수가 3장이라면 80데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체내에 수백 리터의 독액을 갖고 있다._x000D_ UB라고 불리는 생물의 일종이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_066.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8.png|height=25]] | 048/095 | [[버스트 임팩트]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM12A.png|height=25]] | 066/173 | [[태그올스타즈]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/7세대]][[분류:포켓몬 카드 게임/초 타입]][[분류:포켓몬 카드 게임/드래곤 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

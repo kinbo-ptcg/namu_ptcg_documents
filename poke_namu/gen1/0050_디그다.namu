@@ -1,0 +1,407 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0049_f00_s0.png|width=40]] 0049 [[도나리/포켓몬 카드 게임|도나리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0050_f00_s0.png|width=40]] 0050 [[디그다/포켓몬 카드 게임|디그다]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0051_f00_s0.png|width=40]] 0051 [[닥트리오/포켓몬 카드 게임|닥트리오]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[트리플렛비트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1a_044.png|width=100%]] ||
+|| [[트리플렛비트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''구멍뚫기헤드''' 30
+자신의 덱을 위에서부터 1장 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV1A.png|height=25]] | 044/073 | [[트리플렛비트]] | [include(틀:포케카 레어도/C)] ||
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_050.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''머리박치기''' 10
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''진흙뿌리기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 050/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[쌍벽의 파이터]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5a_033.png|width=100%]] ||
+|| [[쌍벽의 파이터]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:연격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''구멍파기''' 10
+동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''얕은 땅속을 이동한다. 굴을 파며 다닌 곳은 지면이 솟아 있기 때문에 바로 알 수 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_206.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 033/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 206/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[소드&실드 스타터 세트 V 5종]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_F_001.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 V 5종]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''할퀴기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''디그다가 지나간 뒤의 대지는 알맞게 땅이 일궈져 최고의 밭이 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SA_F.png|height=25]] | 001/024 | [[소드&실드 스타터 세트 V 5종]] ||
+=== [[폭염워커]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S2a_038.png|width=100%]] ||
+|| [[폭염워커]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''할퀴기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''디그다가 지나간 뒤의 대지는 알맞게 땅이 일궈져 최고의 밭이 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S2A.png|height=25]] | 038/070 | [[폭염워커]] | [include(틀:포케카 레어도/C)] ||
+== C 레귤레이션 ==
+=== [[풀메탈월]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9b_030.png|width=100%]] ||
+|| [[풀메탈월]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラディグダ{{{#!wiki style="float:right;"
+
+}}}}}}AlolaDiglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''부딪치기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''용암질의 지면도 거침없이 파며 나아갈 정도로 파워풀하지만 모습을 잘 드러내지 않는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_084.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM9B.png|height=25]] | 030/054 | [[풀메탈월]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 084/173 | [[태그올스타즈]] ||
+=== [[더블블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_043.png|width=100%]] ||
+|| [[더블블레이즈]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''지하 공작'''}}}
+이 포켓몬이 「비주기의 추방」의 효과로 트래쉬되면 상대의 덱을 위에서부터 1장 트래쉬한다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''걸기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''지하에 터널을 파서 이동한다. 빛을 싫어해서 해가 진 후에 지상으로 나온다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM10.png|height=25]] | 043/095 | [[더블블레이즈]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[울트라썬(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5S_032.png|width=100%]] ||
+|| [[울트라썬(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラディグダ{{{#!wiki style="float:right;"
+
+}}}}}}AlolaDiglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''아이언헤드''' 10×
+뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_076.png|width=100%]] ||<width=50%> [[파일:SMP_083.png|width=100%]]||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5S.png|height=25]] | 032/066 | [[울트라썬(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 076/150 | [[GX 울트라샤이니]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:PROMO.png|height=25]] | 065/SM-P | [[unknown]] ||
+=== [[플라즈마 스파크(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7A_035.png|width=100%]] ||
+|| [[플라즈마 스파크(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラディグダ{{{#!wiki style="float:right;"
+
+}}}}}}AlolaDiglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''동료부르기''' 
+자신의 덱에 있는 기본 포켓몬을 1장 벤치로 내보낸다. 그리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''금색 수염은 센서 기능을 가지고 있다. 구멍에서 내밀어 주변의 상황을 살피고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM30A_048.png|width=512px]] ||
+|| [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7A.png|height=25]] | 035/060 | [[플라즈마 스파크(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM30A.png|height=25]] | 048/080 | [[썬&문 「랜덤30장덱」]] ||
+== A 레귤레이션 ==
+=== [[썬 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1S_037.png|width=100%]] ||
+|| [[썬 컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''알로라디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アローラディグダ{{{#!wiki style="float:right;"
+
+}}}}}}AlolaDiglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''구멍더듬기''' 
+자신의 덱을 위에서부터 3장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''진흙뿌리기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''머리에 돋아나 있는 것은 수염이 변화한 것으로 금속 질이다. 흔들거리며 동료와 교신한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_066.png|width=100%]] ||<width=50%> [[파일:SM4plus_066.png|width=100%]]||
+|| [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1S.png|height=25]] | 037/060 | [[썬 컬렉션]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 066/114 | [[GX 배틀부스트]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 066/114 | [[GX 배틀부스트]] ||
+== XY 시리즈 ==
+=== [[Y컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_Y_029.jpg|width=100%]] ||
+|| [[Y컬렉션]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''산파기''' 
+상대의 덱을 위에서부터 1장 보고 원래대로 되돌린다. 원한다면 그 덱을 섞어도 좋다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''진흙뿌리기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''지하 1m 정도를 파고들어 가서 나무뿌리 등을 씹어 먹고 산다. 가끔 지상으로 얼굴을 내민다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XYpromo_021.jpg|width=512px]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 029/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 021/XY-P | [[unknown]] ||
+=== [[XY BREAK 퍼펙트 배틀 60장 덱 「지가르데 EX」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYG_001.png|width=100%]] ||
+|| [[XY BREAK 퍼펙트 배틀 60장 덱 「지가르데 EX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''부딪치기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''피부가 매우 얇아서 빛을 쪼이게 되면 혈액이 데워져 약해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XYG.png|height=25]] | 001/019 | [[XY BREAK 퍼펙트 배틀 60장 덱 「지가르데 EX」]] ||
+=== [[BASE PACK 20th Anniversary]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_055.jpg|width=100%]] ||
+|| [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''잠수'''}}}
+이 포켓몬은 벤치에 있는 한 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파나가기''' 
+상대의 벤치 포켓몬을 1마리 선택해서 30데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅속 얕은 곳을 이동한다. 땅을 판 후에는 지면이 튀어나와 있으므로 바로 알 수 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP6.png|height=25]] | 055/100 | [[BASE PACK 20th Anniversary]] | [include(틀:포케카 레어도/C)] ||
+== DP 시리즈 ==
+=== [[화려한 전설]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs8_ko_24.jpg|width=100%]] ||
+|| [[화려한 전설]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''디그다'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ディグダ{{{#!wiki style="float:right;"
+
+}}}}}}Diglett
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''언더드로''' 
+자신의 덱의 아래에서 카드를 1장 뽑는다.
+[[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''진흙뿌리기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''땅속에서 살고 있는 포켓몬이다. 어두운 지하에 있기 때문에 밝은 태양을 싫어한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS8.png|height=25]] | 24/40 | [[화려한 전설]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/격투 타입]][[분류:포켓몬 카드 게임/강철 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,143 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0893_f00_s0.png|width=40]] 0893 [[자루도/포켓몬 카드 게임|자루도]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0894_f00_s0.png|width=40]] 0894 [[레지에레키/포켓몬 카드 게임|레지에레키]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0895_f00_s0.png|width=40]] 0895 [[레지드래고/포켓몬 카드 게임|레지드래고]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== F 레귤레이션 ==
+=== [[타임 게이저]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10D_022.png|width=100%]] ||
+|| [[타임 게이저]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레지에레키'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レジエレキ{{{#!wiki style="float:right;"
+
+}}}}}}Regieleki
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''전자소나''' 
+자신의 트래쉬에서 트레이너스를 1장 선택해서 상대에게 보여주고 패로 가져온다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''타깃볼트''' 
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 에너지를 2개 트래쉬하고 상대의 벤치 포켓몬 1마리에게 120데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''전기 에너지 덩어리다. 몸에 있는 링을 해제하면 숨겨진 힘이 해방된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12a_045.png|width=512px]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/U)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10D.png|height=25]] | 022/067 | [[타임 게이저]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 045/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/U)] ||
+=== [[패러다임트리거]] ===
+==== 레지에레키 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_033.png|width=100%]] ||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레지에레키 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 200 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レジエレキ V{{{#!wiki style="float:right;"
+
+}}}}}}Regieleki V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''스위치볼트''' 30
+이 포켓몬을 벤치 포켓몬과 교체한다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''라이트닝월''' 100
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-100」이 된다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12_101.png|width=100%]] ||<width=50%> [[파일:S-P_199.png|width=100%]]||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] || [[소드&실드 「미스터리 박스」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 033/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 101/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 199/S-P | [[소드&실드 「미스터리 박스」]] ||
+==== 레지에레키 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_034.png|width=100%]] ||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레지에레키 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 310 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レジエレキ VMAX{{{#!wiki style="float:right;"
+레지에레키 V에서 진화
+}}}}}}Regieleki VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''트랜지스터'''}}}
+이 포켓몬이 있는 한, 자신의 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 타입의 기본 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다.
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다이뇌전''' 220
+자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12_115.png|width=512px]] ||
+|| [[패러다임트리거]][br][include(틀:포케카 레어도/HR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 034/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 115/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/HR)] ||
+== E 레귤레이션 ==
+=== [[창공스트림]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7R_033.png|width=100%]] ||
+|| [[창공스트림]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''레지에레키'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+レジエレキ{{{#!wiki style="float:right;"
+
+}}}}}}Regieleki
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''찌릿찌릿''' 20
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''테라스파크''' 120
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 에너지를 모두 트래쉬하고 상대의 벤치 포켓몬 2마리에게도 각각 40데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''온몸이 전기 에너지를 만드는 기관이다._x000D_ 가라르 전 지역에서 사용하는 양의 전기를 만들어 낼 수 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 033/067 | [[창공스트림]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/번개 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

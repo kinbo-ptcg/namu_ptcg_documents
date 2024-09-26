@@ -1,0 +1,434 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0214_f00_s0.png|width=40]] 0214 [[헤라크로스/포켓몬 카드 게임|헤라크로스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0215_f00_s0.png|width=40]] 0215 [[포푸니/포켓몬 카드 게임|포푸니]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0216_f00_s0.png|width=40]] 0216 [[깜지곰/포켓몬 카드 게임|깜지곰]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[나이트 원더러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6a_013.png|width=100%]] ||
+|| [[나이트 원더러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''풀베기''' 10
+[[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''들이대기''' 30
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''약삭빠르게 한 마리가 어미를 유인하고 다른 한 마리가 알을 훔치는 팀플레이를 보여 준다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6A.png|height=25]] | 013/064 | [[나이트 원더러]] | [include(틀:포케카 레어도/C)] ||
+== G 레귤레이션 ==
+=== [[클레이버스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2D_050.png|width=100%]] ||
+|| [[클레이버스트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''발톱세우기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''눈에 띄지 않도록 어둠 속에 숨어서 먹이를 습격하는 매우 교활한 포켓몬이다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_119.png|width=100%]] ||<width=50%> [[파일:SV4a_289.png|width=100%]]||
+|| [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2D.png|height=25]] | 050/071 | [[클레이버스트]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 119/190 | [[샤이니트레저ex]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 289/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
+== F 레귤레이션 ==
+=== [[스타버스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_062.png|width=100%]] ||
+|| [[스타버스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''예리한 손톱을 손가락 안에 감추고 있다. 갑자기 뻗어서 습격해온 상대를 풀죽게 만든다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 062/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+=== [[스페이스 저글러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10P_042.png|width=100%]] ||
+|| [[스페이스 저글러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''히스이 포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ヒスイ ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Hisui Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''발톱 베어가르기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10P.png|height=25]] | 042/067 | [[스페이스 저글러]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[칠흑의 가이스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6K_011.png|width=100%]] ||
+|| [[칠흑의 가이스트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''잘라내기''' 
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''교활하고 사나운 성질을 가졌다. 부모가 없는 틈에 둥지로 침입해서 알을 훔친다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 011/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/C)] ||
+== C 레귤레이션 ==
+=== [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMM_014.png|width=100%]] ||
+|| [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''팀플레이로 새포켓몬의 둥지에서 알을 훔쳐 내지만, 누가 먹을까로 싸움이 난다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_073.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMM.png|height=25]] | 014/031 | [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 073/173 | [[태그올스타즈]] ||
+=== [[드림리그(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11b_007.png|width=100%]] ||
+|| [[드림리그(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#4FAFE6; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''고속이동''' 10
+동전을 1번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''팀플레이로 새포켓몬의 둥지에서 알을 훔쳐 내지만, 누가 먹을까로 싸움이 난다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11B.png|height=25]] | 007/049 | [[드림리그(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[울트라썬(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5S_027.png|width=100%]] ||
+|| [[울트라썬(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''몰래부수기''' 
+이 기술은 후공 플레이어의 첫 차례에만 사용할 수 있다. 상대 필드의 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''덮치기''' 10+
+동전을 1번 던져서 앞면이 나오면 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''손톱으로 알에 구멍을 뚫어서 내용물을 마신다. 브리더에게 미움을 받아 제거될 때도 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8b_065.png|width=512px]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM5S.png|height=25]] | 027/066 | [[울트라썬(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 065/150 | [[GX 울트라샤이니]] ||
+=== [[챔피언로드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6B_037.png|width=100%]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마구할퀴기''' 10×
+동전을 3번 던져서 앞면이 나온 수 × 10데미지를 준다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''집단구타''' 30×
+자신의 필드에 있는 포켓몬의 수만큼 동전을 던져서 앞면이 나온 수 × 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''손톱으로 알에 구멍을 뚫어서 내용물을 마신다. 브리더에게 미움을 받아 제거될 때도 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM6B_104.png|width=512px]] ||
+|| [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 037/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 037/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+== A 레귤레이션 ==
+=== [[새로운 시련(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2plus_037.png|width=100%]] ||
+|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''손톱갈기''' 
+자신의 다음 차례에 이 포켓몬의 「베어가르기」의 데미지는 「80」이 된다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''교활하고 사나운 성질을 가졌다. 부모가 없는 틈에 둥지에 침입해서 알을 훔쳐낸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM2plus_098.png|width=512px]] ||
+|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 037/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 037/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+== XY 시리즈 ==
+=== [[와일드 블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY2_045.jpg|width=100%]] ||
+|| [[와일드 블레이즈]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 10
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''플래시크루''' 
+상대는 상대 자신의 패를 1장 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''거처에서 알을 가로채어 먹어 버린다. 날카로운 갈고리 손톱이 상대의 급소를 베어 가른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY2.png|height=25]] | 045/080 | [[와일드 블레이즈]] | [include(틀:포케카 레어도/C)] ||
+=== [[냉혹한 반역자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY11B_028.jpg|width=100%]] ||
+|| [[냉혹한 반역자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''데굴냥''' 10
+동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 이 포켓몬은 기술의 데미지나 효과를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''예리한 손톱을 손가락 안에 감추고 있다. 갑자기 뻗어서 습격해온 상대를 풀죽게 만든다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY11H.png|height=25]] | 028/054 | [[냉혹한 반역자]] | [include(틀:포케카 레어도/C)] ||
+== BW 시리즈 ==
+=== [[헤일 블리자드]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw3_hb_037.jpg|width=100%]] ||
+|| [[헤일 블리자드]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''몰아붙이기''' 10
+상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬은 후퇴할 수 없다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''할퀴기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''약삭빠르게 한 마리가 어미를 유인하고 다른 한 마리가 알을 훔치는 팀플레이를 보여준다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3H.png|height=25]] | 037/052 | [[헤일 블리자드]] | [include(틀:포케카 레어도/C)] ||
+=== [[스파이럴포스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_sf_031.jpg|width=100%]] ||
+|| [[스파이럴포스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''전광석화''' 20+
+동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''약삭빠른 포켓몬으로 손가락에 숨긴 긴 손톱을 갑자기 늘려 상대를 풀죽게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 031/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
+== DP 시리즈 ==
+=== [[시공의 격돌]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs3_ko_31.jpg|width=100%]] ||
+|| [[시공의 격돌]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''포푸니'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ニューラ{{{#!wiki style="float:right;"
+
+}}}}}}Sneasel
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''연속뺨치기''' 10×
+동전을 두 번 던져서 앞면 × 10데미지를 준다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''속여때리기''' 
+상대의 포켓몬 1마리에게 그 포켓몬의 약점 저항력 모든 효과에 관계없이 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''거처에서 알을 가로채어 먹어 버린다. 날카로운 갈고리 손톱이 상대의 급소를 베어 가른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS3.png|height=25]] | 31/60 | [[시공의 격돌]] | [include(틀:포케카 레어도/C)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/2세대]][[분류:포켓몬 카드 게임/악 타입]][[분류:포켓몬 카드 게임/물 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

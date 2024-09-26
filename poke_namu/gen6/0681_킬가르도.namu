@@ -1,0 +1,455 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0680_f00_s0.png|width=40]] 0680 [[쌍검킬/포켓몬 카드 게임|쌍검킬]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0681_f00_s0.png|width=40]] 0681 [[킬가르도/포켓몬 카드 게임|킬가르도]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0682_f00_s0.png|width=40]] 0682 [[슈쁘/포켓몬 카드 게임|슈쁘]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[레이징서프]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3a_047.png|width=100%]] ||
+|| [[레이징서프]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''신비의 방패'''}}}
+이 포켓몬은 상대의 「포켓몬 ex ・ V」로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''하드배시''' 120
+이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강력한 영력으로 사람과 포켓몬을 조종해 킬가르도의 입맛에 맞는 나라를 만들게 했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3a_073.png|width=512px]] ||
+|| [[레이징서프]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3A.png|height=25]] | 047/062 | [[레이징서프]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3A.png|height=25]] | 073/062 | [[레이징서프]] | [include(틀:포케카 레어도/AR)] ||
+=== [[미래의 일섬]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_045.png|width=100%]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 330 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド ex{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''피어리스에지''' 70×
+자신이 이미 가져온 프라이즈의 장수 × 70데미지를 준다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''양날베기''' 220
+이 포켓몬에게도 30데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_082.png|width=512px]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 045/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 082/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/SR)] ||
+== E 레귤레이션 ==
+=== [[일격마스터]] ===
+==== 킬가르도 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_053.png|width=100%]] ||
+|| [[일격마스터]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''배틀스위치'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 패에서 「킬가르도」를 1장 선택해서 이 카드와 교체한다(붙어 있는 카드, 데미지 카운터, 특수 상태, 효과 등은 모두 이어받는다). 이 카드는 패로 되돌린다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''풀메탈 블레이드''' 210
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지를 2개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''옛날에 킬가르도를 거느린 왕이 나라를 지배했지만 머지않아 생기를 뺏겨 나라도 멸망했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 053/070 | [[일격마스터]] | [include(틀:포케카 레어도/R)] ||
+==== 킬가르도 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_054.png|width=100%]] ||
+|| [[일격마스터]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''배틀스위치'''}}}
+자신의 차례에 1번 사용할 수 있다. 자신의 패에서 「킬가르도」를 1장 선택해서 이 카드와 교체한다(붙어 있는 카드, 데미지 카운터, 특수 상태, 효과 등은 모두 이어받는다). 이 카드는 패로 되돌린다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''기간트배시''' 70
+상대의 다음 차례에 이 포켓몬은 「포켓몬 VMAX」로부터 기술의 데미지를 받지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강력한 영력으로 사람과 포켓몬을 조종해 킬가르도의 입맛에 맞는 나라를 만들게 했다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 054/070 | [[일격마스터]] | [include(틀:포케카 레어도/U)] ||
+== D 레귤레이션 ==
+=== [[VMAX 라이징]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1a_057.png|width=100%]] ||
+|| [[VMAX 라이징]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''빅실드'''}}}
+이 포켓몬이 있는 한, 자신의 포켓몬 전원이 상대의 포켓몬으로부터 받는 기술의 데미지는 「-30」이 된다. 이 효과는 이 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파워에지''' 130{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''강철로 된 몸과 영험한 힘을 가진 배리어로 모든 공격을 약하게 만드는 방어적인 태세.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4a_131.png|width=512px]] ||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1A.png|height=25]] | 057/070 | [[VMAX 라이징]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 131/190 | [[샤이니스타V]] ||
+=== [[앙천의 볼트태클]] ===
+==== 킬가르도 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4_080.png|width=100%]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド V{{{#!wiki style="float:right;"
+
+}}}}}}Aegislash V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 50
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''소닉에지''' 130
+이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4_108.png|width=512px]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 080/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 108/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/SR)] ||
+==== 킬가르도 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4_081.png|width=100%]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド VMAX{{{#!wiki style="float:right;"
+킬가르도 V에서 진화
+}}}}}}Aegislash VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다이참격''' 160+
+자신이 이미 가져온 프라이즈의 장수 × 30데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 081/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/RRR)] ||
+== C 레귤레이션 ==
+=== [[미라클트윈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_041_1.png|width=100%]] ||
+|| [[미라클트윈]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''녹슬지 않는 칼'''}}}
+이 포켓몬이 상대의 포켓몬으로부터 기술의 데미지를 받아 기절했을 때 트래쉬하지 않고 패로 되돌린다. (포켓몬 이외의 카드는 모두 트래쉬한다.)
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''트래쉬슬래시''' 10×
+자신의 트래쉬에 있는 아이템의 장수 × 10데미지를 준다. 줄 수 있는 데미지는 아이템 13장까지이다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''역대 왕들이 데리고 있었다. 영험한 힘으로 사람이나 포켓몬의 마음을 조종하여 복종하게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11.png|height=25]] | 041/094 | [[미라클트윈]] | [include(틀:포케카 레어도/R)] ||
+== B 레귤레이션 ==
+=== [[금단의 빛]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6_035.png|width=100%]] ||
+|| [[금단의 빛]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 150 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''죽음새기기''' 
+자신의 다음 차례에 이 기술을 받은 포켓몬은 기술의 데미지를 받으면 기절한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''드레인슬래시''' 90
+이 포켓몬의 HP를 「30」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''왕의 기질을 가진 인간을 간파하는 듯하다. 인정받은 자는 이윽고 왕이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6.png|height=25]] | 035/094 | [[금단의 빛]] | [include(틀:포케카 레어도/U)] ||
+=== [[다크오더]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_044.png|width=100%]] ||
+|| [[다크오더]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''로열가드'''}}}
+이 포켓몬이 받는 기술의 데미지는 「-40」이 된다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''실드배시''' 100
+이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과를 계산하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''왕의 기질을 가진 인간을 간파하는 듯하다. 인정받은 자는 이윽고 왕이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8A.png|height=25]] | 044/052 | [[다크오더]] | [include(틀:포케카 레어도/R)] ||
+== XY 시리즈 ==
+=== [[Y컬렉션]] ===
+==== 킬가르도 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_Y_040.jpg|width=100%]] ||
+|| [[Y컬렉션]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''배틀스위치'''}}}
+자신의 패에서 「킬가르도」를 1장 선택해서 이 카드와 교체한다.(붙어 있는 카드 데미지 카운터 특수 상태 효과 등은 모두 이어받는다.) 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''버스터스윙''' 120
+이 기술의 데미지는 저항력 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''역대 왕들이 데리고 있었다. 영험한 힘으로 사람이나 포켓몬의 마음을 조종하여 복종하게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 040/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
+==== 킬가르도 ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:K1_Y_040_2.jpg|width=100%]] ||
+|| [[Y컬렉션]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''배틀스위치'''}}}
+자신의 패에서 「킬가르도」를 1장 선택해서 이 카드와 교체한다.(붙어 있는 카드 데미지 카운터 특수 상태 효과 등은 모두 이어받는다.) 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''킹실드''' 50
+상대의 다음 차례에 이 포켓몬은 기술의 데미지를 받지 않는다. 자신의 다음 차례에 이 포켓몬은 「킹실드」를 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''역대 왕들이 데리고 있었다. 영험한 힘으로 사람이나 포켓몬의 마음을 조종하여 복종하게 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 041/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/R)] ||
+=== [[XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYB_005.jpg|width=100%]] ||
+|| [[XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド EX{{{#!wiki style="float:right;"
+
+}}}}}}Aegislash EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''마이티실드'''}}}
+이 포켓몬은 특수 에너지가 붙어있는 상대의 포켓몬으로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬래시블라스트''' 40+
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지의 개수 × 20데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SMXY_087.png|width=100%]] ||<width=50%> [[파일:SMXY_179.png|width=100%]]||
+|| [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XYB.png|height=25]] | 005/018 | [[XY 하이퍼 메탈 체인 60장 덱 「디아루가 EX+킬가르도 EX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 087/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 179/171 | [[THE BEST OF XY]] ||
+=== [[가이아 볼케이노]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_052.jpg|width=100%]] ||
+|| [[가이아 볼케이노]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''미라클가드'''}}}
+이 포켓몬이 있는 한 자신의 포켓몬 전원의 약점은 모두 없어진다.
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''프로텍트차지''' 80
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''왕의 기질을 가진 인간을 간파하는 듯하다. 인정받은 자는 이윽고 왕이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 052/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/R)] ||
+=== [[천공의 분노]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY9_043.jpg|width=100%]] ||
+|| [[천공의 분노]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''킬가르도'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 140 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ギルガルド{{{#!wiki style="float:right;"
+쌍검킬에서 진화
+}}}}}}Aegislash
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''소드페인''' 
+상대의 포켓몬 전원에게 각각 올려져 있는 데미지 카운터의 수가 2배가 되도록 데미지 카운터를 올린다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메가톤슬래시''' 100
+상대의 벤치 포켓몬을 2마리 선택해서 그 포켓몬에게도 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''왕의 기질을 가진 인간을 간파하는 듯하다. 인정받은 자는 이윽고 왕이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY9.png|height=25]] | 043/080 | [[천공의 분노]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/6세대]][[분류:포켓몬 카드 게임/강철 타입]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,241 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0240_f00_s0.png|width=40]] 0240 [[마그비/포켓몬 카드 게임|마그비]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0241_f00_s0.png|width=40]] 0241 [[밀탱크/포켓몬 카드 게임|밀탱크]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0242_f00_s0.png|width=40]] 0242 [[해피너스/포켓몬 카드 게임|해피너스]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[미래의 일섬]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_053.png|width=100%]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''발랄태클''' 60+
+이 차례에 이 포켓몬이 HP를 회복했다면 90데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''매일 우유를 짜지 않으면 컨디션이 나빠진다. 우유의 맛은 계절에 따라 다르다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 053/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/C)] ||
+== F 레귤레이션 ==
+=== [[배틀리전]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9a_058.png|width=100%]] ||
+|| [[배틀리전]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''미라클바디'''}}}
+이 포켓몬은 상대의 「포켓몬 V」로부터 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''차서흩뜨리기''' 10+
+상대의 벤치 포켓몬의 수 × 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''영양 만점의 우유를 만들어내서 옛날부터 사람과 포켓몬의 삶을 지탱해왔다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_119.png|width=100%]] ||<width=50%> [[파일:S12a_199.png|width=100%]]||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9A.png|height=25]] | 058/067 | [[배틀리전]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 119/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 199/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
+== B 레귤레이션 ==
+=== [[버스트 임팩트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8_0071.png|width=100%]] ||
+|| [[버스트 임팩트]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''밀크포''' 60x
+자신의 패에 있는 「튼튼밀크」를 원하는 만큼 상대에게 보여주고 그 장수 × 60데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''우유를 얻기 위해 키우는 사람이 대부분이지만 상당히 늠름하고 터프해서 싸움에도 적합하다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8.png|height=25]] | 071/095 | [[버스트 임팩트]] | [include(틀:포케카 레어도/U)] ||
+== A 레귤레이션 ==
+=== [[초차원의 침략자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4A_041.png|width=100%]] ||
+|| [[초차원의 침략자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''튼튼응원'''}}}
+이 포켓몬이 배틀필드에 있는 한, 패에서 자신의 포켓몬에게 에너지를 붙일 때마다 그 포켓몬의 HP를 「90」회복한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''히프드롭''' 60+
+동전을 1번 던져서 앞면이 나오면 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''그 우유는 영양 만점에 고칼로리이다. 고로 너무 많이 마시면 밀탱크 같은 체형이 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4A.png|height=25]] | 041/050 | [[초차원의 침략자]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[와일드 블레이즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY2_069.jpg|width=100%]] ||
+|| [[와일드 블레이즈]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''일당백''' 10＋
+자신의 벤치에 2진화 포켓몬이 있다면 70데미지를 추가한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''한방 먹이기''' 60{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''새끼가 태어났을 때에 짜낸 우유는 평상시보다 영양이 듬뿍 담겨 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_095.jpg|width=512px]] ||
+|| [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY2.png|height=25]] | 069/080 | [[와일드 블레이즈]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 095/131 | [[프리미엄 챔피언팩]] ||
+=== [[THE BEST OF XY]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMXY_101.png|width=100%]] ||
+|| [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''한방 먹이기''' 10＋
+자신의 벤치에 2진화 포켓몬이 있다면 70데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''새끼가 태어났을 때에 짜낸 우유는 평상시보다 영양이 듬뿍 담겨 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 101/171 | [[THE BEST OF XY]] ||
+== BW 시리즈 ==
+=== [[스파이럴포스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_sf_045.jpg|width=100%]] ||
+|| [[스파이럴포스]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''풀회복밀크''' 
+자신의 포켓몬을 1마리 선택해서 HP를 모두 회복한다. 그 뒤 이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''몸통박치기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''밀탱크의 우유를 마시고 자란 아이는 건강하고 강인한 어른이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 045/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
+== DP 시리즈 ==
+=== [[DP 랜덤 구축덱]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:st1_kr_41.jpg|width=100%]] ||
+|| [[DP 랜덤 구축덱]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''밀탱크'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ミルタンク{{{#!wiki style="float:right;"
+
+}}}}}}Miltank
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 0코스트.png|width=17px]] '''치유밀크''' 
+동전을 두 번 던져서 앞면이 나온 수 × 3개분의 데미지 카운터를 자신의 포켓몬 1마리로부터 제거한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''연속 구르기''' 20x
+뒷면이 나올 때까지 동전을 계속 던져서 앞면 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''밀탱크의 우유를 마시고 자란 아이는 건강하고 강인한 어른이 된다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:ST1.png|height=25]] | 41/55 | [[DP 랜덤 구축덱]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/2세대]][[분류:포켓몬 카드 게임/무색 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

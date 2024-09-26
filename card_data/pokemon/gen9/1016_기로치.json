@@ -1,0 +1,166 @@
+[
+    {
+        "id": "SV6-056",
+        "cardID": "기로초120아드에너030",
+        "name": "기로치",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 120,
+        "pokemons": [
+            {
+                "name": "기로치",
+                "pokedexNumber": 1016
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "에너지페더",
+                "cost": "(초)",
+                "damage": "30×",
+                "text": "이 포켓몬에게 붙어 있는 에너지의 개수 × 30데미지를 준다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아드레나 페로몬",
+                "text": "이 포켓몬에게 (악) 에너지가 붙어 있다면 이 포켓몬이 기술의 데미지를 받을 때 자신은 동전을 1번 던진다. 앞면이 나오면 이 포켓몬은 그 데미지를 받지 않는다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "윤기가 흐르는 날개를 펄럭이며 페로몬을 흩뿌리는 것으로 사람과 포켓몬을 매료시킨다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "056",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Kouki Saitou",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_056.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008056",
+                "regu": "H",
+                "debug": "3"
+            },
+            {
+                "number": "108",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "KEIICHIRO ITO",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_108.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008108",
+                "regu": "H",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-038",
+        "cardID": "기로악210역이크루000",
+        "name": "기로치 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 210,
+        "pokemons": [
+            {
+                "name": "기로치",
+                "pokedexNumber": 1016
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "크루얼애로",
+                "cost": "(무색)(무색)(무색)",
+                "damage": "",
+                "text": "상대의 포켓몬 1마리에게 100데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)"
+            }
+        ],
+        "abilities": [
+            {
+                "name": "역이용",
+                "text": "상대의 이전 차례에 자신의 포켓몬이 기절했다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱을 3장 뽑는다. 이 차례에 이미 다른 「역이용」을 사용했다면 이 특성은 사용할 수 없다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "038",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_038.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011038",
+                "regu": "H",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011081",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "089",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_089.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011089",
+                "regu": "H",
+                "debug": "2"
+            }
+        ]
+    }
+]

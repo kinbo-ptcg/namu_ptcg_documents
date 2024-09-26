@@ -1,0 +1,80 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0792_f00_s0.png|width=40]] 0792 [[루나아라/포켓몬 카드 게임|루나아라]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0793_f00_s0.png|width=40]] 0793 [[텅비드/포켓몬 카드 게임|텅비드]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0794_f00_s0.png|width=40]] 0794 [[매시붕/포켓몬 카드 게임|매시붕]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== B 레귤레이션 ==
+=== [[버스트 임팩트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8_0046.png|width=100%]] ||
+|| [[버스트 임팩트]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''텅비드'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ウツロイド{{{#!wiki style="float:right;"
+
+}}}}}}Nihilego
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''나이트캡''' 
+이 기술은 상대의 남은 프라이즈 장수가 2장일 때에만 사용할 수 있다. 상대의 필드의 포켓몬이 가지고 있는 기술을 1개 선택해서 이 기술로써 사용한다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''텅빈촉수''' 
+상대의 배틀 포켓몬을 독과 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''UB의 일종. 의지가 있는지는 불명확하지만 가끔 소녀 같은 행동을 보인다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8.png|height=25]] | 046/095 | [[버스트 임팩트]] | [include(틀:포케카 레어도/R)] ||
+== A 레귤레이션 ==
+=== [[초차원의 침략자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4A_022.png|width=100%]] ||
+|| [[초차원의 침략자]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''텅비드 [[파일:포케카 GXRED.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 180 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ウツロイド GX{{{#!wiki style="float:right;"
+
+}}}}}}Nihilego GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''텅빈 불빛'''}}}
+자신의 차례에 이 카드를 패에서 벤치로 내보냈을 때 1번 사용할 수 있다. 서로의 배틀 포켓몬을 각각 독과 혼란으로 만든다.
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''가두기''' 120
+상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(45deg, #d03620, #0a0000); color: #FFF;;"
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''패러사이트 GX''' 
+상대의 덱을 위에서부터 2장 상대의 프라이즈로 놓는다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4A_052.png|width=100%]] ||<width=50%> [[파일:SM8b_222.png|width=100%]]||
+|| [[초차원의 침략자]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4A.png|height=25]] | 022/050 | [[초차원의 침략자]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4A.png|height=25]] | 052/050 | [[초차원의 침략자]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 222/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/SSR)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/7세대]][[분류:포켓몬 카드 게임/초 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

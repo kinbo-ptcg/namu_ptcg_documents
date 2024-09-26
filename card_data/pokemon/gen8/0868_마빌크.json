@@ -1,0 +1,266 @@
+[
+    {
+        "id": "S2-047",
+        "cardID": "마빌초050아로000몸통020",
+        "name": "마빌크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "마빌크",
+                "pokedexNumber": 868
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "아로마테라피",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 포켓몬 전원의 HP를 각각 「10」회복한다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(초)(무색)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "크림으로 이루어진 몸을 가졌다. 공기 중을 떠도는 달콤한 향기의 성분이 모여서 태어났다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "047",
+                "prodNumber": "096",
+                "prodCode": "S2",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S2.png",
+                "prodName": "소드&실드 확장팩 「반역크래시」",
+                "artist": "Mina Nakai",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S2/S2_047.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020005047",
+                "regu": "D",
+                "debug": "1"
+            },
+            {
+                "number": "081",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Mina Nakai",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_081.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016081",
+                "regu": "D",
+                "debug": "2"
+            },
+            {
+                "number": "256",
+                "prodNumber": "190",
+                "prodCode": "S4a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4a.png",
+                "prodName": "소드&실드 하이클래스팩 「샤이니스타 V」",
+                "artist": "Motofumi Fujiwara",
+                "rarity": "S",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4a/S4a_256.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020016256",
+                "regu": "D",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "S4-051",
+        "cardID": "마빌초050달콤000몸통010",
+        "name": "마빌크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "마빌크",
+                "pokedexNumber": 868
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "달콤한향기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 포켓몬을 1마리 선택해서 HP를 「20」회복한다."
+            },
+            {
+                "name": "몸통박치기",
+                "cost": "(무색)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "크림으로 이루어진 몸을 가졌다. 공기 중을 떠도는 달콤한 향기의 성분이 모여서 태어났다.",
+        "regulationMark": [
+            "D"
+        ],
+        "version_infos": [
+            {
+                "number": "051",
+                "prodNumber": "100",
+                "prodCode": "S4",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S4.png",
+                "prodName": "소드&실드 확장팩 「앙천의 볼트태클」",
+                "artist": "Kouki Saitou",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S4/S4_051.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2020014051",
+                "regu": "D",
+                "debug": "1"
+            }
+        ]
+    },
+    {
+        "id": "S8b-080",
+        "cardID": "마빌초050인도000부딪010",
+        "name": "마빌크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 50,
+        "pokemons": [
+            {
+                "name": "마빌크",
+                "pokedexNumber": 868
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "인도하기",
+                "cost": "(초)",
+                "damage": "",
+                "text": "자신의 덱에서 서포트를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다."
+            },
+            {
+                "name": "부딪치기",
+                "cost": "(초)",
+                "damage": "10",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "마빌크가 모습을 보인 디저트 가게는 크게 번창한다고 전해지고 있다.",
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "080",
+                "prodNumber": "184",
+                "prodCode": "S8b",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8b.png",
+                "prodName": "소드&실드 하이클래스팩 「VMAX 클라이맥스」",
+                "artist": "Misa Tsutsui",
+                "rarity": "N",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8b/S8b_080.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022001080",
+                "regu": "E",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "SV7-043",
+        "cardID": "마빌초060중얼020",
+        "name": "마빌크",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 60,
+        "pokemons": [
+            {
+                "name": "마빌크",
+                "pokedexNumber": 868
+            }
+        ],
+        "type": "(초)",
+        "attacks": [
+            {
+                "name": "중얼거리기",
+                "cost": "(초)",
+                "damage": "20",
+                "text": ""
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(강철)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 1,
+        "flavorText": "적에게 공격을 받으면 몸통박치기를 한다. 크림 범벅이 돼서 앞이 보이지 않거나 맛에 놀란 틈을 타서 도망친다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "043",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "OKACHEKE",
+                "rarity": "C",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_043.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012043",
+                "regu": "H",
+                "debug": "1"
+            }
+        ]
+    }
+]

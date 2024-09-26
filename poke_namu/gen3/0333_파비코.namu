@@ -1,0 +1,353 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0332_f00_s0.png|width=40]] 0332 [[밤선인/포켓몬 카드 게임|밤선인]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0333_f00_s0.png|width=40]] 0333 [[파비코/포켓몬 카드 게임|파비코]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0334_f00_s0.png|width=40]] 0334 [[파비코리/포켓몬 카드 게임|파비코리]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_094.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''둥실둥실가드''' 
+상대의 다음 차례에 이 포켓몬이 받는 기술의 데미지는 「-20」이 된다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''홰치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 094/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/C)] ||
+=== [[미래의 일섬]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_054.png|width=100%]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' 10
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''상처치료''' 
+자신의 포켓몬 1마리의 HP를 「30」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''자신도 주변도 깨끗하지 않으면 진정되지 않는 성격이다. 더러운 것을 발견하면 날개로 닦는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_076.png|width=512px]] ||
+|| [[미래의 일섬]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 054/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4M.png|height=25]] | 076/066 | [[미래의 일섬]] | [include(틀:포케카 레어도/AR)] ||
+== F 레귤레이션 ==
+=== [[백열의 아르카나]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11a_056.png|width=100%]] ||
+|| [[백열의 아르카나]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''연속스핀''' 20×
+뒷면이 나올 때까지 동전을 던져서 앞면이 나온 수 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개에는 공기가 들어 있어 만지면 푹신푹신한 느낌이 든다. 항상 꼼꼼하게 손질한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11A.png|height=25]] | 056/068 | [[백열의 아르카나]] | [include(틀:포케카 레어도/C)] ||
+== E 레귤레이션 ==
+=== [[마천퍼펙트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7D_053.png|width=100%]] ||
+|| [[마천퍼펙트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''허찌르기''' 30
+동전을 1번 던져서 뒷면이 나오면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_347.png|width=100%]] ||<width=50%> [[파일:S12a_120.png|width=100%]]||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/C)] ||
+||<rowbgcolor=#ffffff> [[파일:S12a_202.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 053/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 347/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 120/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 202/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
+== D 레귤레이션 ==
+=== [[소드&실드 확장팩 세트 V]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SD_030.png|width=100%]] ||
+|| [[소드&실드 확장팩 세트 V]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 030/031 | [[소드&실드 확장팩 세트 V]] ||
+== B 레귤레이션 ==
+=== [[드래곤스톰]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6A_042.png|width=100%]] ||
+|| [[드래곤스톰]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가져오기''' 
+자신의 덱을 1장 뽑는다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6A_099.png|width=100%]] ||<width=50%> [[파일:SM8b_107.png|width=100%]]||
+|| [[드래곤스톰]][br][include(틀:포케카 레어도/C)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
+||<rowbgcolor=#ffffff> [[파일:SM8b_202.png|width=100%]] ||
+|| [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6A.png|height=25]] | 042/053 | [[드래곤스톰]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6A.png|height=25]] | 042/053 | [[드래곤스톰]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 107/150 | [[GX 울트라샤이니]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8B.png|height=25]] | 202/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/S)] ||
+=== [[창공의 카리스마]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7_077.png|width=100%]] ||
+|| [[창공의 카리스마]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''노래하기''' 
+상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM7.png|height=25]] | 077/096 | [[창공의 카리스마]] | [include(틀:포케카 레어도/C)] ||
+== A 레귤레이션 ==
+=== [[초차원의 침략자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4A_042.png|width=100%]] ||
+|| [[초차원의 침략자]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람의 머리 위에 살짝 앉아 모자처럼 구는 것을 왠지 좋아한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4A.png|height=25]] | 042/050 | [[초차원의 침략자]] | [include(틀:포케카 레어도/C)] ||
+== XY 시리즈 ==
+=== [[에메랄드 브레이크]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY6_059.jpg|width=100%]] ||
+|| [[에메랄드 브레이크]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''상처치료''' 
+자신의 포켓몬을 1마리 선택해서 HP를 「20」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''솜 같은 날개를 손질하는 일은 절대 거르지 않는다. 더러워지면 물로 깨끗하게 씻는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP3_028.png|width=100%]] ||<width=50%> [[파일:XYpromo_065.png|width=100%]]||
+|| [[포켓심쿵 컬렉션]][br][include(틀:포케카 레어도/C)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY6.png|height=25]] | 059/078 | [[에메랄드 브레이크]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP3.png|height=25]] | 028/032 | [[포켓심쿵 컬렉션]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 065/XY-P | [[unknown]] ||
+== BW 시리즈 ==
+=== [[BW 「한카리아스 덱」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw_hkr_008.jpg|width=100%]] ||
+|| [[BW 「한카리아스 덱」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''자신도 주변도 깨끗하지 않으면 진정되지 않는 성격의 포켓몬이다. 더러움을 발견하면 날개로 닦는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:HRK.png|height=25]] | 008/015 | [[BW 「한카리아스 덱」]] ||
+=== [[드래곤 블레이드(포켓몬스터 TCG)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw5_blade_044.jpg|width=100%]] ||
+|| [[드래곤 블레이드(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''노래하기''' 
+상대의 배틀 포켓몬을 잠듦으로 만든다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''쪼기''' {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''자신도 주변도 깨끗하지 않으면 진정되지 않는 성격의 포켓몬이다. 더러움을 발견하면 날개로 닦는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW5E.png|height=25]] | 044/050 | [[드래곤 블레이드(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+=== [[EX 배틀 부스트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_087.jpg|width=100%]] ||
+|| [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#D6D5D8; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''파비코'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+チルット{{{#!wiki style="float:right;"
+
+}}}}}}Swablu
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''노려보고쪼기''' 10
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''사람의 머리 위에 살짝 앉아 모자처럼 구는 것을 왠지 좋아한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:EBB.png|height=25]] | 087/093 | [[EX 배틀 부스트]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/3세대]][[분류:포켓몬 카드 게임/무색 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

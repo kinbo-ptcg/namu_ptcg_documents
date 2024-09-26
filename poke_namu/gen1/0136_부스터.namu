@@ -1,0 +1,405 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0135_f00_s0.png|width=40]] 0135 [[쥬피썬더/포켓몬 카드 게임|쥬피썬더]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0136_f00_s0.png|width=40]] 0136 [[부스터/포켓몬 카드 게임|부스터]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0137_f00_s0.png|width=40]] 0137 [[폴리곤/포켓몬 카드 게임|폴리곤]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== G 레귤레이션 ==
+=== [[포켓몬 카드 151]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_136.png|width=100%]] ||
+|| [[포켓몬 카드 151]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 130 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''파괴불''' 30
+동전을 1번 던져서 앞면이 나오면 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''투지의맹화''' 90+
+상대의 배틀 포켓몬이 「포켓몬 ex・V」라면 90데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''들이마신 공기를 체내의 불꽃 주머니에 보내 1700도의 불꽃으로 내뿜는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 136/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/R)] ||
+== E 레귤레이션 ==
+=== [[소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SP4_001.png|width=100%]] ||
+|| [[소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター VMAX{{{#!wiki style="float:right;"
+부스터 V에서 진화
+}}}}}}Flareon VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화 | [[파일:일격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다이폭발''' 100×
+자신의 덱을 위에서부터 5장 트래쉬하고 그 중에 있는 에너지의 장수 × 100데미지를 준다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_052.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SP4.png|height=25]] | 001/004 | [[소드&실드 VMAX 스페셜 세트 「이브이 히어로즈」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 052/414 | [[소드&실드 스타트 덱 100]] ||
+=== [[이브이 히어로즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6a_011.png|width=100%]] ||
+|| [[이브이 히어로즈]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター V{{{#!wiki style="float:right;"
+
+}}}}}}Flareon V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V | [[파일:일격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불타는숨결''' 20
+자신의 덱에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''작열기둥''' 120
+상대의 배틀 포켓몬을 화상으로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6a_072.png|width=100%]] ||<width=50%> [[파일:S6a_073.png|width=100%]]||
+|| [[이브이 히어로즈]][br][include(틀:포케카 레어도/SR)] || [[이브이 히어로즈]][br][include(틀:포케카 레어도/SR)] ||
+||<rowbgcolor=#ffffff> [[파일:SI_051.png|width=100%]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 011/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 072/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 073/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 051/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[앙천의 볼트태클]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4_013.png|width=100%]] ||
+|| [[앙천의 볼트태클]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''작열의 각성'''}}}
+이 포켓몬에게 「메모리캡슐」이 붙어 있다면 서로의 필드의 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 포켓몬의 [[파일:포케카 특성.png|height=18px]]은 모두 없어진다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃의갈기''' 100{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_018.png|width=100%]] ||<width=50%> [[파일:S8b_188.png|width=100%]]||
+|| [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CHR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4.png|height=25]] | 013/100 | [[앙천의 볼트태클]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 018/184 | [[VMAX 클라이맥스]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S8B.png|height=25]] | 188/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CHR)] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_027.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''그을리기''' 
+상대의 배틀 포켓몬을 화상으로 만든다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''활활''' 120
+이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다. 그 뒤, 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체내에 불꽃이 쌓이면 부스터의 체온도 최고 900도까지 오른다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:PROMO.png|height=25]] | 027/S-P | [[unknown]] ||
+== C 레귤레이션 ==
+=== [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMI_001.png|width=100%]] ||
+|| [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터 [[파일:포케카 GX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター GX{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon GX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | 포켓몬 GX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''히트스테이지''' 30
+원한다면 자신의 패에 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 3장까지 자신의 포켓몬에게 원하는 대로 붙인다. 
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''홍련의 불꽃''' 190
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2개 트래쉬한다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''파워버너 GX''' 20x
+자신의 트래쉬에 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지의 장수 × 20데미지를 준다.(대전 중 자신은 GX기술을 1번만 사용할 수 있다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}GX 룰 : 포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SMI.png|height=25]] | 001/095 | [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]] ||
+=== [[태그올스타즈]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_019.png|width=100%]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''파워옐'''}}}
+이 포켓몬이 있는 한, 자신의 필드의 「이브이」에서 진화하는 「포켓몬 GX」가 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 효과는 이 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염방사''' 90
+이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''크게 공기를 들이쉬는 것은 공격 신호다. 1700도의 불꽃이 엄습해 온다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM12A.png|height=25]] | 019/173 | [[태그올스타즈]] ||
+=== [[썬&문 「랜덤30장덱」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM30A_012.png|width=100%]] ||
+|| [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''물기''' 20
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''회오리불꽃''' 130
+이 포켓몬에게 붙어 있는  [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''크게 공기를 들이쉬는 것은 공격 신호다. 1700도의 불꽃이 엄습해 온다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM30A.png|height=25]] | 012/080 | [[썬&문 「랜덤30장덱」]] ||
+== XY 시리즈 ==
+=== [[밴디트링]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY7_013.jpg|width=100%]] ||
+|| [[밴디트링]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''플레어이펙트'''}}}
+이 포켓몬이 있는 한 자신의 1진화 포켓몬 전원은 원래 타입에 추가하여 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 타입도 된다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''히트브레스''' 60+
+동전을 한 번 던져서 앞면이 나오면 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체내에 불꽃 주머니가 있어 깊이 숨을 들이킨 후 1700도의 불을 내뿜는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMXY_010.png|width=512px]] ||
+|| [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY7.png|height=25]] | 013/081 | [[밴디트링]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 010/171 | [[THE BEST OF XY]] ||
+=== [[포켓심쿵 컬렉션]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP3_006.png|width=100%]] ||
+|| [[포켓심쿵 컬렉션]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター EX{{{#!wiki style="float:right;"
+
+}}}}}}Flareon EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''타오르는 불꽃'''}}}
+자신의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지 1개를 선택해서 이 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''블레이즈볼''' 50+
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지의 개수 × 20데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP3_007.png|width=512px]] ||
+|| [[포켓심쿵 컬렉션]][br][include(틀:포케카 레어도/RR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP3.png|height=25]] | 006/032 | [[포켓심쿵 컬렉션]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP3.png|height=25]] | 007/032 | [[포켓심쿵 컬렉션]] | [include(틀:포케카 레어도/RR)] ||
+== BW 시리즈 ==
+=== [[다크러시]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw4_008.jpg|width=100%]] ||
+|| [[다크러시]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''모래뿌리기''' 20
+상대의 다음 차례에 이 기술을 받은 상대의 배틀 포켓몬이 기술을 사용할 때 상대는 동전을 한 번 던진다. 뒷면이 나오면 그 기술은 실패한다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파이어슬래시''' 60+
+원한다면 이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''들이마신 숨은 체내에 있는 불꽃 주머니에서 1700도까지 달궈져 불꽃이 된다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW4.png|height=25]] | 008/069 | [[다크러시]] | [include(틀:포케카 레어도/C)] ||
+=== [[볼트너클]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_vn_007.jpg|width=100%]] ||
+|| [[볼트너클]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬 | [[파일:플라스마단.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''복수''' 20+
+자신의 트래쉬에 있는 포켓몬의 장수 × 10데미지를 추가한다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''히트태클''' 
+이 포켓몬에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''들이마신 공기를 체내의 불꽃 주머니에 보내 1700도의 불꽃으로 내뿜는다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 007/051 | [[볼트너클]] | [include(틀:포케카 레어도/U)] ||
+== DP 시리즈 ==
+=== [[7개의 신비]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs5_ko_8.jpg|width=100%]] ||
+|| [[7개의 신비]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''부스터'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 90 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+ブースター{{{#!wiki style="float:right;"
+이브이에서 진화
+}}}}}}Flareon
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+1진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃엄니''' 30
+동전을 한 번 던져서 앞면이 나오면 상대를 화상으로 만든다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''활활''' 70
+자신의 에너지를 1개 트래쉬한다. 그 뒤 상대의 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''체내에 불꽃 주머니를 가지고 있다. 싸움이 시작되기 직전에는 체온이 900도까지 올라간다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS5.png|height=25]] | 08/40 | [[7개의 신비]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/1세대]][[분류:포켓몬 카드 게임/불꽃 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

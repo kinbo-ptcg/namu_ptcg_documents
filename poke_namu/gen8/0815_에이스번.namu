@@ -1,0 +1,315 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0814_f00_s0.png|width=40]] 0814 [[래비풋/포켓몬 카드 게임|래비풋]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0815_f00_s0.png|width=40]] 0815 [[에이스번/포켓몬 카드 게임|에이스번]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0816_f00_s0.png|width=40]] 0816 [[울머기/포켓몬 카드 게임|울머기]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[스텔라미라클]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV7_018.png|width=100%]] ||
+|| [[스텔라미라클]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン ex{{{#!wiki style="float:right;"
+래비풋에서 진화
+}}}}}}Cinderace ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  테라스탈 '''테라스탈'''}}}
+이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''플레어 스트라이크''' 280
+자신의 다음 차례에 이 포켓몬은 「플레어 스트라이크」를 사용할 수 없다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''가닛발리''' 
+상대의 포켓몬 1마리에게 180데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV7.png|height=25]] | 018/102 | [[스텔라미라클]] | [include(틀:포케카 레어도/RR)] ||
+== E 레귤레이션 ==
+=== [[소드&실드 카드 박스 세트 「일격」]] ===
+==== 에이스번 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_094.png|width=100%]] ||
+|| [[소드&실드 카드 박스 세트 「일격」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン V{{{#!wiki style="float:right;"
+
+}}}}}}Cinderace V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불꽃''' 50
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''전력슛''' 210
+자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 094/S-P | [[소드&실드 카드 박스 세트 「일격」]] ||
+==== 에이스번 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_095.png|width=100%]] ||
+|| [[소드&실드 카드 박스 세트 「일격」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン VMAX{{{#!wiki style="float:right;"
+에이스번 V에서 진화
+}}}}}}Cinderace VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거다이화염구''' 230
+상대의 배틀 포켓몬을 화상으로 만든다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 095/S-P | [[소드&실드 카드 박스 세트 「일격」]] ||
+=== [[백은의 랜스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6H_017.png|width=100%]] ||
+|| [[백은의 랜스]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン{{{#!wiki style="float:right;"
+래비풋에서 진화
+}}}}}}Cinderace
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬 | [[파일:일격.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''위기 극복 파워'''}}}
+이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 상대가 이미 가져간 프라이즈 1장당 「+30」이 된다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불구슬슛''' 150
+자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_072.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6H.png|height=25]] | 017/070 | [[백은의 랜스]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 072/414 | [[소드&실드 스타트 덱 100]] ||
+=== [[소드&실드 「패밀리 포켓몬 카드 게임」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SH_010_R.png|width=100%]] ||
+|| [[소드&실드 「패밀리 포켓몬 카드 게임」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 220 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン V{{{#!wiki style="float:right;"
+
+}}}}}}Cinderace V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''브레이즈킥''' 210
+이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2개 선택해서 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_073.png|width=512px]] ||
+|| [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SH.png|height=25]] | 010/053 | [[소드&실드 「패밀리 포켓몬 카드 게임」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 073/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[소드&실드 스타터 세트 V 5종]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_R_008.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 V 5종]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン{{{#!wiki style="float:right;"
+래비풋에서 진화
+}}}}}}Cinderace
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''화염볼''' 50
+상대의 배틀 포켓몬을 화상으로 만든다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''버닝킥''' 160
+이 포켓몬에게 붙어 있는 에너지를 모두 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SA_R.png|height=25]] | 008/023 | [[소드&실드 스타터 세트 V 5종]] ||
+=== [[실드(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1H_009.png|width=100%]] ||
+|| [[실드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン{{{#!wiki style="float:right;"
+래비풋에서 진화
+}}}}}}Cinderace
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''리베로'''}}}
+자신의 차례에 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 1번 사용할 수 있다. 자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 2장까지 선택해서 이 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''플레어 스트라이커''' 190
+이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''공수에 뛰어나고 응원을 받으면 더 뜨겁게 타오르지만 스탠드 플레이를 하다가 위기에 처하는 경우도 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_024.png|width=100%]] ||<width=50%> [[파일:S4a_216.png|width=100%]]||
+|| [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1H.png|height=25]] | 009/060 | [[실드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 024/190 | [[샤이니스타V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S4A.png|height=25]] | 216/190 | [[샤이니스타V]] | [include(틀:포케카 레어도/S)] ||
+=== [[VMAX 라이징]] ===
+==== 에이스번 V ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1a_016.png|width=100%]] ||
+|| [[VMAX 라이징]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 V.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン V{{{#!wiki style="float:right;"
+
+}}}}}}Cinderace V
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 V  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''필드러너'''}}}
+필드에 스타디움이 나와 있다면 이 포켓몬의 후퇴에 필요한 에너지는 모두 없어진다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''홍련각''' 140}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S1a_072.png|width=512px]] ||
+|| [[VMAX 라이징]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1A.png|height=25]] | 016/070 | [[VMAX 라이징]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1A.png|height=25]] | 072/070 | [[VMAX 라이징]] | [include(틀:포케카 레어도/SR)] ||
+==== 에이스번 VMAX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1a_017.png|width=100%]] ||
+|| [[VMAX 라이징]][br][include(틀:포케카 레어도/RRR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번 [[파일:포케카 VMAX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 320 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン VMAX{{{#!wiki style="float:right;"
+에이스번 V에서 진화
+}}}}}}Cinderace VMAX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 VMAX | V진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''카운터''' 30+
+상대의 이전 차례에 이 포켓몬이 받은 기술의 데미지와 같은 데미지를 추가한다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다이화염구슬''' 170
+상대의 배틀 포켓몬을 화상으로 만든다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}VMAX 룰 : 포켓몬 VMAX가 기절한 경우 상대는 프라이즈를 3장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SP2_002.png|width=512px]] ||
+|| [[소드&실드 「VMAX 스페셜 세트」]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:S1A.png|height=25]] | 017/070 | [[VMAX 라이징]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SP2.png|height=25]] | 002/004 | [[소드&실드 「VMAX 스페셜 세트」]] ||
+=== [[unknown]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S-P_003.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''에이스번'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+エースバーン{{{#!wiki style="float:right;"
+래비풋에서 진화
+}}}}}}Cinderace
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+2진화 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''불꽃두르기''' 40
+자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1장 선택해서 이 포켓몬에게 붙인다.
+[[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''홍련의 불꽃''' 160
+동전을 1번 던져서 뒷면이 나오면 이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''작은 돌을 리프팅해서 불꽃의 축구공을 만들고 날카로운 슛으로 상대를 태워버린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:PROMO.png|height=25]] | 003/S-P | [[unknown]] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/8세대]][[분류:포켓몬 카드 게임/불꽃 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -1,0 +1,7 @@
+./__pycache__/
+./assets/__pycache__/
+./imgs/energy/
+./imgs/pokemon/
+./imgs/trainers/
+*.jpg
+*.png

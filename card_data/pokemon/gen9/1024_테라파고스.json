@@ -1,0 +1,69 @@
+[
+    {
+        "id": "SV7-088",
+        "cardID": "테라무230테라유니030크라180",
+        "name": "테라파고스 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 230,
+        "pokemons": [
+            {
+                "name": "테라파고스",
+                "pokedexNumber": 1024
+            }
+        ],
+        "type": "(무색)",
+        "attacks": [
+            {
+                "name": "유니언비트",
+                "cost": "(무색)(무색)",
+                "damage": "30×",
+                "text": "이 기술은 후공 플레이어의 첫 차례에는 사용할 수 없다. 자신의 벤치 포켓몬의 수 × 30데미지를 준다."
+            },
+            {
+                "name": "크라운오팔",
+                "cost": "(풀)(물)(번개)",
+                "damage": "180",
+                "text": "상대의 다음 차례에 이 포켓몬은 기본 포켓몬((무색) 포켓몬은 제외)으로부터 기술의 데미지를 받지 않는다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "테라스탈",
+                "text": "이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.",
+                "type": "테라스탈"
+            }
+        ],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "088",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "5ban Graphics",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_088.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012088",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    }
+]

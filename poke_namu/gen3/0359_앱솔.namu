@@ -1,0 +1,433 @@
+[include(틀:포켓몬 카드 게임/레귤레이션)]
+[include(틀:포켓몬 카드 게임/카드일람)]
+
+||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=30%> [[파일:icon0358_f00_s0.png|width=40]] 0358 [[치렁/포켓몬 카드 게임|치렁]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0359_f00_s0.png|width=40]] 0359 [[앱솔/포켓몬 카드 게임|앱솔]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0360_f00_s0.png|width=40]] 0360 [[마자/포켓몬 카드 게임|마자]] ||
+
+[목차]
+[clearfix]
+
+== 개요 ==
+[[포켓몬 카드 게임]]의 포켓몬 카드.
+## 포켓몬의 설명을 기술부탁드립니다.  
+== H 레귤레이션 ==
+=== [[나이트 원더러]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6a_030.png|width=100%]] ||
+|| [[나이트 원더러]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 110 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''배드폴''' 20+
+자신의 필드에 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지가 3개 이상 있다면 50데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''바람처럼 산과 들을 달려나간다. 초승달 모양의 뿔은 자연재해의 징조를 민감하게 감지한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SV6A.png|height=25]] | 030/064 | [[나이트 원더러]] | [include(틀:포케카 레어도/C)] ||
+== G 레귤레이션 ==
+=== [[흑염의 지배자]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_073.png|width=100%]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/RR)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔 [[파일:포케카 ex.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル ex{{{#!wiki style="float:right;"
+
+}}}}}}Absol ex
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 ex  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''미래예지''' 
+자신 또는 상대의 덱을 위에서부터 3장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''커스슬러그''' 100+
+상대의 패가 3장 이하라면 120데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3_126.png|width=512px]] ||
+|| [[흑염의 지배자]][br][include(틀:포케카 레어도/SR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 073/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 126/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/SR)] ||
+=== [[레이징서프]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3a_036.png|width=100%]] ||
+|| [[레이징서프]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드로센스''' 
+자신의 패가 5장이 되도록 덱을 뽑는다. 원한다면 덱을 뽑기 전에 자신의 패를 원하는 만큼 트래쉬한다.
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''강화슬래시''' 20+
+이 포켓몬에게 「포켓몬의 도구」가 붙어 있다면 60데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''위험을 감지하는 능력이 있어 사람들로부터 재앙을 불러오는 포켓몬이라는 오해를 샀다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3A.png|height=25]] | 036/062 | [[레이징서프]] | [include(틀:포케카 레어도/U)] ||
+== F 레귤레이션 ==
+=== [[배틀리전]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9a_051.png|width=100%]] ||
+|| [[배틀리전]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''소용돌이재앙''' 
+상대의 포켓몬 전원에게 각각 10데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.)
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''손톱으로 도려내기''' 50+
+상대의 배틀 포켓몬에게 데미지 카운터가 올려져 있다면 70데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''바람처럼 산과 들을 달려나간다. 초승달 모양의 뿔은 자연재해의 징조를 민감하게 감지한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_083.png|width=100%]] ||<width=50%> [[파일:S12a_191.png|width=100%]]||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9A.png|height=25]] | 051/067 | [[배틀리전]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 083/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 191/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
+== E 레귤레이션 ==
+=== [[마천퍼펙트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7D_027.png|width=100%]] ||
+|| [[마천퍼펙트]][br][include(틀:포케카 레어도/U)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''끌어내기''' 
+상대의 벤치 포켓몬을 1마리 선택해서 배틀 포켓몬과 교체한다. 그 뒤, 새로 나온 포켓몬에게 30데미지를 준다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''베어가르기''' 80{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''노인들은 재난포켓몬이라고 부르며 미워하지만 재해를 예지하는 능력에 관심이 높아지고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SJ_004.png|width=100%]] ||<width=50%> [[파일:SI_267.png|width=100%]]||
+|| [[소드&실드 스페셜 덱 「자시안·자마젠타vs무한다이노」]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 027/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SJ.png|height=25]] | 004/028 | [[소드&실드 스페셜 덱 「자시안·자마젠타vs무한다이노」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 267/414 | [[소드&실드 스타트 덱 100]] ||
+== D 레귤레이션 ==
+=== [[소드&실드 스타터 세트 VMAX 「오롱털」]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SCD_001.png|width=100%]] ||
+|| [[소드&실드 스타터 세트 VMAX 「오롱털」]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''다크커터''' 70{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''노인들은 재난포켓몬이라고 부르며 미워하지만 재해를 예지하는 능력에 관심이 높아지고 있다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SC_D.png|height=25]] | 001/020 | [[소드&실드 스타터 세트 VMAX 「오롱털」]] ||
+== C 레귤레이션 ==
+=== [[리믹스바우트]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11a_043.png|width=100%]] ||
+|| [[리믹스바우트]][br][include(틀:포케카 레어도/C)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''불길한알림''' 
+상대 필드의 포켓몬에게 붙어 있는 특수 에너지를 1개 트래쉬한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''더티스로우''' 70
+자신의 패를 1장 트래쉬한다. 트래쉬할 수 없다면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''비록 겉모습은 불길하지만 논밭을 지키거나 이변을 사람에게 알려 주는 고마운 존재다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_C.png|height=25]] | [[파일:SM11A.png|height=25]] | 043/064 | [[리믹스바우트]] | [include(틀:포케카 레어도/C)] ||
+== B 레귤레이션 ==
+=== [[다크오더]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_023.png|width=100%]] ||
+|| [[다크오더]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''악의 패기'''}}}
+이 포켓몬이 있는 한, 상대의 배틀필드의 기본 포켓몬의 후퇴에 필요한 에너지는 1개만큼 많아진다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도시커''' 30+
+상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''재앙을 가져온다고 전해지지만 실제로는 온화한 성질이다._x000D_ 재해의 위기를 사람들에게 알린다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_075.png|width=512px]] ||
+|| [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM8A.png|height=25]] | 023/052 | [[다크오더]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM12A.png|height=25]] | 075/173 | [[태그올스타즈]] ||
+== A 레귤레이션 ==
+=== [[썬&문(포켓몬 카드 게임)]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1plus_038.png|width=100%]] ||
+|| [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''미래예지''' 
+자신 또는 상대의 덱을 위에서부터 4장 보고 원하는 순서대로 바꾸어 덱의 위로 되돌린다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파멸의알림''' 
+이 포켓몬에게 붙어 있는 에너지를 모두 패로 되돌린다. 상대의 다음 차례 마지막에 이 기술을 받은 포켓몬은 기절한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''먹이의 맛과 신선도에 까다로운 미식가 포켓몬. 레트라가 사는 레스토랑은 진짜 맛집이라고 전해진다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM1plus_091.png|width=512px]] ||
+|| [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1PLUS.png|height=25]] | 038/051 | [[썬&문(포켓몬 카드 게임)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM1PLUS.png|height=25]] | 038/051 | [[썬&문(포켓몬 카드 게임)]] ||
+== XY 시리즈 ==
+=== [[에메랄드 브레이크]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY6_034.jpg|width=100%]] ||
+|| [[에메랄드 브레이크]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+{{{#red  [[파일:포케카 특성.png|height=18px]] '''커스아이즈'''}}}
+이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 상대의 포켓몬 1마리에게 올려져 있는 데미지 카운터를 3개 선택해서 상대의 다른 포켓몬 1마리에게 올린다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마하크루''' 30
+이 기술의 데미지는 저항력 계산을 하지 않는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''재해의 징조를 느끼면 모습을 보이기 때문에 재앙을 부르는 포켓몬으로 오해받고 있었다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_077.jpg|width=512px]] ||
+|| [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+}}}
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY6.png|height=25]] | 034/078 | [[에메랄드 브레이크]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 077/131 | [[프리미엄 챔피언팩]] ||
+=== [[unknown]] ===
+==== 앱솔 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_052.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 170 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル EX{{{#!wiki style="float:right;"
+
+}}}}}}Absol EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | 포켓몬 EX  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''암흑엄니''' 20
+동전을 한 번 던져서 앞면이 나오면 상대의 패에서 앞면을 보지 않고 1장 선택해서 트래쉬한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다크에지''' 100
+상대의 다음 차례에 이 기술을 받은 포켓몬이 사용하는 기술의 데미지는 「-20」이 된다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 052/XY-P | [[unknown]] ||
+==== M앱솔 EX ====
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_053.png|width=100%]] ||
+|| [[unknown]][br][include(틀:포케카 레어도/N)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''[[파일:M_pkc.png|height=18px]]앱솔 [[파일:포케카 EX.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 210 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+Mアブソル EX{{{#!wiki style="float:right;"
+앱솔 EX에서 진화
+}}}}}}MAbsol EX
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+포켓몬 EX | M진화  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''디재스터윙''' 80+
+상대의 덱을 위에서부터 1장 트래쉬하고, 그 카드가 트레이너스라면 80데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}M진화 : M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.
+EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 053/XY-P | [[unknown]] ||
+== BW 시리즈 ==
+=== [[스파이럴포스]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_sf_033.jpg|width=100%]] ||
+|| [[스파이럴포스]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬 | [[파일:플라스마단.png|height=18px]]  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마인드잭''' 20+
+상대의 벤치 포켓몬의 수 × 20데미지를 추가한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''섀도피어''' 60
+상대의 패를 본다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''뿔이 감지한 불행을 사람에게 알리려고 산속에서 모습을 드러낸다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 033/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/R)] ||
+== DP 시리즈 ==
+=== [[호수의 기적]] ===
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs9_ko_26.jpg|width=100%]] ||
+|| [[호수의 기적]][br][include(틀:포케카 레어도/R)] ||
+
+{{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
+{{{#!wiki style="margin:0; padding:8px; color: #fff"
+{{{#!wiki style="font-size:1.2em;"    
+'''앱솔'''{{{#!wiki style="font-size:1.0em;float:right"
+HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
+}}}}}}{{{#!wiki style="font-size:1.0em;"
+アブソル{{{#!wiki style="float:right;"
+
+}}}}}}Absol
+}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
+기본 포켓몬  
+}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''재난의 바람''' 
+상대의 패에서 앞면을 보지 않고 카드를 1장 선택하여 트래쉬한다. 트래쉬한 카드가 「트레이너」「서포터」「스타디움」이라면 1장 더 트래쉬한다.
+[[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''습격''' 10
+이 기술의 데미지는 이 「앱솔」을 패에서 필드로 내보낸 차례에만 「40」이 된다. (대전 시작 때 내보낸 경우에는 그대로이다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
+}}}{{{-2 ''재해의 위험을 감지한다. 위험을 알리는 때에만 사람 앞에 나타난다고 한다.''}}} 
+}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+}}}}}}     
+## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
+||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BS9.png|height=25]] | 26/40 | [[호수의 기적]] | [include(틀:포케카 레어도/R)] ||
+[clearfix]
+[[분류:포켓몬 카드 게임/3세대]][[분류:포켓몬 카드 게임/악 타입]]
+## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

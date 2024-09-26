@@ -1,0 +1,8057 @@
+[
+    {
+        "no": 1,
+        "name": "이상해씨",
+        "evolve_to": [
+            2
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 2,
+        "name": "이상해풀",
+        "evolve_to": [
+            3
+        ],
+        "evolve_from": [
+            1
+        ]
+    },
+    {
+        "no": 3,
+        "name": "이상해꽃",
+        "evolve_to": [],
+        "evolve_from": [
+            2
+        ]
+    },
+    {
+        "no": 4,
+        "name": "파이리",
+        "evolve_to": [
+            5
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 5,
+        "name": "리자드",
+        "evolve_to": [
+            6
+        ],
+        "evolve_from": [
+            4
+        ]
+    },
+    {
+        "no": 6,
+        "name": "리자몽",
+        "evolve_to": [],
+        "evolve_from": [
+            5
+        ]
+    },
+    {
+        "no": 7,
+        "name": "꼬부기",
+        "evolve_to": [
+            8
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 8,
+        "name": "어니부기",
+        "evolve_to": [
+            9
+        ],
+        "evolve_from": [
+            7
+        ]
+    },
+    {
+        "no": 9,
+        "name": "거북왕",
+        "evolve_to": [],
+        "evolve_from": [
+            8
+        ]
+    },
+    {
+        "no": 10,
+        "name": "캐터피",
+        "evolve_to": [
+            11
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 11,
+        "name": "단데기",
+        "evolve_to": [
+            12
+        ],
+        "evolve_from": [
+            10
+        ]
+    },
+    {
+        "no": 12,
+        "name": "버터플",
+        "evolve_to": [],
+        "evolve_from": [
+            11
+        ]
+    },
+    {
+        "no": 13,
+        "name": "뿔충이",
+        "evolve_to": [
+            14
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 14,
+        "name": "딱충이",
+        "evolve_to": [
+            15
+        ],
+        "evolve_from": [
+            13
+        ]
+    },
+    {
+        "no": 15,
+        "name": "독침붕",
+        "evolve_to": [],
+        "evolve_from": [
+            14
+        ]
+    },
+    {
+        "no": 16,
+        "name": "구구",
+        "evolve_to": [
+            17
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 17,
+        "name": "피죤",
+        "evolve_to": [
+            18
+        ],
+        "evolve_from": [
+            16
+        ]
+    },
+    {
+        "no": 18,
+        "name": "피죤투",
+        "evolve_to": [],
+        "evolve_from": [
+            17
+        ]
+    },
+    {
+        "no": 19,
+        "name": "꼬렛",
+        "evolve_to": [
+            20
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 20,
+        "name": "레트라",
+        "evolve_to": [],
+        "evolve_from": [
+            19
+        ]
+    },
+    {
+        "no": 21,
+        "name": "깨비참",
+        "evolve_to": [
+            22
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 22,
+        "name": "깨비드릴조",
+        "evolve_to": [],
+        "evolve_from": [
+            21
+        ]
+    },
+    {
+        "no": 23,
+        "name": "아보",
+        "evolve_to": [
+            24
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 24,
+        "name": "아보크",
+        "evolve_to": [],
+        "evolve_from": [
+            23
+        ]
+    },
+    {
+        "no": 25,
+        "name": "피카츄",
+        "evolve_to": [
+            26
+        ],
+        "evolve_from": [
+            172
+        ]
+    },
+    {
+        "no": 26,
+        "name": "라이츄",
+        "evolve_to": [],
+        "evolve_from": [
+            25
+        ]
+    },
+    {
+        "no": 27,
+        "name": "모래두지",
+        "evolve_to": [
+            28
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 28,
+        "name": "고지",
+        "evolve_to": [],
+        "evolve_from": [
+            27
+        ]
+    },
+    {
+        "no": 29,
+        "name": "니드런♀",
+        "evolve_to": [
+            30
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 30,
+        "name": "니드리나",
+        "evolve_to": [
+            31
+        ],
+        "evolve_from": [
+            29
+        ]
+    },
+    {
+        "no": 31,
+        "name": "니드퀸",
+        "evolve_to": [],
+        "evolve_from": [
+            30
+        ]
+    },
+    {
+        "no": 32,
+        "name": "니드런♂",
+        "evolve_to": [
+            33
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 33,
+        "name": "니드리노",
+        "evolve_to": [
+            34
+        ],
+        "evolve_from": [
+            32
+        ]
+    },
+    {
+        "no": 34,
+        "name": "니드킹",
+        "evolve_to": [],
+        "evolve_from": [
+            33
+        ]
+    },
+    {
+        "no": 35,
+        "name": "삐삐",
+        "evolve_to": [
+            36
+        ],
+        "evolve_from": [
+            173
+        ]
+    },
+    {
+        "no": 36,
+        "name": "픽시",
+        "evolve_to": [],
+        "evolve_from": [
+            35
+        ]
+    },
+    {
+        "no": 37,
+        "name": "식스테일",
+        "evolve_to": [
+            38
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 38,
+        "name": "나인테일",
+        "evolve_to": [],
+        "evolve_from": [
+            37
+        ]
+    },
+    {
+        "no": 39,
+        "name": "푸린",
+        "evolve_to": [
+            40
+        ],
+        "evolve_from": [
+            174
+        ]
+    },
+    {
+        "no": 40,
+        "name": "푸크린",
+        "evolve_to": [],
+        "evolve_from": [
+            39
+        ]
+    },
+    {
+        "no": 41,
+        "name": "주뱃",
+        "evolve_to": [
+            42
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 42,
+        "name": "골뱃",
+        "evolve_to": [
+            169
+        ],
+        "evolve_from": [
+            41
+        ]
+    },
+    {
+        "no": 43,
+        "name": "뚜벅쵸",
+        "evolve_to": [
+            44
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 44,
+        "name": "냄새꼬",
+        "evolve_to": [
+            45,
+            182
+        ],
+        "evolve_from": [
+            43
+        ]
+    },
+    {
+        "no": 45,
+        "name": "라플레시아",
+        "evolve_to": [],
+        "evolve_from": [
+            44
+        ]
+    },
+    {
+        "no": 46,
+        "name": "파라스",
+        "evolve_to": [
+            47
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 47,
+        "name": "파라섹트",
+        "evolve_to": [],
+        "evolve_from": [
+            46
+        ]
+    },
+    {
+        "no": 48,
+        "name": "콘팡",
+        "evolve_to": [
+            49
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 49,
+        "name": "도나리",
+        "evolve_to": [],
+        "evolve_from": [
+            48
+        ]
+    },
+    {
+        "no": 50,
+        "name": "디그다",
+        "evolve_to": [
+            51
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 51,
+        "name": "닥트리오",
+        "evolve_to": [],
+        "evolve_from": [
+            50
+        ]
+    },
+    {
+        "no": 52,
+        "name": "나옹",
+        "evolve_to": [
+            53,
+            863
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 53,
+        "name": "페르시온",
+        "evolve_to": [],
+        "evolve_from": [
+            52
+        ]
+    },
+    {
+        "no": 54,
+        "name": "고라파덕",
+        "evolve_to": [
+            55
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 55,
+        "name": "골덕",
+        "evolve_to": [],
+        "evolve_from": [
+            54
+        ]
+    },
+    {
+        "no": 56,
+        "name": "망키",
+        "evolve_to": [
+            57
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 57,
+        "name": "성원숭",
+        "evolve_to": [
+            979
+        ],
+        "evolve_from": [
+            56
+        ]
+    },
+    {
+        "no": 58,
+        "name": "가디",
+        "evolve_to": [
+            59
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 59,
+        "name": "윈디",
+        "evolve_to": [],
+        "evolve_from": [
+            58
+        ]
+    },
+    {
+        "no": 60,
+        "name": "발챙이",
+        "evolve_to": [
+            61
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 61,
+        "name": "슈륙챙이",
+        "evolve_to": [
+            62,
+            186
+        ],
+        "evolve_from": [
+            60
+        ]
+    },
+    {
+        "no": 62,
+        "name": "강챙이",
+        "evolve_to": [],
+        "evolve_from": [
+            61
+        ]
+    },
+    {
+        "no": 63,
+        "name": "캐이시",
+        "evolve_to": [
+            64
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 64,
+        "name": "윤겔라",
+        "evolve_to": [
+            65
+        ],
+        "evolve_from": [
+            63
+        ]
+    },
+    {
+        "no": 65,
+        "name": "후딘",
+        "evolve_to": [],
+        "evolve_from": [
+            64
+        ]
+    },
+    {
+        "no": 66,
+        "name": "알통몬",
+        "evolve_to": [
+            67
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 67,
+        "name": "근육몬",
+        "evolve_to": [
+            68
+        ],
+        "evolve_from": [
+            66
+        ]
+    },
+    {
+        "no": 68,
+        "name": "괴력몬",
+        "evolve_to": [],
+        "evolve_from": [
+            67
+        ]
+    },
+    {
+        "no": 69,
+        "name": "모다피",
+        "evolve_to": [
+            70
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 70,
+        "name": "우츠동",
+        "evolve_to": [
+            71
+        ],
+        "evolve_from": [
+            69
+        ]
+    },
+    {
+        "no": 71,
+        "name": "우츠보트",
+        "evolve_to": [],
+        "evolve_from": [
+            70
+        ]
+    },
+    {
+        "no": 72,
+        "name": "왕눈해",
+        "evolve_to": [
+            73
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 73,
+        "name": "독파리",
+        "evolve_to": [],
+        "evolve_from": [
+            72
+        ]
+    },
+    {
+        "no": 74,
+        "name": "꼬마돌",
+        "evolve_to": [
+            75
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 75,
+        "name": "데구리",
+        "evolve_to": [
+            76
+        ],
+        "evolve_from": [
+            74
+        ]
+    },
+    {
+        "no": 76,
+        "name": "딱구리",
+        "evolve_to": [],
+        "evolve_from": [
+            75
+        ]
+    },
+    {
+        "no": 77,
+        "name": "포니타",
+        "evolve_to": [
+            78
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 78,
+        "name": "날쌩마",
+        "evolve_to": [],
+        "evolve_from": [
+            77
+        ]
+    },
+    {
+        "no": 79,
+        "name": "야돈",
+        "evolve_to": [
+            80,
+            199
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 80,
+        "name": "야도란",
+        "evolve_to": [],
+        "evolve_from": [
+            79
+        ]
+    },
+    {
+        "no": 81,
+        "name": "코일",
+        "evolve_to": [
+            82
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 82,
+        "name": "레어코일",
+        "evolve_to": [
+            462
+        ],
+        "evolve_from": [
+            81
+        ]
+    },
+    {
+        "no": 83,
+        "name": "파오리",
+        "evolve_to": [
+            865
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 84,
+        "name": "두두",
+        "evolve_to": [
+            85
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 85,
+        "name": "두트리오",
+        "evolve_to": [],
+        "evolve_from": [
+            84
+        ]
+    },
+    {
+        "no": 86,
+        "name": "쥬쥬",
+        "evolve_to": [
+            87
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 87,
+        "name": "쥬레곤",
+        "evolve_to": [],
+        "evolve_from": [
+            86
+        ]
+    },
+    {
+        "no": 88,
+        "name": "질퍽이",
+        "evolve_to": [
+            89
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 89,
+        "name": "질뻐기",
+        "evolve_to": [],
+        "evolve_from": [
+            88
+        ]
+    },
+    {
+        "no": 90,
+        "name": "셀러",
+        "evolve_to": [
+            91
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 91,
+        "name": "파르셀",
+        "evolve_to": [],
+        "evolve_from": [
+            90
+        ]
+    },
+    {
+        "no": 92,
+        "name": "고오스",
+        "evolve_to": [
+            93
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 93,
+        "name": "고우스트",
+        "evolve_to": [
+            94
+        ],
+        "evolve_from": [
+            92
+        ]
+    },
+    {
+        "no": 94,
+        "name": "팬텀",
+        "evolve_to": [],
+        "evolve_from": [
+            93
+        ]
+    },
+    {
+        "no": 95,
+        "name": "롱스톤",
+        "evolve_to": [
+            208
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 96,
+        "name": "슬리프",
+        "evolve_to": [
+            97
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 97,
+        "name": "슬리퍼",
+        "evolve_to": [],
+        "evolve_from": [
+            96
+        ]
+    },
+    {
+        "no": 98,
+        "name": "크랩",
+        "evolve_to": [
+            99
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 99,
+        "name": "킹크랩",
+        "evolve_to": [],
+        "evolve_from": [
+            98
+        ]
+    },
+    {
+        "no": 100,
+        "name": "찌리리공",
+        "evolve_to": [
+            101
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 101,
+        "name": "붐볼",
+        "evolve_to": [],
+        "evolve_from": [
+            100
+        ]
+    },
+    {
+        "no": 102,
+        "name": "아라리",
+        "evolve_to": [
+            103
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 103,
+        "name": "나시",
+        "evolve_to": [],
+        "evolve_from": [
+            102
+        ]
+    },
+    {
+        "no": 104,
+        "name": "탕구리",
+        "evolve_to": [
+            105
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 105,
+        "name": "텅구리",
+        "evolve_to": [],
+        "evolve_from": [
+            104
+        ]
+    },
+    {
+        "no": 106,
+        "name": "시라소몬",
+        "evolve_to": [],
+        "evolve_from": [
+            236
+        ]
+    },
+    {
+        "no": 107,
+        "name": "홍수몬",
+        "evolve_to": [],
+        "evolve_from": [
+            236
+        ]
+    },
+    {
+        "no": 108,
+        "name": "내루미",
+        "evolve_to": [
+            463
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 109,
+        "name": "또가스",
+        "evolve_to": [
+            110
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 110,
+        "name": "또도가스",
+        "evolve_to": [],
+        "evolve_from": [
+            109
+        ]
+    },
+    {
+        "no": 111,
+        "name": "뿔카노",
+        "evolve_to": [
+            112
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 112,
+        "name": "코뿌리",
+        "evolve_to": [
+            464
+        ],
+        "evolve_from": [
+            111
+        ]
+    },
+    {
+        "no": 113,
+        "name": "럭키",
+        "evolve_to": [
+            242
+        ],
+        "evolve_from": [
+            440
+        ]
+    },
+    {
+        "no": 114,
+        "name": "덩쿠리",
+        "evolve_to": [
+            465
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 115,
+        "name": "캥카",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 116,
+        "name": "쏘드라",
+        "evolve_to": [
+            117
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 117,
+        "name": "시드라",
+        "evolve_to": [
+            230
+        ],
+        "evolve_from": [
+            116
+        ]
+    },
+    {
+        "no": 118,
+        "name": "콘치",
+        "evolve_to": [
+            119
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 119,
+        "name": "왕콘치",
+        "evolve_to": [],
+        "evolve_from": [
+            118
+        ]
+    },
+    {
+        "no": 120,
+        "name": "별가사리",
+        "evolve_to": [
+            121
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 121,
+        "name": "아쿠스타",
+        "evolve_to": [],
+        "evolve_from": [
+            120
+        ]
+    },
+    {
+        "no": 122,
+        "name": "마임맨",
+        "evolve_to": [
+            866
+        ],
+        "evolve_from": [
+            439
+        ]
+    },
+    {
+        "no": 123,
+        "name": "스라크",
+        "evolve_to": [
+            212,
+            900
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 124,
+        "name": "루주라",
+        "evolve_to": [],
+        "evolve_from": [
+            238
+        ]
+    },
+    {
+        "no": 125,
+        "name": "에레브",
+        "evolve_to": [
+            466
+        ],
+        "evolve_from": [
+            239
+        ]
+    },
+    {
+        "no": 126,
+        "name": "마그마",
+        "evolve_to": [
+            467
+        ],
+        "evolve_from": [
+            240
+        ]
+    },
+    {
+        "no": 127,
+        "name": "쁘사이저",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 128,
+        "name": "켄타로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 129,
+        "name": "잉어킹",
+        "evolve_to": [
+            130
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 130,
+        "name": "갸라도스",
+        "evolve_to": [],
+        "evolve_from": [
+            129
+        ]
+    },
+    {
+        "no": 131,
+        "name": "라프라스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 132,
+        "name": "메타몽",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 133,
+        "name": "이브이",
+        "evolve_to": [
+            134,
+            135,
+            136,
+            196,
+            197,
+            470,
+            471,
+            700
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 134,
+        "name": "샤미드",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 135,
+        "name": "쥬피썬더",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 136,
+        "name": "부스터",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 137,
+        "name": "폴리곤",
+        "evolve_to": [
+            233
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 138,
+        "name": "암나이트",
+        "evolve_to": [
+            139
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 139,
+        "name": "암스타",
+        "evolve_to": [],
+        "evolve_from": [
+            138
+        ]
+    },
+    {
+        "no": 140,
+        "name": "투구",
+        "evolve_to": [
+            141
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 141,
+        "name": "투구푸스",
+        "evolve_to": [],
+        "evolve_from": [
+            140
+        ]
+    },
+    {
+        "no": 142,
+        "name": "프테라",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 143,
+        "name": "잠만보",
+        "evolve_to": [],
+        "evolve_from": [
+            446
+        ]
+    },
+    {
+        "no": 144,
+        "name": "프리져",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 145,
+        "name": "썬더",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 146,
+        "name": "파이어",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 147,
+        "name": "미뇽",
+        "evolve_to": [
+            148
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 148,
+        "name": "신뇽",
+        "evolve_to": [
+            149
+        ],
+        "evolve_from": [
+            147
+        ]
+    },
+    {
+        "no": 149,
+        "name": "망나뇽",
+        "evolve_to": [],
+        "evolve_from": [
+            148
+        ]
+    },
+    {
+        "no": 150,
+        "name": "뮤츠",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 151,
+        "name": "뮤",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 152,
+        "name": "치코리타",
+        "evolve_to": [
+            153
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 153,
+        "name": "베이리프",
+        "evolve_to": [
+            154
+        ],
+        "evolve_from": [
+            152
+        ]
+    },
+    {
+        "no": 154,
+        "name": "메가니움",
+        "evolve_to": [],
+        "evolve_from": [
+            153
+        ]
+    },
+    {
+        "no": 155,
+        "name": "브케인",
+        "evolve_to": [
+            156
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 156,
+        "name": "마그케인",
+        "evolve_to": [
+            157
+        ],
+        "evolve_from": [
+            155
+        ]
+    },
+    {
+        "no": 157,
+        "name": "블레이범",
+        "evolve_to": [],
+        "evolve_from": [
+            156
+        ]
+    },
+    {
+        "no": 158,
+        "name": "리아코",
+        "evolve_to": [
+            159
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 159,
+        "name": "엘리게이",
+        "evolve_to": [
+            160
+        ],
+        "evolve_from": [
+            158
+        ]
+    },
+    {
+        "no": 160,
+        "name": "장크로다일",
+        "evolve_to": [],
+        "evolve_from": [
+            159
+        ]
+    },
+    {
+        "no": 161,
+        "name": "꼬리선",
+        "evolve_to": [
+            162
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 162,
+        "name": "다꼬리",
+        "evolve_to": [],
+        "evolve_from": [
+            161
+        ]
+    },
+    {
+        "no": 163,
+        "name": "부우부",
+        "evolve_to": [
+            164
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 164,
+        "name": "야부엉",
+        "evolve_to": [],
+        "evolve_from": [
+            163
+        ]
+    },
+    {
+        "no": 165,
+        "name": "레디바",
+        "evolve_to": [
+            166
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 166,
+        "name": "레디안",
+        "evolve_to": [],
+        "evolve_from": [
+            165
+        ]
+    },
+    {
+        "no": 167,
+        "name": "페이검",
+        "evolve_to": [
+            168
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 168,
+        "name": "아리아도스",
+        "evolve_to": [],
+        "evolve_from": [
+            167
+        ]
+    },
+    {
+        "no": 169,
+        "name": "크로뱃",
+        "evolve_to": [],
+        "evolve_from": [
+            42
+        ]
+    },
+    {
+        "no": 170,
+        "name": "초라기",
+        "evolve_to": [
+            171
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 171,
+        "name": "랜턴",
+        "evolve_to": [],
+        "evolve_from": [
+            170
+        ]
+    },
+    {
+        "no": 172,
+        "name": "피츄",
+        "evolve_to": [
+            25
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 173,
+        "name": "삐",
+        "evolve_to": [
+            35
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 174,
+        "name": "푸푸린",
+        "evolve_to": [
+            39
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 175,
+        "name": "토게피",
+        "evolve_to": [
+            176
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 176,
+        "name": "토게틱",
+        "evolve_to": [
+            468
+        ],
+        "evolve_from": [
+            175
+        ]
+    },
+    {
+        "no": 177,
+        "name": "네이티",
+        "evolve_to": [
+            178
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 178,
+        "name": "네이티오",
+        "evolve_to": [],
+        "evolve_from": [
+            177
+        ]
+    },
+    {
+        "no": 179,
+        "name": "메리프",
+        "evolve_to": [
+            180
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 180,
+        "name": "보송송",
+        "evolve_to": [
+            181
+        ],
+        "evolve_from": [
+            179
+        ]
+    },
+    {
+        "no": 181,
+        "name": "전룡",
+        "evolve_to": [],
+        "evolve_from": [
+            180
+        ]
+    },
+    {
+        "no": 182,
+        "name": "아르코",
+        "evolve_to": [],
+        "evolve_from": [
+            44
+        ]
+    },
+    {
+        "no": 183,
+        "name": "마릴",
+        "evolve_to": [
+            184
+        ],
+        "evolve_from": [
+            298
+        ]
+    },
+    {
+        "no": 184,
+        "name": "마릴리",
+        "evolve_to": [],
+        "evolve_from": [
+            183
+        ]
+    },
+    {
+        "no": 185,
+        "name": "꼬지모",
+        "evolve_to": [],
+        "evolve_from": [
+            438
+        ]
+    },
+    {
+        "no": 186,
+        "name": "왕구리",
+        "evolve_to": [],
+        "evolve_from": [
+            61
+        ]
+    },
+    {
+        "no": 187,
+        "name": "통통코",
+        "evolve_to": [
+            188
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 188,
+        "name": "두코",
+        "evolve_to": [
+            189
+        ],
+        "evolve_from": [
+            187
+        ]
+    },
+    {
+        "no": 189,
+        "name": "솜솜코",
+        "evolve_to": [],
+        "evolve_from": [
+            188
+        ]
+    },
+    {
+        "no": 190,
+        "name": "에이팜",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 191,
+        "name": "해너츠",
+        "evolve_to": [
+            192
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 192,
+        "name": "해루미",
+        "evolve_to": [],
+        "evolve_from": [
+            191
+        ]
+    },
+    {
+        "no": 193,
+        "name": "왕자리",
+        "evolve_to": [
+            469
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 194,
+        "name": "우파",
+        "evolve_to": [
+            195,
+            980
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 195,
+        "name": "누오",
+        "evolve_to": [],
+        "evolve_from": [
+            194
+        ]
+    },
+    {
+        "no": 196,
+        "name": "에브이",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 197,
+        "name": "블래키",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 198,
+        "name": "니로우",
+        "evolve_to": [
+            430
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 199,
+        "name": "야도킹",
+        "evolve_to": [],
+        "evolve_from": [
+            79
+        ]
+    },
+    {
+        "no": 200,
+        "name": "무우마",
+        "evolve_to": [
+            429
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 201,
+        "name": "안농",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 202,
+        "name": "마자용",
+        "evolve_to": [],
+        "evolve_from": [
+            360
+        ]
+    },
+    {
+        "no": 203,
+        "name": "키링키",
+        "evolve_to": [
+            981
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 204,
+        "name": "피콘",
+        "evolve_to": [
+            205
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 205,
+        "name": "쏘콘",
+        "evolve_to": [],
+        "evolve_from": [
+            204
+        ]
+    },
+    {
+        "no": 206,
+        "name": "노고치",
+        "evolve_to": [
+            982
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 207,
+        "name": "글라이거",
+        "evolve_to": [
+            472
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 208,
+        "name": "강철톤",
+        "evolve_to": [],
+        "evolve_from": [
+            95
+        ]
+    },
+    {
+        "no": 209,
+        "name": "블루",
+        "evolve_to": [
+            210
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 210,
+        "name": "그랑블루",
+        "evolve_to": [],
+        "evolve_from": [
+            209
+        ]
+    },
+    {
+        "no": 211,
+        "name": "침바루",
+        "evolve_to": [
+            904
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 212,
+        "name": "핫삼",
+        "evolve_to": [],
+        "evolve_from": [
+            123
+        ]
+    },
+    {
+        "no": 213,
+        "name": "단단지",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 214,
+        "name": "헤라크로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 215,
+        "name": "포푸니",
+        "evolve_to": [
+            461,
+            903
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 216,
+        "name": "깜지곰",
+        "evolve_to": [
+            217
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 217,
+        "name": "링곰",
+        "evolve_to": [
+            901
+        ],
+        "evolve_from": [
+            216
+        ]
+    },
+    {
+        "no": 218,
+        "name": "마그마그",
+        "evolve_to": [
+            219
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 219,
+        "name": "마그카르고",
+        "evolve_to": [],
+        "evolve_from": [
+            218
+        ]
+    },
+    {
+        "no": 220,
+        "name": "꾸꾸리",
+        "evolve_to": [
+            221
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 221,
+        "name": "메꾸리",
+        "evolve_to": [
+            473
+        ],
+        "evolve_from": [
+            220
+        ]
+    },
+    {
+        "no": 222,
+        "name": "코산호",
+        "evolve_to": [
+            864
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 223,
+        "name": "총어",
+        "evolve_to": [
+            224
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 224,
+        "name": "대포무노",
+        "evolve_to": [],
+        "evolve_from": [
+            223
+        ]
+    },
+    {
+        "no": 225,
+        "name": "딜리버드",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 226,
+        "name": "만타인",
+        "evolve_to": [],
+        "evolve_from": [
+            458
+        ]
+    },
+    {
+        "no": 227,
+        "name": "무장조",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 228,
+        "name": "델빌",
+        "evolve_to": [
+            229
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 229,
+        "name": "헬가",
+        "evolve_to": [],
+        "evolve_from": [
+            228
+        ]
+    },
+    {
+        "no": 230,
+        "name": "킹드라",
+        "evolve_to": [],
+        "evolve_from": [
+            117
+        ]
+    },
+    {
+        "no": 231,
+        "name": "코코리",
+        "evolve_to": [
+            232
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 232,
+        "name": "코리갑",
+        "evolve_to": [],
+        "evolve_from": [
+            231
+        ]
+    },
+    {
+        "no": 233,
+        "name": "폴리곤2",
+        "evolve_to": [
+            474
+        ],
+        "evolve_from": [
+            137
+        ]
+    },
+    {
+        "no": 234,
+        "name": "노라키",
+        "evolve_to": [
+            899
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 235,
+        "name": "루브도",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 236,
+        "name": "배루키",
+        "evolve_to": [
+            106,
+            107,
+            237
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 237,
+        "name": "카포에라",
+        "evolve_to": [],
+        "evolve_from": [
+            236
+        ]
+    },
+    {
+        "no": 238,
+        "name": "뽀뽀라",
+        "evolve_to": [
+            124
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 239,
+        "name": "에레키드",
+        "evolve_to": [
+            125
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 240,
+        "name": "마그비",
+        "evolve_to": [
+            126
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 241,
+        "name": "밀탱크",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 242,
+        "name": "해피너스",
+        "evolve_to": [],
+        "evolve_from": [
+            113
+        ]
+    },
+    {
+        "no": 243,
+        "name": "라이코",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 244,
+        "name": "앤테이",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 245,
+        "name": "스이쿤",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 246,
+        "name": "애버라스",
+        "evolve_to": [
+            247
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 247,
+        "name": "데기라스",
+        "evolve_to": [
+            248
+        ],
+        "evolve_from": [
+            246
+        ]
+    },
+    {
+        "no": 248,
+        "name": "마기라스",
+        "evolve_to": [],
+        "evolve_from": [
+            247
+        ]
+    },
+    {
+        "no": 249,
+        "name": "루기아",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 250,
+        "name": "칠색조",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 251,
+        "name": "세레비",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 252,
+        "name": "나무지기",
+        "evolve_to": [
+            253
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 253,
+        "name": "나무돌이",
+        "evolve_to": [
+            254
+        ],
+        "evolve_from": [
+            252
+        ]
+    },
+    {
+        "no": 254,
+        "name": "나무킹",
+        "evolve_to": [],
+        "evolve_from": [
+            253
+        ]
+    },
+    {
+        "no": 255,
+        "name": "아차모",
+        "evolve_to": [
+            256
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 256,
+        "name": "영치코",
+        "evolve_to": [
+            257
+        ],
+        "evolve_from": [
+            255
+        ]
+    },
+    {
+        "no": 257,
+        "name": "번치코",
+        "evolve_to": [],
+        "evolve_from": [
+            256
+        ]
+    },
+    {
+        "no": 258,
+        "name": "물짱이",
+        "evolve_to": [
+            259
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 259,
+        "name": "늪짱이",
+        "evolve_to": [
+            260
+        ],
+        "evolve_from": [
+            258
+        ]
+    },
+    {
+        "no": 260,
+        "name": "대짱이",
+        "evolve_to": [],
+        "evolve_from": [
+            259
+        ]
+    },
+    {
+        "no": 261,
+        "name": "포챠나",
+        "evolve_to": [
+            262
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 262,
+        "name": "그라에나",
+        "evolve_to": [],
+        "evolve_from": [
+            261
+        ]
+    },
+    {
+        "no": 263,
+        "name": "지그제구리",
+        "evolve_to": [
+            264
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 264,
+        "name": "직구리",
+        "evolve_to": [
+            862
+        ],
+        "evolve_from": [
+            263
+        ]
+    },
+    {
+        "no": 265,
+        "name": "개무소",
+        "evolve_to": [
+            266,
+            268
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 266,
+        "name": "실쿤",
+        "evolve_to": [
+            267
+        ],
+        "evolve_from": [
+            265
+        ]
+    },
+    {
+        "no": 267,
+        "name": "뷰티플라이",
+        "evolve_to": [],
+        "evolve_from": [
+            266
+        ]
+    },
+    {
+        "no": 268,
+        "name": "카스쿤",
+        "evolve_to": [
+            269
+        ],
+        "evolve_from": [
+            265
+        ]
+    },
+    {
+        "no": 269,
+        "name": "독케일",
+        "evolve_to": [],
+        "evolve_from": [
+            268
+        ]
+    },
+    {
+        "no": 270,
+        "name": "연꽃몬",
+        "evolve_to": [
+            271
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 271,
+        "name": "로토스",
+        "evolve_to": [
+            272
+        ],
+        "evolve_from": [
+            270
+        ]
+    },
+    {
+        "no": 272,
+        "name": "로파파",
+        "evolve_to": [],
+        "evolve_from": [
+            271
+        ]
+    },
+    {
+        "no": 273,
+        "name": "도토링",
+        "evolve_to": [
+            274
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 274,
+        "name": "잎새코",
+        "evolve_to": [
+            275
+        ],
+        "evolve_from": [
+            273
+        ]
+    },
+    {
+        "no": 275,
+        "name": "다탱구",
+        "evolve_to": [],
+        "evolve_from": [
+            274
+        ]
+    },
+    {
+        "no": 276,
+        "name": "테일로",
+        "evolve_to": [
+            277
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 277,
+        "name": "스왈로",
+        "evolve_to": [],
+        "evolve_from": [
+            276
+        ]
+    },
+    {
+        "no": 278,
+        "name": "갈모매",
+        "evolve_to": [
+            279
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 279,
+        "name": "패리퍼",
+        "evolve_to": [],
+        "evolve_from": [
+            278
+        ]
+    },
+    {
+        "no": 280,
+        "name": "랄토스",
+        "evolve_to": [
+            281
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 281,
+        "name": "킬리아",
+        "evolve_to": [
+            282,
+            475
+        ],
+        "evolve_from": [
+            280
+        ]
+    },
+    {
+        "no": 282,
+        "name": "가디안",
+        "evolve_to": [],
+        "evolve_from": [
+            281
+        ]
+    },
+    {
+        "no": 283,
+        "name": "비구술",
+        "evolve_to": [
+            284
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 284,
+        "name": "비나방",
+        "evolve_to": [],
+        "evolve_from": [
+            283
+        ]
+    },
+    {
+        "no": 285,
+        "name": "버섯꼬",
+        "evolve_to": [
+            286
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 286,
+        "name": "버섯모",
+        "evolve_to": [],
+        "evolve_from": [
+            285
+        ]
+    },
+    {
+        "no": 287,
+        "name": "게을로",
+        "evolve_to": [
+            288
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 288,
+        "name": "발바로",
+        "evolve_to": [
+            289
+        ],
+        "evolve_from": [
+            287
+        ]
+    },
+    {
+        "no": 289,
+        "name": "게을킹",
+        "evolve_to": [],
+        "evolve_from": [
+            288
+        ]
+    },
+    {
+        "no": 290,
+        "name": "토중몬",
+        "evolve_to": [
+            291,
+            292
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 291,
+        "name": "아이스크",
+        "evolve_to": [],
+        "evolve_from": [
+            290
+        ]
+    },
+    {
+        "no": 292,
+        "name": "껍질몬",
+        "evolve_to": [],
+        "evolve_from": [
+            290
+        ]
+    },
+    {
+        "no": 293,
+        "name": "소곤룡",
+        "evolve_to": [
+            294
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 294,
+        "name": "노공룡",
+        "evolve_to": [
+            295
+        ],
+        "evolve_from": [
+            293
+        ]
+    },
+    {
+        "no": 295,
+        "name": "폭음룡",
+        "evolve_to": [],
+        "evolve_from": [
+            294
+        ]
+    },
+    {
+        "no": 296,
+        "name": "마크탕",
+        "evolve_to": [
+            297
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 297,
+        "name": "하리뭉",
+        "evolve_to": [],
+        "evolve_from": [
+            296
+        ]
+    },
+    {
+        "no": 298,
+        "name": "루리리",
+        "evolve_to": [
+            183
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 299,
+        "name": "코코파스",
+        "evolve_to": [
+            476
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 300,
+        "name": "에나비",
+        "evolve_to": [
+            301
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 301,
+        "name": "델케티",
+        "evolve_to": [],
+        "evolve_from": [
+            300
+        ]
+    },
+    {
+        "no": 302,
+        "name": "깜까미",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 303,
+        "name": "입치트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 304,
+        "name": "가보리",
+        "evolve_to": [
+            305
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 305,
+        "name": "갱도라",
+        "evolve_to": [
+            306
+        ],
+        "evolve_from": [
+            304
+        ]
+    },
+    {
+        "no": 306,
+        "name": "보스로라",
+        "evolve_to": [],
+        "evolve_from": [
+            305
+        ]
+    },
+    {
+        "no": 307,
+        "name": "요가랑",
+        "evolve_to": [
+            308
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 308,
+        "name": "요가램",
+        "evolve_to": [],
+        "evolve_from": [
+            307
+        ]
+    },
+    {
+        "no": 309,
+        "name": "썬더라이",
+        "evolve_to": [
+            310
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 310,
+        "name": "썬더볼트",
+        "evolve_to": [],
+        "evolve_from": [
+            309
+        ]
+    },
+    {
+        "no": 311,
+        "name": "플러시",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 312,
+        "name": "마이농",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 313,
+        "name": "볼비트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 314,
+        "name": "네오비트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 315,
+        "name": "로젤리아",
+        "evolve_to": [
+            407
+        ],
+        "evolve_from": [
+            406
+        ]
+    },
+    {
+        "no": 316,
+        "name": "꼴깍몬",
+        "evolve_to": [
+            317
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 317,
+        "name": "꿀꺽몬",
+        "evolve_to": [],
+        "evolve_from": [
+            316
+        ]
+    },
+    {
+        "no": 318,
+        "name": "샤프니아",
+        "evolve_to": [
+            319
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 319,
+        "name": "샤크니아",
+        "evolve_to": [],
+        "evolve_from": [
+            318
+        ]
+    },
+    {
+        "no": 320,
+        "name": "고래왕자",
+        "evolve_to": [
+            321
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 321,
+        "name": "고래왕",
+        "evolve_to": [],
+        "evolve_from": [
+            320
+        ]
+    },
+    {
+        "no": 322,
+        "name": "둔타",
+        "evolve_to": [
+            323
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 323,
+        "name": "폭타",
+        "evolve_to": [],
+        "evolve_from": [
+            322
+        ]
+    },
+    {
+        "no": 324,
+        "name": "코터스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 325,
+        "name": "피그점프",
+        "evolve_to": [
+            326
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 326,
+        "name": "피그킹",
+        "evolve_to": [],
+        "evolve_from": [
+            325
+        ]
+    },
+    {
+        "no": 327,
+        "name": "얼루기",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 328,
+        "name": "톱치",
+        "evolve_to": [
+            329
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 329,
+        "name": "비브라바",
+        "evolve_to": [
+            330
+        ],
+        "evolve_from": [
+            328
+        ]
+    },
+    {
+        "no": 330,
+        "name": "플라이곤",
+        "evolve_to": [],
+        "evolve_from": [
+            329
+        ]
+    },
+    {
+        "no": 331,
+        "name": "선인왕",
+        "evolve_to": [
+            332
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 332,
+        "name": "밤선인",
+        "evolve_to": [],
+        "evolve_from": [
+            331
+        ]
+    },
+    {
+        "no": 333,
+        "name": "파비코",
+        "evolve_to": [
+            334
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 334,
+        "name": "파비코리",
+        "evolve_to": [],
+        "evolve_from": [
+            333
+        ]
+    },
+    {
+        "no": 335,
+        "name": "쟝고",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 336,
+        "name": "세비퍼",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 337,
+        "name": "루나톤",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 338,
+        "name": "솔록",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 339,
+        "name": "미꾸리",
+        "evolve_to": [
+            340
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 340,
+        "name": "메깅",
+        "evolve_to": [],
+        "evolve_from": [
+            339
+        ]
+    },
+    {
+        "no": 341,
+        "name": "가재군",
+        "evolve_to": [
+            342
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 342,
+        "name": "가재장군",
+        "evolve_to": [],
+        "evolve_from": [
+            341
+        ]
+    },
+    {
+        "no": 343,
+        "name": "오뚝군",
+        "evolve_to": [
+            344
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 344,
+        "name": "점토도리",
+        "evolve_to": [],
+        "evolve_from": [
+            343
+        ]
+    },
+    {
+        "no": 345,
+        "name": "릴링",
+        "evolve_to": [
+            346
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 346,
+        "name": "릴리요",
+        "evolve_to": [],
+        "evolve_from": [
+            345
+        ]
+    },
+    {
+        "no": 347,
+        "name": "아노딥스",
+        "evolve_to": [
+            348
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 348,
+        "name": "아말도",
+        "evolve_to": [],
+        "evolve_from": [
+            347
+        ]
+    },
+    {
+        "no": 349,
+        "name": "빈티나",
+        "evolve_to": [
+            350
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 350,
+        "name": "밀로틱",
+        "evolve_to": [],
+        "evolve_from": [
+            349
+        ]
+    },
+    {
+        "no": 351,
+        "name": "캐스퐁",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 352,
+        "name": "켈리몬",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 353,
+        "name": "어둠대신",
+        "evolve_to": [
+            354
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 354,
+        "name": "다크펫",
+        "evolve_to": [],
+        "evolve_from": [
+            353
+        ]
+    },
+    {
+        "no": 355,
+        "name": "해골몽",
+        "evolve_to": [
+            356
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 356,
+        "name": "미라몽",
+        "evolve_to": [
+            477
+        ],
+        "evolve_from": [
+            355
+        ]
+    },
+    {
+        "no": 357,
+        "name": "트로피우스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 358,
+        "name": "치렁",
+        "evolve_to": [],
+        "evolve_from": [
+            433
+        ]
+    },
+    {
+        "no": 359,
+        "name": "앱솔",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 360,
+        "name": "마자",
+        "evolve_to": [
+            202
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 361,
+        "name": "눈꼬마",
+        "evolve_to": [
+            362,
+            478
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 362,
+        "name": "얼음귀신",
+        "evolve_to": [],
+        "evolve_from": [
+            361
+        ]
+    },
+    {
+        "no": 363,
+        "name": "대굴레오",
+        "evolve_to": [
+            364
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 364,
+        "name": "씨레오",
+        "evolve_to": [
+            365
+        ],
+        "evolve_from": [
+            363
+        ]
+    },
+    {
+        "no": 365,
+        "name": "씨카이저",
+        "evolve_to": [],
+        "evolve_from": [
+            364
+        ]
+    },
+    {
+        "no": 366,
+        "name": "진주몽",
+        "evolve_to": [
+            367,
+            368
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 367,
+        "name": "헌테일",
+        "evolve_to": [],
+        "evolve_from": [
+            366
+        ]
+    },
+    {
+        "no": 368,
+        "name": "분홍장이",
+        "evolve_to": [],
+        "evolve_from": [
+            366
+        ]
+    },
+    {
+        "no": 369,
+        "name": "시라칸",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 370,
+        "name": "사랑동이",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 371,
+        "name": "아공이",
+        "evolve_to": [
+            372
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 372,
+        "name": "쉘곤",
+        "evolve_to": [
+            373
+        ],
+        "evolve_from": [
+            371
+        ]
+    },
+    {
+        "no": 373,
+        "name": "보만다",
+        "evolve_to": [],
+        "evolve_from": [
+            372
+        ]
+    },
+    {
+        "no": 374,
+        "name": "메탕",
+        "evolve_to": [
+            375
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 375,
+        "name": "메탕구",
+        "evolve_to": [
+            376
+        ],
+        "evolve_from": [
+            374
+        ]
+    },
+    {
+        "no": 376,
+        "name": "메타그로스",
+        "evolve_to": [],
+        "evolve_from": [
+            375
+        ]
+    },
+    {
+        "no": 377,
+        "name": "레지락",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 378,
+        "name": "레지아이스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 379,
+        "name": "레지스틸",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 380,
+        "name": "라티아스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 381,
+        "name": "라티오스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 382,
+        "name": "가이오가",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 383,
+        "name": "그란돈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 384,
+        "name": "레쿠쟈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 385,
+        "name": "지라치",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 386,
+        "name": "테오키스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 387,
+        "name": "모부기",
+        "evolve_to": [
+            388
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 388,
+        "name": "수풀부기",
+        "evolve_to": [
+            389
+        ],
+        "evolve_from": [
+            387
+        ]
+    },
+    {
+        "no": 389,
+        "name": "토대부기",
+        "evolve_to": [],
+        "evolve_from": [
+            388
+        ]
+    },
+    {
+        "no": 390,
+        "name": "불꽃숭이",
+        "evolve_to": [
+            391
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 391,
+        "name": "파이숭이",
+        "evolve_to": [
+            392
+        ],
+        "evolve_from": [
+            390
+        ]
+    },
+    {
+        "no": 392,
+        "name": "초염몽",
+        "evolve_to": [],
+        "evolve_from": [
+            391
+        ]
+    },
+    {
+        "no": 393,
+        "name": "팽도리",
+        "evolve_to": [
+            394
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 394,
+        "name": "팽태자",
+        "evolve_to": [
+            395
+        ],
+        "evolve_from": [
+            393
+        ]
+    },
+    {
+        "no": 395,
+        "name": "엠페르트",
+        "evolve_to": [],
+        "evolve_from": [
+            394
+        ]
+    },
+    {
+        "no": 396,
+        "name": "찌르꼬",
+        "evolve_to": [
+            397
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 397,
+        "name": "찌르버드",
+        "evolve_to": [
+            398
+        ],
+        "evolve_from": [
+            396
+        ]
+    },
+    {
+        "no": 398,
+        "name": "찌르호크",
+        "evolve_to": [],
+        "evolve_from": [
+            397
+        ]
+    },
+    {
+        "no": 399,
+        "name": "비버니",
+        "evolve_to": [
+            400
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 400,
+        "name": "비버통",
+        "evolve_to": [],
+        "evolve_from": [
+            399
+        ]
+    },
+    {
+        "no": 401,
+        "name": "귀뚤뚜기",
+        "evolve_to": [
+            402
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 402,
+        "name": "귀뚤톡크",
+        "evolve_to": [],
+        "evolve_from": [
+            401
+        ]
+    },
+    {
+        "no": 403,
+        "name": "꼬링크",
+        "evolve_to": [
+            404
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 404,
+        "name": "럭시오",
+        "evolve_to": [
+            405
+        ],
+        "evolve_from": [
+            403
+        ]
+    },
+    {
+        "no": 405,
+        "name": "렌트라",
+        "evolve_to": [],
+        "evolve_from": [
+            404
+        ]
+    },
+    {
+        "no": 406,
+        "name": "꼬몽울",
+        "evolve_to": [
+            315
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 407,
+        "name": "로즈레이드",
+        "evolve_to": [],
+        "evolve_from": [
+            315
+        ]
+    },
+    {
+        "no": 408,
+        "name": "두개도스",
+        "evolve_to": [
+            409
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 409,
+        "name": "램펄드",
+        "evolve_to": [],
+        "evolve_from": [
+            408
+        ]
+    },
+    {
+        "no": 410,
+        "name": "방패톱스",
+        "evolve_to": [
+            411
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 411,
+        "name": "바리톱스",
+        "evolve_to": [],
+        "evolve_from": [
+            410
+        ]
+    },
+    {
+        "no": 412,
+        "name": "도롱충이",
+        "evolve_to": [
+            413,
+            414
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 413,
+        "name": "도롱마담",
+        "evolve_to": [],
+        "evolve_from": [
+            412
+        ]
+    },
+    {
+        "no": 414,
+        "name": "나메일",
+        "evolve_to": [],
+        "evolve_from": [
+            412
+        ]
+    },
+    {
+        "no": 415,
+        "name": "세꿀버리",
+        "evolve_to": [
+            416
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 416,
+        "name": "비퀸",
+        "evolve_to": [],
+        "evolve_from": [
+            415
+        ]
+    },
+    {
+        "no": 417,
+        "name": "파치리스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 418,
+        "name": "브이젤",
+        "evolve_to": [
+            419
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 419,
+        "name": "플로젤",
+        "evolve_to": [],
+        "evolve_from": [
+            418
+        ]
+    },
+    {
+        "no": 420,
+        "name": "체리버",
+        "evolve_to": [
+            421
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 421,
+        "name": "체리꼬",
+        "evolve_to": [],
+        "evolve_from": [
+            420
+        ]
+    },
+    {
+        "no": 422,
+        "name": "깝질무",
+        "evolve_to": [
+            423
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 423,
+        "name": "트리토돈",
+        "evolve_to": [],
+        "evolve_from": [
+            422
+        ]
+    },
+    {
+        "no": 424,
+        "name": "겟핸보숭",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 425,
+        "name": "흔들풍손",
+        "evolve_to": [
+            426
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 426,
+        "name": "둥실라이드",
+        "evolve_to": [],
+        "evolve_from": [
+            425
+        ]
+    },
+    {
+        "no": 427,
+        "name": "이어롤",
+        "evolve_to": [
+            428
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 428,
+        "name": "이어롭",
+        "evolve_to": [],
+        "evolve_from": [
+            427
+        ]
+    },
+    {
+        "no": 429,
+        "name": "무우마직",
+        "evolve_to": [],
+        "evolve_from": [
+            200
+        ]
+    },
+    {
+        "no": 430,
+        "name": "돈크로우",
+        "evolve_to": [],
+        "evolve_from": [
+            198
+        ]
+    },
+    {
+        "no": 431,
+        "name": "나옹마",
+        "evolve_to": [
+            432
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 432,
+        "name": "몬냥이",
+        "evolve_to": [],
+        "evolve_from": [
+            431
+        ]
+    },
+    {
+        "no": 433,
+        "name": "랑딸랑",
+        "evolve_to": [
+            358
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 434,
+        "name": "스컹뿡",
+        "evolve_to": [
+            435
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 435,
+        "name": "스컹탱크",
+        "evolve_to": [],
+        "evolve_from": [
+            434
+        ]
+    },
+    {
+        "no": 436,
+        "name": "동미러",
+        "evolve_to": [
+            437
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 437,
+        "name": "동탁군",
+        "evolve_to": [],
+        "evolve_from": [
+            436
+        ]
+    },
+    {
+        "no": 438,
+        "name": "꼬지지",
+        "evolve_to": [
+            185
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 439,
+        "name": "흉내내",
+        "evolve_to": [
+            122
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 440,
+        "name": "핑복",
+        "evolve_to": [
+            113
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 441,
+        "name": "페라페",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 442,
+        "name": "화강돌",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 443,
+        "name": "딥상어동",
+        "evolve_to": [
+            444
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 444,
+        "name": "한바이트",
+        "evolve_to": [
+            445
+        ],
+        "evolve_from": [
+            443
+        ]
+    },
+    {
+        "no": 445,
+        "name": "한카리아스",
+        "evolve_to": [],
+        "evolve_from": [
+            444
+        ]
+    },
+    {
+        "no": 446,
+        "name": "먹고자",
+        "evolve_to": [
+            143
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 447,
+        "name": "리오르",
+        "evolve_to": [
+            448
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 448,
+        "name": "루카리오",
+        "evolve_to": [],
+        "evolve_from": [
+            447
+        ]
+    },
+    {
+        "no": 449,
+        "name": "히포포타스",
+        "evolve_to": [
+            450
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 450,
+        "name": "하마돈",
+        "evolve_to": [],
+        "evolve_from": [
+            449
+        ]
+    },
+    {
+        "no": 451,
+        "name": "스콜피",
+        "evolve_to": [
+            452
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 452,
+        "name": "드래피온",
+        "evolve_to": [],
+        "evolve_from": [
+            451
+        ]
+    },
+    {
+        "no": 453,
+        "name": "삐딱구리",
+        "evolve_to": [
+            454
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 454,
+        "name": "독개굴",
+        "evolve_to": [],
+        "evolve_from": [
+            453
+        ]
+    },
+    {
+        "no": 455,
+        "name": "무스틈니",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 456,
+        "name": "형광어",
+        "evolve_to": [
+            457
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 457,
+        "name": "네오라이트",
+        "evolve_to": [],
+        "evolve_from": [
+            456
+        ]
+    },
+    {
+        "no": 458,
+        "name": "타만타",
+        "evolve_to": [
+            226
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 459,
+        "name": "눈쓰개",
+        "evolve_to": [
+            460
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 460,
+        "name": "눈설왕",
+        "evolve_to": [],
+        "evolve_from": [
+            459
+        ]
+    },
+    {
+        "no": 461,
+        "name": "포푸니라",
+        "evolve_to": [],
+        "evolve_from": [
+            215
+        ]
+    },
+    {
+        "no": 462,
+        "name": "자포코일",
+        "evolve_to": [],
+        "evolve_from": [
+            82
+        ]
+    },
+    {
+        "no": 463,
+        "name": "내룸벨트",
+        "evolve_to": [],
+        "evolve_from": [
+            108
+        ]
+    },
+    {
+        "no": 464,
+        "name": "거대코뿌리",
+        "evolve_to": [],
+        "evolve_from": [
+            112
+        ]
+    },
+    {
+        "no": 465,
+        "name": "덩쿠림보",
+        "evolve_to": [],
+        "evolve_from": [
+            114
+        ]
+    },
+    {
+        "no": 466,
+        "name": "에레키블",
+        "evolve_to": [],
+        "evolve_from": [
+            125
+        ]
+    },
+    {
+        "no": 467,
+        "name": "마그마번",
+        "evolve_to": [],
+        "evolve_from": [
+            126
+        ]
+    },
+    {
+        "no": 468,
+        "name": "토게키스",
+        "evolve_to": [],
+        "evolve_from": [
+            176
+        ]
+    },
+    {
+        "no": 469,
+        "name": "메가자리",
+        "evolve_to": [],
+        "evolve_from": [
+            193
+        ]
+    },
+    {
+        "no": 470,
+        "name": "리피아",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 471,
+        "name": "글레이시아",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 472,
+        "name": "글라이온",
+        "evolve_to": [],
+        "evolve_from": [
+            207
+        ]
+    },
+    {
+        "no": 473,
+        "name": "맘모꾸리",
+        "evolve_to": [],
+        "evolve_from": [
+            221
+        ]
+    },
+    {
+        "no": 474,
+        "name": "폴리곤Z",
+        "evolve_to": [],
+        "evolve_from": [
+            233
+        ]
+    },
+    {
+        "no": 475,
+        "name": "엘레이드",
+        "evolve_to": [],
+        "evolve_from": [
+            281
+        ]
+    },
+    {
+        "no": 476,
+        "name": "대코파스",
+        "evolve_to": [],
+        "evolve_from": [
+            299
+        ]
+    },
+    {
+        "no": 477,
+        "name": "야느와르몽",
+        "evolve_to": [],
+        "evolve_from": [
+            356
+        ]
+    },
+    {
+        "no": 478,
+        "name": "눈여아",
+        "evolve_to": [],
+        "evolve_from": [
+            361
+        ]
+    },
+    {
+        "no": 479,
+        "name": "로토무",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 480,
+        "name": "유크시",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 481,
+        "name": "엠라이트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 482,
+        "name": "아그놈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 483,
+        "name": "디아루가",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 484,
+        "name": "펄기아",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 485,
+        "name": "히드런",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 486,
+        "name": "레지기가스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 487,
+        "name": "기라티나",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 488,
+        "name": "크레세리아",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 489,
+        "name": "피오네",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 490,
+        "name": "마나피",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 491,
+        "name": "다크라이",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 492,
+        "name": "쉐이미",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 493,
+        "name": "아르세우스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 494,
+        "name": "비크티니",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 495,
+        "name": "주리비얀",
+        "evolve_to": [
+            496
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 496,
+        "name": "샤비",
+        "evolve_to": [
+            497
+        ],
+        "evolve_from": [
+            495
+        ]
+    },
+    {
+        "no": 497,
+        "name": "샤로다",
+        "evolve_to": [],
+        "evolve_from": [
+            496
+        ]
+    },
+    {
+        "no": 498,
+        "name": "뚜꾸리",
+        "evolve_to": [
+            499
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 499,
+        "name": "차오꿀",
+        "evolve_to": [
+            500
+        ],
+        "evolve_from": [
+            498
+        ]
+    },
+    {
+        "no": 500,
+        "name": "염무왕",
+        "evolve_to": [],
+        "evolve_from": [
+            499
+        ]
+    },
+    {
+        "no": 501,
+        "name": "수댕이",
+        "evolve_to": [
+            502
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 502,
+        "name": "쌍검자비",
+        "evolve_to": [
+            503
+        ],
+        "evolve_from": [
+            501
+        ]
+    },
+    {
+        "no": 503,
+        "name": "대검귀",
+        "evolve_to": [],
+        "evolve_from": [
+            502
+        ]
+    },
+    {
+        "no": 504,
+        "name": "보르쥐",
+        "evolve_to": [
+            505
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 505,
+        "name": "보르그",
+        "evolve_to": [],
+        "evolve_from": [
+            504
+        ]
+    },
+    {
+        "no": 506,
+        "name": "요테리",
+        "evolve_to": [
+            507
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 507,
+        "name": "하데리어",
+        "evolve_to": [
+            508
+        ],
+        "evolve_from": [
+            506
+        ]
+    },
+    {
+        "no": 508,
+        "name": "바랜드",
+        "evolve_to": [],
+        "evolve_from": [
+            507
+        ]
+    },
+    {
+        "no": 509,
+        "name": "쌔비냥",
+        "evolve_to": [
+            510
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 510,
+        "name": "레파르다스",
+        "evolve_to": [],
+        "evolve_from": [
+            509
+        ]
+    },
+    {
+        "no": 511,
+        "name": "야나프",
+        "evolve_to": [
+            512
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 512,
+        "name": "야나키",
+        "evolve_to": [],
+        "evolve_from": [
+            511
+        ]
+    },
+    {
+        "no": 513,
+        "name": "바오프",
+        "evolve_to": [
+            514
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 514,
+        "name": "바오키",
+        "evolve_to": [],
+        "evolve_from": [
+            513
+        ]
+    },
+    {
+        "no": 515,
+        "name": "앗차프",
+        "evolve_to": [
+            516
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 516,
+        "name": "앗차키",
+        "evolve_to": [],
+        "evolve_from": [
+            515
+        ]
+    },
+    {
+        "no": 517,
+        "name": "몽나",
+        "evolve_to": [
+            518
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 518,
+        "name": "몽얌나",
+        "evolve_to": [],
+        "evolve_from": [
+            517
+        ]
+    },
+    {
+        "no": 519,
+        "name": "콩둘기",
+        "evolve_to": [
+            520
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 520,
+        "name": "유토브",
+        "evolve_to": [
+            521
+        ],
+        "evolve_from": [
+            519
+        ]
+    },
+    {
+        "no": 521,
+        "name": "켄호로우",
+        "evolve_to": [],
+        "evolve_from": [
+            520
+        ]
+    },
+    {
+        "no": 522,
+        "name": "줄뮤마",
+        "evolve_to": [
+            523
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 523,
+        "name": "제브라이카",
+        "evolve_to": [],
+        "evolve_from": [
+            522
+        ]
+    },
+    {
+        "no": 524,
+        "name": "단굴",
+        "evolve_to": [
+            525
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 525,
+        "name": "암트르",
+        "evolve_to": [
+            526
+        ],
+        "evolve_from": [
+            524
+        ]
+    },
+    {
+        "no": 526,
+        "name": "기가이어스",
+        "evolve_to": [],
+        "evolve_from": [
+            525
+        ]
+    },
+    {
+        "no": 527,
+        "name": "또르박쥐",
+        "evolve_to": [
+            528
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 528,
+        "name": "맘박쥐",
+        "evolve_to": [],
+        "evolve_from": [
+            527
+        ]
+    },
+    {
+        "no": 529,
+        "name": "두더류",
+        "evolve_to": [
+            530
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 530,
+        "name": "몰드류",
+        "evolve_to": [],
+        "evolve_from": [
+            529
+        ]
+    },
+    {
+        "no": 531,
+        "name": "다부니",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 532,
+        "name": "으랏차",
+        "evolve_to": [
+            533
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 533,
+        "name": "토쇠골",
+        "evolve_to": [
+            534
+        ],
+        "evolve_from": [
+            532
+        ]
+    },
+    {
+        "no": 534,
+        "name": "노보청",
+        "evolve_to": [],
+        "evolve_from": [
+            533
+        ]
+    },
+    {
+        "no": 535,
+        "name": "동챙이",
+        "evolve_to": [
+            536
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 536,
+        "name": "두까비",
+        "evolve_to": [
+            537
+        ],
+        "evolve_from": [
+            535
+        ]
+    },
+    {
+        "no": 537,
+        "name": "두빅굴",
+        "evolve_to": [],
+        "evolve_from": [
+            536
+        ]
+    },
+    {
+        "no": 538,
+        "name": "던지미",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 539,
+        "name": "타격귀",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 540,
+        "name": "두르보",
+        "evolve_to": [
+            541
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 541,
+        "name": "두르쿤",
+        "evolve_to": [
+            542
+        ],
+        "evolve_from": [
+            540
+        ]
+    },
+    {
+        "no": 542,
+        "name": "모아머",
+        "evolve_to": [],
+        "evolve_from": [
+            541
+        ]
+    },
+    {
+        "no": 543,
+        "name": "마디네",
+        "evolve_to": [
+            544
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 544,
+        "name": "휠구",
+        "evolve_to": [
+            545
+        ],
+        "evolve_from": [
+            543
+        ]
+    },
+    {
+        "no": 545,
+        "name": "펜드라",
+        "evolve_to": [],
+        "evolve_from": [
+            544
+        ]
+    },
+    {
+        "no": 546,
+        "name": "소미안",
+        "evolve_to": [
+            547
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 547,
+        "name": "엘풍",
+        "evolve_to": [],
+        "evolve_from": [
+            546
+        ]
+    },
+    {
+        "no": 548,
+        "name": "치릴리",
+        "evolve_to": [
+            549
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 549,
+        "name": "드레디어",
+        "evolve_to": [],
+        "evolve_from": [
+            548
+        ]
+    },
+    {
+        "no": 550,
+        "name": "배쓰나이",
+        "evolve_to": [
+            902
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 551,
+        "name": "깜눈크",
+        "evolve_to": [
+            552
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 552,
+        "name": "악비르",
+        "evolve_to": [
+            553
+        ],
+        "evolve_from": [
+            551
+        ]
+    },
+    {
+        "no": 553,
+        "name": "악비아르",
+        "evolve_to": [],
+        "evolve_from": [
+            552
+        ]
+    },
+    {
+        "no": 554,
+        "name": "달막화",
+        "evolve_to": [
+            555
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 555,
+        "name": "불비달마",
+        "evolve_to": [],
+        "evolve_from": [
+            554
+        ]
+    },
+    {
+        "no": 556,
+        "name": "마라카치",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 557,
+        "name": "돌살이",
+        "evolve_to": [
+            558
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 558,
+        "name": "암팰리스",
+        "evolve_to": [],
+        "evolve_from": [
+            557
+        ]
+    },
+    {
+        "no": 559,
+        "name": "곤율랭",
+        "evolve_to": [
+            560
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 560,
+        "name": "곤율거니",
+        "evolve_to": [],
+        "evolve_from": [
+            559
+        ]
+    },
+    {
+        "no": 561,
+        "name": "심보러",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 562,
+        "name": "데스마스",
+        "evolve_to": [
+            563,
+            867
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 563,
+        "name": "데스니칸",
+        "evolve_to": [],
+        "evolve_from": [
+            562
+        ]
+    },
+    {
+        "no": 564,
+        "name": "프로토가",
+        "evolve_to": [
+            565
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 565,
+        "name": "늑골라",
+        "evolve_to": [],
+        "evolve_from": [
+            564
+        ]
+    },
+    {
+        "no": 566,
+        "name": "아켄",
+        "evolve_to": [
+            567
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 567,
+        "name": "아케오스",
+        "evolve_to": [],
+        "evolve_from": [
+            566
+        ]
+    },
+    {
+        "no": 568,
+        "name": "깨봉이",
+        "evolve_to": [
+            569
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 569,
+        "name": "더스트나",
+        "evolve_to": [],
+        "evolve_from": [
+            568
+        ]
+    },
+    {
+        "no": 570,
+        "name": "조로아",
+        "evolve_to": [
+            571
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 571,
+        "name": "조로아크",
+        "evolve_to": [],
+        "evolve_from": [
+            570
+        ]
+    },
+    {
+        "no": 572,
+        "name": "치라미",
+        "evolve_to": [
+            573
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 573,
+        "name": "치라치노",
+        "evolve_to": [],
+        "evolve_from": [
+            572
+        ]
+    },
+    {
+        "no": 574,
+        "name": "고디탱",
+        "evolve_to": [
+            575
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 575,
+        "name": "고디보미",
+        "evolve_to": [
+            576
+        ],
+        "evolve_from": [
+            574
+        ]
+    },
+    {
+        "no": 576,
+        "name": "고디모아젤",
+        "evolve_to": [],
+        "evolve_from": [
+            575
+        ]
+    },
+    {
+        "no": 577,
+        "name": "유니란",
+        "evolve_to": [
+            578
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 578,
+        "name": "듀란",
+        "evolve_to": [
+            579
+        ],
+        "evolve_from": [
+            577
+        ]
+    },
+    {
+        "no": 579,
+        "name": "란쿨루스",
+        "evolve_to": [],
+        "evolve_from": [
+            578
+        ]
+    },
+    {
+        "no": 580,
+        "name": "꼬지보리",
+        "evolve_to": [
+            581
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 581,
+        "name": "스완나",
+        "evolve_to": [],
+        "evolve_from": [
+            580
+        ]
+    },
+    {
+        "no": 582,
+        "name": "바닐프티",
+        "evolve_to": [
+            583
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 583,
+        "name": "바닐리치",
+        "evolve_to": [
+            584
+        ],
+        "evolve_from": [
+            582
+        ]
+    },
+    {
+        "no": 584,
+        "name": "배바닐라",
+        "evolve_to": [],
+        "evolve_from": [
+            583
+        ]
+    },
+    {
+        "no": 585,
+        "name": "사철록",
+        "evolve_to": [
+            586
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 586,
+        "name": "바라철록",
+        "evolve_to": [],
+        "evolve_from": [
+            585
+        ]
+    },
+    {
+        "no": 587,
+        "name": "에몽가",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 588,
+        "name": "딱정곤",
+        "evolve_to": [
+            589
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 589,
+        "name": "슈바르고",
+        "evolve_to": [],
+        "evolve_from": [
+            588
+        ]
+    },
+    {
+        "no": 590,
+        "name": "깜놀버슬",
+        "evolve_to": [
+            591
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 591,
+        "name": "뽀록나",
+        "evolve_to": [],
+        "evolve_from": [
+            590
+        ]
+    },
+    {
+        "no": 592,
+        "name": "탱그릴",
+        "evolve_to": [
+            593
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 593,
+        "name": "탱탱겔",
+        "evolve_to": [],
+        "evolve_from": [
+            592
+        ]
+    },
+    {
+        "no": 594,
+        "name": "맘복치",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 595,
+        "name": "파쪼옥",
+        "evolve_to": [
+            596
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 596,
+        "name": "전툴라",
+        "evolve_to": [],
+        "evolve_from": [
+            595
+        ]
+    },
+    {
+        "no": 597,
+        "name": "철시드",
+        "evolve_to": [
+            598
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 598,
+        "name": "너트령",
+        "evolve_to": [],
+        "evolve_from": [
+            597
+        ]
+    },
+    {
+        "no": 599,
+        "name": "기어르",
+        "evolve_to": [
+            600
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 600,
+        "name": "기기어르",
+        "evolve_to": [
+            601
+        ],
+        "evolve_from": [
+            599
+        ]
+    },
+    {
+        "no": 601,
+        "name": "기기기어르",
+        "evolve_to": [],
+        "evolve_from": [
+            600
+        ]
+    },
+    {
+        "no": 602,
+        "name": "저리어",
+        "evolve_to": [
+            603
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 603,
+        "name": "저리릴",
+        "evolve_to": [
+            604
+        ],
+        "evolve_from": [
+            602
+        ]
+    },
+    {
+        "no": 604,
+        "name": "저리더프",
+        "evolve_to": [],
+        "evolve_from": [
+            603
+        ]
+    },
+    {
+        "no": 605,
+        "name": "리그레",
+        "evolve_to": [
+            606
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 606,
+        "name": "벰크",
+        "evolve_to": [],
+        "evolve_from": [
+            605
+        ]
+    },
+    {
+        "no": 607,
+        "name": "불켜미",
+        "evolve_to": [
+            608
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 608,
+        "name": "램프라",
+        "evolve_to": [
+            609
+        ],
+        "evolve_from": [
+            607
+        ]
+    },
+    {
+        "no": 609,
+        "name": "샹델라",
+        "evolve_to": [],
+        "evolve_from": [
+            608
+        ]
+    },
+    {
+        "no": 610,
+        "name": "터검니",
+        "evolve_to": [
+            611
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 611,
+        "name": "액슨도",
+        "evolve_to": [
+            612
+        ],
+        "evolve_from": [
+            610
+        ]
+    },
+    {
+        "no": 612,
+        "name": "액스라이즈",
+        "evolve_to": [],
+        "evolve_from": [
+            611
+        ]
+    },
+    {
+        "no": 613,
+        "name": "코고미",
+        "evolve_to": [
+            614
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 614,
+        "name": "툰베어",
+        "evolve_to": [],
+        "evolve_from": [
+            613
+        ]
+    },
+    {
+        "no": 615,
+        "name": "프리지오",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 616,
+        "name": "쪼마리",
+        "evolve_to": [
+            617
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 617,
+        "name": "어지리더",
+        "evolve_to": [],
+        "evolve_from": [
+            616
+        ]
+    },
+    {
+        "no": 618,
+        "name": "메더",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 619,
+        "name": "비조푸",
+        "evolve_to": [
+            620
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 620,
+        "name": "비조도",
+        "evolve_to": [],
+        "evolve_from": [
+            619
+        ]
+    },
+    {
+        "no": 621,
+        "name": "크리만",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 622,
+        "name": "골비람",
+        "evolve_to": [
+            623
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 623,
+        "name": "골루그",
+        "evolve_to": [],
+        "evolve_from": [
+            622
+        ]
+    },
+    {
+        "no": 624,
+        "name": "자망칼",
+        "evolve_to": [
+            625
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 625,
+        "name": "절각참",
+        "evolve_to": [
+            983
+        ],
+        "evolve_from": [
+            624
+        ]
+    },
+    {
+        "no": 626,
+        "name": "버프론",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 627,
+        "name": "수리둥보",
+        "evolve_to": [
+            628
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 628,
+        "name": "워글",
+        "evolve_to": [],
+        "evolve_from": [
+            627
+        ]
+    },
+    {
+        "no": 629,
+        "name": "벌차이",
+        "evolve_to": [
+            630
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 630,
+        "name": "버랜지나",
+        "evolve_to": [],
+        "evolve_from": [
+            629
+        ]
+    },
+    {
+        "no": 631,
+        "name": "앤티골",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 632,
+        "name": "아이앤트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 633,
+        "name": "모노두",
+        "evolve_to": [
+            634
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 634,
+        "name": "디헤드",
+        "evolve_to": [
+            635
+        ],
+        "evolve_from": [
+            633
+        ]
+    },
+    {
+        "no": 635,
+        "name": "삼삼드래",
+        "evolve_to": [],
+        "evolve_from": [
+            634
+        ]
+    },
+    {
+        "no": 636,
+        "name": "활화르바",
+        "evolve_to": [
+            637
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 637,
+        "name": "불카모스",
+        "evolve_to": [],
+        "evolve_from": [
+            636
+        ]
+    },
+    {
+        "no": 638,
+        "name": "코바르온",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 639,
+        "name": "테라키온",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 640,
+        "name": "비리디온",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 641,
+        "name": "토네로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 642,
+        "name": "볼트로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 643,
+        "name": "레시라무",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 644,
+        "name": "제크로무",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 645,
+        "name": "랜드로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 646,
+        "name": "큐레무",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 647,
+        "name": "케르디오",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 648,
+        "name": "메로엣타",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 649,
+        "name": "게노세크트",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 650,
+        "name": "도치마론",
+        "evolve_to": [
+            651
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 651,
+        "name": "도치보구",
+        "evolve_to": [
+            652
+        ],
+        "evolve_from": [
+            650
+        ]
+    },
+    {
+        "no": 652,
+        "name": "브리가론",
+        "evolve_to": [],
+        "evolve_from": [
+            651
+        ]
+    },
+    {
+        "no": 653,
+        "name": "푸호꼬",
+        "evolve_to": [
+            654
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 654,
+        "name": "테르나",
+        "evolve_to": [
+            655
+        ],
+        "evolve_from": [
+            653
+        ]
+    },
+    {
+        "no": 655,
+        "name": "마폭시",
+        "evolve_to": [],
+        "evolve_from": [
+            654
+        ]
+    },
+    {
+        "no": 656,
+        "name": "개구마르",
+        "evolve_to": [
+            657
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 657,
+        "name": "개굴반장",
+        "evolve_to": [
+            658
+        ],
+        "evolve_from": [
+            656
+        ]
+    },
+    {
+        "no": 658,
+        "name": "개굴닌자",
+        "evolve_to": [],
+        "evolve_from": [
+            657
+        ]
+    },
+    {
+        "no": 659,
+        "name": "파르빗",
+        "evolve_to": [
+            660
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 660,
+        "name": "파르토",
+        "evolve_to": [],
+        "evolve_from": [
+            659
+        ]
+    },
+    {
+        "no": 661,
+        "name": "화살꼬빈",
+        "evolve_to": [
+            662
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 662,
+        "name": "불화살빈",
+        "evolve_to": [
+            663
+        ],
+        "evolve_from": [
+            661
+        ]
+    },
+    {
+        "no": 663,
+        "name": "파이어로",
+        "evolve_to": [],
+        "evolve_from": [
+            662
+        ]
+    },
+    {
+        "no": 664,
+        "name": "분이벌레",
+        "evolve_to": [
+            665
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 665,
+        "name": "분떠도리",
+        "evolve_to": [
+            666
+        ],
+        "evolve_from": [
+            664
+        ]
+    },
+    {
+        "no": 666,
+        "name": "비비용",
+        "evolve_to": [],
+        "evolve_from": [
+            665
+        ]
+    },
+    {
+        "no": 667,
+        "name": "레오꼬",
+        "evolve_to": [
+            668
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 668,
+        "name": "화염레오",
+        "evolve_to": [],
+        "evolve_from": [
+            667
+        ]
+    },
+    {
+        "no": 669,
+        "name": "플라베베",
+        "evolve_to": [
+            670
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 670,
+        "name": "플라엣테",
+        "evolve_to": [
+            671
+        ],
+        "evolve_from": [
+            669
+        ]
+    },
+    {
+        "no": 671,
+        "name": "플라제스",
+        "evolve_to": [],
+        "evolve_from": [
+            670
+        ]
+    },
+    {
+        "no": 672,
+        "name": "메이클",
+        "evolve_to": [
+            673
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 673,
+        "name": "고고트",
+        "evolve_to": [],
+        "evolve_from": [
+            672
+        ]
+    },
+    {
+        "no": 674,
+        "name": "판짱",
+        "evolve_to": [
+            675
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 675,
+        "name": "부란다",
+        "evolve_to": [],
+        "evolve_from": [
+            674
+        ]
+    },
+    {
+        "no": 676,
+        "name": "트리미앙",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 677,
+        "name": "냐스퍼",
+        "evolve_to": [
+            678
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 678,
+        "name": "냐오닉스",
+        "evolve_to": [],
+        "evolve_from": [
+            677
+        ]
+    },
+    {
+        "no": 679,
+        "name": "단칼빙",
+        "evolve_to": [
+            680
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 680,
+        "name": "쌍검킬",
+        "evolve_to": [
+            681
+        ],
+        "evolve_from": [
+            679
+        ]
+    },
+    {
+        "no": 681,
+        "name": "킬가르도",
+        "evolve_to": [],
+        "evolve_from": [
+            680
+        ]
+    },
+    {
+        "no": 682,
+        "name": "슈쁘",
+        "evolve_to": [
+            683
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 683,
+        "name": "프레프티르",
+        "evolve_to": [],
+        "evolve_from": [
+            682
+        ]
+    },
+    {
+        "no": 684,
+        "name": "나룸퍼프",
+        "evolve_to": [
+            685
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 685,
+        "name": "나루림",
+        "evolve_to": [],
+        "evolve_from": [
+            684
+        ]
+    },
+    {
+        "no": 686,
+        "name": "오케이징",
+        "evolve_to": [
+            687
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 687,
+        "name": "칼라마네로",
+        "evolve_to": [],
+        "evolve_from": [
+            686
+        ]
+    },
+    {
+        "no": 688,
+        "name": "거북손손",
+        "evolve_to": [
+            689
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 689,
+        "name": "거북손데스",
+        "evolve_to": [],
+        "evolve_from": [
+            688
+        ]
+    },
+    {
+        "no": 690,
+        "name": "수레기",
+        "evolve_to": [
+            691
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 691,
+        "name": "드래캄",
+        "evolve_to": [],
+        "evolve_from": [
+            690
+        ]
+    },
+    {
+        "no": 692,
+        "name": "완철포",
+        "evolve_to": [
+            693
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 693,
+        "name": "블로스터",
+        "evolve_to": [],
+        "evolve_from": [
+            692
+        ]
+    },
+    {
+        "no": 694,
+        "name": "목도리키텔",
+        "evolve_to": [
+            695
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 695,
+        "name": "일레도리자드",
+        "evolve_to": [],
+        "evolve_from": [
+            694
+        ]
+    },
+    {
+        "no": 696,
+        "name": "티고라스",
+        "evolve_to": [
+            697
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 697,
+        "name": "견고라스",
+        "evolve_to": [],
+        "evolve_from": [
+            696
+        ]
+    },
+    {
+        "no": 698,
+        "name": "아마루스",
+        "evolve_to": [
+            699
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 699,
+        "name": "아마루르가",
+        "evolve_to": [],
+        "evolve_from": [
+            698
+        ]
+    },
+    {
+        "no": 700,
+        "name": "님피아",
+        "evolve_to": [],
+        "evolve_from": [
+            133
+        ]
+    },
+    {
+        "no": 701,
+        "name": "루차불",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 702,
+        "name": "데덴네",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 703,
+        "name": "멜리시",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 704,
+        "name": "미끄메라",
+        "evolve_to": [
+            705
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 705,
+        "name": "미끄네일",
+        "evolve_to": [
+            706
+        ],
+        "evolve_from": [
+            704
+        ]
+    },
+    {
+        "no": 706,
+        "name": "미끄래곤",
+        "evolve_to": [],
+        "evolve_from": [
+            705
+        ]
+    },
+    {
+        "no": 707,
+        "name": "클레피",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 708,
+        "name": "나목령",
+        "evolve_to": [
+            709
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 709,
+        "name": "대로트",
+        "evolve_to": [],
+        "evolve_from": [
+            708
+        ]
+    },
+    {
+        "no": 710,
+        "name": "호바귀",
+        "evolve_to": [
+            711
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 711,
+        "name": "펌킨인",
+        "evolve_to": [],
+        "evolve_from": [
+            710
+        ]
+    },
+    {
+        "no": 712,
+        "name": "꽁어름",
+        "evolve_to": [
+            713
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 713,
+        "name": "크레베이스",
+        "evolve_to": [],
+        "evolve_from": [
+            712
+        ]
+    },
+    {
+        "no": 714,
+        "name": "음뱃",
+        "evolve_to": [
+            715
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 715,
+        "name": "음번",
+        "evolve_to": [],
+        "evolve_from": [
+            714
+        ]
+    },
+    {
+        "no": 716,
+        "name": "제르네아스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 717,
+        "name": "이벨타르",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 718,
+        "name": "지가르데",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 719,
+        "name": "디안시",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 720,
+        "name": "후파",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 721,
+        "name": "볼케니온",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 722,
+        "name": "나몰빼미",
+        "evolve_to": [
+            723
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 723,
+        "name": "빼미스로우",
+        "evolve_to": [
+            724
+        ],
+        "evolve_from": [
+            722
+        ]
+    },
+    {
+        "no": 724,
+        "name": "모크나이퍼",
+        "evolve_to": [],
+        "evolve_from": [
+            723
+        ]
+    },
+    {
+        "no": 725,
+        "name": "냐오불",
+        "evolve_to": [
+            726
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 726,
+        "name": "냐오히트",
+        "evolve_to": [
+            727
+        ],
+        "evolve_from": [
+            725
+        ]
+    },
+    {
+        "no": 727,
+        "name": "어흥염",
+        "evolve_to": [],
+        "evolve_from": [
+            726
+        ]
+    },
+    {
+        "no": 728,
+        "name": "누리공",
+        "evolve_to": [
+            729
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 729,
+        "name": "키요공",
+        "evolve_to": [
+            730
+        ],
+        "evolve_from": [
+            728
+        ]
+    },
+    {
+        "no": 730,
+        "name": "누리레느",
+        "evolve_to": [],
+        "evolve_from": [
+            729
+        ]
+    },
+    {
+        "no": 731,
+        "name": "콕코구리",
+        "evolve_to": [
+            732
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 732,
+        "name": "크라파",
+        "evolve_to": [
+            733
+        ],
+        "evolve_from": [
+            731
+        ]
+    },
+    {
+        "no": 733,
+        "name": "왕큰부리",
+        "evolve_to": [],
+        "evolve_from": [
+            732
+        ]
+    },
+    {
+        "no": 734,
+        "name": "영구스",
+        "evolve_to": [
+            735
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 735,
+        "name": "형사구스",
+        "evolve_to": [],
+        "evolve_from": [
+            734
+        ]
+    },
+    {
+        "no": 736,
+        "name": "턱지충이",
+        "evolve_to": [
+            737
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 737,
+        "name": "전지충이",
+        "evolve_to": [
+            738
+        ],
+        "evolve_from": [
+            736
+        ]
+    },
+    {
+        "no": 738,
+        "name": "투구뿌논",
+        "evolve_to": [],
+        "evolve_from": [
+            737
+        ]
+    },
+    {
+        "no": 739,
+        "name": "오기지게",
+        "evolve_to": [
+            740
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 740,
+        "name": "모단단게",
+        "evolve_to": [],
+        "evolve_from": [
+            739
+        ]
+    },
+    {
+        "no": 741,
+        "name": "춤추새",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 742,
+        "name": "에블리",
+        "evolve_to": [
+            743
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 743,
+        "name": "에리본",
+        "evolve_to": [],
+        "evolve_from": [
+            742
+        ]
+    },
+    {
+        "no": 744,
+        "name": "암멍이",
+        "evolve_to": [
+            745
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 745,
+        "name": "루가루암",
+        "evolve_to": [],
+        "evolve_from": [
+            744
+        ]
+    },
+    {
+        "no": 746,
+        "name": "약어리",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 747,
+        "name": "시마사리",
+        "evolve_to": [
+            748
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 748,
+        "name": "더시마사리",
+        "evolve_to": [],
+        "evolve_from": [
+            747
+        ]
+    },
+    {
+        "no": 749,
+        "name": "머드나기",
+        "evolve_to": [
+            750
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 750,
+        "name": "만마드",
+        "evolve_to": [],
+        "evolve_from": [
+            749
+        ]
+    },
+    {
+        "no": 751,
+        "name": "물거미",
+        "evolve_to": [
+            752
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 752,
+        "name": "깨비물거미",
+        "evolve_to": [],
+        "evolve_from": [
+            751
+        ]
+    },
+    {
+        "no": 753,
+        "name": "짜랑랑",
+        "evolve_to": [
+            754
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 754,
+        "name": "라란티스",
+        "evolve_to": [],
+        "evolve_from": [
+            753
+        ]
+    },
+    {
+        "no": 755,
+        "name": "자마슈",
+        "evolve_to": [
+            756
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 756,
+        "name": "마셰이드",
+        "evolve_to": [],
+        "evolve_from": [
+            755
+        ]
+    },
+    {
+        "no": 757,
+        "name": "야도뇽",
+        "evolve_to": [
+            758
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 758,
+        "name": "염뉴트",
+        "evolve_to": [],
+        "evolve_from": [
+            757
+        ]
+    },
+    {
+        "no": 759,
+        "name": "포곰곰",
+        "evolve_to": [
+            760
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 760,
+        "name": "이븐곰",
+        "evolve_to": [],
+        "evolve_from": [
+            759
+        ]
+    },
+    {
+        "no": 761,
+        "name": "달콤아",
+        "evolve_to": [
+            762
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 762,
+        "name": "달무리나",
+        "evolve_to": [
+            763
+        ],
+        "evolve_from": [
+            761
+        ]
+    },
+    {
+        "no": 763,
+        "name": "달코퀸",
+        "evolve_to": [],
+        "evolve_from": [
+            762
+        ]
+    },
+    {
+        "no": 764,
+        "name": "큐아링",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 765,
+        "name": "하랑우탄",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 766,
+        "name": "내던숭이",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 767,
+        "name": "꼬시레",
+        "evolve_to": [
+            768
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 768,
+        "name": "갑주무사",
+        "evolve_to": [],
+        "evolve_from": [
+            767
+        ]
+    },
+    {
+        "no": 769,
+        "name": "모래꿍",
+        "evolve_to": [
+            770
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 770,
+        "name": "모래성이당",
+        "evolve_to": [],
+        "evolve_from": [
+            769
+        ]
+    },
+    {
+        "no": 771,
+        "name": "해무기",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 772,
+        "name": "타입:널",
+        "evolve_to": [
+            773
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 773,
+        "name": "실버디",
+        "evolve_to": [],
+        "evolve_from": [
+            772
+        ]
+    },
+    {
+        "no": 774,
+        "name": "메테노",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 775,
+        "name": "자말라",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 776,
+        "name": "폭거북스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 777,
+        "name": "토게데마루",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 778,
+        "name": "따라큐",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 779,
+        "name": "치갈기",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 780,
+        "name": "할비롱",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 781,
+        "name": "타타륜",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 782,
+        "name": "짜랑꼬",
+        "evolve_to": [
+            783
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 783,
+        "name": "짜랑고우",
+        "evolve_to": [
+            784
+        ],
+        "evolve_from": [
+            782
+        ]
+    },
+    {
+        "no": 784,
+        "name": "짜랑고우거",
+        "evolve_to": [],
+        "evolve_from": [
+            783
+        ]
+    },
+    {
+        "no": 785,
+        "name": "카푸꼬꼬꼭",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 786,
+        "name": "카푸나비나",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 787,
+        "name": "카푸브루루",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 788,
+        "name": "카푸느지느",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 789,
+        "name": "코스모그",
+        "evolve_to": [
+            790
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 790,
+        "name": "코스모움",
+        "evolve_to": [
+            791,
+            792
+        ],
+        "evolve_from": [
+            789
+        ]
+    },
+    {
+        "no": 791,
+        "name": "솔가레오",
+        "evolve_to": [],
+        "evolve_from": [
+            790
+        ]
+    },
+    {
+        "no": 792,
+        "name": "루나아라",
+        "evolve_to": [],
+        "evolve_from": [
+            790
+        ]
+    },
+    {
+        "no": 793,
+        "name": "텅비드",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 794,
+        "name": "매시붕",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 795,
+        "name": "페로코체",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 796,
+        "name": "전수목",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 797,
+        "name": "철화구야",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 798,
+        "name": "종이신도",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 799,
+        "name": "악식킹",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 800,
+        "name": "네크로즈마",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 801,
+        "name": "마기아나",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 802,
+        "name": "마샤도",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 803,
+        "name": "베베놈",
+        "evolve_to": [
+            804
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 804,
+        "name": "아고용",
+        "evolve_to": [],
+        "evolve_from": [
+            803
+        ]
+    },
+    {
+        "no": 805,
+        "name": "차곡차곡",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 806,
+        "name": "두파팡",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 807,
+        "name": "제라오라",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 808,
+        "name": "멜탄",
+        "evolve_to": [
+            809
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 809,
+        "name": "멜메탈",
+        "evolve_to": [],
+        "evolve_from": [
+            808
+        ]
+    },
+    {
+        "no": 810,
+        "name": "흥나숭",
+        "evolve_to": [
+            811
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 811,
+        "name": "채키몽",
+        "evolve_to": [
+            812
+        ],
+        "evolve_from": [
+            810
+        ]
+    },
+    {
+        "no": 812,
+        "name": "고릴타",
+        "evolve_to": [],
+        "evolve_from": [
+            811
+        ]
+    },
+    {
+        "no": 813,
+        "name": "염버니",
+        "evolve_to": [
+            814
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 814,
+        "name": "래비풋",
+        "evolve_to": [
+            815
+        ],
+        "evolve_from": [
+            813
+        ]
+    },
+    {
+        "no": 815,
+        "name": "에이스번",
+        "evolve_to": [],
+        "evolve_from": [
+            814
+        ]
+    },
+    {
+        "no": 816,
+        "name": "울머기",
+        "evolve_to": [
+            817
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 817,
+        "name": "누겔레온",
+        "evolve_to": [
+            818
+        ],
+        "evolve_from": [
+            816
+        ]
+    },
+    {
+        "no": 818,
+        "name": "인텔리레온",
+        "evolve_to": [],
+        "evolve_from": [
+            817
+        ]
+    },
+    {
+        "no": 819,
+        "name": "탐리스",
+        "evolve_to": [
+            820
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 820,
+        "name": "요씽리스",
+        "evolve_to": [],
+        "evolve_from": [
+            819
+        ]
+    },
+    {
+        "no": 821,
+        "name": "파라꼬",
+        "evolve_to": [
+            822
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 822,
+        "name": "파크로우",
+        "evolve_to": [
+            823
+        ],
+        "evolve_from": [
+            821
+        ]
+    },
+    {
+        "no": 823,
+        "name": "아머까오",
+        "evolve_to": [],
+        "evolve_from": [
+            822
+        ]
+    },
+    {
+        "no": 824,
+        "name": "두루지벌레",
+        "evolve_to": [
+            825
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 825,
+        "name": "레돔벌레",
+        "evolve_to": [
+            826
+        ],
+        "evolve_from": [
+            824
+        ]
+    },
+    {
+        "no": 826,
+        "name": "이올브",
+        "evolve_to": [],
+        "evolve_from": [
+            825
+        ]
+    },
+    {
+        "no": 827,
+        "name": "훔처우",
+        "evolve_to": [
+            828
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 828,
+        "name": "폭슬라이",
+        "evolve_to": [],
+        "evolve_from": [
+            827
+        ]
+    },
+    {
+        "no": 829,
+        "name": "꼬모카",
+        "evolve_to": [
+            830
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 830,
+        "name": "백솜모카",
+        "evolve_to": [],
+        "evolve_from": [
+            829
+        ]
+    },
+    {
+        "no": 831,
+        "name": "우르",
+        "evolve_to": [
+            832
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 832,
+        "name": "배우르",
+        "evolve_to": [],
+        "evolve_from": [
+            831
+        ]
+    },
+    {
+        "no": 833,
+        "name": "깨물부기",
+        "evolve_to": [
+            834
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 834,
+        "name": "갈가부기",
+        "evolve_to": [],
+        "evolve_from": [
+            833
+        ]
+    },
+    {
+        "no": 835,
+        "name": "멍파치",
+        "evolve_to": [
+            836
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 836,
+        "name": "펄스멍",
+        "evolve_to": [],
+        "evolve_from": [
+            835
+        ]
+    },
+    {
+        "no": 837,
+        "name": "탄동",
+        "evolve_to": [
+            838
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 838,
+        "name": "탄차곤",
+        "evolve_to": [
+            839
+        ],
+        "evolve_from": [
+            837
+        ]
+    },
+    {
+        "no": 839,
+        "name": "석탄산",
+        "evolve_to": [],
+        "evolve_from": [
+            838
+        ]
+    },
+    {
+        "no": 840,
+        "name": "과사삭벌레",
+        "evolve_to": [
+            841,
+            842,
+            1011
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 841,
+        "name": "애프룡",
+        "evolve_to": [],
+        "evolve_from": [
+            840
+        ]
+    },
+    {
+        "no": 842,
+        "name": "단지래플",
+        "evolve_to": [],
+        "evolve_from": [
+            840
+        ]
+    },
+    {
+        "no": 843,
+        "name": "모래뱀",
+        "evolve_to": [
+            844
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 844,
+        "name": "사다이사",
+        "evolve_to": [],
+        "evolve_from": [
+            843
+        ]
+    },
+    {
+        "no": 845,
+        "name": "윽우지",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 846,
+        "name": "찌로꼬치",
+        "evolve_to": [
+            847
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 847,
+        "name": "꼬치조",
+        "evolve_to": [],
+        "evolve_from": [
+            846
+        ]
+    },
+    {
+        "no": 848,
+        "name": "일레즌",
+        "evolve_to": [
+            849
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 849,
+        "name": "스트린더",
+        "evolve_to": [],
+        "evolve_from": [
+            848
+        ]
+    },
+    {
+        "no": 850,
+        "name": "태우지네",
+        "evolve_to": [
+            851
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 851,
+        "name": "다태우지네",
+        "evolve_to": [],
+        "evolve_from": [
+            850
+        ]
+    },
+    {
+        "no": 852,
+        "name": "때때무노",
+        "evolve_to": [
+            853
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 853,
+        "name": "케오퍼스",
+        "evolve_to": [],
+        "evolve_from": [
+            852
+        ]
+    },
+    {
+        "no": 854,
+        "name": "데인차",
+        "evolve_to": [
+            855
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 855,
+        "name": "포트데스",
+        "evolve_to": [],
+        "evolve_from": [
+            854
+        ]
+    },
+    {
+        "no": 856,
+        "name": "몸지브림",
+        "evolve_to": [
+            857
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 857,
+        "name": "손지브림",
+        "evolve_to": [
+            858
+        ],
+        "evolve_from": [
+            856
+        ]
+    },
+    {
+        "no": 858,
+        "name": "브리무음",
+        "evolve_to": [],
+        "evolve_from": [
+            857
+        ]
+    },
+    {
+        "no": 859,
+        "name": "메롱꿍",
+        "evolve_to": [
+            860
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 860,
+        "name": "쏘겨모",
+        "evolve_to": [
+            861
+        ],
+        "evolve_from": [
+            859
+        ]
+    },
+    {
+        "no": 861,
+        "name": "오롱털",
+        "evolve_to": [],
+        "evolve_from": [
+            860
+        ]
+    },
+    {
+        "no": 862,
+        "name": "가로막구리",
+        "evolve_to": [],
+        "evolve_from": [
+            264
+        ]
+    },
+    {
+        "no": 863,
+        "name": "나이킹",
+        "evolve_to": [],
+        "evolve_from": [
+            52
+        ]
+    },
+    {
+        "no": 864,
+        "name": "산호르곤",
+        "evolve_to": [],
+        "evolve_from": [
+            222
+        ]
+    },
+    {
+        "no": 865,
+        "name": "창파나이트",
+        "evolve_to": [],
+        "evolve_from": [
+            83
+        ]
+    },
+    {
+        "no": 866,
+        "name": "마임꽁꽁",
+        "evolve_to": [],
+        "evolve_from": [
+            122
+        ]
+    },
+    {
+        "no": 867,
+        "name": "데스판",
+        "evolve_to": [],
+        "evolve_from": [
+            562
+        ]
+    },
+    {
+        "no": 868,
+        "name": "마빌크",
+        "evolve_to": [
+            869
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 869,
+        "name": "마휘핑",
+        "evolve_to": [],
+        "evolve_from": [
+            868
+        ]
+    },
+    {
+        "no": 870,
+        "name": "대여르",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 871,
+        "name": "찌르성게",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 872,
+        "name": "누니머기",
+        "evolve_to": [
+            873
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 873,
+        "name": "모스노우",
+        "evolve_to": [],
+        "evolve_from": [
+            872
+        ]
+    },
+    {
+        "no": 874,
+        "name": "돌헨진",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 875,
+        "name": "빙큐보",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 876,
+        "name": "에써르",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 877,
+        "name": "모르페코",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 878,
+        "name": "끼리동",
+        "evolve_to": [
+            879
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 879,
+        "name": "대왕끼리동",
+        "evolve_to": [],
+        "evolve_from": [
+            878
+        ]
+    },
+    {
+        "no": 880,
+        "name": "파치래곤",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 881,
+        "name": "파치르돈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 882,
+        "name": "어래곤",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 883,
+        "name": "어치르돈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 884,
+        "name": "두랄루돈",
+        "evolve_to": [
+            1018
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 885,
+        "name": "드라꼰",
+        "evolve_to": [
+            886
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 886,
+        "name": "드래런치",
+        "evolve_to": [
+            887
+        ],
+        "evolve_from": [
+            885
+        ]
+    },
+    {
+        "no": 887,
+        "name": "드래펄트",
+        "evolve_to": [],
+        "evolve_from": [
+            886
+        ]
+    },
+    {
+        "no": 888,
+        "name": "자시안",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 889,
+        "name": "자마젠타",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 890,
+        "name": "무한다이노",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 891,
+        "name": "치고마",
+        "evolve_to": [
+            892
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 892,
+        "name": "우라오스",
+        "evolve_to": [],
+        "evolve_from": [
+            891
+        ]
+    },
+    {
+        "no": 893,
+        "name": "자루도",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 894,
+        "name": "레지에레키",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 895,
+        "name": "레지드래고",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 896,
+        "name": "블리자포스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 897,
+        "name": "레이스포스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 898,
+        "name": "버드렉스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 899,
+        "name": "신비록",
+        "evolve_to": [],
+        "evolve_from": [
+            234
+        ]
+    },
+    {
+        "no": 900,
+        "name": "사마자르",
+        "evolve_to": [],
+        "evolve_from": [
+            123
+        ]
+    },
+    {
+        "no": 901,
+        "name": "다투곰",
+        "evolve_to": [],
+        "evolve_from": [
+            217
+        ]
+    },
+    {
+        "no": 902,
+        "name": "대쓰여너",
+        "evolve_to": [],
+        "evolve_from": [
+            550
+        ]
+    },
+    {
+        "no": 903,
+        "name": "포푸니크",
+        "evolve_to": [],
+        "evolve_from": [
+            215
+        ]
+    },
+    {
+        "no": 904,
+        "name": "장침바루",
+        "evolve_to": [],
+        "evolve_from": [
+            211
+        ]
+    },
+    {
+        "no": 905,
+        "name": "러브로스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 906,
+        "name": "나오하",
+        "evolve_to": [
+            907
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 907,
+        "name": "나로테",
+        "evolve_to": [
+            908
+        ],
+        "evolve_from": [
+            906
+        ]
+    },
+    {
+        "no": 908,
+        "name": "마스카나",
+        "evolve_to": [],
+        "evolve_from": [
+            907
+        ]
+    },
+    {
+        "no": 909,
+        "name": "뜨아거",
+        "evolve_to": [
+            910
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 910,
+        "name": "악뜨거",
+        "evolve_to": [
+            911
+        ],
+        "evolve_from": [
+            909
+        ]
+    },
+    {
+        "no": 911,
+        "name": "라우드본",
+        "evolve_to": [],
+        "evolve_from": [
+            910
+        ]
+    },
+    {
+        "no": 912,
+        "name": "꾸왁스",
+        "evolve_to": [
+            913
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 913,
+        "name": "아꾸왁",
+        "evolve_to": [
+            914
+        ],
+        "evolve_from": [
+            912
+        ]
+    },
+    {
+        "no": 914,
+        "name": "웨이니발",
+        "evolve_to": [],
+        "evolve_from": [
+            913
+        ]
+    },
+    {
+        "no": 915,
+        "name": "맛보돈",
+        "evolve_to": [
+            916
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 916,
+        "name": "퍼퓨돈",
+        "evolve_to": [],
+        "evolve_from": [
+            915
+        ]
+    },
+    {
+        "no": 917,
+        "name": "타랜툴라",
+        "evolve_to": [
+            918
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 918,
+        "name": "트래피더",
+        "evolve_to": [],
+        "evolve_from": [
+            917
+        ]
+    },
+    {
+        "no": 919,
+        "name": "콩알뚜기",
+        "evolve_to": [
+            920
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 920,
+        "name": "엑스레그",
+        "evolve_to": [],
+        "evolve_from": [
+            919
+        ]
+    },
+    {
+        "no": 921,
+        "name": "빠모",
+        "evolve_to": [
+            922
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 922,
+        "name": "빠모트",
+        "evolve_to": [
+            923
+        ],
+        "evolve_from": [
+            921
+        ]
+    },
+    {
+        "no": 923,
+        "name": "빠르모트",
+        "evolve_to": [],
+        "evolve_from": [
+            922
+        ]
+    },
+    {
+        "no": 924,
+        "name": "두리쥐",
+        "evolve_to": [
+            925
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 925,
+        "name": "파밀리쥐",
+        "evolve_to": [],
+        "evolve_from": [
+            924
+        ]
+    },
+    {
+        "no": 926,
+        "name": "쫀도기",
+        "evolve_to": [
+            927
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 927,
+        "name": "바우첼",
+        "evolve_to": [],
+        "evolve_from": [
+            926
+        ]
+    },
+    {
+        "no": 928,
+        "name": "미니브",
+        "evolve_to": [
+            929
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 929,
+        "name": "올리뇨",
+        "evolve_to": [
+            930
+        ],
+        "evolve_from": [
+            928
+        ]
+    },
+    {
+        "no": 930,
+        "name": "올리르바",
+        "evolve_to": [],
+        "evolve_from": [
+            929
+        ]
+    },
+    {
+        "no": 931,
+        "name": "시비꼬",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 932,
+        "name": "베베솔트",
+        "evolve_to": [
+            933
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 933,
+        "name": "스태솔트",
+        "evolve_to": [
+            934
+        ],
+        "evolve_from": [
+            932
+        ]
+    },
+    {
+        "no": 934,
+        "name": "콜로솔트",
+        "evolve_to": [],
+        "evolve_from": [
+            933
+        ]
+    },
+    {
+        "no": 935,
+        "name": "카르본",
+        "evolve_to": [
+            936,
+            937
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 936,
+        "name": "카디나르마",
+        "evolve_to": [],
+        "evolve_from": [
+            935
+        ]
+    },
+    {
+        "no": 937,
+        "name": "파라블레이즈",
+        "evolve_to": [],
+        "evolve_from": [
+            935
+        ]
+    },
+    {
+        "no": 938,
+        "name": "빈나두",
+        "evolve_to": [
+            939
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 939,
+        "name": "찌리배리",
+        "evolve_to": [],
+        "evolve_from": [
+            938
+        ]
+    },
+    {
+        "no": 940,
+        "name": "찌리비",
+        "evolve_to": [
+            941
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 941,
+        "name": "찌리비크",
+        "evolve_to": [],
+        "evolve_from": [
+            940
+        ]
+    },
+    {
+        "no": 942,
+        "name": "오라티프",
+        "evolve_to": [
+            943
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 943,
+        "name": "마피티프",
+        "evolve_to": [],
+        "evolve_from": [
+            942
+        ]
+    },
+    {
+        "no": 944,
+        "name": "땃쭈르",
+        "evolve_to": [
+            945
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 945,
+        "name": "태깅구르",
+        "evolve_to": [],
+        "evolve_from": [
+            944
+        ]
+    },
+    {
+        "no": 946,
+        "name": "그푸리",
+        "evolve_to": [
+            947
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 947,
+        "name": "공푸리",
+        "evolve_to": [],
+        "evolve_from": [
+            946
+        ]
+    },
+    {
+        "no": 948,
+        "name": "들눈해",
+        "evolve_to": [
+            949
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 949,
+        "name": "육파리",
+        "evolve_to": [],
+        "evolve_from": [
+            948
+        ]
+    },
+    {
+        "no": 950,
+        "name": "절벼게",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 951,
+        "name": "캡싸이",
+        "evolve_to": [
+            952
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 952,
+        "name": "스코빌런",
+        "evolve_to": [],
+        "evolve_from": [
+            951
+        ]
+    },
+    {
+        "no": 953,
+        "name": "구르데",
+        "evolve_to": [
+            954
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 954,
+        "name": "베라카스",
+        "evolve_to": [],
+        "evolve_from": [
+            953
+        ]
+    },
+    {
+        "no": 955,
+        "name": "하느라기",
+        "evolve_to": [
+            956
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 956,
+        "name": "클레스퍼트라",
+        "evolve_to": [],
+        "evolve_from": [
+            955
+        ]
+    },
+    {
+        "no": 957,
+        "name": "어리짱",
+        "evolve_to": [
+            958
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 958,
+        "name": "벼리짱",
+        "evolve_to": [
+            959
+        ],
+        "evolve_from": [
+            957
+        ]
+    },
+    {
+        "no": 959,
+        "name": "두드리짱",
+        "evolve_to": [],
+        "evolve_from": [
+            958
+        ]
+    },
+    {
+        "no": 960,
+        "name": "바다그다",
+        "evolve_to": [
+            961
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 961,
+        "name": "바닥트리오",
+        "evolve_to": [],
+        "evolve_from": [
+            960
+        ]
+    },
+    {
+        "no": 962,
+        "name": "떨구새",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 963,
+        "name": "맨돌핀",
+        "evolve_to": [
+            964
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 964,
+        "name": "돌핀맨",
+        "evolve_to": [],
+        "evolve_from": [
+            963
+        ]
+    },
+    {
+        "no": 965,
+        "name": "부르롱",
+        "evolve_to": [
+            966
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 966,
+        "name": "부르르룸",
+        "evolve_to": [],
+        "evolve_from": [
+            965
+        ]
+    },
+    {
+        "no": 967,
+        "name": "모토마",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 968,
+        "name": "꿈트렁",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 969,
+        "name": "초롱순",
+        "evolve_to": [
+            970
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 970,
+        "name": "킬라플로르",
+        "evolve_to": [],
+        "evolve_from": [
+            969
+        ]
+    },
+    {
+        "no": 971,
+        "name": "망망이",
+        "evolve_to": [
+            972
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 972,
+        "name": "묘두기",
+        "evolve_to": [],
+        "evolve_from": [
+            971
+        ]
+    },
+    {
+        "no": 973,
+        "name": "꼬이밍고",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 974,
+        "name": "터벅고래",
+        "evolve_to": [
+            975
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 975,
+        "name": "우락고래",
+        "evolve_to": [],
+        "evolve_from": [
+            974
+        ]
+    },
+    {
+        "no": 976,
+        "name": "가비루사",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 977,
+        "name": "어써러셔",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 978,
+        "name": "싸리용",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 979,
+        "name": "저승갓숭",
+        "evolve_to": [],
+        "evolve_from": [
+            57
+        ]
+    },
+    {
+        "no": 980,
+        "name": "토오",
+        "evolve_to": [],
+        "evolve_from": [
+            194
+        ]
+    },
+    {
+        "no": 981,
+        "name": "키키링",
+        "evolve_to": [],
+        "evolve_from": [
+            203
+        ]
+    },
+    {
+        "no": 982,
+        "name": "노고고치",
+        "evolve_to": [],
+        "evolve_from": [
+            206
+        ]
+    },
+    {
+        "no": 983,
+        "name": "대도각참",
+        "evolve_to": [],
+        "evolve_from": [
+            625
+        ]
+    },
+    {
+        "no": 984,
+        "name": "위대한엄니",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 985,
+        "name": "우렁찬꼬리",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 986,
+        "name": "사나운버섯",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 987,
+        "name": "날개치는머리",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 988,
+        "name": "땅을기는날개",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 989,
+        "name": "모래털가죽",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 990,
+        "name": "무쇠바퀴",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 991,
+        "name": "무쇠보따리",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 992,
+        "name": "무쇠손",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 993,
+        "name": "무쇠머리",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 994,
+        "name": "무쇠독나방",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 995,
+        "name": "무쇠가시",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 996,
+        "name": "드니차",
+        "evolve_to": [
+            997
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 997,
+        "name": "드니꽁",
+        "evolve_to": [
+            998
+        ],
+        "evolve_from": [
+            996
+        ]
+    },
+    {
+        "no": 998,
+        "name": "드닐레이브",
+        "evolve_to": [],
+        "evolve_from": [
+            997
+        ]
+    },
+    {
+        "no": 999,
+        "name": "모으령",
+        "evolve_to": [
+            1000
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 1000,
+        "name": "타부자고",
+        "evolve_to": [],
+        "evolve_from": [
+            999
+        ]
+    },
+    {
+        "no": 1001,
+        "name": "총지엔",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1002,
+        "name": "파오젠",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1003,
+        "name": "딩루",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1004,
+        "name": "위유이",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1005,
+        "name": "고동치는달",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1006,
+        "name": "무쇠무인",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1007,
+        "name": "코라이돈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1008,
+        "name": "미라이돈",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1009,
+        "name": "굽이치는물결",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1010,
+        "name": "무쇠잎새",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1011,
+        "name": "과미르",
+        "evolve_to": [
+            1019
+        ],
+        "evolve_from": [
+            840
+        ]
+    },
+    {
+        "no": 1012,
+        "name": "차데스",
+        "evolve_to": [
+            1013
+        ],
+        "evolve_from": []
+    },
+    {
+        "no": 1013,
+        "name": "그우린차",
+        "evolve_to": [],
+        "evolve_from": [
+            1012
+        ]
+    },
+    {
+        "no": 1014,
+        "name": "조타구",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1015,
+        "name": "이야후",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1016,
+        "name": "기로치",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1017,
+        "name": "오거폰",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1018,
+        "name": "브리두라스",
+        "evolve_to": [],
+        "evolve_from": [
+            884
+        ]
+    },
+    {
+        "no": 1019,
+        "name": "과미드라",
+        "evolve_to": [],
+        "evolve_from": [
+            1011
+        ]
+    },
+    {
+        "no": 1020,
+        "name": "꿰뚫는화염",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1021,
+        "name": "날뛰는우레",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1022,
+        "name": "무쇠암석",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1023,
+        "name": "무쇠감투",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1024,
+        "name": "테라파고스",
+        "evolve_to": [],
+        "evolve_from": []
+    },
+    {
+        "no": 1025,
+        "name": "복숭악동",
+        "evolve_to": [],
+        "evolve_from": []
+    }
+]

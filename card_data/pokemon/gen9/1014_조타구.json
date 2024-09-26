@@ -1,0 +1,166 @@
+[
+    {
+        "id": "SV6-064",
+        "cardID": "조타격130아드굿펀070",
+        "name": "조타구",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본"
+        ],
+        "rules": [],
+        "hp": 130,
+        "pokemons": [
+            {
+                "name": "조타구",
+                "pokedexNumber": 1014
+            }
+        ],
+        "type": "(격투)",
+        "attacks": [
+            {
+                "name": "굿펀치",
+                "cost": "(격투)(격투)",
+                "damage": "70",
+                "text": ""
+            }
+        ],
+        "abilities": [
+            {
+                "name": "아드레나 파워",
+                "text": "이 포켓몬에게 (악) 에너지가 붙어 있다면 이 포켓몬의 최대 HP는 「+100」이 되고 이 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+100」이 된다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(초)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 2,
+        "flavorText": "쉽게 흥분해 버리는 난폭한 녀석. 목에 달린 사슬을 휘두르며 닥치는 대로 때려 부순다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "064",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "Souichirou Gunjima",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_064.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008064",
+                "regu": "H",
+                "debug": "3"
+            },
+            {
+                "number": "110",
+                "prodNumber": "101",
+                "prodCode": "SV6",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「변환의 가면」",
+                "artist": "AKIRA EGAWA",
+                "rarity": "AR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6/SV6_110.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024008110",
+                "regu": "H",
+                "debug": "2"
+            }
+        ]
+    },
+    {
+        "id": "SV6a-036",
+        "cardID": "조타악250포이000크레130",
+        "name": "조타구 ex",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "기본",
+            "ex"
+        ],
+        "rules": [
+            "포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다."
+        ],
+        "hp": 250,
+        "pokemons": [
+            {
+                "name": "조타구",
+                "pokedexNumber": 1014
+            }
+        ],
+        "type": "(악)",
+        "attacks": [
+            {
+                "name": "포이즌머슬",
+                "cost": "(무색)",
+                "damage": "",
+                "text": "자신의 덱에서 「기본 (악) 에너지」를 2장까지 선택해서 이 포켓몬에게 붙인다. 그리고 덱을 섞는다. 붙였을 경우, 이 포켓몬을 독으로 만든다."
+            },
+            {
+                "name": "크레이지체인",
+                "cost": "(악)(악)(무색)",
+                "damage": "130+",
+                "text": "이 포켓몬이 독이라면 130데미지를 추가한다."
+            }
+        ],
+        "abilities": [],
+        "weakness": {
+            "type": "(격투)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "",
+            "value": "--"
+        },
+        "retreatCost": 3,
+        "flavorText": "",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "036",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "takuyoa",
+                "rarity": "RR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_036.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011036",
+                "regu": "H",
+                "debug": "1"
+            },
+            {
+                "number": "079",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_079.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011079",
+                "regu": "H",
+                "debug": "2"
+            },
+            {
+                "number": "087",
+                "prodNumber": "064",
+                "prodCode": "SV6a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV6a.png",
+                "prodName": "스칼렛&바이올렛 강화 확장팩 「나이트원더러」",
+                "artist": "kantaro",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV6a/SV6a_087.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024011087",
+                "regu": "H",
+                "debug": "2"
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id": "SV7-073",
+        "cardID": "브리강180강철아이160",
+        "name": "브리두라스",
+        "supertype": "포켓몬",
+        "subtypes": [
+            "1진화"
+        ],
+        "rules": [],
+        "hp": 180,
+        "pokemons": [
+            {
+                "name": "브리두라스",
+                "pokedexNumber": 1018
+            }
+        ],
+        "type": "(강철)",
+        "attacks": [
+            {
+                "name": "아이언 블래스터",
+                "cost": "(강철)(강철)(무색)",
+                "damage": "160",
+                "text": "자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다."
+            }
+        ],
+        "abilities": [
+            {
+                "name": "강철 다리",
+                "text": "이 포켓몬이 있는 한, (강철) 에너지가 붙어 있는 자신의 포켓몬 전원의 후퇴에 필요한 에너지는 모두 없어진다.",
+                "type": "특성"
+            }
+        ],
+        "weakness": {
+            "type": "(불꽃)",
+            "value": "×2"
+        },
+        "resistance": {
+            "type": "(풀)",
+            "value": "-30"
+        },
+        "retreatCost": 2,
+        "flavorText": "산속에서 굴을 파며 먹이를 찾는다. 낙반에 휩쓸려도 아무렇지 않을 정도로 튼튼하다.",
+        "regulationMark": [
+            "H"
+        ],
+        "version_infos": [
+            {
+                "number": "073",
+                "prodNumber": "102",
+                "prodCode": "SV7",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/SV7.png",
+                "prodName": "스칼렛&바이올렛 확장팩 「스텔라미라클」",
+                "artist": "Oswaldo KATO",
+                "rarity": "R",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SV7/SV7_073.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024012073",
+                "regu": "H",
+                "debug": "3"
+            }
+        ]
+    }
+]
