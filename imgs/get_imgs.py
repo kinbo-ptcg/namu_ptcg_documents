@@ -34,8 +34,8 @@ def get_card_img(url, card_img_path,error_log_file):
         print(f"Failed to download {url}: {str(e)}")
 
 if __name__ == "__main__":    
-    gens = [1,2,9]
-    poke_data_dir = '../../../../ptcgDB/ptcg-kr-db/card_data/pokemon/gen'
+    gens = [1,2,3,4,5,6,7,8,9]
+    poke_data_dir = '../card_data/pokemon/gen'
     
     #다운로드 하기 전에 전체 이미지수 카운트
     img_count_total = 0
