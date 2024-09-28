@@ -1,0 +1,1 @@
+Failed to download https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_126.png?w=512: 415 Client Error: Unsupported Media Type for url: https://cards.image.pokemonkorea.co.kr/data/wmimages/XY/PROMO/XYpromo_126.png?w=512

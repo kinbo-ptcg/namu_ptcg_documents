@@ -69,6 +69,9 @@ def translate_poke_cardname(card_name_kr,pokemons_info):
         card_name_jp = card_name_jp.replace('가라르','ガラル')
         card_name_jp = card_name_jp.replace('히스이','ヒスイ')
         card_name_jp = card_name_jp.replace('팔데아','パルデア')
+        # 특수 키워드
+        card_name_jp = card_name_jp.replace('찬란한 ','かがやく')
+        card_name_jp = card_name_jp.replace('빛나는 ','ひかる')
     
     # 엉문이름으로
     card_name_en = card_name_kr
@@ -81,6 +84,10 @@ def translate_poke_cardname(card_name_kr,pokemons_info):
         card_name_en = card_name_en.replace('가라르','Galar')
         card_name_en = card_name_en.replace('히스이','Hisui')
         card_name_en = card_name_en.replace('팔데아','Paldea')
+        # 특수 키워드
+        card_name_en = card_name_en.replace('찬란한','Radiant')
+        card_name_en = card_name_en.replace('빛나는','Shining')
+        
 
     
     return card_name_jp, card_name_en

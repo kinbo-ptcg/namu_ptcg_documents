@@ -3,6 +3,7 @@ from urllib.parse import urlparse
 import requests
 import os
 import json
+import pandas as pd
 
 def get_card_img(url, card_img_path,error_log_file):
     try:
@@ -51,7 +52,7 @@ if __name__ == "__main__":
                             for item_ver in item['version_infos']:
                                 img_count_total += 1
     
-    # 이미지 다운로드
+    # 이미지 다운로드, 업로드때 필요한 엑셀 생성
     img_count = 0
     for gen in gens:
         root_dir = poke_data_dir + str(gen)+ '/'
@@ -63,10 +64,24 @@ if __name__ == "__main__":
                     with open(file_path, 'r', encoding='utf-8') as json_file:
                         data = json.load(json_file)
                         img_dir = './pokemon/gen' +str(gen) + '/' + file.replace('.json','')
+                        reference_list = []
+                        #print(file_path)
                         for item in data:
                             for item_ver in item['version_infos']:
                                 img_count += 1
-                                print(f"{img_count}/{img_count_total} : {file}")
-                                get_card_img(item_ver['cardImgURL'],img_dir,log_file)
+                                #print(f"{img_count}/{img_count_total} : {file}")
+                                imgURL = item_ver['cardImgURL']
+                                #get_card_img(imgURL,img_dir,log_file)
+                                reference_list.append([imgURL.split('/')[-1].replace('?w=512',''),imgURL])
+                                
+                        if '파이리' in file_path:
+                            print(reference_list)
+                        df = pd.DataFrame(reference_list)
+                        os.makedirs(os.path.dirname(img_dir + '/ref.csv'), exist_ok=True)
+                        df.to_csv(img_dir + '/ref.csv',index=False, header=False, encoding='utf-8-sig')
+                                
+                                
+                                
+                                
                         
         
