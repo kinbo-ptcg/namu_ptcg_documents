@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0716_f00_s0.png|width=40]] 0716 [[제르네아스/포켓몬 카드 게임|제르네아스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0717_f00_s0.png|width=40]] 0717 [[이벨타르/포켓몬 카드 게임|이벨타르]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0718_f00_s0.png|width=40]] 0718 [[지가르데/포켓몬 카드 게임|지가르데]] ||
+||<width=30%> [[파일:icon0716_f00_s0.png|width=40]] 0716 [[제르네아스/포켓몬 카드 게임|제르네아스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0717_f00_s0.png|width=40]] 0717 [[이벨타르/포켓몬 카드 게임|이벨타르]]'''  ||<width=30%> [[파일:icon0718_f00_s0.png|width=40]] 0718 [[지가르데/포켓몬 카드 게임|지가르데]] ||
 
 [목차]
 [clearfix]
@@ -64,7 +64,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3a_071.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3a_071.png|width=100%]] ||
 || [[레이징서프]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -95,13 +95,13 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_285.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_285.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGG.png|height=25]] | 006/019 | [[소드&실드 하이클래스 덱 「팬텀 VMAX」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 285/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 285/414 | [[소드&실드 스타트 덱 100]] ||
 === [[25th Anniversary Collection]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8a_013.png|width=100%]] ||
 || [[25th Anniversary Collection]][br][include(틀:포케카 레어도/N)] ||
@@ -211,7 +211,7 @@ HP 180 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6_097.png|width=100%]] ||<width=50%> [[파일:SM30A_046.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6_097.png|width=100%]] ||<width=50%> [[파일:SM30A_046.png|width=100%]] ||
 || [[금단의 빛]][br][include(틀:포케카 레어도/SR)] || [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -244,7 +244,7 @@ HP 110 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_080.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_080.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -306,15 +306,15 @@ HP 170 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:K1_Y_063.jpg|width=100%]] ||<width=50%> [[파일:CP4_079.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:K1_Y_063.jpg|width=100%]] ||<width=50%> [[파일:CP4_079.jpg|width=100%]] ||
 || [[Y컬렉션]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_079.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 037/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 063/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 037/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 063/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 079/131 | [[프리미엄 챔피언팩]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 079/171 | [[THE BEST OF XY]] ||
 === [[붉은 섬광(포켓몬스터 TCG)]] ===
@@ -342,7 +342,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_078.jpg|width=100%]] ||<width=50%> [[파일:SMXY_077.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_078.jpg|width=100%]] ||<width=50%> [[파일:SMXY_077.png|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -375,7 +375,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY11B_033.jpg|width=100%]] ||<width=50%> [[파일:CP5_025.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY11B_033.jpg|width=100%]] ||<width=50%> [[파일:CP5_025.jpg|width=100%]] ||
 || [[냉혹한 반역자]][br][include(틀:포케카 레어도/R)] || [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/C)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_078.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0726_f00_s0.png|width=40]] 0726 [[냐오히트/포켓몬 카드 게임|냐오히트]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0727_f00_s0.png|width=40]] 0727 [[어흥염/포켓몬 카드 게임|어흥염]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0728_f00_s0.png|width=40]] 0728 [[누리공/포켓몬 카드 게임|누리공]] ||
+||<width=30%> [[파일:icon0726_f00_s0.png|width=40]] 0726 [[냐오히트/포켓몬 카드 게임|냐오히트]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0727_f00_s0.png|width=40]] 0727 [[어흥염/포켓몬 카드 게임|어흥염]]'''  ||<width=30%> [[파일:icon0728_f00_s0.png|width=40]] 0728 [[누리공/포켓몬 카드 게임|누리공]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 320 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5M_085.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5M_085.png|width=100%]] ||
 || [[사이버저지]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -73,9 +73,9 @@ HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 017/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/U)] ||
 == D 레귤레이션 ==
-=== [[소드&실드 확장팩 세트 V]] ===
+=== 소드&실드 확장팩 세트 V ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SD_006.png|width=100%]] ||
-|| [[소드&실드 확장팩 세트 V]][br][include(틀:포케카 레어도/N)] ||
+|| 소드&실드 확장팩 세트 V[br][include(틀:포케카 레어도/N)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -100,7 +100,7 @@ HP 220 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 006/031 | [[소드&실드 확장팩 세트 V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 006/031 | 소드&실드 확장팩 세트 V ||
 == C 레귤레이션 ==
 === [[더블블레이즈]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_016.png|width=100%]] ||
@@ -119,7 +119,7 @@ HP 160 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''스트롱옐'''}}}
-이 포켓몬이 있는 한, 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 효과는 이 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
+이 포켓몬이 있는 한, 자신의 포켓몬이 사용하는 기술이 상대의 배틀 포켓몬에게 주는 데미지는 「+30」이 된다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염방사''' 90
 이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''거칠고 제멋대로지만 약한 상대를 괴롭히는 것은 재미없어서 싫어한다. 강한 상대에게 의욕을 보인다.''}}} 
@@ -127,7 +127,7 @@ HP 160 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_025.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_025.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -163,7 +163,7 @@ HP 250 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8a_055.png|width=100%]] ||<width=50%> [[파일:SM12a_082.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8a_055.png|width=100%]] ||<width=50%> [[파일:SM12a_082.png|width=100%]] ||
 || [[다크오더]][br][include(틀:포케카 레어도/SR)] || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -200,7 +200,7 @@ HP 250 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_009.png|width=100%]] ||<width=50%> [[파일:SM1plus_053.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_009.png|width=100%]] ||<width=50%> [[파일:SM1plus_053.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

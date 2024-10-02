@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0578_f00_s0.png|width=40]] 0578 [[듀란/포켓몬 카드 게임|듀란]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0579_f00_s0.png|width=40]] 0579 [[란쿨루스/포켓몬 카드 게임|란쿨루스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0580_f00_s0.png|width=40]] 0580 [[꼬지보리/포켓몬 카드 게임|꼬지보리]] ||
+||<width=30%> [[파일:icon0578_f00_s0.png|width=40]] 0578 [[듀란/포켓몬 카드 게임|듀란]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0579_f00_s0.png|width=40]] 0579 [[란쿨루스/포켓몬 카드 게임|란쿨루스]]'''  ||<width=30%> [[파일:icon0580_f00_s0.png|width=40]] 0580 [[꼬지보리/포켓몬 카드 게임|꼬지보리]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5K_075.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_075.png|width=100%]] ||
 || [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -115,7 +115,7 @@ HP 90 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''데미지스웹'''}}}
-자신의 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 자신의 다른 포켓몬에게 올린다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 몇 번이라도 사용할 수 있다.
+자신의 포켓몬에게 올려져 있는 데미지 카운터를 1개 선택해서 자신의 다른 포켓몬에게 올린다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''사이코웨이브''' 30+
 상대의 배틀 포켓몬에게 붙어 있는 에너지의 개수 × 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''바위를 묵사발로 만드는 손 힘을 가진 팔을 조종하여 싸운다. 높은 지능을 지닌 포켓몬이다.''}}} 
@@ -150,7 +150,7 @@ HP 90 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_060.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_060.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

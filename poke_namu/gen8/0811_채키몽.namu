@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0810_f00_s0.png|width=40]] 0810 [[흥나숭/포켓몬 카드 게임|흥나숭]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0811_f00_s0.png|width=40]] 0811 [[채키몽/포켓몬 카드 게임|채키몽]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0812_f00_s0.png|width=40]] 0812 [[고릴타/포켓몬 카드 게임|고릴타]] ||
+||<width=30%> [[파일:icon0810_f00_s0.png|width=40]] 0810 [[흥나숭/포켓몬 카드 게임|흥나숭]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0811_f00_s0.png|width=40]] 0811 [[채키몽/포켓몬 카드 게임|채키몽]]'''  ||<width=30%> [[파일:icon0812_f00_s0.png|width=40]] 0812 [[고릴타/포켓몬 카드 게임|고릴타]] ||
 
 [목차]
 [clearfix]
@@ -28,7 +28,7 @@ HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''둥둥북'''}}}
-자신의 배틀 포켓몬이 [[파일:포케카 특성.png|height=18px]] 「축제 장단」을 가진 포켓몬이라면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다.
+자신의 배틀 포켓몬이 특성 「축제 장단」을 가진 포켓몬이라면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 1장 선택해서 패로 가져온다. 그리고 덱을 섞는다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''때리기''' 50{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''2개의 스틱으로 격렬한 비트를 만드는 채키몽일수록 동료들에게 존경받는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -61,13 +61,13 @@ HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_036.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_036.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 007/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 036/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 036/414 | [[소드&실드 스타트 덱 100]] ||
 == D 레귤레이션 ==
 === [[소드&실드 스타터 세트 V 5종]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_G_007.png|width=100%]] ||
@@ -146,7 +146,7 @@ HP 90 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4a_204.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4a_204.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

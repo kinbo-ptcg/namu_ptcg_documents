@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0114_f00_s0.png|width=40]] 0114 [[덩쿠리/포켓몬 카드 게임|덩쿠리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0115_f00_s0.png|width=40]] 0115 [[캥카/포켓몬 카드 게임|캥카]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0116_f00_s0.png|width=40]] 0116 [[쏘드라/포켓몬 카드 게임|쏘드라]] ||
+||<width=30%> [[파일:icon0114_f00_s0.png|width=40]] 0114 [[덩쿠리/포켓몬 카드 게임|덩쿠리]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0115_f00_s0.png|width=40]] 0115 [[캥카/포켓몬 카드 게임|캥카]]'''  ||<width=30%> [[파일:icon0116_f00_s0.png|width=40]] 0116 [[쏘드라/포켓몬 카드 게임|쏘드라]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 230 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV2a_192.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2a_192.png|width=100%]] ||
 || [[포켓몬 카드 151]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -68,13 +68,13 @@ HP 130 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SVG_020.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVG_020.png|width=100%]] ||
 || [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV3.png|height=25]] | 090/108 | [[흑염의 지배자]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG.png|height=25]] | 020/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG_pk.png|height=25]] | 020/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
 == E 레귤레이션 ==
 === [[이브이 히어로즈]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6a_057.png|width=100%]] ||
@@ -100,13 +100,13 @@ HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_335.png|width=100%]] ||<width=50%> [[파일:SN_006.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_335.png|width=100%]] ||<width=50%> [[파일:SN_006.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 057/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 335/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 335/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SN.png|height=25]] | 006/024 | [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]] ||
 == D 레귤레이션 ==
 === [[무한존]] ===
@@ -160,7 +160,7 @@ HP 130 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_107.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_107.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -276,7 +276,7 @@ HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM6B_108.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6B_108.png|width=100%]] ||
 || [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -336,7 +336,7 @@ HP 130 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_082.png|width=100%]] ||<width=50%> [[파일:SM4plus_082.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_082.png|width=100%]] ||<width=50%> [[파일:SM4plus_082.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -372,7 +372,7 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY2_084.jpg|width=100%]] ||<width=50%> [[파일:CP4_093.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY2_084.jpg|width=100%]] ||<width=50%> [[파일:CP4_093.jpg|width=100%]] ||
 || [[와일드 블레이즈]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -405,7 +405,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_094.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP4_094.jpg|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -487,7 +487,7 @@ HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 동전을 네 번 던져서 앞면 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''배의 주머니에서 새끼를 키운다. 안전할 때만 새끼를 주머니에서 꺼내어 놀게 한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0237_f00_s0.png|width=40]] 0237 [[카포에라/포켓몬 카드 게임|카포에라]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0238_f00_s0.png|width=40]] 0238 [[뽀뽀라/포켓몬 카드 게임|뽀뽀라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0239_f00_s0.png|width=40]] 0239 [[에레키드/포켓몬 카드 게임|에레키드]] ||
+||<width=30%> [[파일:icon0237_f00_s0.png|width=40]] 0237 [[카포에라/포켓몬 카드 게임|카포에라]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0238_f00_s0.png|width=40]] 0238 [[뽀뽀라/포켓몬 카드 게임|뽀뽀라]]'''  ||<width=30%> [[파일:icon0239_f00_s0.png|width=40]] 0239 [[에레키드/포켓몬 카드 게임|에레키드]] ||
 
 [목차]
 [clearfix]
@@ -33,7 +33,7 @@ HP 50 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대의 필드에 있는 특수 에너지를 1개 선택해서 상대의 덱으로 되돌리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''무엇이든 입술로 건드려보고 확인한다. 좋아하는 것도 싫어하는 것도 입술이 기억하고 있다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

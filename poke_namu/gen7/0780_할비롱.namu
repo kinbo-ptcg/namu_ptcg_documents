@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0779_f00_s0.png|width=40]] 0779 [[치갈기/포켓몬 카드 게임|치갈기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0780_f00_s0.png|width=40]] 0780 [[할비롱/포켓몬 카드 게임|할비롱]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0781_f00_s0.png|width=40]] 0781 [[타타륜/포켓몬 카드 게임|타타륜]] ||
+||<width=30%> [[파일:icon0779_f00_s0.png|width=40]] 0779 [[치갈기/포켓몬 카드 게임|치갈기]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0780_f00_s0.png|width=40]] 0780 [[할비롱/포켓몬 카드 게임|할비롱]]'''  ||<width=30%> [[파일:icon0781_f00_s0.png|width=40]] 0781 [[타타륜/포켓몬 카드 게임|타타륜]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5M_083.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5M_083.png|width=100%]] ||
 || [[사이버저지]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -96,7 +96,7 @@ HP 210 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI.png|height=25]] | 359/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI_pk.png|height=25]] | 359/414 | [[소드&실드 스타트 덱 100]] ||
 == E 레귤레이션 ==
 === [[일격마스터]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_060.png|width=100%]] ||
@@ -123,13 +123,13 @@ HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_358.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_358.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5I.png|height=25]] | 060/070 | [[일격마스터]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 358/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 358/414 | [[소드&실드 스타트 덱 100]] ||
 === [[마천퍼펙트]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S7D_047.png|width=100%]] ||
 || [[마천퍼펙트]][br][include(틀:포케카 레어도/U)] ||
@@ -154,13 +154,13 @@ HP 120 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_324.png|width=100%]] ||<width=50%> [[파일:S-P_133.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_324.png|width=100%]] ||<width=50%> [[파일:S-P_133.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 047/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 324/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 324/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 133/S-P | [[unknown]] ||
 == D 레귤레이션 ==
 === [[소드&실드 스타터 세트 V 5종]] ===
@@ -267,7 +267,7 @@ HP 120 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM6A_096.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6A_096.png|width=100%]] ||
 || [[드래곤스톰]][br][include(틀:포케카 레어도/U)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -303,7 +303,7 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_058.png|width=100%]] ||<width=50%> [[파일:SM4plus_087.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_058.png|width=100%]] ||<width=50%> [[파일:SM4plus_087.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_087.png|width=100%]] ||<width=50%> [[파일:SM8b_243.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/RR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] ||
@@ -340,7 +340,7 @@ HP 120 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_079.png|width=100%]] ||<width=50%> [[파일:SM4plus_079.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_079.png|width=100%]] ||<width=50%> [[파일:SM4plus_079.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

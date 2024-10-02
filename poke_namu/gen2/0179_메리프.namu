@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0178_f00_s0.png|width=40]] 0178 [[네이티오/포켓몬 카드 게임|네이티오]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0179_f00_s0.png|width=40]] 0179 [[메리프/포켓몬 카드 게임|메리프]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0180_f00_s0.png|width=40]] 0180 [[보송송/포켓몬 카드 게임|보송송]] ||
+||<width=30%> [[파일:icon0178_f00_s0.png|width=40]] 0178 [[네이티오/포켓몬 카드 게임|네이티오]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0179_f00_s0.png|width=40]] 0179 [[메리프/포켓몬 카드 게임|메리프]]'''  ||<width=30%> [[파일:icon0180_f00_s0.png|width=40]] 0180 [[보송송/포켓몬 카드 게임|보송송]] ||
 
 [목차]
 [clearfix]
@@ -87,7 +87,7 @@ HP 70 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_051.png|width=100%]] ||<width=50%> [[파일:SPZ_002.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_051.png|width=100%]] ||<width=50%> [[파일:SPZ_002.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[소드&실드 VSTAR&VMAX 하이클래스덱 「제라오라」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -118,7 +118,7 @@ HP 60 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_133.png|width=100%]] ||<width=50%> [[파일:SO_009.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_133.png|width=100%]] ||<width=50%> [[파일:SO_009.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S12a_036.png|width=100%]] ||<width=50%> [[파일:S12a_209.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/C)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
@@ -128,15 +128,15 @@ HP 60 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 026/067 | [[창공스트림]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 133/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 009/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 133/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 009/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 036/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 209/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SVB.png|height=25]] | 009/028 | [[포켓몬 카드 게임 스칼렛&바이올렛 프리미엄 트레이너 박스 ex]] ||
 == D 레귤레이션 ==
-=== [[소드&실드 확장팩 세트 V]] ===
+=== 소드&실드 확장팩 세트 V ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SD_013.png|width=100%]] ||
-|| [[소드&실드 확장팩 세트 V]][br][include(틀:포케카 레어도/N)] ||
+|| 소드&실드 확장팩 세트 V[br][include(틀:포케카 레어도/N)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -157,7 +157,7 @@ HP 60 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 013/031 | [[소드&실드 확장팩 세트 V]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_D.png|height=25]] | [[파일:SD.png|height=25]] | 013/031 | 소드&실드 확장팩 세트 V ||
 == B 레귤레이션 ==
 === [[버스트 임팩트]] ===
 ==== 메리프 ====
@@ -234,7 +234,7 @@ HP 60 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8a_061.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_061.png|width=100%]] ||
 || [[다크오더]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -318,7 +318,7 @@ HP 50 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''톡톡''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''푹신푹신한 털은 정전기가 쌓이면 2배로 부풀어 오른다. 만지면 감전되어 버린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

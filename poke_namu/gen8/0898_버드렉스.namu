@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0897_f00_s0.png|width=40]] 0897 [[레이스포스/포켓몬 카드 게임|레이스포스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0898_f00_s0.png|width=40]] 0898 [[버드렉스/포켓몬 카드 게임|버드렉스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0899_f00_s0.png|width=40]] 0899 [[신비록/포켓몬 카드 게임|신비록]] ||
+||<width=30%> [[파일:icon0897_f00_s0.png|width=40]] 0897 [[레이스포스/포켓몬 카드 게임|레이스포스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0898_f00_s0.png|width=40]] 0898 [[버드렉스/포켓몬 카드 게임|버드렉스]]'''  ||<width=30%> [[파일:icon0899_f00_s0.png|width=40]] 0899 [[신비록/포켓몬 카드 게임|신비록]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6H_072.png|width=100%]] ||<width=50%> [[파일:S6H_073.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6H_072.png|width=100%]] ||<width=50%> [[파일:S6H_073.png|width=100%]] ||
 || [[백은의 랜스]][br][include(틀:포케카 레어도/SR)] || [[백은의 랜스]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_043.png|width=100%]] ||<width=50%> [[파일:S8b_220.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
@@ -79,7 +79,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6H.png|height=25]] | 073/070 | [[백은의 랜스]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 043/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 220/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 125/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 125/414 | [[소드&실드 스타트 덱 100]] ||
 ==== 백마 버드렉스 VMAX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6H_028.png|width=100%]] ||
 || [[백은의 랜스]][br][include(틀:포케카 레어도/RRR)] ||
@@ -106,7 +106,7 @@ HP 320 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_044.png|width=100%]] ||<width=50%> [[파일:S8b_221.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_044.png|width=100%]] ||<width=50%> [[파일:S8b_221.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RRR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SI_126.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -116,7 +116,7 @@ HP 320 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6H.png|height=25]] | 028/070 | [[백은의 랜스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 044/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 221/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 126/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 126/414 | [[소드&실드 스타트 덱 100]] ||
 === [[칠흑의 가이스트]] ===
 ==== 흑마 버드렉스 V ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6K_036.png|width=100%]] ||
@@ -144,7 +144,7 @@ HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6K_075.png|width=100%]] ||<width=50%> [[파일:S6K_076.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6K_075.png|width=100%]] ||<width=50%> [[파일:S6K_076.png|width=100%]] ||
 || [[칠흑의 가이스트]][br][include(틀:포케카 레어도/SR)] || [[칠흑의 가이스트]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_082.png|width=100%]] ||<width=50%> [[파일:S8b_235.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
@@ -158,7 +158,7 @@ HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 076/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 082/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 235/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 203/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 203/414 | [[소드&실드 스타트 덱 100]] ||
 ==== 흑마 버드렉스 VMAX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S6K_037.png|width=100%]] ||
 || [[칠흑의 가이스트]][br][include(틀:포케카 레어도/RRR)] ||
@@ -185,7 +185,7 @@ HP 320 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_083.png|width=100%]] ||<width=50%> [[파일:S8b_236.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_083.png|width=100%]] ||<width=50%> [[파일:S8b_236.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RRR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SI_204.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -195,7 +195,7 @@ HP 320 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 037/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 083/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 236/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 204/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 204/414 | [[소드&실드 스타트 덱 100]] ||
 === [[소드&실드 「백은의 랜스&칠흑의 가이스트」 BOX]] ===
 ==== 백마 버드렉스 V ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SP3_001.png|width=100%]] ||

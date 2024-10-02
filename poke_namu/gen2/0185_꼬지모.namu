@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0184_f00_s0.png|width=40]] 0184 [[마릴리/포켓몬 카드 게임|마릴리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0185_f00_s0.png|width=40]] 0185 [[꼬지모/포켓몬 카드 게임|꼬지모]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0186_f00_s0.png|width=40]] 0186 [[왕구리/포켓몬 카드 게임|왕구리]] ||
+||<width=30%> [[파일:icon0184_f00_s0.png|width=40]] 0184 [[마릴리/포켓몬 카드 게임|마릴리]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0185_f00_s0.png|width=40]] 0185 [[꼬지모/포켓몬 카드 게임|꼬지모]]'''  ||<width=30%> [[파일:icon0186_f00_s0.png|width=40]] 0186 [[왕구리/포켓몬 카드 게임|왕구리]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 110 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_080.png|width=100%]] ||<width=50%> [[파일:SVD_058.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_080.png|width=100%]] ||<width=50%> [[파일:SVD_058.png|width=100%]] ||
 || [[스노해저드]][br][include(틀:포케카 레어도/AR)] || [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -96,7 +96,7 @@ HP 110 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S10a_037_m.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_037_m.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -155,7 +155,7 @@ HP 110 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMK_015.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMK_015.png|width=100%]] ||
 || [[썬&문 스타터 세트 격투 「롱스톤 GX」 물 「아쿠스타 GX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -187,7 +187,7 @@ HP 100 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_083.png|width=100%]] ||<width=50%> [[파일:SM4plus_051.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_083.png|width=100%]] ||<width=50%> [[파일:SM4plus_051.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_051.png|width=100%]] ||<width=50%> [[파일:SM8b_054.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
@@ -252,10 +252,10 @@ HP 80 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 자신에게도 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''수목처럼 보이는 몸은 실제로는 바위나 돌에 가깝다. 물에는 대단히 약하다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bs6_ko_43.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs6_ko_43.jpg|width=100%]] ||
 || [[암흑의 초승달]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

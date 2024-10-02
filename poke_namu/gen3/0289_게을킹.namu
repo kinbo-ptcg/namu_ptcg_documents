@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0288_f00_s0.png|width=40]] 0288 [[발바로/포켓몬 카드 게임|발바로]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0289_f00_s0.png|width=40]] 0289 [[게을킹/포켓몬 카드 게임|게을킹]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0290_f00_s0.png|width=40]] 0290 [[토중몬/포켓몬 카드 게임|토중몬]] ||
+||<width=30%> [[파일:icon0288_f00_s0.png|width=40]] 0288 [[발바로/포켓몬 카드 게임|발바로]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0289_f00_s0.png|width=40]] 0289 [[게을킹/포켓몬 카드 게임|게을킹]]'''  ||<width=30%> [[파일:icon0290_f00_s0.png|width=40]] 0290 [[토중몬/포켓몬 카드 게임|토중몬]] ||
 
 [목차]
 [clearfix]
@@ -64,7 +64,7 @@ HP 230 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S10b_079.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_079.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -97,13 +97,13 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_346.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_346.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 052/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 346/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 346/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[명탐정 피카츄(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_024.png|width=100%]] ||
@@ -128,7 +128,7 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_024.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_mirror_024.png|width=100%]] ||
 || [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -180,7 +180,7 @@ HP 160 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''태만한얼굴'''}}}
-이 포켓몬이 배틀필드에 있는 한, 상대 필드의 포켓몬의 [[파일:포케카 특성.png|height=18px]](「태만한얼굴」은 제외)은 모두 없어진다.
+이 포켓몬이 배틀필드에 있는 한, 상대 필드의 포켓몬의 특성(「태만한얼굴」은 제외)은 모두 없어진다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파멸의일격''' 160
 이 포켓몬에게 붙어 있는 에너지를 1개 트래쉬한다. 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''세계에서 제일 게으르지만 쌓인 에너지를 한 번에 내면 무서울 정도의 파워를 발휘한다.''}}} 

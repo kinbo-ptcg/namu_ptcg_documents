@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0946_f00_s0.png|width=40]] 0946 [[그푸리/포켓몬 카드 게임|그푸리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0947_f00_s0.png|width=40]] 0947 [[공푸리/포켓몬 카드 게임|공푸리]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0948_f00_s0.png|width=40]] 0948 [[들눈해/포켓몬 카드 게임|들눈해]] ||
+||<width=30%> [[파일:icon0946_f00_s0.png|width=40]] 0946 [[그푸리/포켓몬 카드 게임|그푸리]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0947_f00_s0.png|width=40]] 0947 [[공푸리/포켓몬 카드 게임|공푸리]]'''  ||<width=30%> [[파일:icon0948_f00_s0.png|width=40]] 0948 [[들눈해/포켓몬 카드 게임|들눈해]] ||
 
 [목차]
 [clearfix]

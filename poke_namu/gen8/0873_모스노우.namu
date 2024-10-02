@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0872_f00_s0.png|width=40]] 0872 [[누니머기/포켓몬 카드 게임|누니머기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0873_f00_s0.png|width=40]] 0873 [[모스노우/포켓몬 카드 게임|모스노우]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0874_f00_s0.png|width=40]] 0874 [[돌헨진/포켓몬 카드 게임|돌헨진]] ||
+||<width=30%> [[파일:icon0872_f00_s0.png|width=40]] 0872 [[누니머기/포켓몬 카드 게임|누니머기]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0873_f00_s0.png|width=40]] 0873 [[모스노우/포켓몬 카드 게임|모스노우]]'''  ||<width=30%> [[파일:icon0874_f00_s0.png|width=40]] 0874 [[돌헨진/포켓몬 카드 게임|돌헨진]] ||
 
 [목차]
 [clearfix]
@@ -89,7 +89,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_048.png|width=100%]] ||<width=50%> [[파일:S4a_233.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_048.png|width=100%]] ||<width=50%> [[파일:S4a_233.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_040.png|width=100%]] ||<width=50%> [[파일:S8b_192.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CHR)] ||

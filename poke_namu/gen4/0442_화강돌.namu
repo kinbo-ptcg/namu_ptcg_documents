@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0441_f00_s0.png|width=40]] 0441 [[페라페/포켓몬 카드 게임|페라페]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0442_f00_s0.png|width=40]] 0442 [[화강돌/포켓몬 카드 게임|화강돌]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0443_f00_s0.png|width=40]] 0443 [[딥상어동/포켓몬 카드 게임|딥상어동]] ||
+||<width=30%> [[파일:icon0441_f00_s0.png|width=40]] 0441 [[페라페/포켓몬 카드 게임|페라페]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0442_f00_s0.png|width=40]] 0442 [[화강돌/포켓몬 카드 게임|화강돌]]'''  ||<width=30%> [[파일:icon0443_f00_s0.png|width=40]] 0443 [[딥상어동/포켓몬 카드 게임|딥상어동]] ||
 
 [목차]
 [clearfix]
@@ -55,7 +55,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''칠흑의 재앙'''}}}
-이 포켓몬이 있는 한, 서로의 필드의 기본 포켓몬인 「포켓몬 V」의 [[파일:포케카 특성.png|height=18px]]은 모두 없어진다.
+이 포켓몬이 있는 한, 서로의 필드의 기본 포켓몬인 「포켓몬 V」의 특성은 모두 없어진다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''휙사라지기''' 10
 이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''항상 나쁜 짓만 하고 있었기에 신비한 술법에 의해 본모습을 쐐기돌에 속박당했다.''}}} 
@@ -63,7 +63,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_086.png|width=100%]] ||<width=50%> [[파일:SV4a_263.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_086.png|width=100%]] ||<width=50%> [[파일:SV4a_263.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -98,7 +98,7 @@ HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 065/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 065/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
 === [[다크판타스마]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_046.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/U)] ||
@@ -124,7 +124,7 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_046_m.png|width=100%]] ||<width=50%> [[파일:S10a_076.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_046_m.png|width=100%]] ||<width=50%> [[파일:S10a_076.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/U)] || [[다크판타스마]][br][include(틀:포케카 레어도/CHR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S12a_084.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/U)] ||
@@ -160,7 +160,7 @@ HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_107.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8b_107.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -221,7 +221,7 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_076.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_076.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -280,7 +280,7 @@ HP 70 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8a_077.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_077.png|width=100%]] ||
 || [[다크오더]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

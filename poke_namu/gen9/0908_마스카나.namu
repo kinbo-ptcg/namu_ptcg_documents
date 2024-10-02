@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0907_f00_s0.png|width=40]] 0907 [[나로테/포켓몬 카드 게임|나로테]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0908_f00_s0.png|width=40]] 0908 [[마스카나/포켓몬 카드 게임|마스카나]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0909_f00_s0.png|width=40]] 0909 [[뜨아거/포켓몬 카드 게임|뜨아거]] ||
+||<width=30%> [[파일:icon0907_f00_s0.png|width=40]] 0907 [[나로테/포켓몬 카드 게임|나로테]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0908_f00_s0.png|width=40]] 0908 [[마스카나/포켓몬 카드 게임|마스카나]]'''  ||<width=30%> [[파일:icon0909_f00_s0.png|width=40]] 0909 [[뜨아거/포켓몬 카드 게임|뜨아거]] ||
 
 [목차]
 [clearfix]
@@ -63,7 +63,7 @@ HP 310 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1a_086.png|width=100%]] ||<width=50%> [[파일:SV1a_096.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1a_086.png|width=100%]] ||<width=50%> [[파일:SV1a_096.png|width=100%]] ||
 || [[트리플렛비트]][br][include(틀:포케카 레어도/SR)] || [[트리플렛비트]][br][include(틀:포케카 레어도/SAR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SV1a_101.png|width=100%]] ||<width=50%> [[파일:SV4a_014.png|width=100%]] ||
 || [[트리플렛비트]][br][include(틀:포케카 레어도/UR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] ||

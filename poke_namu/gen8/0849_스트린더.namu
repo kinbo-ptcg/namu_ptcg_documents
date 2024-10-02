@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0848_f00_s0.png|width=40]] 0848 [[일레즌/포켓몬 카드 게임|일레즌]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0849_f00_s0.png|width=40]] 0849 [[스트린더/포켓몬 카드 게임|스트린더]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0850_f00_s0.png|width=40]] 0850 [[태우지네/포켓몬 카드 게임|태우지네]] ||
+||<width=30%> [[파일:icon0848_f00_s0.png|width=40]] 0848 [[일레즌/포켓몬 카드 게임|일레즌]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0849_f00_s0.png|width=40]] 0849 [[스트린더/포켓몬 카드 게임|스트린더]]'''  ||<width=30%> [[파일:icon0850_f00_s0.png|width=40]] 0850 [[태우지네/포켓몬 카드 게임|태우지네]] ||
 
 [목차]
 [clearfix]
@@ -63,7 +63,7 @@ HP 140 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_065.png|width=100%]] ||<width=50%> [[파일:SV4a_246.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_065.png|width=100%]] ||<width=50%> [[파일:SV4a_246.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -87,8 +87,6 @@ HP 260 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 1진화 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''노크해머''' 70
 상대의 덱을 위에서부터 1장 트래쉬한다.
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''가이아펑크''' 270
@@ -96,10 +94,11 @@ HP 260 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_081.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_081.png|width=100%]] ||
 || [[미래의 일섬]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -130,13 +129,13 @@ HP 130 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_158.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_158.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 032/067 | [[창공스트림]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 158/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 158/414 | [[소드&실드 스타트 덱 100]] ||
 === [[퓨전아츠]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_037.png|width=100%]] ||
 || [[퓨전아츠]][br][include(틀:포케카 레어도/R)] ||
@@ -161,7 +160,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_044.png|width=100%]] ||<width=50%> [[파일:S12a_181.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_044.png|width=100%]] ||<width=50%> [[파일:S12a_181.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -223,7 +222,7 @@ HP 210 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S2_100.png|width=100%]] ||<width=50%> [[파일:S4a_059.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S2_100.png|width=100%]] ||<width=50%> [[파일:S4a_059.png|width=100%]] ||
 || [[반역크래시]][br][include(틀:포케카 레어도/SR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S4a_314.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
@@ -258,7 +257,7 @@ HP 320 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_060.png|width=100%]] ||<width=50%> [[파일:S4a_315.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_060.png|width=100%]] ||<width=50%> [[파일:S4a_315.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/RRR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -291,7 +290,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_058.png|width=100%]] ||<width=50%> [[파일:S4a_241.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_058.png|width=100%]] ||<width=50%> [[파일:S4a_241.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0788_f00_s0.png|width=40]] 0788 [[카푸느지느/포켓몬 카드 게임|카푸느지느]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0789_f00_s0.png|width=40]] 0789 [[코스모그/포켓몬 카드 게임|코스모그]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0790_f00_s0.png|width=40]] 0790 [[코스모움/포켓몬 카드 게임|코스모움]] ||
+||<width=30%> [[파일:icon0788_f00_s0.png|width=40]] 0788 [[카푸느지느/포켓몬 카드 게임|카푸느지느]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0789_f00_s0.png|width=40]] 0789 [[코스모그/포켓몬 카드 게임|코스모그]]'''  ||<width=30%> [[파일:icon0790_f00_s0.png|width=40]] 0790 [[코스모움/포켓몬 카드 게임|코스모움]] ||
 
 [목차]
 [clearfix]
@@ -165,7 +165,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1M_026.png|width=100%]] ||<width=50%> [[파일:SM1S_027.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1M_026.png|width=100%]] ||<width=50%> [[파일:SM1S_027.png|width=100%]] ||
 || [[문 컬렉션]][br][include(틀:포케카 레어도/C)] || [[썬 컬렉션]][br][include(틀:포케카 레어도/C)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_027.png|width=100%]] ||<width=50%> [[파일:SM1plus_080.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||

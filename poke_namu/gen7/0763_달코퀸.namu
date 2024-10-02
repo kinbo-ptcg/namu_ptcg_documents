@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0762_f00_s0.png|width=40]] 0762 [[달무리나/포켓몬 카드 게임|달무리나]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0763_f00_s0.png|width=40]] 0763 [[달코퀸/포켓몬 카드 게임|달코퀸]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0764_f00_s0.png|width=40]] 0764 [[큐아링/포켓몬 카드 게임|큐아링]] ||
+||<width=30%> [[파일:icon0762_f00_s0.png|width=40]] 0762 [[달무리나/포켓몬 카드 게임|달무리나]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0763_f00_s0.png|width=40]] 0763 [[달코퀸/포켓몬 카드 게임|달코퀸]]'''  ||<width=30%> [[파일:icon0764_f00_s0.png|width=40]] 0764 [[큐아링/포켓몬 카드 게임|큐아링]] ||
 
 [목차]
 [clearfix]
@@ -54,8 +54,6 @@ HP 310 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 2진화 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''아이시클솔''' 
 상대의 포켓몬 1마리에게 그 포켓몬의 남은 HP가 「30」이 되도록 데미지 카운터를 올린다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''트로피컬킥''' 180
@@ -63,10 +61,11 @@ HP 310 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4K_080.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4K_080.png|width=100%]] ||
 || [[고대의 포효]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -155,7 +154,7 @@ HP 200 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8_101.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_101.png|width=100%]] ||
 || [[퓨전아츠]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -215,7 +214,7 @@ HP 140 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_014.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_014.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -248,7 +247,7 @@ HP 140 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_010.png|width=100%]] ||<width=50%> [[파일:SM4plus_010.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_010.png|width=100%]] ||<width=50%> [[파일:SM4plus_010.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMP_038.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0209_f00_s0.png|width=40]] 0209 [[블루/포켓몬 카드 게임|블루]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0210_f00_s0.png|width=40]] 0210 [[그랑블루/포켓몬 카드 게임|그랑블루]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0211_f00_s0.png|width=40]] 0211 [[침바루/포켓몬 카드 게임|침바루]] ||
+||<width=30%> [[파일:icon0209_f00_s0.png|width=40]] 0209 [[블루/포켓몬 카드 게임|블루]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0210_f00_s0.png|width=40]] 0210 [[그랑블루/포켓몬 카드 게임|그랑블루]]'''  ||<width=30%> [[파일:icon0211_f00_s0.png|width=40]] 0211 [[침바루/포켓몬 카드 게임|침바루]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 210 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI.png|height=25]] | 174/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI_pk.png|height=25]] | 174/414 | [[소드&실드 스타트 덱 100]] ||
 == E 레귤레이션 ==
 === [[퓨전아츠]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_042.png|width=100%]] ||
@@ -173,7 +173,7 @@ HP 110 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM1M_041.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1M_041.png|width=100%]] ||
 || [[문 컬렉션]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -257,7 +257,7 @@ HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 자신의 데미지 카운터 × 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''얼굴에 어울리지 않게 겁이 많다. 그러나 한번 화내기 시작하면 큰 이빨로 반격한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

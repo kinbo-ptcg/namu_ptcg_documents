@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0272_f00_s0.png|width=40]] 0272 [[로파파/포켓몬 카드 게임|로파파]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0273_f00_s0.png|width=40]] 0273 [[도토링/포켓몬 카드 게임|도토링]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0274_f00_s0.png|width=40]] 0274 [[잎새코/포켓몬 카드 게임|잎새코]] ||
+||<width=30%> [[파일:icon0272_f00_s0.png|width=40]] 0272 [[로파파/포켓몬 카드 게임|로파파]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0273_f00_s0.png|width=40]] 0273 [[도토링/포켓몬 카드 게임|도토링]]'''  ||<width=30%> [[파일:icon0274_f00_s0.png|width=40]] 0274 [[잎새코/포켓몬 카드 게임|잎새코]] ||
 
 [목차]
 [clearfix]
@@ -289,7 +289,7 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''구르기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''가지에 매달려 있으면 나무열매와 똑 닮았다. 쪼아먹으려 한 포켓몬을 놀래주며 좋아한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

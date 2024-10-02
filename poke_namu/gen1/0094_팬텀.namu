@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0093_f00_s0.png|width=40]] 0093 [[고우스트/포켓몬 카드 게임|고우스트]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0094_f00_s0.png|width=40]] 0094 [[팬텀/포켓몬 카드 게임|팬텀]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0095_f00_s0.png|width=40]] 0095 [[롱스톤/포켓몬 카드 게임|롱스톤]] ||
+||<width=30%> [[파일:icon0093_f00_s0.png|width=40]] 0093 [[고우스트/포켓몬 카드 게임|고우스트]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0094_f00_s0.png|width=40]] 0094 [[팬텀/포켓몬 카드 게임|팬텀]]'''  ||<width=30%> [[파일:icon0095_f00_s0.png|width=40]] 0095 [[롱스톤/포켓몬 카드 게임|롱스톤]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 310 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5K_088.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_088.png|width=100%]] ||
 || [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -125,7 +125,7 @@ HP 120 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_074.png|width=100%]] ||<width=50%> [[파일:S12a_048.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_074.png|width=100%]] ||<width=50%> [[파일:S12a_048.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/CHR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -188,13 +188,13 @@ HP 210 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_253.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_253.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGG.png|height=25]] | 001/019 | [[소드&실드 하이클래스 덱 「팬텀 VMAX」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 253/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 253/414 | [[소드&실드 스타트 덱 100]] ||
 ==== 팬텀 VMAX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SGG_002.png|width=100%]] ||
 || [[소드&실드 하이클래스 덱 「팬텀 VMAX」]][br][include(틀:포케카 레어도/N)] ||
@@ -249,7 +249,7 @@ HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4a_071.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4a_071.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -283,7 +283,7 @@ HP 240 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_102.png|width=100%]] ||<width=50%> [[파일:SM9_103.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_102.png|width=100%]] ||<width=50%> [[파일:SM9_103.png|width=100%]] ||
 || [[태그볼트]][br][include(틀:포케카 레어도/SR)] || [[태그볼트]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -374,7 +374,7 @@ HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_090.jpg|width=100%]] ||<width=50%> [[파일:CP4_048.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_090.jpg|width=100%]] ||<width=50%> [[파일:CP4_048.jpg|width=100%]] ||
 || [[팬텀게이트]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -407,7 +407,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_049.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP4_049.jpg|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -491,7 +491,7 @@ HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 데미지 카운터 4개를 상대의 포켓몬에게 원하는 대로 올린다. 그 뒤 자신을 자신의 벤치 포켓몬과 교체한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''그림자에 모습을 숨긴다. 팬텀이 숨어 있는 방은 온도가 5도 내려간다고 전해진다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] 30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] +30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0763_f00_s0.png|width=40]] 0763 [[달코퀸/포켓몬 카드 게임|달코퀸]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0764_f00_s0.png|width=40]] 0764 [[큐아링/포켓몬 카드 게임|큐아링]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0765_f00_s0.png|width=40]] 0765 [[하랑우탄/포켓몬 카드 게임|하랑우탄]] ||
+||<width=30%> [[파일:icon0763_f00_s0.png|width=40]] 0763 [[달코퀸/포켓몬 카드 게임|달코퀸]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0764_f00_s0.png|width=40]] 0764 [[큐아링/포켓몬 카드 게임|큐아링]]'''  ||<width=30%> [[파일:icon0765_f00_s0.png|width=40]] 0765 [[하랑우탄/포켓몬 카드 게임|하랑우탄]] ||
 
 [목차]
 [clearfix]
@@ -63,7 +63,7 @@ HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_064.png|width=100%]] ||<width=50%> [[파일:S12a_187.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_064.png|width=100%]] ||<width=50%> [[파일:S12a_187.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/U)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

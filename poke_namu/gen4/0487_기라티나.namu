@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0486_f00_s0.png|width=40]] 0486 [[레지기가스/포켓몬 카드 게임|레지기가스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0487_f00_s0.png|width=40]] 0487 [[기라티나/포켓몬 카드 게임|기라티나]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0488_f00_s0.png|width=40]] 0488 [[크레세리아/포켓몬 카드 게임|크레세리아]] ||
+||<width=30%> [[파일:icon0486_f00_s0.png|width=40]] 0486 [[레지기가스/포켓몬 카드 게임|레지기가스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0487_f00_s0.png|width=40]] 0487 [[기라티나/포켓몬 카드 게임|기라티나]]'''  ||<width=30%> [[파일:icon0488_f00_s0.png|width=40]] 0488 [[크레세리아/포켓몬 카드 게임|크레세리아]] ||
 
 [목차]
 [clearfix]
@@ -38,7 +38,7 @@ HP 220 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S11_110.png|width=100%]] ||<width=50%> [[파일:S11_111.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S11_110.png|width=100%]] ||<width=50%> [[파일:S11_111.png|width=100%]] ||
 || [[로스트어비스]][br][include(틀:포케카 레어도/SR)] || [[로스트어비스]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S12a_110.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] ||
@@ -68,6 +68,8 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''로스트임팩트''' 280
 자신의 필드의 포켓몬에게 붙어 있는 에너지를 2개 선택해서 로스트존에 둔다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''스타레퀴엠''' 
+이 기술은 자신의 로스트존에 카드가 10장 이상 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬을 기절시킨다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
@@ -75,45 +77,16 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S11_120.png|width=100%]] ||<width=50%> [[파일:S11_125.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S11_120.png|width=100%]] ||<width=50%> [[파일:S11_125.png|width=100%]] ||
 || [[로스트어비스]][br][include(틀:포케카 레어도/HR)] || [[로스트어비스]][br][include(틀:포케카 레어도/UR)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:S12a_111.png|width=100%]] ||<width=50%> [[파일:S12a_261.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/UR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 081/100 | [[로스트어비스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 120/100 | [[로스트어비스]] | [include(틀:포케카 레어도/HR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S11.png|height=25]] | 125/100 | [[로스트어비스]] | [include(틀:포케카 레어도/UR)] ||
-=== [[VSTAR 유니버스]] ===
-||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_111.png|width=100%]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] ||
-
-{{{#!wiki style="width:100%; border:2px solid #000000; background:#818D41; color:#000;"
-{{{#!wiki style="margin:0; padding:8px; color: #fff"
-{{{#!wiki style="font-size:1.2em;"    
-'''기라티나 [[파일:포케카 VSTAR.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
-HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
-}}}}}}{{{#!wiki style="font-size:1.0em;"
-ギラティナ VSTAR{{{#!wiki style="float:right;"
-기라티나 V에서 진화
-}}}}}}Giratina VSTAR
-}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
-포켓몬 VSTAR | V진화  
-}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-[[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''로스트임팩트''' 280
-자신의 필드의 포켓몬에게 붙어 있는 에너지를 2개 선택해서 로스트존에 둔다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
-'''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
-}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
-{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
-}}}VSTAR 룰 : 포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다.
-
-}}}}}}     
-{{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12a_261.png|width=512px]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/UR)] ||
-}}}
-## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
-||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 111/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 261/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/UR)] ||
 == C 레귤레이션 ==
@@ -146,7 +119,7 @@ HP 270 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10a_059.png|width=100%]] ||<width=50%> [[파일:SM10a_060.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10a_059.png|width=100%]] ||<width=50%> [[파일:SM10a_060.png|width=100%]] ||
 || [[GG엔드]][br][include(틀:포케카 레어도/SR)] || [[GG엔드]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM12a_099.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
@@ -213,7 +186,7 @@ HP 160 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_058.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_058.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/PR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -245,7 +218,7 @@ HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_057.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_057.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -279,7 +252,7 @@ HP 170 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY7_091.jpg|width=100%]] ||<width=50%> [[파일:CP4_091.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY7_091.jpg|width=100%]] ||<width=50%> [[파일:CP4_091.jpg|width=100%]] ||
 || [[밴디트링]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_098.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
@@ -342,7 +315,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw5_blast_053.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw5_blast_053.jpg|width=100%]] ||
 || [[드래곤 블라스트]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -453,7 +426,7 @@ HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다. 앞면이 나오면 상대를 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''이 세상의 이면에 있는 세상에 살고 있다고 전해지는 포켓몬이다. 고대의 무덤에 나타난다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] 30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] +30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -475,7 +448,7 @@ HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 레벨업  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포켓바디.png|height=18px]] '''보이지않는 촉수'''}}}
-상대의 포켓몬은 기술을 사용할 때 상대 플레이어가 패를 1장 트래쉬해야만 기술을 사용할 수 있다. 자신의 필드에서 이미 다른 「보이지않는 촉수」가 작용하고 있다면 이 [[파일:포켓바디.png|height=18px]]는 작용하지 않는다.
+상대의 포켓몬은 기술을 사용할 때 상대 플레이어가 패를 1장 트래쉬해야만 기술을 사용할 수 있다. 자신의 필드에서 이미 다른 「보이지않는 촉수」가 작용하고 있다면 이 포켓바디는 작용하지 않는다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''다크로스트''' 
 상대의 포켓몬 전원에게 각각 30데미지를 준다. 이 기술의 데미지로 상대의 포켓몬을 기절시켰다면 그 포켓몬과 그 포켓몬에게 붙어 있는 모든 카드는 트래쉬가 아닌 상대의 로스트존에 둔다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    

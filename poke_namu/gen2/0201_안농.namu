@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0200_f00_s0.png|width=40]] 0200 [[무우마/포켓몬 카드 게임|무우마]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0201_f00_s0.png|width=40]] 0201 [[안농/포켓몬 카드 게임|안농]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0202_f00_s0.png|width=40]] 0202 [[마자용/포켓몬 카드 게임|마자용]] ||
+||<width=30%> [[파일:icon0200_f00_s0.png|width=40]] 0200 [[무우마/포켓몬 카드 게임|무우마]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0201_f00_s0.png|width=40]] 0201 [[안농/포켓몬 카드 게임|안농]]'''  ||<width=30%> [[파일:icon0202_f00_s0.png|width=40]] 0202 [[마자용/포켓몬 카드 게임|마자용]] ||
 
 [목차]
 [clearfix]
@@ -38,7 +38,7 @@ HP 180 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12_102.png|width=100%]] ||<width=50%> [[파일:S12_103.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12_102.png|width=100%]] ||<width=50%> [[파일:S12_103.png|width=100%]] ||
 || [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] || [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S-P_200.png|width=100%]] ||
 || [[소드&실드 「미스터리 박스」]][br][include(틀:포케카 레어도/N)] ||
@@ -68,6 +68,8 @@ HP 250 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''트라이파워''' 70×
 동전을 3번 던져서 앞면이 나온 수 × 70데미지를 준다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스타사이퍼''' 
+이 포켓몬은 필드를 떠날 때까지 「상대 필드의 포켓몬 전원의 약점은 모두 [[파일:포켓몬 카드 게임 초타입.png|width=17px]] 타입이 된다.」라는 효과의 특성을 가진다. (약점은 「×2」로 계산을 한다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
@@ -75,7 +77,7 @@ HP 250 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12_116.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_116.png|width=100%]] ||
 || [[패러다임트리거]][br][include(틀:포케카 레어도/HR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -180,14 +182,14 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''작별편지'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 이 포켓몬이 벤치에 있다면 사용할 수 있으며 사용하면 이 포켓몬과 붙어 있는 카드를 모두 트래쉬한다(기절은 아니다). 자신의 덱을 1장 뽑는다.
+이 특성은 자신의 차례에 한 번 이 포켓몬이 벤치에 있다면 사용할 수 있으며 사용하면 이 포켓몬과 붙어 있는 카드를 모두 트래쉬한다(기절은 아니다). 자신의 덱을 1장 뽑는다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''잠재파워''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''고대 문명의 문자와 닮았다. 문자가 먼저인지 안농이 먼저인지 세계 7대 불가사의의 하나다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_053.jpg|width=100%]] ||<width=50%> [[파일:SMXY_046.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_053.jpg|width=100%]] ||<width=50%> [[파일:SMXY_046.png|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

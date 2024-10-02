@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0878_f00_s0.png|width=40]] 0878 [[끼리동/포켓몬 카드 게임|끼리동]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0879_f00_s0.png|width=40]] 0879 [[대왕끼리동/포켓몬 카드 게임|대왕끼리동]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0880_f00_s0.png|width=40]] 0880 [[파치래곤/포켓몬 카드 게임|파치래곤]] ||
+||<width=30%> [[파일:icon0878_f00_s0.png|width=40]] 0878 [[끼리동/포켓몬 카드 게임|끼리동]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0879_f00_s0.png|width=40]] 0879 [[대왕끼리동/포켓몬 카드 게임|대왕끼리동]]'''  ||<width=30%> [[파일:icon0880_f00_s0.png|width=40]] 0880 [[파치래곤/포켓몬 카드 게임|파치래곤]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 300 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV2P_088.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV2P_088.png|width=100%]] ||
 || [[스노해저드]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -97,13 +97,13 @@ HP 190 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_312.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_312.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 039/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 312/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 312/414 | [[소드&실드 스타트 덱 100]] ||
 == D 레귤레이션 ==
 === [[실드(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1H_043.png|width=100%]] ||
@@ -158,7 +158,7 @@ HP 220 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S2_104.png|width=100%]] ||<width=50%> [[파일:S-P_023.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S2_104.png|width=100%]] ||<width=50%> [[파일:S-P_023.png|width=100%]] ||
 || [[반역크래시]][br][include(틀:포케카 레어도/SR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -218,7 +218,7 @@ HP 190 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_134.png|width=100%]] ||<width=50%> [[파일:S4a_290.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_134.png|width=100%]] ||<width=50%> [[파일:S4a_290.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

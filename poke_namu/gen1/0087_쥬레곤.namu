@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0086_f00_s0.png|width=40]] 0086 [[쥬쥬/포켓몬 카드 게임|쥬쥬]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0087_f00_s0.png|width=40]] 0087 [[쥬레곤/포켓몬 카드 게임|쥬레곤]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0088_f00_s0.png|width=40]] 0088 [[질퍽이/포켓몬 카드 게임|질퍽이]] ||
+||<width=30%> [[파일:icon0086_f00_s0.png|width=40]] 0086 [[쥬쥬/포켓몬 카드 게임|쥬쥬]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0087_f00_s0.png|width=40]] 0087 [[쥬레곤/포켓몬 카드 게임|쥬레곤]]'''  ||<width=30%> [[파일:icon0088_f00_s0.png|width=40]] 0088 [[질퍽이/포켓몬 카드 게임|질퍽이]] ||
 
 [목차]
 [clearfix]
@@ -169,7 +169,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 자신을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''전신이 새하얀 털로 덮여 있기 때문에 눈 속에서는 천적에 발견되지 않는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

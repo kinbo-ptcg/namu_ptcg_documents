@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0052_f00_s0.png|width=40]] 0052 [[나옹/포켓몬 카드 게임|나옹]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0053_f00_s0.png|width=40]] 0053 [[페르시온/포켓몬 카드 게임|페르시온]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0054_f00_s0.png|width=40]] 0054 [[고라파덕/포켓몬 카드 게임|고라파덕]] ||
+||<width=30%> [[파일:icon0052_f00_s0.png|width=40]] 0052 [[나옹/포켓몬 카드 게임|나옹]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0053_f00_s0.png|width=40]] 0053 [[페르시온/포켓몬 카드 게임|페르시온]]'''  ||<width=30%> [[파일:icon0054_f00_s0.png|width=40]] 0054 [[고라파덕/포켓몬 카드 게임|고라파덕]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 110 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV6a_075.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV6a_075.png|width=100%]] ||
 || [[나이트 원더러]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -94,13 +94,13 @@ HP 110 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_331.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_331.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6A.png|height=25]] | 056/069 | [[이브이 히어로즈]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 331/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 331/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[태그볼트]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9_072.png|width=100%]] ||
@@ -154,7 +154,7 @@ HP 100 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_106.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_106.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -178,7 +178,7 @@ HP 200 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 1진화 포켓몬 | 포켓몬 GX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''캣워크'''}}}
-상대의 이전 차례에 자신의 「포켓몬 GX・EX」가 기절했다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 2장까지 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「캣워크」를 사용했다면 이 [[파일:포케카 특성.png|height=18px]]은 사용할 수 없다.
+상대의 이전 차례에 자신의 「포켓몬 GX・EX」가 기절했다면 자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 원하는 카드를 2장까지 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「캣워크」를 사용했다면 이 특성은 사용할 수 없다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''복수''' 10+
 자신의 트래쉬에 있는 포켓몬의 장수 × 20데미지를 추가한다. 추가할 수 있는 데미지는 포켓몬 9장까지이다.}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(135deg, #00aadd, #000024); color: #FFF;;"
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''슬래시백 GX''' 150
@@ -189,7 +189,7 @@ HP 200 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM10_104.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_104.png|width=100%]] ||
 || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -223,7 +223,7 @@ HP 200 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM11a_071.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11a_071.png|width=100%]] ||
 || [[리믹스바우트]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -416,7 +416,7 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''자존심이 센 포켓몬이다. 마니아 사이에서는 이마의 보석 크기가 화제가 된다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

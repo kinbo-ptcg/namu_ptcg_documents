@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0682_f00_s0.png|width=40]] 0682 [[슈쁘/포켓몬 카드 게임|슈쁘]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0683_f00_s0.png|width=40]] 0683 [[프레프티르/포켓몬 카드 게임|프레프티르]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0684_f00_s0.png|width=40]] 0684 [[나룸퍼프/포켓몬 카드 게임|나룸퍼프]] ||
+||<width=30%> [[파일:icon0682_f00_s0.png|width=40]] 0682 [[슈쁘/포켓몬 카드 게임|슈쁘]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0683_f00_s0.png|width=40]] 0683 [[프레프티르/포켓몬 카드 게임|프레프티르]]'''  ||<width=30%> [[파일:icon0684_f00_s0.png|width=40]] 0684 [[나룸퍼프/포켓몬 카드 게임|나룸퍼프]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 90 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM9a_090.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_090.png|width=100%]] ||
 || [[나이트유니슨]][br][include(틀:포케카 레어도/U)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -61,19 +61,19 @@ HP 90 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''페어리트랜스'''}}}
-자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 몇 번이라도 사용할 수 있다.
+자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 페어리타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.
 [[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 페어리타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''요정의바람''' 60{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''여러 가지 향기를 만들어 낸다. 상대가 싫어하는 냄새를 내보내 싸움을 유리하게 이끌어 나간다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_088.jpg|width=100%]] ||<width=50%> [[파일:SMXY_094.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_088.jpg|width=100%]] ||<width=50%> [[파일:SMXY_094.png|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 045/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 045/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/R)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 088/131 | [[프리미엄 챔피언팩]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 094/171 | [[THE BEST OF XY]] ||
 === [[붉은 섬광(포켓몬스터 TCG)]] ===

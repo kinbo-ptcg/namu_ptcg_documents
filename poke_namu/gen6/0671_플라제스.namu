@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0670_f00_s0.png|width=40]] 0670 [[플라엣테/포켓몬 카드 게임|플라엣테]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0671_f00_s0.png|width=40]] 0671 [[플라제스/포켓몬 카드 게임|플라제스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0672_f00_s0.png|width=40]] 0672 [[메이클/포켓몬 카드 게임|메이클]] ||
+||<width=30%> [[파일:icon0670_f00_s0.png|width=40]] 0670 [[플라엣테/포켓몬 카드 게임|플라엣테]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0671_f00_s0.png|width=40]] 0671 [[플라제스/포켓몬 카드 게임|플라제스]]'''  ||<width=30%> [[파일:icon0672_f00_s0.png|width=40]] 0672 [[메이클/포켓몬 카드 게임|메이클]] ||
 
 [목차]
 [clearfix]
@@ -201,7 +201,7 @@ HP 160 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_092.jpg|width=100%]] ||<width=50%> [[파일:CP4_086.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_092.jpg|width=100%]] ||<width=50%> [[파일:CP4_086.jpg|width=100%]] ||
 || [[팬텀게이트]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -254,7 +254,7 @@ HP 140 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 BREAK진화  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''플라워브리즈'''}}}
-자신의 배틀 포켓몬의 HP를 「30」회복하고 특수 상태도 1가지 회복한다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
+자신의 배틀 포켓몬의 HP를 「30」회복하고 특수 상태도 1가지 회복한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}BREAK진화 : BREAK진화 전의 플라제스가 가진 「기술 ･ 특성 ･ 약점 ･ 저항력 ･ 후퇴」를 이어받는다.

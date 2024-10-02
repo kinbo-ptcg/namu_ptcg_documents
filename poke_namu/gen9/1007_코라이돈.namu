@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon1006_f00_s0.png|width=40]] 1006 [[무쇠무인/포켓몬 카드 게임|무쇠무인]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1007_f00_s0.png|width=40]] 1007 [[코라이돈/포켓몬 카드 게임|코라이돈]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon1008_f00_s0.png|width=40]] 1008 [[미라이돈/포켓몬 카드 게임|미라이돈]] ||
+||<width=30%> [[파일:icon1006_f00_s0.png|width=40]] 1006 [[무쇠무인/포켓몬 카드 게임|무쇠무인]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1007_f00_s0.png|width=40]] 1007 [[코라이돈/포켓몬 카드 게임|코라이돈]]'''  ||<width=30%> [[파일:icon1008_f00_s0.png|width=40]] 1008 [[미라이돈/포켓몬 카드 게임|미라이돈]] ||
 
 [목차]
 [clearfix]
@@ -11,9 +11,9 @@
 [[포켓몬 카드 게임]]의 포켓몬 카드.
 ## 포켓몬의 설명을 기술부탁드립니다.  
 == H 레귤레이션 ==
-=== [[-]] ===
+=== [[스칼렛&바이올렛 스타터 세트 「고대의 코라이돈 ex」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVHK_012.png|width=100%]] ||
-|| [[-]][br][include(틀:포케카 레어도/N)] ||
+|| [[스칼렛&바이올렛 스타터 세트 「고대의 코라이돈 ex」]][br][include(틀:포케카 레어도/N)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#818D41; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -38,7 +38,7 @@ HP 230 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVHK.png|height=25]] | 012/053 | [[-]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVHK.png|height=25]] | 012/053 | [[스칼렛&바이올렛 스타터 세트 「고대의 코라이돈 ex」]] ||
 === [[와일드포스(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5K_052.png|width=100%]] ||
 || [[와일드포스(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
@@ -118,7 +118,7 @@ HP 230 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1S_094.png|width=100%]] ||<width=50%> [[파일:SV1S_103.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1S_094.png|width=100%]] ||<width=50%> [[파일:SV1S_103.png|width=100%]] ||
 || [[스칼렛ex]][br][include(틀:포케카 레어도/SR)] || [[스칼렛ex]][br][include(틀:포케카 레어도/SAR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SV1S_106.png|width=100%]] ||<width=50%> [[파일:SV4a_114.png|width=100%]] ||
 || [[스칼렛ex]][br][include(틀:포케카 레어도/UR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] ||
@@ -185,7 +185,7 @@ HP 130 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV-P_027.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV-P_027.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

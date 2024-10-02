@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0450_f00_s0.png|width=40]] 0450 [[하마돈/포켓몬 카드 게임|하마돈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0451_f00_s0.png|width=40]] 0451 [[스콜피/포켓몬 카드 게임|스콜피]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0452_f00_s0.png|width=40]] 0452 [[드래피온/포켓몬 카드 게임|드래피온]] ||
+||<width=30%> [[파일:icon0450_f00_s0.png|width=40]] 0450 [[하마돈/포켓몬 카드 게임|하마돈]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0451_f00_s0.png|width=40]] 0451 [[스콜피/포켓몬 카드 게임|스콜피]]'''  ||<width=30%> [[파일:icon0452_f00_s0.png|width=40]] 0452 [[드래피온/포켓몬 카드 게임|드래피온]] ||
 
 [목차]
 [clearfix]
@@ -166,7 +166,7 @@ HP 50 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''꼬리의 발톱으로 먹이를 집어 독을 주입한다. 독이 퍼질 때까지 절대 놓치지 않는 집념이 있다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -193,7 +193,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 동전을 네 번 던져서 앞면 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''건조한 땅에 서식한다. 모래땅에 구멍을 파고들어 숨어서 먹이를 계속 기다린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0255_f00_s0.png|width=40]] 0255 [[아차모/포켓몬 카드 게임|아차모]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0256_f00_s0.png|width=40]] 0256 [[영치코/포켓몬 카드 게임|영치코]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0257_f00_s0.png|width=40]] 0257 [[번치코/포켓몬 카드 게임|번치코]] ||
+||<width=30%> [[파일:icon0255_f00_s0.png|width=40]] 0255 [[아차모/포켓몬 카드 게임|아차모]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0256_f00_s0.png|width=40]] 0256 [[영치코/포켓몬 카드 게임|영치코]]'''  ||<width=30%> [[파일:icon0257_f00_s0.png|width=40]] 0257 [[번치코/포켓몬 카드 게임|번치코]] ||
 
 [목차]
 [clearfix]
@@ -63,7 +63,7 @@ HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6B_087.png|width=100%]] ||<width=50%> [[파일:SM8b_013.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6B_087.png|width=100%]] ||<width=50%> [[파일:SM8b_013.png|width=100%]] ||
 || [[챔피언로드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

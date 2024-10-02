@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0102_f00_s0.png|width=40]] 0102 [[아라리/포켓몬 카드 게임|아라리]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0103_f00_s0.png|width=40]] 0103 [[나시/포켓몬 카드 게임|나시]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0104_f00_s0.png|width=40]] 0104 [[탕구리/포켓몬 카드 게임|탕구리]] ||
+||<width=30%> [[파일:icon0102_f00_s0.png|width=40]] 0102 [[아라리/포켓몬 카드 게임|아라리]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0103_f00_s0.png|width=40]] 0103 [[나시/포켓몬 카드 게임|나시]]'''  ||<width=30%> [[파일:icon0104_f00_s0.png|width=40]] 0104 [[탕구리/포켓몬 카드 게임|탕구리]] ||
 
 [목차]
 [clearfix]
@@ -90,7 +90,7 @@ HP 140 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 002/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 002/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
 === [[Pokémon Go]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10b_005.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/RR)] ||
@@ -117,7 +117,7 @@ HP 240 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_072.png|width=100%]] ||<width=50%> [[파일:S-P_162.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_072.png|width=100%]] ||<width=50%> [[파일:S-P_162.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -234,7 +234,7 @@ HP 270 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10b_055.png|width=100%]] ||<width=50%> [[파일:SM10b_056.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10b_055.png|width=100%]] ||<width=50%> [[파일:SM10b_056.png|width=100%]] ||
 || [[스카이 레전드]][br][include(틀:포케카 레어도/SR)] || [[스카이 레전드]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -293,7 +293,7 @@ HP 160 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP_102.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP_102.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -354,7 +354,7 @@ HP 220 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM4A_054.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4A_054.png|width=100%]] ||
 || [[초차원의 침략자]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -445,7 +445,7 @@ HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 002/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8s.png|height=25]] | 002/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/U)] ||
 == DP 시리즈 ==
 === [[불꽃 튀는 대결]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs2_kr_5.jpg|width=100%]] ||
@@ -469,7 +469,7 @@ HP 90 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 자신의 덱에 있는 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] 에너지를 2장까지 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 그 뒤 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''걸어다니는 열대 우림이라고 불린다. 크게 자란 머리 중 하나가 땅에 떨어지면 아라리가 된다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -496,7 +496,7 @@ HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 자신의 필드에 있는 에너지를 원하는 만큼 트래쉬하고 트래쉬한 에너지의 장수만큼 동전을 던져서 앞면 × 50데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''걸어다니는 열대 우림이라고 불린다. 크게 자란 머리 중 하나가 땅에 떨어지면 아라리가 된다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

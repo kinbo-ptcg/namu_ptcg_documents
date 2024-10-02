@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0482_f00_s0.png|width=40]] 0482 [[아그놈/포켓몬 카드 게임|아그놈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0483_f00_s0.png|width=40]] 0483 [[디아루가/포켓몬 카드 게임|디아루가]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0484_f00_s0.png|width=40]] 0484 [[펄기아/포켓몬 카드 게임|펄기아]] ||
+||<width=30%> [[파일:icon0482_f00_s0.png|width=40]] 0482 [[아그놈/포켓몬 카드 게임|아그놈]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0483_f00_s0.png|width=40]] 0483 [[디아루가/포켓몬 카드 게임|디아루가]]'''  ||<width=30%> [[파일:icon0484_f00_s0.png|width=40]] 0484 [[펄기아/포켓몬 카드 게임|펄기아]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 220 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_074.png|width=100%]] ||<width=50%> [[파일:S10D_075.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_074.png|width=100%]] ||<width=50%> [[파일:S10D_075.png|width=100%]] ||
 || [[타임 게이저]][br][include(틀:포케카 레어도/SR)] || [[타임 게이저]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S12a_100.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] ||
@@ -67,6 +67,8 @@ HP 280 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메탈블라스트''' 40+
 이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지의 개수 × 40데미지를 추가한다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''스타크로노스''' 220
+이 차례가 끝나면 다시 1번 자신의 차례를 시작한다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
@@ -74,45 +76,16 @@ HP 280 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_082.png|width=100%]] ||<width=50%> [[파일:S10D_086.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_082.png|width=100%]] ||<width=50%> [[파일:S10D_086.png|width=100%]] ||
 || [[타임 게이저]][br][include(틀:포케카 레어도/HR)] || [[타임 게이저]][br][include(틀:포케카 레어도/UR)] ||
+||<rowbgcolor=#ffffff><width=50%> [[파일:S12a_101.png|width=100%]] ||<width=50%> [[파일:S12a_260.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/UR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10D.png|height=25]] | 049/067 | [[타임 게이저]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10D.png|height=25]] | 082/067 | [[타임 게이저]] | [include(틀:포케카 레어도/HR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S10D.png|height=25]] | 086/067 | [[타임 게이저]] | [include(틀:포케카 레어도/UR)] ||
-=== [[VSTAR 유니버스]] ===
-||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_101.png|width=100%]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] ||
-
-{{{#!wiki style="width:100%; border:2px solid #000000; background:#B7BAA9; color:#000;"
-{{{#!wiki style="margin:0; padding:8px; color: #fff"
-{{{#!wiki style="font-size:1.2em;"    
-'''오리진 디아루가 [[파일:포케카 VSTAR.png|height=18px]]'''{{{#!wiki style="font-size:1.0em;float:right"
-HP 280 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
-}}}}}}{{{#!wiki style="font-size:1.0em;"
-오리진 ディアルガ VSTAR{{{#!wiki style="float:right;"
-디아루가 V에서 진화
-}}}}}}오리진 Dialga VSTAR
-}}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
-포켓몬 VSTAR | V진화  
-}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''메탈블라스트''' 40+
-이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지의 개수 × 40데미지를 추가한다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
-'''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
-}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
-{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
-}}}VSTAR 룰 : 포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다.
-
-}}}}}}     
-{{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12a_260.png|width=512px]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/UR)] ||
-}}}
-## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
-||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 101/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 260/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/UR)] ||
 == E 레귤레이션 ==
@@ -224,7 +197,7 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_099.png|width=100%]] ||<width=50%> [[파일:SM12_100.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_099.png|width=100%]] ||<width=50%> [[파일:SM12_100.png|width=100%]] ||
 || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -261,7 +234,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM5S_069.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5S_069.png|width=100%]] ||
 || [[울트라썬(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -296,7 +269,7 @@ HP 180 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM5plus_054.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5plus_054.png|width=100%]] ||
 || [[울트라포스]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -412,7 +385,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw9_080.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw9_080.jpg|width=100%]] ||
 || [[메갈로캐논]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -442,7 +415,7 @@ HP 100 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 자신의 다음 차례에 자신은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''시간을 조종하는 힘을 가지고 있다. 신오지방에서는 신이라고 불리며 신화에 등장한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -470,7 +443,7 @@ HP 90 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 원한다면 자신의 에너지를 모두 패로 되돌려도 좋다. 그 경우 상대를 1진화만큼 퇴화시킨다. 퇴화를 위해 떼어낸 「포켓몬 카드」는 상대 플레이어의 덱으로 되돌리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''디아루가가 태어남으로써 시간이 움직이기 시작했다는 전설이 내려오는 포켓몬이다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0419_f00_s0.png|width=40]] 0419 [[플로젤/포켓몬 카드 게임|플로젤]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0420_f00_s0.png|width=40]] 0420 [[체리버/포켓몬 카드 게임|체리버]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0421_f00_s0.png|width=40]] 0421 [[체리꼬/포켓몬 카드 게임|체리꼬]] ||
+||<width=30%> [[파일:icon0419_f00_s0.png|width=40]] 0419 [[플로젤/포켓몬 카드 게임|플로젤]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0420_f00_s0.png|width=40]] 0420 [[체리버/포켓몬 카드 게임|체리버]]'''  ||<width=30%> [[파일:icon0421_f00_s0.png|width=40]] 0421 [[체리꼬/포켓몬 카드 게임|체리꼬]] ||
 
 [목차]
 [clearfix]
@@ -33,13 +33,13 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_015.png|width=100%]] ||<width=50%> [[파일:S-P_083.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_015.png|width=100%]] ||<width=50%> [[파일:S-P_083.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 005/070 | [[연격마스터]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 015/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 015/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 083/S-P | [[unknown]] ||
 === [[VMAX 클라이맥스]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8b_005.png|width=100%]] ||
@@ -164,7 +164,7 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]] '''잎날가르기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''진화에 필요한 영양분이 작은 구슬에 모여 있다. 매우 달고 맛있는 듯하다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -191,7 +191,7 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 상대에게 데미지를 주었다면 자신의 데미지 카운터를 1개 제거한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''햇빛으로 빨갛게 물들었다. 영양분이 흡수되어 작은 구슬이 시들면 곧 진화한다는 뜻이다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

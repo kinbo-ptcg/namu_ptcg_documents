@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0767_f00_s0.png|width=40]] 0767 [[꼬시레/포켓몬 카드 게임|꼬시레]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0768_f00_s0.png|width=40]] 0768 [[갑주무사/포켓몬 카드 게임|갑주무사]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0769_f00_s0.png|width=40]] 0769 [[모래꿍/포켓몬 카드 게임|모래꿍]] ||
+||<width=30%> [[파일:icon0767_f00_s0.png|width=40]] 0767 [[꼬시레/포켓몬 카드 게임|꼬시레]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0768_f00_s0.png|width=40]] 0768 [[갑주무사/포켓몬 카드 게임|갑주무사]]'''  ||<width=30%> [[파일:icon0769_f00_s0.png|width=40]] 0769 [[모래꿍/포켓몬 카드 게임|모래꿍]] ||
 
 [목차]
 [clearfix]
@@ -62,7 +62,7 @@ HP 270 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4K_081.png|width=100%]] ||<width=50%> [[파일:SV4K_088.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4K_081.png|width=100%]] ||<width=50%> [[파일:SV4K_088.png|width=100%]] ||
 || [[고대의 포효]][br][include(틀:포케카 레어도/SR)] || [[고대의 포효]][br][include(틀:포케카 레어도/SAR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -123,7 +123,7 @@ HP 130 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S4a_005.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S4a_005.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -184,7 +184,7 @@ HP 130 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP_040.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP_040.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -219,7 +219,7 @@ HP 210 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_052.png|width=100%]] ||<width=50%> [[파일:SM8b_008.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_052.png|width=100%]] ||<width=50%> [[파일:SM8b_008.png|width=100%]] ||
 || [[빛을 삼킨 어둠]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM8b_208.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0753_f00_s0.png|width=40]] 0753 [[짜랑랑/포켓몬 카드 게임|짜랑랑]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0754_f00_s0.png|width=40]] 0754 [[라란티스/포켓몬 카드 게임|라란티스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0755_f00_s0.png|width=40]] 0755 [[자마슈/포켓몬 카드 게임|자마슈]] ||
+||<width=30%> [[파일:icon0753_f00_s0.png|width=40]] 0753 [[짜랑랑/포켓몬 카드 게임|짜랑랑]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0754_f00_s0.png|width=40]] 0754 [[라란티스/포켓몬 카드 게임|라란티스]]'''  ||<width=30%> [[파일:icon0755_f00_s0.png|width=40]] 0755 [[자마슈/포켓몬 카드 게임|자마슈]] ||
 
 [목차]
 [clearfix]
@@ -35,13 +35,13 @@ HP 120 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_033.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_033.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 009/070 | [[연격마스터]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 033/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 033/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[스카이 레전드]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10b_005.png|width=100%]] ||
@@ -99,7 +99,7 @@ HP 210 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM1M_006.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1M_006.png|width=100%]] ||
 || [[문 컬렉션]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -130,7 +130,7 @@ HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_063.png|width=100%]] ||<width=50%> [[파일:SM4plus_007.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_063.png|width=100%]] ||<width=50%> [[파일:SM4plus_007.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM4plus_007.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||

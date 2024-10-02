@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0538_f00_s0.png|width=40]] 0538 [[던지미/포켓몬 카드 게임|던지미]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0539_f00_s0.png|width=40]] 0539 [[타격귀/포켓몬 카드 게임|타격귀]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0540_f00_s0.png|width=40]] 0540 [[두르보/포켓몬 카드 게임|두르보]] ||
+||<width=30%> [[파일:icon0538_f00_s0.png|width=40]] 0538 [[던지미/포켓몬 카드 게임|던지미]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0539_f00_s0.png|width=40]] 0539 [[타격귀/포켓몬 카드 게임|타격귀]]'''  ||<width=30%> [[파일:icon0540_f00_s0.png|width=40]] 0540 [[두르보/포켓몬 카드 게임|두르보]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 90 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 057/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 057/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
 == A 레귤레이션 ==
 === [[빛을 삼킨 어둠]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3N_030.png|width=100%]] ||

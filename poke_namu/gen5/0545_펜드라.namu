@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0544_f00_s0.png|width=40]] 0544 [[휠구/포켓몬 카드 게임|휠구]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0545_f00_s0.png|width=40]] 0545 [[펜드라/포켓몬 카드 게임|펜드라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0546_f00_s0.png|width=40]] 0546 [[소미안/포켓몬 카드 게임|소미안]] ||
+||<width=30%> [[파일:icon0544_f00_s0.png|width=40]] 0544 [[휠구/포켓몬 카드 게임|휠구]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0545_f00_s0.png|width=40]] 0545 [[펜드라/포켓몬 카드 게임|펜드라]]'''  ||<width=30%> [[파일:icon0546_f00_s0.png|width=40]] 0546 [[소미안/포켓몬 카드 게임|소미안]] ||
 
 [목차]
 [clearfix]
@@ -63,13 +63,13 @@ HP 160 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_276.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_276.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 052/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 276/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 276/414 | [[소드&실드 스타트 덱 100]] ||
 == A 레귤레이션 ==
 === [[어둠을 밝힌 무지개]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM3H_024.png|width=100%]] ||
@@ -125,7 +125,7 @@ HP 150 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 026/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 026/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
 == BW 시리즈 ==
 === [[화이트 컬렉션]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw1_white_023.jpg|width=100%]] ||

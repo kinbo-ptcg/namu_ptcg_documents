@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0488_f00_s0.png|width=40]] 0488 [[크레세리아/포켓몬 카드 게임|크레세리아]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0489_f00_s0.png|width=40]] 0489 [[피오네/포켓몬 카드 게임|피오네]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0490_f00_s0.png|width=40]] 0490 [[마나피/포켓몬 카드 게임|마나피]] ||
+||<width=30%> [[파일:icon0488_f00_s0.png|width=40]] 0488 [[크레세리아/포켓몬 카드 게임|크레세리아]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0489_f00_s0.png|width=40]] 0489 [[피오네/포켓몬 카드 게임|피오네]]'''  ||<width=30%> [[파일:icon0490_f00_s0.png|width=40]] 0490 [[마나피/포켓몬 카드 게임|마나피]] ||
 
 [목차]
 [clearfix]
@@ -34,7 +34,7 @@ HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV5a_071.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV5a_071.png|width=100%]] ||
 || [[크림슨헤이즈]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -66,7 +66,7 @@ HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S10a_011_m.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S10a_011_m.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/U)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -179,7 +179,7 @@ HP 60 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 상대를 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''따뜻한 바다에 사는 포켓몬이다. 머리의 부낭을 부풀려서 파도 사이를 떠돌며 먹이를 찾는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

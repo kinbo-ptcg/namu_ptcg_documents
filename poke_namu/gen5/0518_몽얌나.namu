@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0517_f00_s0.png|width=40]] 0517 [[몽나/포켓몬 카드 게임|몽나]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0518_f00_s0.png|width=40]] 0518 [[몽얌나/포켓몬 카드 게임|몽얌나]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0519_f00_s0.png|width=40]] 0519 [[콩둘기/포켓몬 카드 게임|콩둘기]] ||
+||<width=30%> [[파일:icon0517_f00_s0.png|width=40]] 0517 [[몽나/포켓몬 카드 게임|몽나]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0518_f00_s0.png|width=40]] 0518 [[몽얌나/포켓몬 카드 게임|몽얌나]]'''  ||<width=30%> [[파일:icon0519_f00_s0.png|width=40]] 0519 [[콩둘기/포켓몬 카드 게임|콩둘기]] ||
 
 [목차]
 [clearfix]
@@ -166,7 +166,7 @@ HP 100 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''예지몽'''}}}
-자신의 덱을 위에서부터 2장 보고 그 중에서 1장 선택해서 패로 가져온다. 남은 카드는 덱의 위로 되돌린다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 덱을 위에서부터 2장 보고 그 중에서 1장 선택해서 패로 가져온다. 남은 카드는 덱의 위로 되돌린다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''푹신푹신 드림''' 40
 이 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''먹은 꿈을 실체화한다. 이마에서 새어나오는 연기는 꿈에 나타났던 것으로 모습을 바꾼다.''}}} 

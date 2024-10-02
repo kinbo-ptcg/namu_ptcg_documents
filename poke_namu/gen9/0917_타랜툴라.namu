@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0916_f00_s0.png|width=40]] 0916 [[퍼퓨돈/포켓몬 카드 게임|퍼퓨돈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0917_f00_s0.png|width=40]] 0917 [[타랜툴라/포켓몬 카드 게임|타랜툴라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0918_f00_s0.png|width=40]] 0918 [[트래피더/포켓몬 카드 게임|트래피더]] ||
+||<width=30%> [[파일:icon0916_f00_s0.png|width=40]] 0916 [[퍼퓨돈/포켓몬 카드 게임|퍼퓨돈]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0917_f00_s0.png|width=40]] 0917 [[타랜툴라/포켓몬 카드 게임|타랜툴라]]'''  ||<width=30%> [[파일:icon0918_f00_s0.png|width=40]] 0918 [[트래피더/포켓몬 카드 게임|트래피더]] ||
 
 [목차]
 [clearfix]
@@ -61,7 +61,7 @@ HP 40 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV1V_079.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1V_079.png|width=100%]] ||
 || [[바이올렛ex]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

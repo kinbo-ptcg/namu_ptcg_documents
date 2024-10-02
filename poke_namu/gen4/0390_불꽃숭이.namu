@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0389_f00_s0.png|width=40]] 0389 [[토대부기/포켓몬 카드 게임|토대부기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0390_f00_s0.png|width=40]] 0390 [[불꽃숭이/포켓몬 카드 게임|불꽃숭이]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0391_f00_s0.png|width=40]] 0391 [[파이숭이/포켓몬 카드 게임|파이숭이]] ||
+||<width=30%> [[파일:icon0389_f00_s0.png|width=40]] 0389 [[토대부기/포켓몬 카드 게임|토대부기]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0390_f00_s0.png|width=40]] 0390 [[불꽃숭이/포켓몬 카드 게임|불꽃숭이]]'''  ||<width=30%> [[파일:icon0391_f00_s0.png|width=40]] 0391 [[파이숭이/포켓몬 카드 게임|파이숭이]] ||
 
 [목차]
 [clearfix]
@@ -59,7 +59,7 @@ HP 50 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 019/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 019/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
 == B 레귤레이션 ==
 === [[울트라썬(포켓몬 카드 게임)]] ===
 ==== 불꽃숭이 ====
@@ -85,7 +85,7 @@ HP 60 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5plus_005.png|width=100%]] ||<width=50%> [[파일:SM5plus_061.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5plus_005.png|width=100%]] ||<width=50%> [[파일:SM5plus_061.png|width=100%]] ||
 || [[울트라포스]][br][include(틀:포케카 레어도/N)] || [[울트라포스]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -191,7 +191,7 @@ HP 50 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 동전을 한 번 던져서 뒷면이 나오면 자신의 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 1개 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''낭떠러지 절벽을 민첩하게 올라 바위산의 위에서 생활한다. 불꽃을 끄고 잠잔다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -217,7 +217,7 @@ HP 40 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 동전을 한 번 던져서 뒷면이 나오면 이 기술은 실패한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''엉덩이의 불꽃은 배에서 만들어진 가스가 연료다. 비에 젖어도 꺼지지 않는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

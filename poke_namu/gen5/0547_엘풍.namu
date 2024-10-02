@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0546_f00_s0.png|width=40]] 0546 [[소미안/포켓몬 카드 게임|소미안]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0547_f00_s0.png|width=40]] 0547 [[엘풍/포켓몬 카드 게임|엘풍]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0548_f00_s0.png|width=40]] 0548 [[치릴리/포켓몬 카드 게임|치릴리]] ||
+||<width=30%> [[파일:icon0546_f00_s0.png|width=40]] 0546 [[소미안/포켓몬 카드 게임|소미안]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0547_f00_s0.png|width=40]] 0547 [[엘풍/포켓몬 카드 게임|엘풍]]'''  ||<width=30%> [[파일:icon0548_f00_s0.png|width=40]] 0548 [[치릴리/포켓몬 카드 게임|치릴리]] ||
 
 [목차]
 [clearfix]
@@ -90,13 +90,13 @@ HP 190 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S9_107.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_107.png|width=100%]] ||
 || [[스타버스]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 049/100 | [[스타버스]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 107/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 049/100 | [[스타버스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 107/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
 ==== 엘풍 VSTAR ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_050.png|width=100%]] ||
 || [[스타버스]][br][include(틀:포케카 레어도/RRR)] ||
@@ -116,6 +116,8 @@ HP 250 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''트릭윈드''' 160
 상대의 다음 차례에 상대는 패에서 「포켓몬의 도구」「특수 에너지」를 꺼내서 붙일 수 없다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''솜구슬스타''' 
+상대의 포켓몬 1마리에게 이 포켓몬에게 붙어 있는 에너지의 개수 × 60데미지를 준다. (벤치는 약점, 저항력 계산을 하지 않는다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
@@ -123,13 +125,13 @@ HP 250 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S9_119.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S9_119.png|width=100%]] ||
 || [[스타버스]][br][include(틀:포케카 레어도/HR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 050/100 | [[스타버스]] | [include(틀:포케카 레어도/RRR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 119/100 | [[스타버스]] | [include(틀:포케카 레어도/HR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 050/100 | [[스타버스]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 119/100 | [[스타버스]] | [include(틀:포케카 레어도/HR)] ||
 == D 레귤레이션 ==
 === [[소드&실드 스타터 세트 V 5종]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_G_004.png|width=100%]] ||
@@ -213,7 +215,7 @@ HP 190 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM10_103.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10_103.png|width=100%]] ||
 || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -298,7 +300,7 @@ HP 80 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2plus_042.png|width=100%]] ||<width=50%> [[파일:SM2plus_102.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2plus_042.png|width=100%]] ||<width=50%> [[파일:SM2plus_102.png|width=100%]] ||
 || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

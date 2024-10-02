@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0533_f00_s0.png|width=40]] 0533 [[토쇠골/포켓몬 카드 게임|토쇠골]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0534_f00_s0.png|width=40]] 0534 [[노보청/포켓몬 카드 게임|노보청]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0535_f00_s0.png|width=40]] 0535 [[동챙이/포켓몬 카드 게임|동챙이]] ||
+||<width=30%> [[파일:icon0533_f00_s0.png|width=40]] 0533 [[토쇠골/포켓몬 카드 게임|토쇠골]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0534_f00_s0.png|width=40]] 0534 [[노보청/포켓몬 카드 게임|노보청]]'''  ||<width=30%> [[파일:icon0535_f00_s0.png|width=40]] 0535 [[동챙이/포켓몬 카드 게임|동챙이]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 230 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_075.png|width=100%]] ||<width=50%> [[파일:S10b_076.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_075.png|width=100%]] ||<width=50%> [[파일:S10b_076.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] || [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -127,7 +127,7 @@ HP 140 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1X.png|height=25]] | 033/060 | [[X컬렉션]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1x.png|height=25]] | 033/060 | [[X컬렉션]] | [include(틀:포케카 레어도/U)] ||
 == BW 시리즈 ==
 === [[레드 컬렉션]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw2_red_038.jpg|width=100%]] ||
@@ -183,9 +183,9 @@ HP 140 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3P.png|height=25]] | 036/052 | [[사이코 드라이브]] | [include(틀:포케카 레어도/R)] ||
-=== [[콜드플레어]] ===
+=== [[콜드플레어(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_036.jpg|width=100%]] ||
-|| [[콜드플레어]][br][include(틀:포케카 레어도/U)] ||
+|| [[콜드플레어(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -209,7 +209,7 @@ HP 140 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6C.png|height=25]] | 036/059 | [[콜드플레어]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6c.png|height=25]] | 036/059 | [[콜드플레어(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/격투 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

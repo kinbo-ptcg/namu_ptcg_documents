@@ -15796,54 +15796,6 @@
         ]
     },
     {
-        "id": "S12a-162",
-        "cardID": "카밀레의 반짝임\n",
-        "name": "카밀레의 반짝임\n",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트",
-            "퓨전"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "096",
-                "prodNumber": "100",
-                "prodCode": "S8",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
-                "prodName": "소드&실드 확장팩 「퓨전아츠」",
-                "artist": "Yusuke Ohmura",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_096.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018096",
-                "regu": "E",
-                "debug": "3"
-            },
-            {
-                "number": "162",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Yusuke Ohmura",
-                "rarity": "U",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_162.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001162",
-                "regu": "E",
-                "debug": "3"
-            }
-        ]
-    },
-    {
         "id": "S8-095",
         "cardID": "댄서",
         "name": "댄서",
@@ -15872,6 +15824,40 @@
                 "rarity": "U",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_095.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018095",
+                "regu": "E",
+                "debug": "3"
+            }
+        ]
+    },
+    {
+        "id": "S8-096",
+        "cardID": "카밀레의 반짝임\n",
+        "name": "카밀레의 반짝임\n",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "096",
+                "prodNumber": "100",
+                "prodCode": "S8",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S8.png",
+                "prodName": "소드&실드 확장팩 「퓨전아츠」",
+                "artist": "Yusuke Ohmura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S8/S8_096.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2021018096",
                 "regu": "E",
                 "debug": "3"
             }
@@ -19216,6 +19202,54 @@
         ]
     },
     {
+        "id": "S12a-162",
+        "cardID": "카밀레의 반짝임",
+        "name": "카밀레의 반짝임",
+        "supertype": "트레이너스",
+        "subtypes": [
+            "서포트",
+            "퓨전"
+        ],
+        "rules": [
+            "서포트는 자신의 차례에 1장만 사용할 수 있다."
+        ],
+        "texts": [
+            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
+            "그리고 덱을 섞는다."
+        ],
+        "regulationMark": [
+            "E"
+        ],
+        "version_infos": [
+            {
+                "number": "162",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Yusuke Ohmura",
+                "rarity": "U",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_162.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001162",
+                "regu": "E",
+                "debug": "3"
+            },
+            {
+                "number": "249",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "Megumi Mizutani",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_249.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001249",
+                "regu": "E",
+                "debug": "3"
+            }
+        ]
+    },
+    {
         "id": "S12a-163",
         "cardID": "히스이의 동료들",
         "name": "히스이의 동료들",
@@ -19257,41 +19291,6 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_250.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001250",
                 "regu": "F",
-                "debug": "3"
-            }
-        ]
-    },
-    {
-        "id": "S12a-249",
-        "cardID": "카밀레의 반짝임\n[서포트/퓨전]",
-        "name": "카밀레의 반짝임\n[서포트/퓨전]",
-        "supertype": "트레이너스",
-        "subtypes": [
-            "서포트",
-            "퓨전"
-        ],
-        "rules": [
-            "서포트는 자신의 차례에 1장만 사용할 수 있다."
-        ],
-        "texts": [
-            "자신의 「퓨전」의 포켓몬을 2마리까지 선택해서 덱에서 「퓨전 에너지」를 1장씩 붙인다.",
-            "그리고 덱을 섞는다."
-        ],
-        "regulationMark": [
-            "E"
-        ],
-        "version_infos": [
-            {
-                "number": "249",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "Megumi Mizutani",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_249.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001249",
-                "regu": "E",
                 "debug": "3"
             }
         ]

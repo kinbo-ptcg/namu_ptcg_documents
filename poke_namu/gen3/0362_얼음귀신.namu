@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0361_f00_s0.png|width=40]] 0361 [[눈꼬마/포켓몬 카드 게임|눈꼬마]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0362_f00_s0.png|width=40]] 0362 [[얼음귀신/포켓몬 카드 게임|얼음귀신]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0363_f00_s0.png|width=40]] 0363 [[대굴레오/포켓몬 카드 게임|대굴레오]] ||
+||<width=30%> [[파일:icon0361_f00_s0.png|width=40]] 0361 [[눈꼬마/포켓몬 카드 게임|눈꼬마]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0362_f00_s0.png|width=40]] 0362 [[얼음귀신/포켓몬 카드 게임|얼음귀신]]'''  ||<width=30%> [[파일:icon0363_f00_s0.png|width=40]] 0363 [[대굴레오/포켓몬 카드 게임|대굴레오]] ||
 
 [목차]
 [clearfix]
@@ -149,7 +149,7 @@ HP 170 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY8_BLUE_060.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_060.jpg|width=100%]] ||
 || [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -181,7 +181,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY8_BLUE_061.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_061.jpg|width=100%]] ||
 || [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -239,7 +239,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대의 다음 차례에 상대 플레이어는 패에서 「트레이너」「서포터」를 꺼내서 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''공기 중의 수분을 얼려서 얼음 갑옷으로 몸을 둘러싸 몸을 보호한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

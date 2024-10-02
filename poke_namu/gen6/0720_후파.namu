@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0719_f00_s0.png|width=40]] 0719 [[디안시/포켓몬 카드 게임|디안시]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0720_f00_s0.png|width=40]] 0720 [[후파/포켓몬 카드 게임|후파]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0721_f00_s0.png|width=40]] 0721 [[볼케니온/포켓몬 카드 게임|볼케니온]] ||
+||<width=30%> [[파일:icon0719_f00_s0.png|width=40]] 0719 [[디안시/포켓몬 카드 게임|디안시]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0720_f00_s0.png|width=40]] 0720 [[후파/포켓몬 카드 게임|후파]]'''  ||<width=30%> [[파일:icon0721_f00_s0.png|width=40]] 0721 [[볼케니온/포켓몬 카드 게임|볼케니온]] ||
 
 [목차]
 [clearfix]
@@ -27,8 +27,6 @@ HP 220 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 기본 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''에너지크래시''' 50×
 상대의 포켓몬 전원에게 붙어 있는 에너지의 개수 × 50데미지를 준다.
 [[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''밴디트피스트''' 200
@@ -36,10 +34,11 @@ HP 220 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3a_078.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3a_078.png|width=100%]] ||
 || [[레이징서프]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -100,7 +99,7 @@ HP 220 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8_107.png|width=100%]] ||<width=50%> [[파일:S12a_231.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8_107.png|width=100%]] ||<width=50%> [[파일:S12a_231.png|width=100%]] ||
 || [[퓨전아츠]][br][include(틀:포케카 레어도/SR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/SAR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -132,7 +131,7 @@ HP 120 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_118.png|width=100%]] ||<width=50%> [[파일:SJ_006.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_118.png|width=100%]] ||<width=50%> [[파일:SJ_006.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스페셜 덱 「자시안·자마젠타vs무한다이노」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_108.png|width=100%]] ||<width=50%> [[파일:S-P_053.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
@@ -170,7 +169,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12a_081.png|width=100%]] ||<width=50%> [[파일:SM30A_047.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12a_081.png|width=100%]] ||<width=50%> [[파일:SM30A_047.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] || [[썬&문 「랜덤30장덱」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -234,7 +233,7 @@ HP 190 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8a_054.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_054.png|width=100%]] ||
 || [[다크오더]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -266,7 +265,7 @@ HP 120 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_074.png|width=100%]] ||<width=50%> [[파일:SMM_016.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_074.png|width=100%]] ||<width=50%> [[파일:SMM_016.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[썬&문 스타터 세트 TAG TEAM GX 「에브이&테오키스 GX」「블래키&다크라이 GX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -292,7 +291,7 @@ HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 EX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''밴디트링'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 덱에서 「포켓몬 EX」(「후파 EX」는 제외)를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.
+이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 덱에서 「포켓몬 EX」(「후파 EX」는 제외)를 3장까지 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]] '''다른차원러시''' 
 이 포켓몬에게 붙어 있는 에너지를 2개 트래쉬하고 상대의 포켓몬 1마리에게 100데미지를 준다. (벤치는 약점 저항력 계산을 하지 않는다.)}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -301,7 +300,7 @@ HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY7_087.jpg|width=100%]] ||<width=50%> [[파일:CP4_064.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY7_087.jpg|width=100%]] ||<width=50%> [[파일:CP4_064.jpg|width=100%]] ||
 || [[밴디트링]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:CP5_020.jpg|width=100%]] ||<width=50%> [[파일:SMXY_058.png|width=100%]] ||
 || [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/R)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
@@ -366,7 +365,7 @@ HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMXY_057.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMXY_057.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0445_f00_s0.png|width=40]] 0445 [[한카리아스/포켓몬 카드 게임|한카리아스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0446_f00_s0.png|width=40]] 0446 [[먹고자/포켓몬 카드 게임|먹고자]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0447_f00_s0.png|width=40]] 0447 [[리오르/포켓몬 카드 게임|리오르]] ||
+||<width=30%> [[파일:icon0445_f00_s0.png|width=40]] 0445 [[한카리아스/포켓몬 카드 게임|한카리아스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0446_f00_s0.png|width=40]] 0446 [[먹고자/포켓몬 카드 게임|먹고자]]'''  ||<width=30%> [[파일:icon0447_f00_s0.png|width=40]] 0447 [[리오르/포켓몬 카드 게임|리오르]] ||
 
 [목차]
 [clearfix]
@@ -34,7 +34,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_114.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_114.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -64,7 +64,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 자신의 패를 2장 트래쉬하지 않으면 이 기술은 실패한다. 동전을 두 번 던져서 앞면 × 30데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''하루에 한 번 체중과 같은 양의 먹이를 한 번에 먹는다. 거의 씹지 않고 통째로 삼킨다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -91,7 +91,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 자신의 덱에 있는 「트레이너」를 1장 상대 플레이어에게 보여주고 패로 가져온다. 그 뒤 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''몸의 긴 털 밑에 먹이를 숨기는 습성이 있다. 숨긴 것을 잊어버린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

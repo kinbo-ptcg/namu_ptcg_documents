@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0914_f00_s0.png|width=40]] 0914 [[웨이니발/포켓몬 카드 게임|웨이니발]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0915_f00_s0.png|width=40]] 0915 [[맛보돈/포켓몬 카드 게임|맛보돈]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0916_f00_s0.png|width=40]] 0916 [[퍼퓨돈/포켓몬 카드 게임|퍼퓨돈]] ||
+||<width=30%> [[파일:icon0914_f00_s0.png|width=40]] 0914 [[웨이니발/포켓몬 카드 게임|웨이니발]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0915_f00_s0.png|width=40]] 0915 [[맛보돈/포켓몬 카드 게임|맛보돈]]'''  ||<width=30%> [[파일:icon0916_f00_s0.png|width=40]] 0916 [[퍼퓨돈/포켓몬 카드 게임|퍼퓨돈]] ||
 
 [목차]
 [clearfix]
@@ -60,7 +60,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SVAW_009.png|width=100%]] ||<width=50%> [[파일:SVAL_009.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SVAW_009.png|width=100%]] ||<width=50%> [[파일:SVAL_009.png|width=100%]] ||
 || [[스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」]][br][include(틀:포케카 레어도/N)] || [[스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SVC_010.png|width=100%]] ||<width=50%> [[파일:SVD_101.png|width=100%]] ||
 || [[스칼렛&바이올렛 ex스폐셜세트]][br][include(틀:포케카 레어도/N)] || [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] ||
@@ -74,7 +74,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVAM.png|height=25]] | 011/023 | [[스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVC.png|height=25]] | 010/021 | [[스칼렛&바이올렛 ex스폐셜세트]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 101/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG.png|height=25]] | 027/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG_pk.png|height=25]] | 027/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
 === [[스칼렛ex]] ===
 ==== 맛보돈 ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1S_067.png|width=100%]] ||
@@ -99,7 +99,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_150.png|width=100%]] ||<width=50%> [[파일:SV4a_315.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_150.png|width=100%]] ||<width=50%> [[파일:SV4a_315.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -156,7 +156,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3_120.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_120.png|width=100%]] ||
 || [[흑염의 지배자]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

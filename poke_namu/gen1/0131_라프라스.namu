@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0130_f00_s0.png|width=40]] 0130 [[갸라도스/포켓몬 카드 게임|갸라도스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0131_f00_s0.png|width=40]] 0131 [[라프라스/포켓몬 카드 게임|라프라스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0132_f00_s0.png|width=40]] 0132 [[메타몽/포켓몬 카드 게임|메타몽]] ||
+||<width=30%> [[파일:icon0130_f00_s0.png|width=40]] 0130 [[갸라도스/포켓몬 카드 게임|갸라도스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0131_f00_s0.png|width=40]] 0131 [[라프라스/포켓몬 카드 게임|라프라스]]'''  ||<width=30%> [[파일:icon0132_f00_s0.png|width=40]] 0132 [[메타몽/포켓몬 카드 게임|메타몽]] ||
 
 [목차]
 [clearfix]
@@ -52,8 +52,6 @@ HP 220 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''파워스플래시''' 40×
 이 포켓몬에게 붙어 있는 에너지의 개수 × 40데미지를 준다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]] '''라리마레인''' 
@@ -167,12 +165,12 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_023.png|width=100%]] ||<width=50%> [[파일:S12a_177.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_023.png|width=100%]] ||<width=50%> [[파일:S12a_177.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/C)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 022/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 022/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 023/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 177/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/AR)] ||
 === [[Pokémon Go]] ===
@@ -254,13 +252,13 @@ HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_086.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_086.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGI.png|height=25]] | 001/022 | [[소드&실드 하이클래스 덱 「인텔리레온 VMAX」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 086/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 086/414 | [[소드&실드 스타트 덱 100]] ||
 == D 레귤레이션 ==
 === [[소드&실드 스타터 세트 V 5종]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_W_005.png|width=100%]] ||
@@ -314,7 +312,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S1W_062.png|width=100%]] ||<width=50%> [[파일:S4a_031.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S1W_062.png|width=100%]] ||<width=50%> [[파일:S4a_031.png|width=100%]] ||
 || [[소드(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S4a_311.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
@@ -349,7 +347,7 @@ HP 320 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_032.png|width=100%]] ||<width=50%> [[파일:S4a_312.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_032.png|width=100%]] ||<width=50%> [[파일:S4a_312.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/RRR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -383,7 +381,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMK_007.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMK_007.png|width=100%]] ||
 || [[썬&문 스타터 세트 격투 「롱스톤 GX」 물 「아쿠스타 GX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -466,7 +464,7 @@ HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6A_080.png|width=100%]] ||<width=50%> [[파일:SMI_006.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6A_080.png|width=100%]] ||<width=50%> [[파일:SMI_006.png|width=100%]] ||
 || [[드래곤스톰]][br][include(틀:포케카 레어도/C)] || [[썬&문 스타터 세트 「불꽃의 부스터 GX」「물의 샤미드 GX」「번개의 쥬피썬더 GX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -530,7 +528,7 @@ HP 190 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM1S_061.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM1S_061.png|width=100%]] ||
 || [[썬 컬렉션]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -564,7 +562,7 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 018/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 018/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/R)] ||
 == BW 시리즈 ==
 === [[헤일 블리자드]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw3_hb_015.jpg|width=100%]] ||
@@ -668,7 +666,7 @@ HP 80 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대를 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''사람이나 포켓몬을 등에 태워 바다를 건너는 것을 매우 좋아한다. 사람의 말을 이해할 수 있다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

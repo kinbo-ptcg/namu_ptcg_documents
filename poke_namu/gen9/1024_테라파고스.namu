@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon1023_f00_s0.png|width=40]] 1023 [[무쇠감투/포켓몬 카드 게임|무쇠감투]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1024_f00_s0.png|width=40]] 1024 [[테라파고스/포켓몬 카드 게임|테라파고스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon1025_f00_s0.png|width=40]] 1025 [[복숭악동/포켓몬 카드 게임|복숭악동]] ||
+||<width=30%> [[파일:icon1023_f00_s0.png|width=40]] 1023 [[무쇠감투/포켓몬 카드 게임|무쇠감투]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1024_f00_s0.png|width=40]] 1024 [[테라파고스/포켓몬 카드 게임|테라파고스]]'''  ||<width=30%> [[파일:icon1025_f00_s0.png|width=40]] 1025 [[복숭악동/포켓몬 카드 게임|복숭악동]] ||
 
 [목차]
 [clearfix]
@@ -27,8 +27,6 @@ HP 230 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''유니언비트''' 30×
 이 기술은 후공 플레이어의 첫 차례에는 사용할 수 없다. 자신의 벤치 포켓몬의 수 × 30데미지를 준다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''크라운오팔''' 180

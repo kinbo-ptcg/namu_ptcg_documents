@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0048_f00_s0.png|width=40]] 0048 [[콘팡/포켓몬 카드 게임|콘팡]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0049_f00_s0.png|width=40]] 0049 [[도나리/포켓몬 카드 게임|도나리]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0050_f00_s0.png|width=40]] 0050 [[디그다/포켓몬 카드 게임|디그다]] ||
+||<width=30%> [[파일:icon0048_f00_s0.png|width=40]] 0048 [[콘팡/포켓몬 카드 게임|콘팡]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0049_f00_s0.png|width=40]] 0049 [[도나리/포켓몬 카드 게임|도나리]]'''  ||<width=30%> [[파일:icon0050_f00_s0.png|width=40]] 0050 [[디그다/포켓몬 카드 게임|디그다]] ||
 
 [목차]
 [clearfix]
@@ -92,7 +92,7 @@ HP 200 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM9a_056.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_056.png|width=100%]] ||
 || [[나이트유니슨]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

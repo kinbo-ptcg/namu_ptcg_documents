@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0583_f00_s0.png|width=40]] 0583 [[바닐리치/포켓몬 카드 게임|바닐리치]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0584_f00_s0.png|width=40]] 0584 [[배바닐라/포켓몬 카드 게임|배바닐라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0585_f00_s0.png|width=40]] 0585 [[사철록/포켓몬 카드 게임|사철록]] ||
+||<width=30%> [[파일:icon0583_f00_s0.png|width=40]] 0583 [[바닐리치/포켓몬 카드 게임|바닐리치]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0584_f00_s0.png|width=40]] 0584 [[배바닐라/포켓몬 카드 게임|배바닐라]]'''  ||<width=30%> [[파일:icon0585_f00_s0.png|width=40]] 0585 [[사철록/포켓몬 카드 게임|사철록]] ||
 
 [목차]
 [clearfix]
@@ -164,7 +164,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''미끌미끌 바닥'''}}}
-자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 그 뒤 상대는 상대 자신의 배틀 포켓몬을 벤치 포켓몬과 교체한다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''아이스크래시''' 60+
 상대의 배틀 포켓몬의 후퇴에 필요한 에너지의 개수 × 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''물을 대량으로 들이마셔 체내에서 눈구름을 만든다. 강한 눈보라로 상대를 괴롭힌다.''}}} 
@@ -227,7 +227,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 014/051 | [[볼트너클]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 014/051 | [[볼트너클]] | [include(틀:포케카 레어도/U)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/물 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0930_f00_s0.png|width=40]] 0930 [[올리르바/포켓몬 카드 게임|올리르바]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0931_f00_s0.png|width=40]] 0931 [[시비꼬/포켓몬 카드 게임|시비꼬]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0932_f00_s0.png|width=40]] 0932 [[베베솔트/포켓몬 카드 게임|베베솔트]] ||
+||<width=30%> [[파일:icon0930_f00_s0.png|width=40]] 0930 [[올리르바/포켓몬 카드 게임|올리르바]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0931_f00_s0.png|width=40]] 0931 [[시비꼬/포켓몬 카드 게임|시비꼬]]'''  ||<width=30%> [[파일:icon0932_f00_s0.png|width=40]] 0932 [[베베솔트/포켓몬 카드 게임|베베솔트]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SVD_107.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVD_107.png|width=100%]] ||
 || [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -60,7 +60,7 @@ HP 160 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''시비 테이크'''}}}
-자신의 첫 번째 차례에만 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다. 이 차례에 이미 다른 「시비 테이크」를 사용했다면 이 [[파일:포케카 특성.png|height=18px]]은 사용할 수 없다.
+자신의 첫 번째 차례에만 1번 사용할 수 있다. 자신의 패를 모두 트래쉬하고 덱을 6장 뽑는다. 이 차례에 이미 다른 「시비 테이크」를 사용했다면 이 특성은 사용할 수 없다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''기합넣기''' 20
 자신의 트래쉬에서 기본 에너지를 2장까지 선택해서 벤치 포켓몬 1마리에게 붙인다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -69,7 +69,7 @@ HP 160 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_089.png|width=100%]] ||<width=50%> [[파일:SV2P_094.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_089.png|width=100%]] ||<width=50%> [[파일:SV2P_094.png|width=100%]] ||
 || [[스노해저드]][br][include(틀:포케카 레어도/SR)] || [[스노해저드]][br][include(틀:포케카 레어도/SAR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SV4a_154.png|width=100%]] ||<width=50%> [[파일:SV4a_337.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/SSR)] ||

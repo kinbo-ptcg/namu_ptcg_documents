@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0927_f00_s0.png|width=40]] 0927 [[바우첼/포켓몬 카드 게임|바우첼]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0928_f00_s0.png|width=40]] 0928 [[미니브/포켓몬 카드 게임|미니브]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0929_f00_s0.png|width=40]] 0929 [[올리뇨/포켓몬 카드 게임|올리뇨]] ||
+||<width=30%> [[파일:icon0927_f00_s0.png|width=40]] 0927 [[바우첼/포켓몬 카드 게임|바우첼]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0928_f00_s0.png|width=40]] 0928 [[미니브/포켓몬 카드 게임|미니브]]'''  ||<width=30%> [[파일:icon0929_f00_s0.png|width=40]] 0929 [[올리뇨/포켓몬 카드 게임|올리뇨]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 60 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_015.png|width=100%]] ||<width=50%> [[파일:SV4a_203.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_015.png|width=100%]] ||<width=50%> [[파일:SV4a_203.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 ||<rowbgcolor=#ffffff> [[파일:SV-P_009.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||

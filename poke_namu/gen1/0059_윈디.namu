@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0058_f00_s0.png|width=40]] 0058 [[가디/포켓몬 카드 게임|가디]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0059_f00_s0.png|width=40]] 0059 [[윈디/포켓몬 카드 게임|윈디]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0060_f00_s0.png|width=40]] 0060 [[발챙이/포켓몬 카드 게임|발챙이]] ||
+||<width=30%> [[파일:icon0058_f00_s0.png|width=40]] 0058 [[가디/포켓몬 카드 게임|가디]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0059_f00_s0.png|width=40]] 0059 [[윈디/포켓몬 카드 게임|윈디]]'''  ||<width=30%> [[파일:icon0060_f00_s0.png|width=40]] 0060 [[발챙이/포켓몬 카드 게임|발챙이]] ||
 
 [목차]
 [clearfix]
@@ -53,8 +53,6 @@ HP 280 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 1진화 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''분노발톱''' 30+
 이 포켓몬에게 올려져 있는 데미지 카운터의 수 × 10데미지를 추가한다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] '''홍련의 불꽃''' 250
@@ -62,10 +60,11 @@ HP 280 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV1V_092.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV1V_092.png|width=100%]] ||
 || [[바이올렛ex]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -176,7 +175,7 @@ HP 130 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_075.png|width=100%]] ||<width=50%> [[파일:S12a_070.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10a_075.png|width=100%]] ||<width=50%> [[파일:S12a_070.png|width=100%]] ||
 || [[다크판타스마]][br][include(틀:포케카 레어도/CHR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/R)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -237,7 +236,7 @@ HP 230 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12_104.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_104.png|width=100%]] ||
 || [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -269,14 +268,14 @@ HP 130 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_050.png|width=100%]] ||<width=50%> [[파일:SO_006.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_050.png|width=100%]] ||<width=50%> [[파일:SO_006.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8.png|height=25]] | 013/100 | [[퓨전아츠]] | [include(틀:포케카 레어도/U)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 050/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 006/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 050/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 006/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 == D 레귤레이션 ==
 === [[VMAX 라이징]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S1a_015.png|width=100%]] ||
@@ -329,7 +328,7 @@ HP 120 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_008.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_mirror_008.png|width=100%]] ||
 || [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -389,7 +388,7 @@ HP 130 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMN_005.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMN_005.png|width=100%]] ||
 || [[썬&문 파워업덱 BOX 「TAG TEAM GX」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -440,7 +439,7 @@ HP 130 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''버닝로드'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.
+이 특성은 자신의 차례에 한 번 이 포켓몬이 벤치에서 배틀필드로 나왔을 때 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''작열하는숨결''' 150
 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''어떤 나라에서 구전으로 전해지는 전설의 포켓몬. 아주 빠른 스피드로 달린다고 한다.''}}} 
@@ -526,7 +525,7 @@ HP 80 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염''' 40{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''위풍당당한 모습은 오래전부터 사람들의 마음을 사로잡아 왔다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

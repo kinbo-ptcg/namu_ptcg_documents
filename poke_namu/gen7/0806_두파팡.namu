@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0805_f00_s0.png|width=40]] 0805 [[차곡차곡/포켓몬 카드 게임|차곡차곡]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0806_f00_s0.png|width=40]] 0806 [[두파팡/포켓몬 카드 게임|두파팡]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]] ||
+||<width=30%> [[파일:icon0805_f00_s0.png|width=40]] 0805 [[차곡차곡/포켓몬 카드 게임|차곡차곡]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0806_f00_s0.png|width=40]] 0806 [[두파팡/포켓몬 카드 게임|두파팡]]'''  ||<width=30%> [[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]] ||
 
 [목차]
 [clearfix]
@@ -92,7 +92,7 @@ HP 180 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8_0097.png|width=100%]] ||<width=50%> [[파일:SM12a_028.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8_0097.png|width=100%]] ||<width=50%> [[파일:SM12a_028.png|width=100%]] ||
 || [[버스트 임팩트]][br][include(틀:포케카 레어도/SR)] || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

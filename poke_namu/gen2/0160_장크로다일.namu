@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0159_f00_s0.png|width=40]] 0159 [[엘리게이/포켓몬 카드 게임|엘리게이]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0160_f00_s0.png|width=40]] 0160 [[장크로다일/포켓몬 카드 게임|장크로다일]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0161_f00_s0.png|width=40]] 0161 [[꼬리선/포켓몬 카드 게임|꼬리선]] ||
+||<width=30%> [[파일:icon0159_f00_s0.png|width=40]] 0159 [[엘리게이/포켓몬 카드 게임|엘리게이]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0160_f00_s0.png|width=40]] 0160 [[장크로다일/포켓몬 카드 게임|장크로다일]]'''  ||<width=30%> [[파일:icon0161_f00_s0.png|width=40]] 0161 [[꼬리선/포켓몬 카드 게임|꼬리선]] ||
 
 [목차]
 [clearfix]
@@ -172,7 +172,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 상대의 패에서 앞면을 보지 않고 카드를 1장 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''평소에는 느긋하게 움직이지만 먹이를 물 때에는 눈에 보이지 않는 엄청난 스피드를 낸다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

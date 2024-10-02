@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0920_f00_s0.png|width=40]] 0920 [[엑스레그/포켓몬 카드 게임|엑스레그]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0921_f00_s0.png|width=40]] 0921 [[빠모/포켓몬 카드 게임|빠모]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0922_f00_s0.png|width=40]] 0922 [[빠모트/포켓몬 카드 게임|빠모트]] ||
+||<width=30%> [[파일:icon0920_f00_s0.png|width=40]] 0920 [[엑스레그/포켓몬 카드 게임|엑스레그]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0921_f00_s0.png|width=40]] 0921 [[빠모/포켓몬 카드 게임|빠모]]'''  ||<width=30%> [[파일:icon0922_f00_s0.png|width=40]] 0922 [[빠모트/포켓몬 카드 게임|빠모트]] ||
 
 [목차]
 [clearfix]
@@ -61,7 +61,7 @@ HP 60 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_066.png|width=100%]] ||<width=50%> [[파일:SV4a_247.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_066.png|width=100%]] ||<width=50%> [[파일:SV4a_247.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 ||<rowbgcolor=#ffffff> [[파일:SV4a_340.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/AR)] ||
@@ -95,7 +95,7 @@ HP 50 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SVP1_003.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVP1_003.png|width=100%]] ||
 || [[스칼렛&바이올렛 「ex 스페셜 세트」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -125,7 +125,7 @@ HP 50 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV-P_038.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV-P_038.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

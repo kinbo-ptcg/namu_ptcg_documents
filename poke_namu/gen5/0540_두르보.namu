@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0539_f00_s0.png|width=40]] 0539 [[타격귀/포켓몬 카드 게임|타격귀]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0540_f00_s0.png|width=40]] 0540 [[두르보/포켓몬 카드 게임|두르보]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0541_f00_s0.png|width=40]] 0541 [[두르쿤/포켓몬 카드 게임|두르쿤]] ||
+||<width=30%> [[파일:icon0539_f00_s0.png|width=40]] 0539 [[타격귀/포켓몬 카드 게임|타격귀]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0540_f00_s0.png|width=40]] 0540 [[두르보/포켓몬 카드 게임|두르보]]'''  ||<width=30%> [[파일:icon0541_f00_s0.png|width=40]] 0541 [[두르쿤/포켓몬 카드 게임|두르쿤]] ||
 
 [목차]
 [clearfix]
@@ -193,16 +193,16 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_005.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_005.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW3P.png|height=25]] | 006/052 | [[사이코 드라이브]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:EBB.png|height=25]] | 005/093 | [[EX 배틀 부스트]] ||
-=== [[콜드플레어]] ===
+=== [[콜드플레어(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_005.jpg|width=100%]] ||
-|| [[콜드플레어]][br][include(틀:포케카 레어도/C)] ||
+|| [[콜드플레어(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#56AF58; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -223,7 +223,7 @@ HP 40 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6C.png|height=25]] | 005/059 | [[콜드플레어]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6c.png|height=25]] | 005/059 | [[콜드플레어(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
 === [[BW 30장 덱 대전 set 「뮤츠VS게노세크트」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:MG_G_005.png|width=100%]] ||
 || [[BW 30장 덱 대전 set 「뮤츠VS게노세크트」]][br][include(틀:포케카 레어도/N)] ||

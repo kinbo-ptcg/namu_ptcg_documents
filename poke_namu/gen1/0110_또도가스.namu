@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0109_f00_s0.png|width=40]] 0109 [[또가스/포켓몬 카드 게임|또가스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0110_f00_s0.png|width=40]] 0110 [[또도가스/포켓몬 카드 게임|또도가스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0111_f00_s0.png|width=40]] 0111 [[뿔카노/포켓몬 카드 게임|뿔카노]] ||
+||<width=30%> [[파일:icon0109_f00_s0.png|width=40]] 0109 [[또가스/포켓몬 카드 게임|또가스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0110_f00_s0.png|width=40]] 0110 [[또도가스/포켓몬 카드 게임|또도가스]]'''  ||<width=30%> [[파일:icon0111_f00_s0.png|width=40]] 0111 [[뿔카노/포켓몬 카드 게임|뿔카노]] ||
 
 [목차]
 [clearfix]
@@ -84,7 +84,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''에너지 팩토리'''}}}
-이 포켓몬이 있는 한, 자신의 필드의 카드 이름에 「또도가스」가 적힌 포켓몬에게 붙어 있는 기본 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지는 각각 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지 2개분으로 작용한다. 이 효과는 이 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
+이 포켓몬이 있는 한, 자신의 필드의 카드 이름에 「또도가스」가 적힌 포켓몬에게 붙어 있는 기본 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지는 각각 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지 2개분으로 작용한다. 이 효과는 이 특성을 가진 포켓몬이 몇 마리 있더라도 중복되지 않는다.
 [[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''가스로감싸기''' 50{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''공장이 모여 있어 공기가 오염되었던 과거에 무슨 이유에서인지 이 모습으로 변했다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -111,7 +111,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''화학변화가스'''}}}
-이 포켓몬이 배틀필드에 있는 한, 상대 필드의 포켓몬의 [[파일:포케카 특성.png|height=18px]](「화학변화가스」는 제외)은 모두 없어진다.
+이 포켓몬이 배틀필드에 있는 한, 상대 필드의 포켓몬의 특성(「화학변화가스」는 제외)은 모두 없어진다.
 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] '''배드포이즌''' 
 상대의 배틀 포켓몬을 독으로 만든다. 이 독으로 올리는 데미지 카운터의 수는 4개가 된다. {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''대기 중의 오염된 성분을 흡수하고 배설물 대신 깨끗한 공기를 내보낸다.''}}} 
@@ -119,7 +119,7 @@ HP 130 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_105.png|width=100%]] ||<width=50%> [[파일:S4a_276.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_105.png|width=100%]] ||<width=50%> [[파일:S4a_276.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -314,7 +314,7 @@ HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대를 독과 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''쓰레기에서 발생한 가스를 먹고 자라게 된다. 극히 드물게 3개가 이어진 또도가스가 발견된다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

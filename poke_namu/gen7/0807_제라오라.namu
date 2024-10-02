@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0806_f00_s0.png|width=40]] 0806 [[두파팡/포켓몬 카드 게임|두파팡]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0808_f00_s0.png|width=40]] 0808 [[멜탄/포켓몬 카드 게임|멜탄]] ||
+||<width=30%> [[파일:icon0806_f00_s0.png|width=40]] 0806 [[두파팡/포켓몬 카드 게임|두파팡]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]]'''  ||<width=30%> [[파일:icon0808_f00_s0.png|width=40]] 0808 [[멜탄/포켓몬 카드 게임|멜탄]] ||
 
 [목차]
 [clearfix]
@@ -90,7 +90,7 @@ HP 210 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12a_040.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_040.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -123,7 +123,7 @@ HP 320 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_041.png|width=100%]] ||<width=50%> [[파일:S12a_219.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_041.png|width=100%]] ||<width=50%> [[파일:S12a_219.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/SAR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -150,15 +150,22 @@ HP 270 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''크래시비트''' 190
 원한다면 필드에 나와 있는 스타디움을 트래쉬한다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''우뢰스타''' 
+상대의 포켓몬을 4번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 60데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}VSTAR 룰 : 포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다.
 
 }}}}}}     
+{{{#!folding [ 다른 일러스트 보기 ]
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_042.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] ||
+}}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SPZ.png|height=25]] | 007/020 | [[소드&실드 VSTAR&VMAX 하이클래스덱 「제라오라」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 042/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 === [[패러다임트리거]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12_032.png|width=100%]] ||
 || [[패러다임트리거]][br][include(틀:포케카 레어도/U)] ||
@@ -186,8 +193,8 @@ HP 110 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12.png|height=25]] | 032/098 | [[패러다임트리거]] | [include(틀:포케카 레어도/U)] ||
 === [[VSTAR 유니버스]] ===
-||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_042.png|width=100%]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S12a_220.png|width=100%]] ||
+|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/SAR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -204,19 +211,16 @@ HP 270 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''크래시비트''' 190
 원한다면 필드에 나와 있는 스타디움을 트래쉬한다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''VSTAR 파워''' 
+상대의 포켓몬을 4번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 60데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}VSTAR 룰 : 포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다.
 
 }}}}}}     
-{{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S12a_220.png|width=512px]] ||
-|| [[VSTAR 유니버스]][br][include(틀:포케카 레어도/SAR)] ||
-}}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 042/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 220/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/SAR)] ||
 == E 레귤레이션 ==
 === [[칠흑의 가이스트]] ===
@@ -243,7 +247,7 @@ HP 210 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6K_073.png|width=100%]] ||<width=50%> [[파일:S6K_074.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S6K_073.png|width=100%]] ||<width=50%> [[파일:S6K_074.png|width=100%]] ||
 || [[칠흑의 가이스트]][br][include(틀:포케카 레어도/SR)] || [[칠흑의 가이스트]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_054.png|width=100%]] ||<width=50%> [[파일:S8b_224.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
@@ -278,7 +282,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_151.png|width=100%]] ||<width=50%> [[파일:SI_152.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_151.png|width=100%]] ||<width=50%> [[파일:SI_152.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SN_003.png|width=100%]] ||<width=50%> [[파일:SO_014.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]][br][include(틀:포케카 레어도/N)] ||
@@ -286,10 +290,10 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SH.png|height=25]] | 023/053 | [[소드&실드 「패밀리 포켓몬 카드 게임」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 151/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 152/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 151/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 152/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SN.png|height=25]] | 003/024 | [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 014/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 014/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 == D 레귤레이션 ==
 === [[전설의 고동]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3a_021.png|width=100%]] ||
@@ -342,7 +346,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_050.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_050.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -378,7 +382,7 @@ HP 190 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7A_0063.png|width=100%]] ||<width=50%> [[파일:SM12a_051.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7A_0063.png|width=100%]] ||<width=50%> [[파일:SM12a_051.png|width=100%]] ||
 || [[플라즈마 스파크(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -410,7 +414,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM-P_163.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM-P_163.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

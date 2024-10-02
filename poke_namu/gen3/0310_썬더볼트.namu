@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0309_f00_s0.png|width=40]] 0309 [[썬더라이/포켓몬 카드 게임|썬더라이]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0310_f00_s0.png|width=40]] 0310 [[썬더볼트/포켓몬 카드 게임|썬더볼트]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0311_f00_s0.png|width=40]] 0311 [[플러시/포켓몬 카드 게임|플러시]] ||
+||<width=30%> [[파일:icon0309_f00_s0.png|width=40]] 0309 [[썬더라이/포켓몬 카드 게임|썬더라이]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0310_f00_s0.png|width=40]] 0310 [[썬더볼트/포켓몬 카드 게임|썬더볼트]]'''  ||<width=30%> [[파일:icon0311_f00_s0.png|width=40]] 0311 [[플러시/포켓몬 카드 게임|플러시]] ||
 
 [목차]
 [clearfix]
@@ -147,7 +147,7 @@ HP 170 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_089.jpg|width=100%]] ||<width=50%> [[파일:CP4_042.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY4_089.jpg|width=100%]] ||<width=50%> [[파일:CP4_042.jpg|width=100%]] ||
 || [[팬텀게이트]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_034.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
@@ -183,7 +183,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_043.jpg|width=100%]] ||<width=50%> [[파일:SMXY_035.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_043.jpg|width=100%]] ||<width=50%> [[파일:SMXY_035.png|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_174.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
@@ -325,7 +325,7 @@ HP 80 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 자신의 에너지를 1개 트래쉬하고 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''갈기에서 방전을 하고 있다. 머리 위에 번개 구름을 만들고 천둥번개를 떨어뜨려 공격한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

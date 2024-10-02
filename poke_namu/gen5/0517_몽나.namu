@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0516_f00_s0.png|width=40]] 0516 [[앗차키/포켓몬 카드 게임|앗차키]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0517_f00_s0.png|width=40]] 0517 [[몽나/포켓몬 카드 게임|몽나]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0518_f00_s0.png|width=40]] 0518 [[몽얌나/포켓몬 카드 게임|몽얌나]] ||
+||<width=30%> [[파일:icon0516_f00_s0.png|width=40]] 0516 [[앗차키/포켓몬 카드 게임|앗차키]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0517_f00_s0.png|width=40]] 0517 [[몽나/포켓몬 카드 게임|몽나]]'''  ||<width=30%> [[파일:icon0518_f00_s0.png|width=40]] 0518 [[몽얌나/포켓몬 카드 게임|몽얌나]] ||
 
 [목차]
 [clearfix]
@@ -185,7 +185,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''원격최면'''}}}
-동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다. 뒷면이 나오면 자신의 배틀 포켓몬을 잠듦으로 만든다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+동전을 한 번 던져서 앞면이 나오면 상대의 배틀 포켓몬을 잠듦으로 만든다. 뒷면이 나오면 자신의 배틀 포켓몬을 잠듦으로 만든다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''사이코숏''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''나쁜 꿈에 시달리고 있는 포켓몬이나 사람 앞에 나타나 그 꿈을 먹어버리는 포켓몬.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"

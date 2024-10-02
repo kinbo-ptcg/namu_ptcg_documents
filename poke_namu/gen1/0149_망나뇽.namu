@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0148_f00_s0.png|width=40]] 0148 [[신뇽/포켓몬 카드 게임|신뇽]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0149_f00_s0.png|width=40]] 0149 [[망나뇽/포켓몬 카드 게임|망나뇽]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0150_f00_s0.png|width=40]] 0150 [[뮤츠/포켓몬 카드 게임|뮤츠]] ||
+||<width=30%> [[파일:icon0148_f00_s0.png|width=40]] 0148 [[신뇽/포켓몬 카드 게임|신뇽]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0149_f00_s0.png|width=40]] 0149 [[망나뇽/포켓몬 카드 게임|망나뇽]]'''  ||<width=30%> [[파일:icon0150_f00_s0.png|width=40]] 0150 [[뮤츠/포켓몬 카드 게임|뮤츠]] ||
 
 [목차]
 [clearfix]
@@ -54,14 +54,13 @@ HP 330 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 2진화 포켓몬 | 포켓몬 ex  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''날개치기''' 70
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''용성브레이크''' 140+
 동전을 1번 던져서 앞면이 나오면 140데미지를 추가한다. 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.
+테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -94,7 +93,7 @@ HP 230 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_078.png|width=100%]] ||<width=50%> [[파일:S-P_166.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_078.png|width=100%]] ||<width=50%> [[파일:S-P_166.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/SR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -121,6 +120,8 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''기가임팩트''' 250
 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.}}}{{{#!wiki style="text-align: center; width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background: linear-gradient(180deg, #f7e330, #f3f5fb 50%, #b6a406); color: #7F6317; text-shadow: #FFFFFF 1px 2px 2px;"
 '''VSTAR 파워'''}}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"
+[[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드래고닉스타''' 
+자신의 덱을 위에서부터 12장 보고 그 중에서 [[파일:포켓몬 카드 게임 물타입.png|width=17px]]  또는 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 에너지를 원하는 만큼 선택해서 자신의 포켓몬에게 원하는 대로 붙인다. 남은 카드는 덱으로 되돌리고 섞는다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
@@ -128,7 +129,7 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_086.png|width=100%]] ||<width=50%> [[파일:S-P_167.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10b_086.png|width=100%]] ||<width=50%> [[파일:S-P_167.png|width=100%]] ||
 || [[Pokémon Go]][br][include(틀:포케카 레어도/HR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -189,7 +190,7 @@ HP 230 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S7R_073.png|width=100%]] ||<width=50%> [[파일:S7R_074.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S7R_073.png|width=100%]] ||<width=50%> [[파일:S7R_074.png|width=100%]] ||
 || [[창공스트림]][br][include(틀:포케카 레어도/SR)] || [[창공스트림]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -279,7 +280,7 @@ HP 250 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM11_103.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_103.png|width=100%]] ||
 || [[미라클트윈]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -314,7 +315,7 @@ HP 250 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM6A_056.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM6A_056.png|width=100%]] ||
 || [[드래곤스톰]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -367,7 +368,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 EX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''난입'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다. 붙였을 경우 이 포켓몬을 배틀 포켓몬과 교체한다.
+이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 필드의 포켓몬에게 붙어 있는 기본 에너지를 원하는 만큼 선택해서 이 포켓몬에게 붙인다. 붙였을 경우 이 포켓몬을 배틀 포켓몬과 교체한다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]] '''제트소닉''' 80+
 원한다면 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬해도 좋다. 그 경우 40데미지를 추가한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -376,7 +377,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY3_100.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY3_100.jpg|width=100%]] ||
 || [[라이징피스트]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -401,7 +402,7 @@ HP 150 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''풀회복바람'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 포켓몬을 1마리 선택해서 HP를 모두 회복한다.
+이 특성은 이 카드를 패에서 꺼내서 진화시켰을 때 한 번 사용할 수 있다. 자신의 포켓몬을 1마리 선택해서 HP를 모두 회복한다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''마하프레스''' 80
 동전을 두 번 던져서 모두 앞면이 나오면 상대의 배틀 포켓몬을 마비로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''넓은 바다의 어딘가에 거처가 있다고 전해진다. 난파한 배를 육지까지 이끌어 준다.''}}} 
@@ -456,7 +457,7 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 EX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''끌어올리기'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 트래쉬에서 기본 포켓몬(「망나뇽 EX」는 제외)을 2장 선택해서 상대에게 보여주고 패로 가져온다.
+이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 자신의 트래쉬에서 기본 포켓몬(「망나뇽 EX」는 제외)을 2장 선택해서 상대에게 보여주고 패로 가져온다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''파괴광선''' 130
 상대의 배틀 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -465,7 +466,7 @@ HP 180 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP6_111.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_111.jpg|width=100%]] ||
 || [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -526,7 +527,7 @@ HP 150 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 040/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 040/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
 == DP 시리즈 ==
 === [[시공의 격돌]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs3_ko_51.jpg|width=100%]] ||
@@ -550,7 +551,7 @@ HP 140 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 상대의 필드에 있는 포켓몬 전원을 대상으로 각각 한 번씩 동전을 던져서 앞면이 나온 포켓몬 전원에게 각각 50 데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''넓은 바다의 어딘가에 거처가 있다고 전해진다. 난파한 배를 육지까지 이끌어 준다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] 30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] +30 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

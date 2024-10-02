@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0822_f00_s0.png|width=40]] 0822 [[파크로우/포켓몬 카드 게임|파크로우]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0823_f00_s0.png|width=40]] 0823 [[아머까오/포켓몬 카드 게임|아머까오]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0824_f00_s0.png|width=40]] 0824 [[두루지벌레/포켓몬 카드 게임|두루지벌레]] ||
+||<width=30%> [[파일:icon0822_f00_s0.png|width=40]] 0822 [[파크로우/포켓몬 카드 게임|파크로우]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0823_f00_s0.png|width=40]] 0823 [[아머까오/포켓몬 카드 게임|아머까오]]'''  ||<width=30%> [[파일:icon0824_f00_s0.png|width=40]] 0824 [[두루지벌레/포켓몬 카드 게임|두루지벌레]] ||
 
 [목차]
 [clearfix]
@@ -66,7 +66,7 @@ HP 210 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_078.png|width=100%]] ||<width=50%> [[파일:S8b_115.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_078.png|width=100%]] ||<width=50%> [[파일:S8b_115.png|width=100%]] ||
 || [[연격마스터]][br][include(틀:포케카 레어도/SR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_248.png|width=100%]] ||<width=50%> [[파일:SI_309.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -77,7 +77,7 @@ HP 210 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 078/070 | [[연격마스터]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 115/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 248/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 309/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 309/414 | [[소드&실드 스타트 덱 100]] ||
 ==== 아머까오 VMAX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5R_056.png|width=100%]] ||
 || [[연격마스터]][br][include(틀:포케카 레어도/RRR)] ||
@@ -95,7 +95,7 @@ HP 320 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 포켓몬 VMAX | V진화  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''러스터바디'''}}}
-이 포켓몬은 상대의 포켓몬으로부터 [[파일:포케카 특성.png|height=18px]]의 효과를 받지 않는다.
+이 포켓몬은 상대의 포켓몬으로부터 특성의 효과를 받지 않는다.
 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''거다이허리케인''' 240
 자신의 다음 차례에 이 포켓몬은 「거다이허리케인」을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] -30 '' | 후퇴 : '' -- ''    
@@ -104,7 +104,7 @@ HP 320 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_116.png|width=100%]] ||<width=50%> [[파일:S8b_249.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_116.png|width=100%]] ||<width=50%> [[파일:S8b_249.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RRR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SI_310.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -114,7 +114,7 @@ HP 320 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 056/070 | [[연격마스터]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 116/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 249/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 310/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 310/414 | [[소드&실드 스타트 덱 100]] ||
 === [[퓨전아츠]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_073.png|width=100%]] ||
 || [[퓨전아츠]][br][include(틀:포케카 레어도/U)] ||
@@ -167,7 +167,7 @@ HP 170 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_132.png|width=100%]] ||<width=50%> [[파일:S4a_288.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_132.png|width=100%]] ||<width=50%> [[파일:S4a_288.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

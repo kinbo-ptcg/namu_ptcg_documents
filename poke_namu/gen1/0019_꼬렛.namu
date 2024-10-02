@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0018_f00_s0.png|width=40]] 0018 [[피죤투/포켓몬 카드 게임|피죤투]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0019_f00_s0.png|width=40]] 0019 [[꼬렛/포켓몬 카드 게임|꼬렛]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0020_f00_s0.png|width=40]] 0020 [[레트라/포켓몬 카드 게임|레트라]] ||
+||<width=30%> [[파일:icon0018_f00_s0.png|width=40]] 0018 [[피죤투/포켓몬 카드 게임|피죤투]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0019_f00_s0.png|width=40]] 0019 [[꼬렛/포켓몬 카드 게임|꼬렛]]'''  ||<width=30%> [[파일:icon0020_f00_s0.png|width=40]] 0020 [[레트라/포켓몬 카드 게임|레트라]] ||
 
 [목차]
 [clearfix]
@@ -85,7 +85,7 @@ HP 30 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM9a_091.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM9a_091.png|width=100%]] ||
 || [[나이트유니슨]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -115,7 +115,7 @@ HP 40 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_036.png|width=100%]] ||<width=50%> [[파일:SM1plus_089.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_036.png|width=100%]] ||<width=50%> [[파일:SM1plus_089.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -218,7 +218,7 @@ HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''짓궂은앞니'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다.
+이 특성은 이 카드를 패에서 벤치로 내보냈을 때 한 번 사용할 수 있다. 상대의 배틀 포켓몬에게 붙어 있는 「포켓몬의 도구」를 트래쉬한다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''물기''' 10{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''송곳니는 길고 날카롭다. 평생 자라나기 때문에 단단한 것을 갉아서 깎는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -277,7 +277,7 @@ HP 40 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 040/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8s.png|height=25]] | 040/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
 == DP 시리즈 ==
 === [[시공의 격돌]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs3_ko_47.jpg|width=100%]] ||
@@ -300,7 +300,7 @@ HP 30 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''물기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''어떤 장소에도 정착하여 살아갈 수 있는 생명력이 있다. 경계심이 매우 강하다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' -- ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

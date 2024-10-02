@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0795_f00_s0.png|width=40]] 0795 [[페로코체/포켓몬 카드 게임|페로코체]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0796_f00_s0.png|width=40]] 0796 [[전수목/포켓몬 카드 게임|전수목]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0797_f00_s0.png|width=40]] 0797 [[철화구야/포켓몬 카드 게임|철화구야]] ||
+||<width=30%> [[파일:icon0795_f00_s0.png|width=40]] 0795 [[페로코체/포켓몬 카드 게임|페로코체]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0796_f00_s0.png|width=40]] 0796 [[전수목/포켓몬 카드 게임|전수목]]'''  ||<width=30%> [[파일:icon0797_f00_s0.png|width=40]] 0797 [[철화구야/포켓몬 카드 게임|철화구야]] ||
 
 [목차]
 [clearfix]
@@ -64,7 +64,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5plus_070.png|width=100%]] ||<width=50%> [[파일:SM60B_009.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5plus_070.png|width=100%]] ||<width=50%> [[파일:SM60B_009.png|width=100%]] ||
 || [[울트라포스]][br][include(틀:포케카 레어도/N)] || [[썬&문 전격 스타터 세트 「라이코 GX」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM8b_038.png|width=100%]] ||<width=50%> [[파일:SM8b_174.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||
@@ -108,7 +108,7 @@ HP 180 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_116.png|width=100%]] ||<width=50%> [[파일:SM4plus_116.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_116.png|width=100%]] ||<width=50%> [[파일:SM4plus_116.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/SR)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM8b_039.png|width=100%]] ||<width=50%> [[파일:SM8b_218.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] ||

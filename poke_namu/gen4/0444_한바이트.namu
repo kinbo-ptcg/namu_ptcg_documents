@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0443_f00_s0.png|width=40]] 0443 [[딥상어동/포켓몬 카드 게임|딥상어동]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0444_f00_s0.png|width=40]] 0444 [[한바이트/포켓몬 카드 게임|한바이트]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0445_f00_s0.png|width=40]] 0445 [[한카리아스/포켓몬 카드 게임|한카리아스]] ||
+||<width=30%> [[파일:icon0443_f00_s0.png|width=40]] 0443 [[딥상어동/포켓몬 카드 게임|딥상어동]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0444_f00_s0.png|width=40]] 0444 [[한바이트/포켓몬 카드 게임|한바이트]]'''  ||<width=30%> [[파일:icon0445_f00_s0.png|width=40]] 0445 [[한카리아스/포켓몬 카드 게임|한카리아스]] ||
 
 [목차]
 [clearfix]
@@ -60,7 +60,7 @@ HP 90 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 074/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 074/100 | [[스타버스]] | [include(틀:포케카 레어도/C)] ||
 == C 레귤레이션 ==
 === [[GG엔드]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10a_023.png|width=100%]] ||
@@ -112,7 +112,7 @@ HP 80 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_100.png|width=100%]] ||<width=50%> [[파일:SM8b_199.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_100.png|width=100%]] ||<width=50%> [[파일:SM8b_199.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -142,7 +142,7 @@ HP 80 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM5plus_078.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5plus_078.png|width=100%]] ||
 || [[울트라포스]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -193,7 +193,7 @@ HP 80 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''드래곤콜'''}}}
-자신의 덱에서 [[파일:포켓몬 카드 게임 드래곤타입.png|width=17px]]  포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 덱에서 [[파일:포켓몬 카드 게임 드래곤타입.png|width=17px]]  포켓몬을 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''드래곤 슬라이스''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''반짝반짝 빛나는 것을 아주 좋아하기에 동굴 안에서 발견한 보물을 자신의 둥지에 모아둔다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -226,7 +226,7 @@ HP 80 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_079.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_079.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -256,7 +256,7 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대의 포켓몬 1마리에게 데미지 카운터를 4개 올린다. 뒷면이 나오면 자신의 포켓몬 1마리로부터 데미지 카운터를 4개 제거한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''한바이트의 비늘로부터 만든 약은 불치의 병을 고친다고 오래전부터 믿어져 왔다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

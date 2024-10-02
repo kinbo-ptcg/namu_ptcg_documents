@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0641_f00_s0.png|width=40]] 0641 [[토네로스/포켓몬 카드 게임|토네로스]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0642_f00_s0.png|width=40]] 0642 [[볼트로스/포켓몬 카드 게임|볼트로스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0643_f00_s0.png|width=40]] 0643 [[레시라무/포켓몬 카드 게임|레시라무]] ||
+||<width=30%> [[파일:icon0641_f00_s0.png|width=40]] 0641 [[토네로스/포켓몬 카드 게임|토네로스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0642_f00_s0.png|width=40]] 0642 [[볼트로스/포켓몬 카드 게임|볼트로스]]'''  ||<width=30%> [[파일:icon0643_f00_s0.png|width=40]] 0643 [[레시라무/포켓몬 카드 게임|레시라무]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 110 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_063.png|width=100%]] ||<width=50%> [[파일:SV4a_244.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_063.png|width=100%]] ||<width=50%> [[파일:SV4a_244.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -70,7 +70,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_146.png|width=100%]] ||<width=50%> [[파일:SPZ_004.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SI_146.png|width=100%]] ||<width=50%> [[파일:SPZ_004.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 VSTAR&VMAX 하이클래스덱 「제라오라」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SO_011.png|width=100%]] ||
 || [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]][br][include(틀:포케카 레어도/N)] ||
@@ -78,9 +78,9 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5A.png|height=25]] | 022/070 | [[쌍벽의 파이터]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 146/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 146/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SPZ.png|height=25]] | 004/020 | [[소드&실드 VSTAR&VMAX 하이클래스덱 「제라오라」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 011/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 011/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 == C 레귤레이션 ==
 === [[GG엔드]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10a_012.png|width=100%]] ||
@@ -193,7 +193,7 @@ HP 170 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY6_079.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY6_079.jpg|width=100%]] ||
 || [[에메랄드 브레이크]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -226,7 +226,7 @@ HP 110 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:bw1_white_054.jpg|width=100%]] ||<width=50%> [[파일:bw_bd_002.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:bw1_white_054.jpg|width=100%]] ||<width=50%> [[파일:bw_bd_002.jpg|width=100%]] ||
 || [[화이트 컬렉션]][br][include(틀:포케카 레어도/SR)] || [[BW 「볼트로스 덱」]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:ebb_042.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
@@ -263,13 +263,13 @@ HP 170 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw8_vn_052.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_vn_052.jpg|width=100%]] ||
 || [[볼트너클]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 020/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 052/051 | [[볼트너클]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 020/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 052/051 | [[볼트너클]] | [include(틀:포케카 레어도/SR)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/번개 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

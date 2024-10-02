@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0252_f00_s0.png|width=40]] 0252 [[나무지기/포켓몬 카드 게임|나무지기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0253_f00_s0.png|width=40]] 0253 [[나무돌이/포켓몬 카드 게임|나무돌이]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0254_f00_s0.png|width=40]] 0254 [[나무킹/포켓몬 카드 게임|나무킹]] ||
+||<width=30%> [[파일:icon0252_f00_s0.png|width=40]] 0252 [[나무지기/포켓몬 카드 게임|나무지기]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0253_f00_s0.png|width=40]] 0253 [[나무돌이/포켓몬 카드 게임|나무돌이]]'''  ||<width=30%> [[파일:icon0254_f00_s0.png|width=40]] 0254 [[나무킹/포켓몬 카드 게임|나무킹]] ||
 
 [목차]
 [clearfix]
@@ -60,7 +60,7 @@ HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7B_060.png|width=100%]] ||<width=50%> [[파일:SM12a_009.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7B_060.png|width=100%]] ||<width=50%> [[파일:SM12a_009.png|width=100%]] ||
 || [[페어리라이즈]][br][include(틀:포케카 레어도/U)] || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -120,7 +120,7 @@ HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8S.png|height=25]] | 004/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8s.png|height=25]] | 004/051 | [[스파이럴포스]] | [include(틀:포케카 레어도/C)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/3세대]][[분류:포켓몬 카드 게임/풀 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

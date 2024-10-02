@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0234_f00_s0.png|width=40]] 0234 [[노라키/포켓몬 카드 게임|노라키]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0235_f00_s0.png|width=40]] 0235 [[루브도/포켓몬 카드 게임|루브도]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0236_f00_s0.png|width=40]] 0236 [[배루키/포켓몬 카드 게임|배루키]] ||
+||<width=30%> [[파일:icon0234_f00_s0.png|width=40]] 0234 [[노라키/포켓몬 카드 게임|노라키]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0235_f00_s0.png|width=40]] 0235 [[루브도/포켓몬 카드 게임|루브도]]'''  ||<width=30%> [[파일:icon0236_f00_s0.png|width=40]] 0236 [[배루키/포켓몬 카드 게임|배루키]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S11a_073.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11a_073.png|width=100%]] ||
 || [[백열의 아르카나]][br][include(틀:포케카 레어도/CHR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -140,7 +140,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 기본 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''덧칠'''}}}
-자신의 배틀 포켓몬에게 붙어 있는 기본 에너지를 1장 선택해서 자신의 트래쉬에 있는 다른 타입의 기본 에너지 1장과 바꿔 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 배틀 포켓몬에게 붙어 있는 기본 에너지를 1장 선택해서 자신의 트래쉬에 있는 다른 타입의 기본 에너지 1장과 바꿔 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''때리기''' 30{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''어른이 되면 동료로부터 등에 발자국 마크를 받는 습성을 가진다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -172,7 +172,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬의 기술을 1개 선택해서 그 기술의 데미지나 효과를 이 기술의 것으로써 사용한다. (자신의 에너지에 관계하는 효과를 따를 수 없다면 이 기술은 실패한다.){{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''꼬리를 붓처럼 써서 영역에 마크를 그린다. 그 종류는 5000개 이상이다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

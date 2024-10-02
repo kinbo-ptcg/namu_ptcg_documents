@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0016_f00_s0.png|width=40]] 0016 [[구구/포켓몬 카드 게임|구구]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0017_f00_s0.png|width=40]] 0017 [[피죤/포켓몬 카드 게임|피죤]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0018_f00_s0.png|width=40]] 0018 [[피죤투/포켓몬 카드 게임|피죤투]] ||
+||<width=30%> [[파일:icon0016_f00_s0.png|width=40]] 0016 [[구구/포켓몬 카드 게임|구구]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0017_f00_s0.png|width=40]] 0017 [[피죤/포켓몬 카드 게임|피죤]]'''  ||<width=30%> [[파일:icon0018_f00_s0.png|width=40]] 0018 [[피죤투/포켓몬 카드 게임|피죤투]] ||
 
 [목차]
 [clearfix]
@@ -33,18 +33,18 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' -- ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_138.png|width=100%]] ||<width=50%> [[파일:SV4a_305.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_138.png|width=100%]] ||<width=50%> [[파일:SV4a_305.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SVHM_013.png|width=100%]] ||<width=50%> [[파일:SVHK_014.png|width=100%]] ||
-|| [[-]][br][include(틀:포케카 레어도/N)] || [[-]][br][include(틀:포케카 레어도/N)] ||
+|| [[스칼렛&바이올렛 스타터 세트 「미래의 미라이돈 ex」]][br][include(틀:포케카 레어도/N)] || [[스칼렛&바이올렛 스타터 세트 「고대의 코라이돈 ex」]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV2A.png|height=25]] | 017/165 | [[포켓몬 카드 151]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 138/190 | [[샤이니트레저ex]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SV4A.png|height=25]] | 305/190 | [[샤이니트레저ex]] | [include(틀:포케카 레어도/S)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVHM.png|height=25]] | 013/053 | [[-]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVHK.png|height=25]] | 014/053 | [[-]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVHM.png|height=25]] | 013/053 | [[스칼렛&바이올렛 스타터 세트 「미래의 미라이돈 ex」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVHK.png|height=25]] | 014/053 | [[스칼렛&바이올렛 스타터 세트 「고대의 코라이돈 ex」]] ||
 === [[흑염의 지배자]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_088.png|width=100%]] ||
 || [[흑염의 지배자]][br][include(틀:포케카 레어도/C)] ||
@@ -67,7 +67,7 @@ HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV3_119.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV3_119.png|width=100%]] ||
 || [[흑염의 지배자]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -99,7 +99,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_104.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_104.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -156,7 +156,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 30데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''넓은 영역을 날아다니며 먹이를 찾는다. 발달한 발톱으로 먹이를 꼼짝 못하게 한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' -- ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0595_f00_s0.png|width=40]] 0595 [[파쪼옥/포켓몬 카드 게임|파쪼옥]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0596_f00_s0.png|width=40]] 0596 [[전툴라/포켓몬 카드 게임|전툴라]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0597_f00_s0.png|width=40]] 0597 [[철시드/포켓몬 카드 게임|철시드]] ||
+||<width=30%> [[파일:icon0595_f00_s0.png|width=40]] 0595 [[파쪼옥/포켓몬 카드 게임|파쪼옥]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0596_f00_s0.png|width=40]] 0596 [[전툴라/포켓몬 카드 게임|전툴라]]'''  ||<width=30%> [[파일:icon0597_f00_s0.png|width=40]] 0597 [[철시드/포켓몬 카드 게임|철시드]] ||
 
 [목차]
 [clearfix]
@@ -28,7 +28,7 @@ HP 100 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''복안'''}}}
-이 포켓몬이 사용하는 기술이 상대 배틀필드의 [[파일:포케카 특성.png|height=18px]]을 가진 포켓몬에게 주는 데미지는 「+50」이 된다.
+이 포켓몬이 사용하는 기술이 상대 배틀필드의 특성을 가진 포켓몬에게 주는 데미지는 「+50」이 된다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''찌리리웹''' 50+
 이 포켓몬에게 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]] 에너지가 붙어 있다면 80데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''전기를 띤 배의 털을 날려서 공격한다. 털에 찔리면 삼 일 밤낮으로 전신이 마비된다.''}}} 
@@ -54,8 +54,6 @@ HP 260 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 }}}{{{#!wiki style="width:auto; margin:0px 5px 5px 5px; border-radius:5px; padding:4px; background:#00000077; color:#fff"
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
-{{{#red  테라스탈 '''테라스탈'''}}}
-이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.
 [[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''어퍼스레드''' 110+
 상대의 배틀 포켓몬이 「포켓몬 ex・V」라면 110데미지를 추가한다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 번개타입.png|width=17px]][[파일:포켓몬 카드 게임 격투타입.png|width=17px]] '''펄규라이트''' 180
@@ -196,7 +194,7 @@ HP 90 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8a_067.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8a_067.png|width=100%]] ||
 || [[다크오더]][br][include(틀:포케카 레어도/U)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -339,9 +337,9 @@ HP 80 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW4.png|height=25]] | 029/069 | [[다크러시]] | [include(틀:포케카 레어도/U)] ||
-=== [[콜드플레어]] ===
+=== [[콜드플레어(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_023.jpg|width=100%]] ||
-|| [[콜드플레어]][br][include(틀:포케카 레어도/U)] ||
+|| [[콜드플레어(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -365,7 +363,7 @@ HP 80 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6C.png|height=25]] | 023/059 | [[콜드플레어]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6c.png|height=25]] | 023/059 | [[콜드플레어(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/번개 타입]][[분류:포켓몬 카드 게임/번개풀 타입]][[분류:포켓몬 카드 게임/풀 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

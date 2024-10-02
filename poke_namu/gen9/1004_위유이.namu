@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon1003_f00_s0.png|width=40]] 1003 [[딩루/포켓몬 카드 게임|딩루]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1004_f00_s0.png|width=40]] 1004 [[위유이/포켓몬 카드 게임|위유이]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon1005_f00_s0.png|width=40]] 1005 [[고동치는달/포켓몬 카드 게임|고동치는달]] ||
+||<width=30%> [[파일:icon1003_f00_s0.png|width=40]] 1003 [[딩루/포켓몬 카드 게임|딩루]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1004_f00_s0.png|width=40]] 1004 [[위유이/포켓몬 카드 게임|위유이]]'''  ||<width=30%> [[파일:icon1005_f00_s0.png|width=40]] 1005 [[고동치는달/포켓몬 카드 게임|고동치는달]] ||
 
 [목차]
 [clearfix]
@@ -63,7 +63,7 @@ HP 190 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2D_085.png|width=100%]] ||<width=50%> [[파일:SV2D_092.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2D_085.png|width=100%]] ||<width=50%> [[파일:SV2D_092.png|width=100%]] ||
 || [[클레이버스트]][br][include(틀:포케카 레어도/SR)] || [[클레이버스트]][br][include(틀:포케카 레어도/SAR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SV4a_035.png|width=100%]] ||<width=50%> [[파일:SV4a_356.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/UR)] ||

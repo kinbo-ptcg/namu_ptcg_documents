@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0600_f00_s0.png|width=40]] 0600 [[기기어르/포켓몬 카드 게임|기기어르]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0601_f00_s0.png|width=40]] 0601 [[기기기어르/포켓몬 카드 게임|기기기어르]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0602_f00_s0.png|width=40]] 0602 [[저리어/포켓몬 카드 게임|저리어]] ||
+||<width=30%> [[파일:icon0600_f00_s0.png|width=40]] 0600 [[기기어르/포켓몬 카드 게임|기기어르]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0601_f00_s0.png|width=40]] 0601 [[기기기어르/포켓몬 카드 게임|기기기어르]]'''  ||<width=30%> [[파일:icon0602_f00_s0.png|width=40]] 0602 [[저리어/포켓몬 카드 게임|저리어]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 150 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 071/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 071/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
 === [[백열의 아르카나]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S11a_048.png|width=100%]] ||
 || [[백열의 아르카나]][br][include(틀:포케카 레어도/U)] ||
@@ -165,7 +165,7 @@ HP 140 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''기어체인지'''}}}
-자신의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 몇 번이라도 사용할 수 있다.
+자신의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.
 [[파일:포켓몬 카드 게임 강철타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''기어소서''' 80×
 동전을 두 번 던져서 앞면이 나온 수 × 80데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''빨간 코어는 에너지 탱크 역할을 한다. 가시를 이용해 모아둔 에너지를 주변에 쏘아댄다.''}}} 

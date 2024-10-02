@@ -819,59 +819,7 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022014124",
                 "regu": "F",
                 "debug": "2"
-            }
-        ]
-    },
-    {
-        "id": "S12a-111",
-        "cardID": "기라드280로스280VS000",
-        "name": "기라티나 VSTAR",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "V진화",
-            "VSTAR"
-        ],
-        "rules": [
-            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
-        ],
-        "hp": 280,
-        "pokemons": [
-            {
-                "name": "기라티나",
-                "pokedexNumber": 487
-            }
-        ],
-        "type": "(드래곤)",
-        "attacks": [
-            {
-                "name": "로스트임팩트",
-                "cost": "(풀)(초)(무색)",
-                "damage": "280",
-                "text": "자신의 필드의 포켓몬에게 붙어 있는 에너지를 2개 선택해서 로스트존에 둔다."
             },
-            {
-                "name": "VSTAR 파워\n스타레퀴엠",
-                "cost": "(풀)(초)",
-                "damage": "",
-                "text": "이 기술은 자신의 로스트존에 카드가 10장 이상 있을 때만 사용할 수 있다. 상대의 배틀 포켓몬을 기절시킨다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
-                "special": "VSTAR"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "",
-            "value": "--"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "",
-        "regulationMark": [
-            "F"
-        ],
-        "version_infos": [
             {
                 "number": "111",
                 "prodNumber": "172",
@@ -883,7 +831,7 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_111.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001111",
                 "regu": "F",
-                "debug": "1"
+                "debug": "2"
             },
             {
                 "number": "261",

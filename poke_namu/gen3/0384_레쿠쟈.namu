@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0383_f00_s0.png|width=40]] 0383 [[그란돈/포켓몬 카드 게임|그란돈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0384_f00_s0.png|width=40]] 0384 [[레쿠쟈/포켓몬 카드 게임|레쿠쟈]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0385_f00_s0.png|width=40]] 0385 [[지라치/포켓몬 카드 게임|지라치]] ||
+||<width=30%> [[파일:icon0383_f00_s0.png|width=40]] 0383 [[그란돈/포켓몬 카드 게임|그란돈]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0384_f00_s0.png|width=40]] 0384 [[레쿠쟈/포켓몬 카드 게임|레쿠쟈]]'''  ||<width=30%> [[파일:icon0385_f00_s0.png|width=40]] 0385 [[지라치/포켓몬 카드 게임|지라치]] ||
 
 [목차]
 [clearfix]
@@ -38,7 +38,7 @@ HP 210 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S7R_075.png|width=100%]] ||<width=50%> [[파일:S7R_076.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S7R_075.png|width=100%]] ||<width=50%> [[파일:S7R_076.png|width=100%]] ||
 || [[창공스트림]][br][include(틀:포케카 레어도/SR)] || [[창공스트림]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_119.png|width=100%]] ||<width=50%> [[파일:SI_315.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -53,8 +53,8 @@ HP 210 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 075/067 | [[창공스트림]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 076/067 | [[창공스트림]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 119/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 315/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 015/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 315/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 015/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 107/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 131/S-P | [[unknown]] ||
 ==== 레쿠쟈 VMAX ====
@@ -83,7 +83,7 @@ HP 320 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_120.png|width=100%]] ||<width=50%> [[파일:S8b_252.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S8b_120.png|width=100%]] ||<width=50%> [[파일:S8b_252.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/RRR)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CSR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SI_316.png|width=100%]] ||<width=50%> [[파일:SO_016.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]][br][include(틀:포케카 레어도/N)] ||
@@ -95,8 +95,8 @@ HP 320 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7R.png|height=25]] | 047/067 | [[창공스트림]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 120/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 252/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CSR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 316/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO.png|height=25]] | 016/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 316/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 016/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S12A.png|height=25]] | 108/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 == D 레귤레이션 ==
 === [[전설의 고동]] ===
@@ -180,7 +180,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7_101.png|width=100%]] ||<width=50%> [[파일:SM8b_098.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM7_101.png|width=100%]] ||<width=50%> [[파일:SM8b_098.png|width=100%]] ||
 || [[창공의 카리스마]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM8b_240.png|width=100%]] ||<width=50%> [[파일:SM12a_100.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/SSR)] || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
@@ -217,7 +217,7 @@ HP 120 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_084.png|width=100%]] ||<width=50%> [[파일:SM4plus_084.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_084.png|width=100%]] ||<width=50%> [[파일:SM4plus_084.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -280,7 +280,7 @@ HP 170 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY6_085.jpg|width=100%]] ||<width=50%> [[파일:CP4_096.jpg|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY6_085.jpg|width=100%]] ||<width=50%> [[파일:CP4_096.jpg|width=100%]] ||
 || [[에메랄드 브레이크]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_104.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
@@ -318,7 +318,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY6_086.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY6_086.jpg|width=100%]] ||
 || [[에메랄드 브레이크]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -351,7 +351,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP5_034.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP5_034.jpg|width=100%]] ||
 || [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/R)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -525,7 +525,7 @@ HP 120 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_077.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_077.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -558,7 +558,7 @@ HP 170 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw5_blade_053.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw5_blade_053.jpg|width=100%]] ||
 || [[드래곤 블레이드(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

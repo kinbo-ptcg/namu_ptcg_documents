@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0611_f00_s0.png|width=40]] 0611 [[액슨도/포켓몬 카드 게임|액슨도]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0612_f00_s0.png|width=40]] 0612 [[액스라이즈/포켓몬 카드 게임|액스라이즈]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0613_f00_s0.png|width=40]] 0613 [[코고미/포켓몬 카드 게임|코고미]] ||
+||<width=30%> [[파일:icon0611_f00_s0.png|width=40]] 0611 [[액슨도/포켓몬 카드 게임|액슨도]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0612_f00_s0.png|width=40]] 0612 [[액스라이즈/포켓몬 카드 게임|액스라이즈]]'''  ||<width=30%> [[파일:icon0613_f00_s0.png|width=40]] 0613 [[코고미/포켓몬 카드 게임|코고미]] ||
 
 [목차]
 [clearfix]
@@ -64,7 +64,7 @@ HP 170 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI.png|height=25]] | 319/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SI_pk.png|height=25]] | 319/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[GG엔드]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM10a_036.png|width=100%]] ||

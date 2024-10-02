@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0434_f00_s0.png|width=40]] 0434 [[스컹뿡/포켓몬 카드 게임|스컹뿡]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0435_f00_s0.png|width=40]] 0435 [[스컹탱크/포켓몬 카드 게임|스컹탱크]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0436_f00_s0.png|width=40]] 0436 [[동미러/포켓몬 카드 게임|동미러]] ||
+||<width=30%> [[파일:icon0434_f00_s0.png|width=40]] 0434 [[스컹뿡/포켓몬 카드 게임|스컹뿡]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0435_f00_s0.png|width=40]] 0435 [[스컹탱크/포켓몬 카드 게임|스컹탱크]]'''  ||<width=30%> [[파일:icon0436_f00_s0.png|width=40]] 0436 [[동미러/포켓몬 카드 게임|동미러]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 210 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12_105.png|width=100%]] ||<width=50%> [[파일:S12_106.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12_105.png|width=100%]] ||<width=50%> [[파일:S12_106.png|width=100%]] ||
 || [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] || [[패러다임트리거]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -177,7 +177,7 @@ HP 90 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대를 독으로 만든다. 포켓몬 체크 때 이 독으로 올리는 데미지 카운터의 수는 2개가 된다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''꼬리 끝에서 심한 냄새가 나는 액체를 뿌려 공격한다. 사정거리는 50m 이상이다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -204,7 +204,7 @@ HP 100 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 상대를 독으로 만든다.
 [[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''강탈''' 60
 데미지를 주기 전에 상대에게 붙어 있는 「트레이너」를 모두 트래쉬한다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

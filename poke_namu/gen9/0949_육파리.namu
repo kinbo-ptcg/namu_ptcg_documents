@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0948_f00_s0.png|width=40]] 0948 [[들눈해/포켓몬 카드 게임|들눈해]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0949_f00_s0.png|width=40]] 0949 [[육파리/포켓몬 카드 게임|육파리]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0950_f00_s0.png|width=40]] 0950 [[절벼게/포켓몬 카드 게임|절벼게]] ||
+||<width=30%> [[파일:icon0948_f00_s0.png|width=40]] 0948 [[들눈해/포켓몬 카드 게임|들눈해]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0949_f00_s0.png|width=40]] 0949 [[육파리/포켓몬 카드 게임|육파리]]'''  ||<width=30%> [[파일:icon0950_f00_s0.png|width=40]] 0950 [[절벼게/포켓몬 카드 게임|절벼게]] ||
 
 [목차]
 [clearfix]
@@ -91,7 +91,7 @@ HP 270 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_019.png|width=100%]] ||<width=50%> [[파일:SV4a_322.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_019.png|width=100%]] ||<width=50%> [[파일:SV4a_322.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/SSR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -142,7 +142,7 @@ HP 120 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''점균 콜로니'''}}}
-이 포켓몬이 있는 한, 상대의 트래쉬에 있는 카드는 상대의 [[파일:포케카 특성.png|height=18px]] 또는 트레이너스의 효과로 패로 가져올 수 없다.
+이 포켓몬이 있는 한, 상대의 트래쉬에 있는 카드는 상대의 특성 또는 트레이너스의 효과로 패로 가져올 수 없다.
 [[파일:포켓몬 카드 게임 풀타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''버섯드레인''' 80
 이 포켓몬의 HP를 「30」회복한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''10개의 촉수로 휘감은 다음 양분을 흡수해서 괴롭힌다. 갓의 주름은 별미로 인기가 높다.''}}} 
@@ -150,7 +150,7 @@ HP 120 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4M_068.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4M_068.png|width=100%]] ||
 || [[미래의 일섬]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

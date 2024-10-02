@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0799_f00_s0.png|width=40]] 0799 [[악식킹/포켓몬 카드 게임|악식킹]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0800_f00_s0.png|width=40]] 0800 [[네크로즈마/포켓몬 카드 게임|네크로즈마]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0801_f00_s0.png|width=40]] 0801 [[마기아나/포켓몬 카드 게임|마기아나]] ||
+||<width=30%> [[파일:icon0799_f00_s0.png|width=40]] 0799 [[악식킹/포켓몬 카드 게임|악식킹]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0800_f00_s0.png|width=40]] 0800 [[네크로즈마/포켓몬 카드 게임|네크로즈마]]'''  ||<width=30%> [[파일:icon0801_f00_s0.png|width=40]] 0801 [[마기아나/포켓몬 카드 게임|마기아나]] ||
 
 [목차]
 [clearfix]
@@ -37,14 +37,14 @@ HP 220 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_075.png|width=100%]] ||<width=50%> [[파일:SI_198.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_075.png|width=100%]] ||<width=50%> [[파일:SI_198.png|width=100%]] ||
 || [[연격마스터]][br][include(틀:포케카 레어도/SR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 036/070 | [[연격마스터]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 075/070 | [[연격마스터]] | [include(틀:포케카 레어도/SR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 198/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 198/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[미라클트윈]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11_042.png|width=100%]] ||
@@ -129,7 +129,7 @@ HP 180 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5M_068.png|width=100%]] ||<width=50%> [[파일:SM8b_049.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5M_068.png|width=100%]] ||<width=50%> [[파일:SM8b_049.png|width=100%]] ||
 || [[울트라문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -164,7 +164,7 @@ HP 190 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5S_068.png|width=100%]] ||<width=50%> [[파일:SM8b_086.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM5S_068.png|width=100%]] ||<width=50%> [[파일:SM8b_086.png|width=100%]] ||
 || [[울트라썬(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -198,7 +198,7 @@ HP 130 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_048.png|width=100%]] ||<width=50%> [[파일:SMP_110.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_048.png|width=100%]] ||<width=50%> [[파일:SMP_110.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -231,7 +231,7 @@ HP 130 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_085.png|width=100%]] ||<width=50%> [[파일:SMP_109.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_085.png|width=100%]] ||<width=50%> [[파일:SMP_109.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -265,7 +265,7 @@ HP 190 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6_099.png|width=100%]] ||<width=50%> [[파일:SM8b_104.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM6_099.png|width=100%]] ||<width=50%> [[파일:SM8b_104.png|width=100%]] ||
 || [[금단의 빛]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM12a_101.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
@@ -330,7 +330,7 @@ HP 180 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_053.png|width=100%]] ||<width=50%> [[파일:SM4plus_050.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_053.png|width=100%]] ||<width=50%> [[파일:SM4plus_050.png|width=100%]] ||
 || [[빛을 삼킨 어둠]][br][include(틀:포케카 레어도/SR)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM4plus_050.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/RR)] ||

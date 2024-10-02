@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0811_f00_s0.png|width=40]] 0811 [[채키몽/포켓몬 카드 게임|채키몽]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0812_f00_s0.png|width=40]] 0812 [[고릴타/포켓몬 카드 게임|고릴타]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0813_f00_s0.png|width=40]] 0813 [[염버니/포켓몬 카드 게임|염버니]] ||
+||<width=30%> [[파일:icon0811_f00_s0.png|width=40]] 0811 [[채키몽/포켓몬 카드 게임|채키몽]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0812_f00_s0.png|width=40]] 0812 [[고릴타/포켓몬 카드 게임|고릴타]]'''  ||<width=30%> [[파일:icon0813_f00_s0.png|width=40]] 0813 [[염버니/포켓몬 카드 게임|염버니]] ||
 
 [목차]
 [clearfix]
@@ -36,7 +36,7 @@ HP 180 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV-P_087.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV-P_087.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -123,13 +123,13 @@ HP 180 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_037.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_037.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S6K.png|height=25]] | 008/070 | [[칠흑의 가이스트]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 037/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 037/414 | [[소드&실드 스타트 덱 100]] ||
 == D 레귤레이션 ==
 === [[소드&실드 스타터 세트 V 5종]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SA_G_008.png|width=100%]] ||
@@ -182,7 +182,7 @@ HP 170 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_008.png|width=100%]] ||<width=50%> [[파일:S4a_205.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_008.png|width=100%]] ||<width=50%> [[파일:S4a_205.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -217,7 +217,7 @@ HP 220 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S1a_071.png|width=100%]] ||<width=50%> [[파일:S4a_009.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S1a_071.png|width=100%]] ||<width=50%> [[파일:S4a_009.png|width=100%]] ||
 || [[VMAX 라이징]][br][include(틀:포케카 레어도/SR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S4a_304.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
@@ -253,7 +253,7 @@ HP 330 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_010.png|width=100%]] ||<width=50%> [[파일:S4a_305.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_010.png|width=100%]] ||<width=50%> [[파일:S4a_305.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/RRR)] || [[샤이니스타V]][br][include(틀:포케카 레어도/SSR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

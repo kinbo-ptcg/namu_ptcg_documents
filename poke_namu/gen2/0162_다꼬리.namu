@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0161_f00_s0.png|width=40]] 0161 [[꼬리선/포켓몬 카드 게임|꼬리선]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0162_f00_s0.png|width=40]] 0162 [[다꼬리/포켓몬 카드 게임|다꼬리]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0163_f00_s0.png|width=40]] 0163 [[부우부/포켓몬 카드 게임|부우부]] ||
+||<width=30%> [[파일:icon0161_f00_s0.png|width=40]] 0161 [[꼬리선/포켓몬 카드 게임|꼬리선]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0162_f00_s0.png|width=40]] 0162 [[다꼬리/포켓몬 카드 게임|다꼬리]]'''  ||<width=30%> [[파일:icon0163_f00_s0.png|width=40]] 0163 [[부우부/포켓몬 카드 게임|부우부]] ||
 
 [목차]
 [clearfix]
@@ -89,7 +89,7 @@ HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 원한다면 자신을 자신의 벤치 포켓몬과 교체해도 좋다. 그 경우 자신의 에너지를 원하는 만큼 선택해서 새로 나온 배틀 포켓몬에게 붙인다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''엄마 포켓몬이 가늘고 긴 몸으로 새끼를 감싸 안아 재운다. 빠른 움직임으로 상대를 몰아붙인다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

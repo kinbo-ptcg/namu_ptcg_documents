@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0865_f00_s0.png|width=40]] 0865 [[창파나이트/포켓몬 카드 게임|창파나이트]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0866_f00_s0.png|width=40]] 0866 [[마임꽁꽁/포켓몬 카드 게임|마임꽁꽁]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0867_f00_s0.png|width=40]] 0867 [[데스판/포켓몬 카드 게임|데스판]] ||
+||<width=30%> [[파일:icon0865_f00_s0.png|width=40]] 0865 [[창파나이트/포켓몬 카드 게임|창파나이트]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0866_f00_s0.png|width=40]] 0866 [[마임꽁꽁/포켓몬 카드 게임|마임꽁꽁]]'''  ||<width=30%> [[파일:icon0867_f00_s0.png|width=40]] 0867 [[데스판/포켓몬 카드 게임|데스판]] ||
 
 [목차]
 [clearfix]
@@ -35,7 +35,7 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:S8b_028.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8b_028.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -123,7 +123,7 @@ HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_030.png|width=100%]] ||<width=50%> [[파일:S4a_220.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_030.png|width=100%]] ||<width=50%> [[파일:S4a_220.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 ||<rowbgcolor=#ffffff> [[파일:S-P_112.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||

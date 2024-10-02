@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0427_f00_s0.png|width=40]] 0427 [[이어롤/포켓몬 카드 게임|이어롤]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0428_f00_s0.png|width=40]] 0428 [[이어롭/포켓몬 카드 게임|이어롭]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0429_f00_s0.png|width=40]] 0429 [[무우마직/포켓몬 카드 게임|무우마직]] ||
+||<width=30%> [[파일:icon0427_f00_s0.png|width=40]] 0427 [[이어롤/포켓몬 카드 게임|이어롤]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0428_f00_s0.png|width=40]] 0428 [[이어롭/포켓몬 카드 게임|이어롭]]'''  ||<width=30%> [[파일:icon0429_f00_s0.png|width=40]] 0429 [[무우마직/포켓몬 카드 게임|무우마직]] ||
 
 [목차]
 [clearfix]
@@ -108,7 +108,7 @@ HP 90 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''빅점프'''}}}
-이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+이 포켓몬과 붙어 있는 모든 카드를 패로 되돌린다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''힙스탬프''' 80
 동전을 한 번 던져서 뒷면이 나오면 자신의 다음 차례에 이 포켓몬은 기술을 사용할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''경계심이 아주 강하다. 위험을 감지하면 가뿐하게 뛰어올라 달아난다.''}}} 
@@ -168,7 +168,7 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''뒤로 차기''' 40{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''경계심이 강한 포켓몬이다. 위험을 느끼면 푹신푹신한 귀 끝의 털로 몸을 감싼다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -195,7 +195,7 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 상대의 벤치 포켓몬 1마리에게도 20데미지를 준다. 원한다면 자신을 자신의 벤치 포켓몬과 교체해도 좋다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''항상 귀 끝의 털을 다듬고 손질을 게을리하지 않는 깔끔쟁이다. 가뿐하게 뛰어올라 달린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

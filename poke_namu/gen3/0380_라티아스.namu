@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0379_f00_s0.png|width=40]] 0379 [[레지스틸/포켓몬 카드 게임|레지스틸]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0380_f00_s0.png|width=40]] 0380 [[라티아스/포켓몬 카드 게임|라티아스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0381_f00_s0.png|width=40]] 0381 [[라티오스/포켓몬 카드 게임|라티오스]] ||
+||<width=30%> [[파일:icon0379_f00_s0.png|width=40]] 0379 [[레지스틸/포켓몬 카드 게임|레지스틸]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0380_f00_s0.png|width=40]] 0380 [[라티아스/포켓몬 카드 게임|라티아스]]'''  ||<width=30%> [[파일:icon0381_f00_s0.png|width=40]] 0381 [[라티오스/포켓몬 카드 게임|라티오스]] ||
 
 [목차]
 [clearfix]
@@ -11,9 +11,9 @@
 [[포켓몬 카드 게임]]의 포켓몬 카드.
 ## 포켓몬의 설명을 기술부탁드립니다.  
 == H 레귤레이션 ==
-=== [[-]] ===
+=== [[스칼렛&바이올렛 스타터 세트 「미래의 미라이돈 ex」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVHM_007.png|width=100%]] ||
-|| [[-]][br][include(틀:포케카 레어도/N)] ||
+|| [[스칼렛&바이올렛 스타터 세트 「미래의 미라이돈 ex」]][br][include(틀:포케카 레어도/N)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -36,7 +36,7 @@ HP 110 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVHM.png|height=25]] | 007/053 | [[-]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_H.png|height=25]] | [[파일:SVHM.png|height=25]] | 007/053 | [[스칼렛&바이올렛 스타터 세트 「미래의 미라이돈 ex」]] ||
 == E 레귤레이션 ==
 === [[퓨전아츠]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S8_074.png|width=100%]] ||
@@ -63,7 +63,7 @@ HP 120 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' -- '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_105.png|width=100%]] ||<width=50%> [[파일:S12a_195.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S12a_105.png|width=100%]] ||<width=50%> [[파일:S12a_195.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/C)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -98,7 +98,7 @@ HP 250 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_104.png|width=100%]] ||<width=50%> [[파일:SM9_105.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM9_104.png|width=100%]] ||<width=50%> [[파일:SM9_105.png|width=100%]] ||
 || [[태그볼트]][br][include(틀:포케카 레어도/SR)] || [[태그볼트]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -288,7 +288,7 @@ HP 160 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 EX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''빛나는깃털'''}}}
-이 포켓몬은 [[파일:포케카 특성.png|height=18px]]을 가진 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.
+이 포켓몬은 특성을 가진 상대의 포켓몬으로부터 기술의 데미지나 효과를 받지 않는다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''페니트레이트''' 
 이 기술의 데미지는 약점 저항력과 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -297,13 +297,13 @@ HP 160 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:bw8_vn_053.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw8_vn_053.jpg|width=100%]] ||
 || [[볼트너클]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 041/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 053/051 | [[볼트너클]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 041/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 053/051 | [[볼트너클]] | [include(틀:포케카 레어도/SR)] ||
 == DP 시리즈 ==
 === [[불꽃 튀는 대결]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs2_kr_34.jpg|width=100%]] ||
@@ -327,7 +327,7 @@ HP 80 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 자신의 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]] 에너지와 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지를 각각 1개씩 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''빛을 굴절시키는 깃털로 전신을 둘러싸 모습을 보이지 않게 하는 능력을 가지고 있다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] 20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] +20 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

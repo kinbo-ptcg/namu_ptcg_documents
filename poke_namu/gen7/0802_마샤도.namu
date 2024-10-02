@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0801_f00_s0.png|width=40]] 0801 [[마기아나/포켓몬 카드 게임|마기아나]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0802_f00_s0.png|width=40]] 0802 [[마샤도/포켓몬 카드 게임|마샤도]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0803_f00_s0.png|width=40]] 0803 [[베베놈/포켓몬 카드 게임|베베놈]] ||
+||<width=30%> [[파일:icon0801_f00_s0.png|width=40]] 0801 [[마기아나/포켓몬 카드 게임|마기아나]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0802_f00_s0.png|width=40]] 0802 [[마샤도/포켓몬 카드 게임|마샤도]]'''  ||<width=30%> [[파일:icon0803_f00_s0.png|width=40]] 0803 [[베베놈/포켓몬 카드 게임|베베놈]] ||
 
 [목차]
 [clearfix]
@@ -64,7 +64,7 @@ HP 80 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM12a_064.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM12a_064.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -98,7 +98,7 @@ HP 270 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10_100.png|width=100%]] ||<width=50%> [[파일:SM10_101.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10_100.png|width=100%]] ||<width=50%> [[파일:SM10_101.png|width=100%]] ||
 || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM12a_067.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
@@ -162,7 +162,7 @@ HP 150 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_054.png|width=100%]] ||<width=50%> [[파일:SM8b_064.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM3N_054.png|width=100%]] ||<width=50%> [[파일:SM8b_064.png|width=100%]] ||
 || [[빛을 삼킨 어둠]][br][include(틀:포케카 레어도/SR)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/RR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -195,7 +195,7 @@ HP 70 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM8b_050.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM8b_050.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

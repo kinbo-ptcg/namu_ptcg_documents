@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0394_f00_s0.png|width=40]] 0394 [[팽태자/포켓몬 카드 게임|팽태자]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0395_f00_s0.png|width=40]] 0395 [[엠페르트/포켓몬 카드 게임|엠페르트]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0396_f00_s0.png|width=40]] 0396 [[찌르꼬/포켓몬 카드 게임|찌르꼬]] ||
+||<width=30%> [[파일:icon0394_f00_s0.png|width=40]] 0394 [[팽태자/포켓몬 카드 게임|팽태자]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0395_f00_s0.png|width=40]] 0395 [[엠페르트/포켓몬 카드 게임|엠페르트]]'''  ||<width=30%> [[파일:icon0396_f00_s0.png|width=40]] 0396 [[찌르꼬/포켓몬 카드 게임|찌르꼬]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 160 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 027/100 | [[스타버스]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 027/100 | [[스타버스]] | [include(틀:포케카 레어도/R)] ||
 == E 레귤레이션 ==
 === [[연격마스터]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5R_026.png|width=100%]] ||
@@ -56,7 +56,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 V | [[파일:연격.png|height=18px]]  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''엠페러 아이'''}}}
-이 포켓몬이 배틀필드에 있는 한, 상대 필드의 기본 포켓몬(「룰을 가진 포켓몬」을 제외)의 [[파일:포케카 특성.png|height=18px]]은 모두 없어진다.
+이 포켓몬이 배틀필드에 있는 한, 상대 필드의 기본 포켓몬(「룰을 가진 포켓몬」을 제외)의 특성은 모두 없어진다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''나선베기''' 130
 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -65,7 +65,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_073.png|width=100%]] ||<width=50%> [[파일:S5R_074.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S5R_073.png|width=100%]] ||<width=50%> [[파일:S5R_074.png|width=100%]] ||
 || [[연격마스터]][br][include(틀:포케카 레어도/SR)] || [[연격마스터]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S-P_116.png|width=100%]] ||<width=50%> [[파일:SI_100.png|width=100%]] ||
 || [[-]][br][include(틀:포케카 레어도/N)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -76,7 +76,7 @@ HP 210 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 073/070 | [[연격마스터]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S5R.png|height=25]] | 074/070 | [[연격마스터]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:PROMO.png|height=25]] | 116/S-P | [[-]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 100/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 100/414 | [[소드&실드 스타트 덱 100]] ||
 == C 레귤레이션 ==
 === [[드림리그(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM11b_011.png|width=100%]] ||
@@ -226,7 +226,7 @@ HP 140 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''다이빙드로'''}}}
-자신의 패를 1장 선택해서 트래쉬한다. 그 뒤 자신의 덱을 2장 뽑는다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 패를 1장 선택해서 트래쉬한다. 그 뒤 자신의 덱을 2장 뽑는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''어택커맨드''' 10×
 서로의 필드에 있는 포켓몬의 수 × 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''프라이드를 건드리는 자는 유빙까지도 절단하는 날개로 두 동강을 낸다.''}}} 
@@ -285,7 +285,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 상대의 벤치 포켓몬 1마리에게도 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''부리에서 늘어난 3개의 뿔은 강하다는 것을 증명한다. 리더의 뿔이 제일 크다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -313,7 +313,7 @@ HP 130 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 자신의 벤치 포켓몬의 수 × 10데미지를 추가한다. 동전을 한 번 던져서 뒷면이 나오면 자신의 벤치 포켓몬 전원에게도 각각 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''제트스키와 맞먹는 속도로 헤엄친다. 날개 가장자리는 날카롭게 유빙을 절단한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -338,7 +338,7 @@ HP 140 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 자신의 차례에 한 번 사용할 수 있다. 상대의 패를 앞면을 보지 않고 2장까지 선택한다. 선택한 카드는 뒷면인 채로 상대의 배틀필드 옆에 놓고 패로 취급하지 않는다. 상대의 다음 차례 마지막에 그 카드를 상대의 패로 되돌린다. 이 파워는 이 포켓몬이 특수 상태라면 사용할 수 없다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]] '''하이드로 임팩트''' 
 상대의 포켓몬 1마리에게 80데미지를 준다. 자신의 다음 차례에 자신은 기술을 사용할 수 없다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}레벨업 : 이 카드는 배틀필드의 엠페르트에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다.
 

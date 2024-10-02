@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0619_f00_s0.png|width=40]] 0619 [[비조푸/포켓몬 카드 게임|비조푸]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0620_f00_s0.png|width=40]] 0620 [[비조도/포켓몬 카드 게임|비조도]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0621_f00_s0.png|width=40]] 0621 [[크리만/포켓몬 카드 게임|크리만]] ||
+||<width=30%> [[파일:icon0619_f00_s0.png|width=40]] 0619 [[비조푸/포켓몬 카드 게임|비조푸]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0620_f00_s0.png|width=40]] 0620 [[비조도/포켓몬 카드 게임|비조도]]'''  ||<width=30%> [[파일:icon0621_f00_s0.png|width=40]] 0621 [[크리만/포켓몬 카드 게임|크리만]] ||
 
 [목차]
 [clearfix]
@@ -62,7 +62,7 @@ HP 100 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SV4K_072.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SV4K_072.png|width=100%]] ||
 || [[고대의 포효]][br][include(틀:포케카 레어도/AR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

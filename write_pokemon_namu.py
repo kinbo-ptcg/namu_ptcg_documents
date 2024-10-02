@@ -283,8 +283,6 @@ def get_rules_script(item):
     # M진화, 테라스탈, 아르세우스 룰, 프리즘스타 룰,찬란한 룰 처리
     if 'M진화' in subtypes:
         rules_script += "M진화 : M진화 포켓몬으로 진화하면 자신의 차례는 끝난다.\n"
-    if '테라스탈' in subtypes:
-        rules_script += "테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.\n"
     if '아르세우스' in subtypes:
         rules_script += "아르세우스 룰 : 이 카드는 덱에 몇 장이라도 넣을 수 있다.\n"
     if '프리즘스타' in subtypes:
@@ -307,6 +305,11 @@ def get_rules_script(item):
         rules_script += "V 룰 : 포켓몬 V가 기절한 경우 상대는 프라이즈를 2장 가져간다.\n"
     if 'ex' in subtypes:
         rules_script += "ex 룰	포켓몬 ex가 기절한 경우 상대는 프라이즈를 2장 가져간다.\n"
+        
+    # 테라스탈
+    for abil in item['abilities']:
+        if abil['type'] == '테라스탈':
+            rules_script += "테라스탈 : 이 포켓몬은 벤치에 있는 한, 기술의 데미지를 받지 않는다.\n"
         
     return rules_script
 
@@ -349,6 +352,17 @@ def get_card_name(item):
         return name.replace('◇','[[파일:프리즘스타.png|height=18px]]')
     else:
         return name
+
+def replace_first_occurrence(input_string, target, replacement):
+    # 특정 문자열(target)이 input_string에서 처음 발견되면 replacement로 치환하고 종료
+    index = input_string.find(target)
+    
+    if index != -1:
+        # 발견되면 target을 replacement로 치환
+        return input_string[:index] + replacement + input_string[index + len(target):]
+    else:
+        # 발견되지 않으면 원본 문자열 반환
+        return input_string
     
 # 카드 한장의 데이터를 템플릿:포켓몬 카드 게임/카드 로 변환
 def write_card(item):
@@ -410,10 +424,16 @@ HP {hp} {poke_type}
     # 특성, 고대능력, 포켓파워, 포켓바디 라면, 각각에 맞춘 디자인에 따라서 어빌리티를 표현하기
     if item['abilities']:
         for ability in item['abilities']:
-            if ability.get('special') == 'VSTAR':
+            if ability.get('special','') == 'VSTAR':
+                continue
+            elif ability.get('type','') == '테라스탈':
                 continue
             else:
-                card_text += template_bot_abil.format(abil_type=ability['type'],abil_name=ability['name'],abil_text=ability['text']).replace('특성','[[파일:포케카 특성.png|height=18px]]').replace('포켓바디','[[파일:포켓바디.png|height=18px]]').replace('포켓파워','[[파일:포켓파워.png|height=18px]]')
+                abil_script = template_bot_abil.format(abil_type=ability['type'],abil_name=ability['name'],abil_text=ability['text'])
+                abil_script = replace_first_occurrence(abil_script,'특성','[[파일:포케카 특성.png|height=18px]]')
+                abil_script = replace_first_occurrence(abil_script,'포켓바디','[[파일:포켓바디.png|height=18px]]')
+                abil_script = replace_first_occurrence(abil_script,'포켓파워','[[파일:포켓파워.png|height=18px]]')
+                card_text += abil_script
     
     # 공격 출력
     # VSTAR, GX 기술은 따로 표현하기
@@ -443,7 +463,7 @@ HP {hp} {poke_type}
                 
         if not vstar_done:
             for attack in item['attacks']:
-                if attack.get('special','') == 'GX':
+                if attack.get('special','') == 'VSTAR':
                     card_text += template_bot_attack.format(attack_cost = attack['cost'],attack_name=attack['name'],attack_damage=attack['damage'],attack_text=attack['text'])
     # GX기술 출력
     if 'GX' in item['subtypes'] or 'TAG TEAM' in item['subtypes']:
@@ -473,7 +493,14 @@ HP {hp} {poke_type}
     if item['weakness']['type'] == "":
         weakness = "--"
     else:
-        weakness = type_text_to_symbol(item['weakness']['type'],SYBL_BIG) + ' ' +  item['weakness']['value']
+        weakness = type_text_to_symbol(item['weakness']['type'],SYBL_BIG) + ' '
+        if '+' not in item['weakness']['value'] and 'x' not in item['weakness']['value'] and '×'not in item['weakness']['value']:
+            if int(item['weakness']['value']) > 9:
+                weakness += '+' + item['weakness']['value']
+        else:
+            weakness += item['weakness']['value']
+            
+        #weakness = type_text_to_symbol(item['weakness']['type'],SYBL_BIG) + ' ' +  item['weakness']['value']
         
     # 저항력
     if item['resistance']['type'] == "":
@@ -581,7 +608,7 @@ def write_order_table(data):
     
     template = """
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> {before} || {{{{{{+1 →}}}}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''{now}''' || {{{{{{+1 →}}}}}} ||<width=30%> {after} ||
+||<width=30%> {before}  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''{now}'''  ||<width=30%> {after} ||
 """
     cell_template = "[[파일:icon{pokedex_num}_f00_s0.png|width=40]] {pokedex_num} [[{pokemon_name}/포켓몬 카드 게임|{pokemon_name}]]"
     pokedex_num = data[0]['pokemons'][0]["pokedexNumber"]
@@ -699,7 +726,7 @@ def write_card_other_img_table(item):
         img_name = cardUrl_to_name(other_img_infos[0]['cardImgURL'])
         product = other_img_infos[0]['namu_docu_name']
         rarity = other_img_infos[0]['rarity']
-        table_script += f"||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:{img_name}|width=512px]] ||\n"
+        table_script += f"||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:{img_name}|width=100%]] ||\n"
         table_script += f"|| [[{product}]][br][include(틀:포케카 레어도/{rarity})] ||\n"
         table_script += "}}}\n"
         return table_script
@@ -721,7 +748,7 @@ def write_card_other_img_table(item):
             rarity_left = info_left['rarity']
             rarity_right = info_right['rarity']
             if i == 0:
-                table_script += f"||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:{img_left}|width=100%]] ||<width=50%> [[파일:{img_right}|width=100%]]||\n"
+                table_script += f"||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:{img_left}|width=100%]] ||<width=50%> [[파일:{img_right}|width=100%]] ||\n"
             else:
                 table_script += f"||<rowbgcolor=#ffffff><width=50%> [[파일:{img_left}|width=100%]] ||<width=50%> [[파일:{img_right}|width=100%]] ||\n"
             table_script += f"|| [[{product_left}]][br][include(틀:포케카 레어도/{rarity_left})] || [[{product_right}]][br][include(틀:포케카 레어도/{rarity_right})] ||\n"
@@ -878,6 +905,32 @@ def write_pokemon_docu(data):
     
     return namu_script
 
+# 실제 나무위키에 적용되어있는 이미지명등이 있어서 예외처리가 필요
+# 발견시 마다 추가중...
+def modify_exceptions(namu_script):
+    # 제품마크 이미지명 치환
+    namu_script = namu_script.replace('파일:SVG.png','파일:SVG_pk.png')
+    namu_script = namu_script.replace('파일:SEF.png','파일:SEF_pk.png')
+    namu_script = namu_script.replace('파일:SI.png','파일:SI_pk.png')
+    namu_script = namu_script.replace('파일:XY1X.png','파일:XY1x.png')    
+    namu_script = namu_script.replace('파일:XY1Y.png','파일:XY1y.png')
+    namu_script = namu_script.replace('파일:S9.png','파일:포케카_S9.png')
+    namu_script = namu_script.replace('파일:SO.png','파일:SO_pk.png')
+    namu_script = namu_script.replace('파일:BW6C.png','파일:BW6c.png')
+    namu_script = namu_script.replace('파일:XY5T.png','파일:XY5t.png')
+    namu_script = namu_script.replace('파일:BW8V.png','파일:BW8v.png')
+    namu_script = namu_script.replace('파일:BW8S.png','파일:BW8s.png')
+        
+    # 특별상품의 링크 제거
+    namu_script = namu_script.replace('[[소드&실드 확장팩 세트 V]]','소드&실드 확장팩 세트 V')
+    namu_script = namu_script.replace('[[썬&문 「TAG TEAM GX 태그올스타즈」 스페셜 키트]]','썬&문 「TAG TEAM GX 태그올스타즈」 스페셜 키트')
+    
+    # 확장팩 이름 수정
+    namu_script = namu_script.replace('[[콜드플레어]]','[[콜드플레어(포켓몬 카드 게임)]]')
+
+    
+    return namu_script
+
 POKE_ROOT = './card_data/pokemon/'
 def write_pokemon_namu_all():
     base_directory = POKE_ROOT
@@ -899,6 +952,7 @@ def write_pokemon_namu_all():
                     with open(file_path, 'r', encoding='utf-8') as json_file:
                         data = json.load(json_file)
                     namu_script = write_pokemon_docu(data)
+                    namu_script = modify_exceptions(namu_script)
                     
                     with open(save_path,'w',encoding='utf-8') as file:
                         file.write(namu_script)

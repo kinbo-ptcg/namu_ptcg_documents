@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0322_f00_s0.png|width=40]] 0322 [[둔타/포켓몬 카드 게임|둔타]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0323_f00_s0.png|width=40]] 0323 [[폭타/포켓몬 카드 게임|폭타]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0324_f00_s0.png|width=40]] 0324 [[코터스/포켓몬 카드 게임|코터스]] ||
+||<width=30%> [[파일:icon0322_f00_s0.png|width=40]] 0322 [[둔타/포켓몬 카드 게임|둔타]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0323_f00_s0.png|width=40]] 0323 [[폭타/포켓몬 카드 게임|폭타]]'''  ||<width=30%> [[파일:icon0324_f00_s0.png|width=40]] 0324 [[코터스/포켓몬 카드 게임|코터스]] ||
 
 [목차]
 [clearfix]
@@ -173,7 +173,7 @@ HP 180 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY5_GV_072.jpg|width=100%]] ||<width=50%> [[파일:SMXY_012.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY5_GV_072.jpg|width=100%]] ||<width=50%> [[파일:SMXY_012.png|width=100%]] ||
 || [[가이아 볼케이노]][br][include(틀:포케카 레어도/SR)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -198,7 +198,7 @@ HP 110 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''번드래프트'''}}}
-자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]]  또는 [[파일:포켓몬 카드 게임 격투타입.png|width=17px]] 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 트래쉬에서 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]]  또는 [[파일:포켓몬 카드 게임 격투타입.png|width=17px]] 에너지를 1장 선택해서 이 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 불꽃타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''화염구슬''' 60
 이 포켓몬에게 붙어 있는 기본 에너지를 1개 선택해서 벤치 포켓몬에게 붙인다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''불꽃에 강한 폭타는 마그마 단원을 구출할 때도 대활약 했었어.''}}} 
@@ -259,7 +259,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMXY_172.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMXY_172.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -267,9 +267,9 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 013/171 | [[THE BEST OF XY]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 172/171 | [[THE BEST OF XY]] ||
 == BW 시리즈 ==
-=== [[콜드플레어]] ===
+=== [[콜드플레어(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_011.jpg|width=100%]] ||
-|| [[콜드플레어]][br][include(틀:포케카 레어도/U)] ||
+|| [[콜드플레어(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -293,7 +293,7 @@ HP 130 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6C.png|height=25]] | 011/059 | [[콜드플레어]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW6c.png|height=25]] | 011/059 | [[콜드플레어(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
 == DP 시리즈 ==
 === [[호수의 기적]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bs9_ko_5.jpg|width=100%]] ||
@@ -317,7 +317,7 @@ HP 100 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 자신에게도 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''등에 화산을 가진 포켓몬이다. 체내의 마그마가 불어나면 흔들린 뒤에 대폭발을 한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

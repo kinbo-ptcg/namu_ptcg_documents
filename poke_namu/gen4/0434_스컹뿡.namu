@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0433_f00_s0.png|width=40]] 0433 [[랑딸랑/포켓몬 카드 게임|랑딸랑]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0434_f00_s0.png|width=40]] 0434 [[스컹뿡/포켓몬 카드 게임|스컹뿡]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0435_f00_s0.png|width=40]] 0435 [[스컹탱크/포켓몬 카드 게임|스컹탱크]] ||
+||<width=30%> [[파일:icon0433_f00_s0.png|width=40]] 0433 [[랑딸랑/포켓몬 카드 게임|랑딸랑]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0434_f00_s0.png|width=40]] 0434 [[스컹뿡/포켓몬 카드 게임|스컹뿡]]'''  ||<width=30%> [[파일:icon0435_f00_s0.png|width=40]] 0435 [[스컹탱크/포켓몬 카드 게임|스컹탱크]] ||
 
 [목차]
 [clearfix]
@@ -163,7 +163,7 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 상대를 독으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''엉덩이에서 강렬한 구린내의 액체를 날려서 몸을 지킨다. 냄새가 24시간 사라지지 않는다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -190,7 +190,7 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 동전을 두 번 던져서 앞면 × 20데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''코를 틀어막을 정도로 심한 냄새가 나는 액체를 엉덩이에서 뿜어내어 습격해온 적을 쫓아 버린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

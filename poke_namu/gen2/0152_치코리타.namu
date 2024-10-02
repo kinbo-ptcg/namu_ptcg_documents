@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0151_f00_s0.png|width=40]] 0151 [[뮤/포켓몬 카드 게임|뮤]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0152_f00_s0.png|width=40]] 0152 [[치코리타/포켓몬 카드 게임|치코리타]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0153_f00_s0.png|width=40]] 0153 [[베이리프/포켓몬 카드 게임|베이리프]] ||
+||<width=30%> [[파일:icon0151_f00_s0.png|width=40]] 0151 [[뮤/포켓몬 카드 게임|뮤]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0152_f00_s0.png|width=40]] 0152 [[치코리타/포켓몬 카드 게임|치코리타]]'''  ||<width=30%> [[파일:icon0153_f00_s0.png|width=40]] 0153 [[베이리프/포켓몬 카드 게임|베이리프]] ||
 
 [목차]
 [clearfix]
@@ -139,7 +139,7 @@ HP 50 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''머리의 잎사귀로 주위의 온도나 습도를 살핀다. 햇볕을 쬐는 것을 매우 좋아한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] 10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] +10 '' | 저항력 : '' [[파일:포켓몬 카드 게임 물타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

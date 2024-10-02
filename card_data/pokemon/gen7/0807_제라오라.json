@@ -745,6 +745,19 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022012007",
                 "regu": "F",
                 "debug": "1"
+            },
+            {
+                "number": "042",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "aky CG Works",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_042.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001042",
+                "regu": "F",
+                "debug": "2"
             }
         ]
     },
@@ -810,7 +823,7 @@
         ]
     },
     {
-        "id": "S12a-042",
+        "id": "S12a-220",
         "cardID": "제라번270크래190VS000",
         "name": "제라오라 VSTAR",
         "supertype": "포켓몬",
@@ -837,10 +850,10 @@
                 "text": "원한다면 필드에 나와 있는 스타디움을 트래쉬한다."
             },
             {
-                "name": "VSTAR 파워\n우뢰스타",
+                "name": "VSTAR 파워",
                 "cost": "(번개)(번개)(번개)(무색)",
                 "damage": "",
-                "text": "상대의 포켓몬을 4번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 60데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
+                "text": "상대의 포켓몬을 4번 선택해서 선택한 포켓몬 전원에게 약점, 저항력 계산을 하지 않고 선택한 횟수 × 60데미지를 준다. (1마리를 2번 이상 선택할 수 있다.) (대전 중 자신은 [VSTAR] 파워를 1번만 사용할 수 있다.)",
                 "special": "VSTAR"
             }
         ],
@@ -860,19 +873,6 @@
         ],
         "version_infos": [
             {
-                "number": "042",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "aky CG Works",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_042.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001042",
-                "regu": "F",
-                "debug": "1"
-            },
-            {
                 "number": "220",
                 "prodNumber": "172",
                 "prodCode": "S12a",
@@ -883,7 +883,7 @@
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_220.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001220",
                 "regu": "F",
-                "debug": "2"
+                "debug": "1"
             }
         ]
     },

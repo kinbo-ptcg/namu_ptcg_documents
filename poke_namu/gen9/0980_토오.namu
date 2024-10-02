@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0979_f00_s0.png|width=40]] 0979 [[저승갓숭/포켓몬 카드 게임|저승갓숭]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0980_f00_s0.png|width=40]] 0980 [[토오/포켓몬 카드 게임|토오]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0981_f00_s0.png|width=40]] 0981 [[키키링/포켓몬 카드 게임|키키링]] ||
+||<width=30%> [[파일:icon0979_f00_s0.png|width=40]] 0979 [[저승갓숭/포켓몬 카드 게임|저승갓숭]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0980_f00_s0.png|width=40]] 0980 [[토오/포켓몬 카드 게임|토오]]'''  ||<width=30%> [[파일:icon0981_f00_s0.png|width=40]] 0981 [[키키링/포켓몬 카드 게임|키키링]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 280 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1a_091.png|width=100%]] ||<width=50%> [[파일:SV4a_117.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV1a_091.png|width=100%]] ||<width=50%> [[파일:SV4a_117.png|width=100%]] ||
 || [[트리플렛비트]][br][include(틀:포케카 레어도/SR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SV4a_332.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/SSR)] ||

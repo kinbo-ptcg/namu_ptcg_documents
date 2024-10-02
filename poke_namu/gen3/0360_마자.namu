@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0359_f00_s0.png|width=40]] 0359 [[앱솔/포켓몬 카드 게임|앱솔]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0360_f00_s0.png|width=40]] 0360 [[마자/포켓몬 카드 게임|마자]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0361_f00_s0.png|width=40]] 0361 [[눈꼬마/포켓몬 카드 게임|눈꼬마]] ||
+||<width=30%> [[파일:icon0359_f00_s0.png|width=40]] 0359 [[앱솔/포켓몬 카드 게임|앱솔]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0360_f00_s0.png|width=40]] 0360 [[마자/포켓몬 카드 게임|마자]]'''  ||<width=30%> [[파일:icon0361_f00_s0.png|width=40]] 0361 [[눈꼬마/포켓몬 카드 게임|눈꼬마]] ||
 
 [목차]
 [clearfix]
@@ -59,7 +59,7 @@ HP 40 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 상대의 패에서 앞면을 보지 않고 카드를 1장 선택한다. 그 뒤 그 카드를 보고나서 상대의 덱으로 되돌리고 덱을 섞는다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''동료들과 밀어내기 놀이를 하면서 인내심이 강한 성격으로 자란다. 달콤한 과일을 매우 좋아한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

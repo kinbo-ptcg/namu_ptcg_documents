@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0565_f00_s0.png|width=40]] 0565 [[늑골라/포켓몬 카드 게임|늑골라]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0566_f00_s0.png|width=40]] 0566 [[아켄/포켓몬 카드 게임|아켄]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0567_f00_s0.png|width=40]] 0567 [[아케오스/포켓몬 카드 게임|아케오스]] ||
+||<width=30%> [[파일:icon0565_f00_s0.png|width=40]] 0565 [[늑골라/포켓몬 카드 게임|늑골라]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0566_f00_s0.png|width=40]] 0566 [[아켄/포켓몬 카드 게임|아켄]]'''  ||<width=30%> [[파일:icon0567_f00_s0.png|width=40]] 0567 [[아케오스/포켓몬 카드 게임|아케오스]] ||
 
 [목차]
 [clearfix]
@@ -106,7 +106,7 @@ HP 70 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 복원 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''태고의 부름소리'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 이 카드가 트래쉬에 있다면 자신의 차례에 한 번 사용할 수 있다. 이 카드를 자신의 덱의 아래로 되돌린다.
+이 특성은 이 카드가 트래쉬에 있다면 자신의 차례에 한 번 사용할 수 있다. 이 카드를 자신의 덱의 아래로 되돌린다.
 [[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''날개치기''' 20{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''고대 화석에서 부활했다. 나무 위에서 살고 있으나 날지 못해 가지에서 가지 사이를 뛰어 옮겨 다닌다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"

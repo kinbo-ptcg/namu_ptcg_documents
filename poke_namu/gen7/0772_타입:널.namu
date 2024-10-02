@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0771_f00_s0.png|width=40]] 0771 [[해무기/포켓몬 카드 게임|해무기]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0772_f00_s0.png|width=40]] 0772 [[타입:널/포켓몬 카드 게임|타입:널]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0773_f00_s0.png|width=40]] 0773 [[실버디/포켓몬 카드 게임|실버디]] ||
+||<width=30%> [[파일:icon0771_f00_s0.png|width=40]] 0771 [[해무기/포켓몬 카드 게임|해무기]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0772_f00_s0.png|width=40]] 0772 [[타입:널/포켓몬 카드 게임|타입:널]]'''  ||<width=30%> [[파일:icon0773_f00_s0.png|width=40]] 0773 [[실버디/포켓몬 카드 게임|실버디]] ||
 
 [목차]
 [clearfix]
@@ -87,7 +87,7 @@ HP 110 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SME_009.png|width=100%]] ||<width=50%> [[파일:SM8b_110.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SME_009.png|width=100%]] ||<width=50%> [[파일:SM8b_110.png|width=100%]] ||
 || [[썬&문 전설 스타터 세트 「솔가레오 GX 루나아라 GX」]][br][include(틀:포케카 레어도/N)] || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM8b_205.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/S)] ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0038_f00_s0.png|width=40]] 0038 [[나인테일/포켓몬 카드 게임|나인테일]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0039_f00_s0.png|width=40]] 0039 [[푸린/포켓몬 카드 게임|푸린]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0040_f00_s0.png|width=40]] 0040 [[푸크린/포켓몬 카드 게임|푸크린]] ||
+||<width=30%> [[파일:icon0038_f00_s0.png|width=40]] 0038 [[나인테일/포켓몬 카드 게임|나인테일]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0039_f00_s0.png|width=40]] 0039 [[푸린/포켓몬 카드 게임|푸린]]'''  ||<width=30%> [[파일:icon0040_f00_s0.png|width=40]] 0040 [[푸크린/포켓몬 카드 게임|푸크린]] ||
 
 [목차]
 [clearfix]
@@ -62,7 +62,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_140.png|width=100%]] ||<width=50%> [[파일:SV4a_306.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV4a_140.png|width=100%]] ||<width=50%> [[파일:SV4a_306.png|width=100%]] ||
 || [[샤이니트레저ex]][br][include(틀:포케카 레어도/N)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -95,13 +95,13 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_162.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_162.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S7D.png|height=25]] | 010/067 | [[마천퍼펙트]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 162/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 162/414 | [[소드&실드 스타트 덱 100]] ||
 == D 레귤레이션 ==
 === [[무한존]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S3_035.png|width=100%]] ||
@@ -152,7 +152,7 @@ HP 60 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_019.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_mirror_019.png|width=100%]] ||
 || [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -235,7 +235,7 @@ HP 240 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_103.png|width=100%]] ||<width=50%> [[파일:SM12_104.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_103.png|width=100%]] ||<width=50%> [[파일:SM12_104.png|width=100%]] ||
 || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -268,7 +268,7 @@ HP 70 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 강철타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM7B_076.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM7B_076.png|width=100%]] ||
 || [[페어리라이즈]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -328,7 +328,7 @@ HP 60 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 042/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 042/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/C)] ||
 === [[XY 「제르네아스 덱」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:X30_001.jpg|width=100%]] ||
 || [[XY 「제르네아스 덱」]][br][include(틀:포케카 레어도/U)] ||

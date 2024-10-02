@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0729_f00_s0.png|width=40]] 0729 [[키요공/포켓몬 카드 게임|키요공]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0730_f00_s0.png|width=40]] 0730 [[누리레느/포켓몬 카드 게임|누리레느]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0731_f00_s0.png|width=40]] 0731 [[콕코구리/포켓몬 카드 게임|콕코구리]] ||
+||<width=30%> [[파일:icon0729_f00_s0.png|width=40]] 0729 [[키요공/포켓몬 카드 게임|키요공]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0730_f00_s0.png|width=40]] 0730 [[누리레느/포켓몬 카드 게임|누리레느]]'''  ||<width=30%> [[파일:icon0731_f00_s0.png|width=40]] 0731 [[콕코구리/포켓몬 카드 게임|콕코구리]] ||
 
 [목차]
 [clearfix]
@@ -28,7 +28,7 @@ HP 150 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''하모닉스'''}}}
-이 포켓몬이 있는 한, 패에서 자신의 포켓몬에게 에너지를 붙일 때 동시에 2장까지 붙일 수 있다. (기술・「하모닉스」이외의 [[파일:포케카 특성.png|height=18px]]・트레이너스로 붙이는 경우는 제외한다.)
+이 포켓몬이 있는 한, 패에서 자신의 포켓몬에게 에너지를 붙일 때 동시에 2장까지 붙일 수 있다. (기술・「하모닉스」이외의 특성・트레이너스로 붙이는 경우는 제외한다.)
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''히프노 스플래시''' 80
 상대의 배틀 포켓몬을 잠듦으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''노랫소리를 활용하여 싸운다. 매일 목 상태 관리는 트레이너의 중요한 역할이다.''}}} 
@@ -67,7 +67,7 @@ HP 250 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_016.png|width=100%]] ||<width=50%> [[파일:SM1plus_054.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM1plus_016.png|width=100%]] ||<width=50%> [[파일:SM1plus_054.png|width=100%]] ||
 || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] || [[썬&문(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

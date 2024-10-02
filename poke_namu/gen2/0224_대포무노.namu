@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0223_f00_s0.png|width=40]] 0223 [[총어/포켓몬 카드 게임|총어]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0224_f00_s0.png|width=40]] 0224 [[대포무노/포켓몬 카드 게임|대포무노]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0225_f00_s0.png|width=40]] 0225 [[딜리버드/포켓몬 카드 게임|딜리버드]] ||
+||<width=30%> [[파일:icon0223_f00_s0.png|width=40]] 0223 [[총어/포켓몬 카드 게임|총어]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0224_f00_s0.png|width=40]] 0224 [[대포무노/포켓몬 카드 게임|대포무노]]'''  ||<width=30%> [[파일:icon0225_f00_s0.png|width=40]] 0225 [[딜리버드/포켓몬 카드 게임|딜리버드]] ||
 
 [목차]
 [clearfix]
@@ -56,14 +56,14 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''연격서치'''}}}
-자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「연격」의 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「연격서치」를 사용했다면 이 [[파일:포케카 특성.png|height=18px]]은 사용할 수 없다.
+자신의 차례에 1번 사용할 수 있다. 자신의 덱에서 「연격」의 카드를 1장 선택해서 상대에게 보여주고 패로 가져온다. 그리고 덱을 섞는다. 이 차례에 이미 다른 「연격서치」를 사용했다면 이 특성은 사용할 수 없다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''폭포오르기''' 50{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''머리가 돌처럼 단단하다. 빨판이 붙어 있는 다리를 휘감아 끊임없이 머리로 세게 때린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SGI_003.png|width=100%]] ||<width=50%> [[파일:S8b_031.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SGI_003.png|width=100%]] ||<width=50%> [[파일:S8b_031.png|width=100%]] ||
 || [[소드&실드 하이클래스 덱 「인텔리레온 VMAX」]][br][include(틀:포케카 레어도/N)] || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S8b_191.png|width=100%]] ||<width=50%> [[파일:SI_090.png|width=100%]] ||
 || [[VMAX 클라이맥스]][br][include(틀:포케카 레어도/CHR)] || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
@@ -74,7 +74,7 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SGI.png|height=25]] | 003/022 | [[소드&실드 하이클래스 덱 「인텔리레온 VMAX」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 031/184 | [[VMAX 클라이맥스]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:S8B.png|height=25]] | 191/184 | [[VMAX 클라이맥스]] | [include(틀:포케카 레어도/CHR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 090/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 090/414 | [[소드&실드 스타트 덱 100]] ||
 == A 레귤레이션 ==
 === [[각성의 용사]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM4S_012.png|width=100%]] ||
@@ -121,7 +121,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 1진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''어비스핸드'''}}}
-자신의 패가 5장이 되도록 덱을 뽑는다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 패가 5장이 되도록 덱을 뽑는다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 물타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''껴안기''' 40
 상대의 다음 차례에 이 기술을 받은 포켓몬은 후퇴할 수 없다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''튼튼한 돌머리다. 빨판이 붙어 있는 다리를 휘감아 한결같이 머리로 세게 때린다.''}}} 
@@ -129,7 +129,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 풀타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_025.jpg|width=100%]] ||<width=50%> [[파일:SMXY_019.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:CP4_025.jpg|width=100%]] ||<width=50%> [[파일:SMXY_019.png|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

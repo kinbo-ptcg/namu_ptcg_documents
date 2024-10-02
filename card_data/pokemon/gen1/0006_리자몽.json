@@ -589,6 +589,19 @@
                 "debug": "1"
             },
             {
+                "number": "052",
+                "prodNumber": "051",
+                "prodCode": "sm3h",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
+                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
+                "artist": "5ban Graphics",
+                "rarity": "SR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_052.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008052",
+                "regu": "A",
+                "debug": "2"
+            },
+            {
                 "number": "209",
                 "prodNumber": "150",
                 "prodCode": "sm8b",
@@ -613,77 +626,6 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2019009003",
                 "regu": "A",
                 "debug": "2"
-            }
-        ]
-    },
-    {
-        "id": "sm3h-052",
-        "cardID": "리자불250날개000홍련070레이300",
-        "name": "리자몽 GX",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "2진화",
-            "GX"
-        ],
-        "rules": [
-            "포켓몬 GX가 기절한 경우 상대는 프라이즈를 2장 가져간다."
-        ],
-        "hp": 250,
-        "pokemons": [
-            {
-                "name": "리자몽",
-                "pokedexNumber": 6
-            }
-        ],
-        "type": "(불꽃)",
-        "attacks": [
-            {
-                "name": "날개치기",
-                "cost": "(무색)(무색)(무색)",
-                "damage": "",
-                "text": ""
-            },
-            {
-                "name": "홍련의바람",
-                "cost": "(불꽃)(불꽃)(불꽃)(무색)(무색)",
-                "damage": "70",
-                "text": "이 포켓몬에게 붙어 있는 (불꽃) 에너지를 3개 트래쉬한다."
-            },
-            {
-                "name": "레이징아웃 GX",
-                "cost": "(불꽃)(무색)(무색)",
-                "damage": "300",
-                "text": "상대의 덱을 위에서부터 10장 트래쉬한다. (대전 중 자신은 GX 기술을 1번만 사용할 수 있다.)",
-                "special": "GX"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(물)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "",
-        "regulationMark": [
-            "A"
-        ],
-        "version_infos": [
-            {
-                "number": "052",
-                "prodNumber": "051",
-                "prodCode": "sm3h",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/sm3h.png",
-                "prodName": "썬&문 확장팩 제3탄 「어둠을 밝힌 무지개」",
-                "artist": "5ban Graphics",
-                "rarity": "SR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SM/SM3H/SM3H_052.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2017008052",
-                "regu": "A",
-                "debug": "1"
             }
         ]
     },
@@ -917,10 +859,11 @@
                 "text": ""
             },
             {
-                "name": "히트번",
+                "name": "히트번GX",
                 "cost": "(불꽃)(불꽃)(무색)(무색)(무색)",
                 "damage": "250",
-                "text": "상대 필드의 포켓몬 전원에게 붙어 있는 에너지를 1개씩 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)"
+                "text": "상대 필드의 포켓몬 전원에게 붙어 있는 에너지를 1개씩 트래쉬한다. (대전 중 자신은 GX기술을 1번만 사용할 수 있다.)",
+                "special": "GX"
             }
         ],
         "abilities": [],
@@ -1711,6 +1654,32 @@
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2022018002",
                 "regu": "F",
                 "debug": "2"
+            },
+            {
+                "number": "014",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "5ban Graphics",
+                "rarity": "RRR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_014.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001014",
+                "regu": "F",
+                "debug": "2"
+            },
+            {
+                "number": "212",
+                "prodNumber": "172",
+                "prodCode": "S12a",
+                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
+                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
+                "artist": "KIYOTAKA OSHIYAMA",
+                "rarity": "SAR",
+                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_212.png?w=512",
+                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001212",
+                "regu": "F",
+                "debug": "2"
             }
         ]
     },
@@ -1860,84 +1829,6 @@
                 "rarity": "N",
                 "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/SV/SVJL/SVJL_003.png?w=512",
                 "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2024009003",
-                "regu": "F",
-                "debug": "2"
-            }
-        ]
-    },
-    {
-        "id": "S12a-014",
-        "cardID": "리자불280폭렬130VS320",
-        "name": "리자몽 VSTAR",
-        "supertype": "포켓몬",
-        "subtypes": [
-            "V진화",
-            "VSTAR"
-        ],
-        "rules": [
-            "포켓몬 VSTAR가 기절한 경우 상대는 프라이즈를 2장 가져간다."
-        ],
-        "hp": 280,
-        "pokemons": [
-            {
-                "name": "리자몽",
-                "pokedexNumber": 6
-            }
-        ],
-        "type": "(불꽃)",
-        "attacks": [
-            {
-                "name": "폭렬파이어",
-                "cost": "(불꽃)(불꽃)(무색)",
-                "damage": "130+",
-                "text": "이 포켓몬에게 데미지 카운터가 올려져 있다면 100데미지를 추가한다."
-            },
-            {
-                "name": "VSTAR 파워\n스타블레이즈",
-                "cost": "(불꽃)(불꽃)(불꽃)(무색)",
-                "damage": "320",
-                "text": "이 포켓몬에게 붙어 있는 에너지를 2개 선택해서 트래쉬한다. (대전 중 자신은 VSTAR 파워를 1번만 사용할 수 있다.)",
-                "special": "VSTAR"
-            }
-        ],
-        "abilities": [],
-        "weakness": {
-            "type": "(물)",
-            "value": "×2"
-        },
-        "resistance": {
-            "type": "",
-            "value": "--"
-        },
-        "retreatCost": 2,
-        "flavorText": "",
-        "regulationMark": [
-            "F"
-        ],
-        "version_infos": [
-            {
-                "number": "014",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "5ban Graphics",
-                "rarity": "RRR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_014.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001014",
-                "regu": "F",
-                "debug": "1"
-            },
-            {
-                "number": "212",
-                "prodNumber": "172",
-                "prodCode": "S12a",
-                "prodSymbolURL": "https://cards.image.pokemonkorea.co.kr/data/images/symbol/S12a.png",
-                "prodName": "소드&실드 하이클래스팩 「VSTAR 유니버스」",
-                "artist": "KIYOTAKA OSHIYAMA",
-                "rarity": "SAR",
-                "cardImgURL": "https://cards.image.pokemonkorea.co.kr/data/wmimages/S/S12a/S12a_212.png?w=512",
-                "cardPageURL": "https://pokemoncard.co.kr/cards/detail/BS2023001212",
                 "regu": "F",
                 "debug": "2"
             }

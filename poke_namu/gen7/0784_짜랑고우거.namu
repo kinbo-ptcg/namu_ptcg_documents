@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0783_f00_s0.png|width=40]] 0783 [[짜랑고우/포켓몬 카드 게임|짜랑고우]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0784_f00_s0.png|width=40]] 0784 [[짜랑고우거/포켓몬 카드 게임|짜랑고우거]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0785_f00_s0.png|width=40]] 0785 [[카푸꼬꼬꼭/포켓몬 카드 게임|카푸꼬꼬꼭]] ||
+||<width=30%> [[파일:icon0783_f00_s0.png|width=40]] 0783 [[짜랑고우/포켓몬 카드 게임|짜랑고우]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0784_f00_s0.png|width=40]] 0784 [[짜랑고우거/포켓몬 카드 게임|짜랑고우거]]'''  ||<width=30%> [[파일:icon0785_f00_s0.png|width=40]] 0785 [[카푸꼬꼬꼭/포켓몬 카드 게임|카푸꼬꼬꼭]] ||
 
 [목차]
 [clearfix]
@@ -95,7 +95,7 @@ HP 240 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2K_054.png|width=100%]] ||<width=50%> [[파일:SMP_101.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2K_054.png|width=100%]] ||<width=50%> [[파일:SMP_101.png|width=100%]] ||
 || [[알로라의 햇빛]][br][include(틀:포케카 레어도/SR)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

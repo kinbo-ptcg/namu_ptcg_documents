@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0369_f00_s0.png|width=40]] 0369 [[시라칸/포켓몬 카드 게임|시라칸]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0370_f00_s0.png|width=40]] 0370 [[사랑동이/포켓몬 카드 게임|사랑동이]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0371_f00_s0.png|width=40]] 0371 [[아공이/포켓몬 카드 게임|아공이]] ||
+||<width=30%> [[파일:icon0369_f00_s0.png|width=40]] 0369 [[시라칸/포켓몬 카드 게임|시라칸]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0370_f00_s0.png|width=40]] 0370 [[사랑동이/포켓몬 카드 게임|사랑동이]]'''  ||<width=30%> [[파일:icon0371_f00_s0.png|width=40]] 0371 [[아공이/포켓몬 카드 게임|아공이]] ||
 
 [목차]
 [clearfix]
@@ -197,7 +197,7 @@ HP 60 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 자신과 상대의 에너지의 수가 같다면 20데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''따뜻한 바다에서 서식한다. 사랑동이를 발견한 커플은 영원한 사랑이 지속된다고 한다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

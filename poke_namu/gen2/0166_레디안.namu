@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0165_f00_s0.png|width=40]] 0165 [[레디바/포켓몬 카드 게임|레디바]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0166_f00_s0.png|width=40]] 0166 [[레디안/포켓몬 카드 게임|레디안]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0167_f00_s0.png|width=40]] 0167 [[페이검/포켓몬 카드 게임|페이검]] ||
+||<width=30%> [[파일:icon0165_f00_s0.png|width=40]] 0165 [[레디바/포켓몬 카드 게임|레디바]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0166_f00_s0.png|width=40]] 0166 [[레디안/포켓몬 카드 게임|레디안]]'''  ||<width=30%> [[파일:icon0167_f00_s0.png|width=40]] 0167 [[페이검/포켓몬 카드 게임|페이검]] ||
 
 [목차]
 [clearfix]
@@ -92,7 +92,7 @@ HP 90 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM2plus_071.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2plus_071.png|width=100%]] ||
 || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -125,7 +125,7 @@ HP 80 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1Y.png|height=25]] | 005/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1y.png|height=25]] | 005/060 | [[Y컬렉션]] | [include(틀:포케카 레어도/U)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/2세대]][[분류:포켓몬 카드 게임/풀 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

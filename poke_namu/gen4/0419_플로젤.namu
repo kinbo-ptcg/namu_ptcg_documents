@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0418_f00_s0.png|width=40]] 0418 [[브이젤/포켓몬 카드 게임|브이젤]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0419_f00_s0.png|width=40]] 0419 [[플로젤/포켓몬 카드 게임|플로젤]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0420_f00_s0.png|width=40]] 0420 [[체리버/포켓몬 카드 게임|체리버]] ||
+||<width=30%> [[파일:icon0418_f00_s0.png|width=40]] 0418 [[브이젤/포켓몬 카드 게임|브이젤]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0419_f00_s0.png|width=40]] 0419 [[플로젤/포켓몬 카드 게임|플로젤]]'''  ||<width=30%> [[파일:icon0420_f00_s0.png|width=40]] 0420 [[체리버/포켓몬 카드 게임|체리버]] ||
 
 [목차]
 [clearfix]
@@ -60,7 +60,7 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SVD_025.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SVD_025.png|width=100%]] ||
 || [[스칼렛&바이올렛 ex 스타트 덱]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -93,7 +93,7 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 029/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 029/100 | [[스타버스]] | [include(틀:포케카 레어도/U)] ||
 == E 레귤레이션 ==
 === [[소드&실드 스타터 세트 VMAX 「거북왕」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SEK_005.png|width=100%]] ||
@@ -117,13 +117,13 @@ HP 110 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SI_102.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SI_102.png|width=100%]] ||
 || [[소드&실드 스타트 덱 100]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SEK.png|height=25]] | 005/020 | [[소드&실드 스타터 세트 VMAX 「거북왕」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI.png|height=25]] | 102/414 | [[소드&실드 스타트 덱 100]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 102/414 | [[소드&실드 스타트 덱 100]] ||
 == B 레귤레이션 ==
 === [[울트라문(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM5M_008.png|width=100%]] ||
@@ -255,7 +255,7 @@ HP 70 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 10데미지를 추가한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''발달한 부낭으로 뜬다. 물에 빠진 사람을 구조하는 것을 돕는 포켓몬이다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -282,7 +282,7 @@ HP 90 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 기술 에너지보다 많은 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지가 붙어 있다면 많은 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지의 개수 × 20데미지를 추가한다. 추가할 수 있는 것은 [[파일:포켓몬 카드 게임 물타입.png|width=17px]] 에너지 2개분까지이다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''수중의 먹이를 쫓아가는 사이에 부낭이 발달했다. 고무보트처럼 사람을 태운다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] 20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 번개타입.png|width=20px]] +20 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon1001_f00_s0.png|width=40]] 1001 [[총지엔/포켓몬 카드 게임|총지엔]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1002_f00_s0.png|width=40]] 1002 [[파오젠/포켓몬 카드 게임|파오젠]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon1003_f00_s0.png|width=40]] 1003 [[딩루/포켓몬 카드 게임|딩루]] ||
+||<width=30%> [[파일:icon1001_f00_s0.png|width=40]] 1001 [[총지엔/포켓몬 카드 게임|총지엔]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon1002_f00_s0.png|width=40]] 1002 [[파오젠/포켓몬 카드 게임|파오젠]]'''  ||<width=30%> [[파일:icon1003_f00_s0.png|width=40]] 1003 [[딩루/포켓몬 카드 게임|딩루]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 220 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_085.png|width=100%]] ||<width=50%> [[파일:SV2P_093.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SV2P_085.png|width=100%]] ||<width=50%> [[파일:SV2P_093.png|width=100%]] ||
 || [[스노해저드]][br][include(틀:포케카 레어도/SR)] || [[스노해저드]][br][include(틀:포케카 레어도/SAR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SV2P_097.png|width=100%]] ||<width=50%> [[파일:SV4a_054.png|width=100%]] ||
 || [[스노해저드]][br][include(틀:포케카 레어도/UR)] || [[샤이니트레저ex]][br][include(틀:포케카 레어도/RR)] ||

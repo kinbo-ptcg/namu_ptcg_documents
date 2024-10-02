@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0634_f00_s0.png|width=40]] 0634 [[디헤드/포켓몬 카드 게임|디헤드]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0635_f00_s0.png|width=40]] 0635 [[삼삼드래/포켓몬 카드 게임|삼삼드래]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0636_f00_s0.png|width=40]] 0636 [[활화르바/포켓몬 카드 게임|활화르바]] ||
+||<width=30%> [[파일:icon0634_f00_s0.png|width=40]] 0634 [[디헤드/포켓몬 카드 게임|디헤드]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0635_f00_s0.png|width=40]] 0635 [[삼삼드래/포켓몬 카드 게임|삼삼드래]]'''  ||<width=30%> [[파일:icon0636_f00_s0.png|width=40]] 0636 [[활화르바/포켓몬 카드 게임|활화르바]] ||
 
 [목차]
 [clearfix]
@@ -117,7 +117,7 @@ HP 160 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] -20 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_073.png|width=100%]] ||<width=50%> [[파일:SMP_072.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM8b_073.png|width=100%]] ||<width=50%> [[파일:SMP_072.png|width=100%]] ||
 || [[GX 울트라샤이니]][br][include(틀:포케카 레어도/N)] || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -143,7 +143,7 @@ HP 140 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''악의충동'''}}}
-자신의 트래쉬에서 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지를 1장 선택해서 자신의 배틀 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 한 번 사용할 수 있다.
+자신의 트래쉬에서 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지를 1장 선택해서 자신의 배틀 포켓몬에게 붙인다. 이 특성은 자신의 차례에 한 번 사용할 수 있다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''크레이지헤드''' 130
 이 포켓몬에게 붙어 있는 에너지를 1개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''양팔에 있는 머리에는 뇌가 없다. 3개의 머리로 모든 것을 먹어치워 파괴해 버린다.''}}} 
@@ -170,7 +170,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 기본 포켓몬 | 포켓몬 EX  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''드래곤로드'''}}}
-이 [[파일:포케카 특성.png|height=18px]]은 필드에 스타디움이 나와 있다면 작용한다. 이 포켓몬이 있는 한 자신의 [[파일:포켓몬 카드 게임 드래곤타입.png|width=17px]] 포켓몬 전원의 후퇴에 필요한 에너지는 각각 2개씩 적어진다.
+이 특성은 필드에 스타디움이 나와 있다면 작용한다. 이 포켓몬이 있는 한 자신의 [[파일:포켓몬 카드 게임 드래곤타입.png|width=17px]] 포켓몬 전원의 후퇴에 필요한 에너지는 각각 2개씩 적어진다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''찢기''' 80
 이 기술의 데미지는 상대의 배틀 포켓몬에게 걸려 있는 효과의 계산을 하지 않는다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
 약점 : '' [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
@@ -179,7 +179,7 @@ HP 180 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY6_084.jpg|width=100%]] ||<width=50%> [[파일:SMXY_099.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY6_084.jpg|width=100%]] ||<width=50%> [[파일:SMXY_099.png|width=100%]] ||
 || [[에메랄드 브레이크]][br][include(틀:포케카 레어도/SR)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -313,7 +313,7 @@ HP 150 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 2진화 포켓몬  
 }}}{{{#!wiki style="width:auto%; margin:0px 5px 0px 5px; padding: 4px; border-radius: 5px; word-break: keep-all; background:#ffffffdd;"   
 {{{#red  [[파일:포케카 특성.png|height=18px]] '''다크트랜스'''}}}
-자신의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 [[파일:포케카 특성.png|height=18px]]은 자신의 차례에 몇 번이라도 사용할 수 있다.
+자신의 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지를 1개 선택해서 자신의 다른 포켓몬에게 붙인다. 이 특성은 자신의 차례에 몇 번이라도 사용할 수 있다.
 [[파일:포켓몬 카드 게임 초타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 악타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''드래곤 블라스트''' 140
 이 포켓몬에게 붙어 있는 [[파일:포켓몬 카드 게임 악타입.png|width=17px]] 에너지를 2개 선택해서 트래쉬한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''6개의 날개로 하늘을 날며 움직이는 것을 적으로 간주하고 덮치는 난폭한 포켓몬이다.''}}} 
@@ -321,7 +321,7 @@ HP 150 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:ebb_083.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:ebb_083.jpg|width=100%]] ||
 || [[EX 배틀 부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -354,7 +354,7 @@ HP 150 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8V.png|height=25]] | 036/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:BW8v.png|height=25]] | 036/051 | [[볼트너클]] | [include(틀:포케카 레어도/R)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/5세대]][[분류:포켓몬 카드 게임/드래곤 타입]][[분류:포켓몬 카드 게임/악 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

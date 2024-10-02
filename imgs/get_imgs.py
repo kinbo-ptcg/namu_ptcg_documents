@@ -74,8 +74,6 @@ if __name__ == "__main__":
                                 #get_card_img(imgURL,img_dir,log_file)
                                 reference_list.append([imgURL.split('/')[-1].replace('?w=512',''),imgURL])
                                 
-                        if '파이리' in file_path:
-                            print(reference_list)
                         df = pd.DataFrame(reference_list)
                         os.makedirs(os.path.dirname(img_dir + '/ref.csv'), exist_ok=True)
                         df.to_csv(img_dir + '/ref.csv',index=False, header=False, encoding='utf-8-sig')

@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0426_f00_s0.png|width=40]] 0426 [[둥실라이드/포켓몬 카드 게임|둥실라이드]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0427_f00_s0.png|width=40]] 0427 [[이어롤/포켓몬 카드 게임|이어롤]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0428_f00_s0.png|width=40]] 0428 [[이어롭/포켓몬 카드 게임|이어롭]] ||
+||<width=30%> [[파일:icon0426_f00_s0.png|width=40]] 0426 [[둥실라이드/포켓몬 카드 게임|둥실라이드]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0427_f00_s0.png|width=40]] 0427 [[이어롤/포켓몬 카드 게임|이어롤]]'''  ||<width=30%> [[파일:icon0428_f00_s0.png|width=40]] 0428 [[이어롭/포켓몬 카드 게임|이어롭]] ||
 
 [목차]
 [clearfix]
@@ -164,7 +164,7 @@ HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 자신의 데미지 카운터를 1개 제거한다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''말고 있던 귀를 기세 좋게 뻗어서 상대를 힘껏 친다. 어른이라도 펄쩍 뛸 만큼 아프다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -190,7 +190,7 @@ HP 50 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 상대의 벤치 포켓몬 1마리에게도 10데미지를 준다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''위험을 느끼면 양쪽 귀를 세워서 경계한다. 추운 밤에는 털에 얼굴을 묻고 잠잔다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] 10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] +10 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||

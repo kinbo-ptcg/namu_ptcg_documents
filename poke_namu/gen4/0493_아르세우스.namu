@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0492_f00_s0.png|width=40]] 0492 [[쉐이미/포켓몬 카드 게임|쉐이미]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0493_f00_s0.png|width=40]] 0493 [[아르세우스/포켓몬 카드 게임|아르세우스]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0494_f00_s0.png|width=40]] 0494 [[비크티니/포켓몬 카드 게임|비크티니]] ||
+||<width=30%> [[파일:icon0492_f00_s0.png|width=40]] 0492 [[쉐이미/포켓몬 카드 게임|쉐이미]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0493_f00_s0.png|width=40]] 0493 [[아르세우스/포켓몬 카드 게임|아르세우스]]'''  ||<width=30%> [[파일:icon0494_f00_s0.png|width=40]] 0494 [[비크티니/포켓몬 카드 게임|비크티니]] ||
 
 [목차]
 [clearfix]
@@ -37,7 +37,7 @@ HP 220 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9_111.png|width=100%]] ||<width=50%> [[파일:S9_112.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9_111.png|width=100%]] ||<width=50%> [[파일:S9_112.png|width=100%]] ||
 || [[스타버스]][br][include(틀:포케카 레어도/SR)] || [[스타버스]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S12a_126.png|width=100%]] ||<width=50%> [[파일:SVJL_009.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] || [[스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」]][br][include(틀:포케카 레어도/N)] ||
@@ -46,9 +46,9 @@ HP 220 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 083/100 | [[스타버스]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 111/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 112/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 083/100 | [[스타버스]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 111/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 112/100 | [[스타버스]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 126/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SVJL.png|height=25]] | 009/021 | [[스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:PROMO.png|height=25]] | 029/SV-P | [[unknown]] ||
@@ -80,7 +80,7 @@ HP 280 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9_120.png|width=100%]] ||<width=50%> [[파일:S9_125.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S9_120.png|width=100%]] ||<width=50%> [[파일:S9_125.png|width=100%]] ||
 || [[스타버스]][br][include(틀:포케카 레어도/HR)] || [[스타버스]][br][include(틀:포케카 레어도/UR)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:S12a_127.png|width=100%]] ||<width=50%> [[파일:S12a_262.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/UR)] ||
@@ -89,9 +89,9 @@ HP 280 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 084/100 | [[스타버스]] | [include(틀:포케카 레어도/RRR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 120/100 | [[스타버스]] | [include(틀:포케카 레어도/HR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S9.png|height=25]] | 125/100 | [[스타버스]] | [include(틀:포케카 레어도/UR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 084/100 | [[스타버스]] | [include(틀:포케카 레어도/RRR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 120/100 | [[스타버스]] | [include(틀:포케카 레어도/HR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:포케카_S9.png|height=25]] | 125/100 | [[스타버스]] | [include(틀:포케카 레어도/UR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 127/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/RRR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:S12A.png|height=25]] | 262/172 | [[VSTAR 유니버스]] | [include(틀:포케카 레어도/UR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_F.png|height=25]] | [[파일:SVJL.png|height=25]] | 010/021 | [[스칼렛&바이올렛 배틀 마스터 덱 「테라스탈 리자몽 ex」]] ||
@@ -122,7 +122,7 @@ HP 280 [[파일:포켓몬 카드 게임 드래곤타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_099.png|width=100%]] ||<width=50%> [[파일:SM12_100.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM12_099.png|width=100%]] ||<width=50%> [[파일:SM12_100.png|width=100%]] ||
 || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] || [[얼터제네시스]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -240,7 +240,7 @@ HP 130 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP5_036.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP5_036.jpg|width=100%]] ||
 || [[환상 전설 드림 컬렉션]][br][include(틀:포케카 레어도/U)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.

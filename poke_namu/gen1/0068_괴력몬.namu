@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0067_f00_s0.png|width=40]] 0067 [[근육몬/포켓몬 카드 게임|근육몬]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0068_f00_s0.png|width=40]] 0068 [[괴력몬/포켓몬 카드 게임|괴력몬]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0069_f00_s0.png|width=40]] 0069 [[모다피/포켓몬 카드 게임|모다피]] ||
+||<width=30%> [[파일:icon0067_f00_s0.png|width=40]] 0067 [[근육몬/포켓몬 카드 게임|근육몬]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0068_f00_s0.png|width=40]] 0068 [[괴력몬/포켓몬 카드 게임|괴력몬]]'''  ||<width=30%> [[파일:icon0069_f00_s0.png|width=40]] 0069 [[모다피/포켓몬 카드 게임|모다피]] ||
 
 [목차]
 [clearfix]
@@ -65,7 +65,7 @@ HP 220 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_072.png|width=100%]] ||<width=50%> [[파일:S10D_073.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_072.png|width=100%]] ||<width=50%> [[파일:S10D_073.png|width=100%]] ||
 || [[타임 게이저]][br][include(틀:포케카 레어도/SR)] || [[타임 게이저]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:S12a_071.png|width=100%]] ||
 || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RR)] ||
@@ -102,7 +102,7 @@ HP 330 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_081.png|width=100%]] ||<width=50%> [[파일:S12a_072.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S10D_081.png|width=100%]] ||<width=50%> [[파일:S12a_072.png|width=100%]] ||
 || [[타임 게이저]][br][include(틀:포케카 레어도/HR)] || [[VSTAR 유니버스]][br][include(틀:포케카 레어도/RRR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -191,7 +191,7 @@ HP 160 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SMP2_mirror_018.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SMP2_mirror_018.png|width=100%]] ||
 || [[명탐정 피카츄(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -225,7 +225,7 @@ HP 270 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10_100.png|width=100%]] ||<width=50%> [[파일:SM10_101.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM10_100.png|width=100%]] ||<width=50%> [[파일:SM10_101.png|width=100%]] ||
 || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] || [[더블블레이즈]][br][include(틀:포케카 레어도/SR)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM12a_067.png|width=100%]] ||
 || [[태그올스타즈]][br][include(틀:포케카 레어도/RR)] ||
@@ -292,7 +292,7 @@ HP 250 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:SM2plus_053.png|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2plus_053.png|width=100%]] ||
 || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -325,7 +325,7 @@ HP 150 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] ×2 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:CP4_067.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP4_067.jpg|width=100%]] ||
 || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -358,7 +358,7 @@ HP 180 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=100%> [[파일:XY7_088.jpg|width=512px]] ||
+||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY7_088.jpg|width=100%]] ||
 || [[밴디트링]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
@@ -470,7 +470,7 @@ HP 130 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 동전을 한 번 던져서 앞면이 나오면 30데미지를 추가하고 상대를 혼란으로 만든다.{{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}{{{-2 ''4개의 팔을 눈에 보이지 않을 정도로 빠르게 움직여 2초간 1000발의 펀치를 날린다.''}}} 
 }}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +30 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
@@ -495,7 +495,7 @@ HP 150 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 이 포켓몬이 배틀필드에 있는 한 이 포켓몬이 배틀 포켓몬에게 주는 기술의 데미지와 상대의 포켓몬으로부터 받는 기술의 데미지는 모두 「+60」이 된다.
 [[파일:포켓몬 카드 게임 격투타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]][[파일:포켓몬 카드 게임 무색타입.png|width=17px]] '''강한 의지''' 20
 상대의 다음 차례에 기술의 데미지로 자신의 남은 HP가 없어진다면 동전을 한 번 던진다. 앞면이 나오면 자신은 기절하지 않고 남은 HP가 「10」이 된다.}}}{{{#!wiki style="margin:0; padding:8px; color: #fff"
-약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] 40 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
+약점 : '' [[파일:포켓몬 카드 게임 초타입.png|width=20px]] +40 '' | 저항력 : '' -- '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]] [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 {{{#!wiki style="border-top: .0625rem solid #000; margin: 5px 0 5px 0" 
 }}}레벨업 : 이 카드는 배틀필드의 괴력몬에 겹쳐서 레벨업시킨다. 레벨업 전의 기술 포켓파워도 사용할 수 있고 포켓바디도 작용한다.
 

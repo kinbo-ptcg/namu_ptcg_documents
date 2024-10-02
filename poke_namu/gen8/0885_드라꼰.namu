@@ -2,7 +2,7 @@
 [include(틀:포켓몬 카드 게임/카드일람)]
 
 ||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0884_f00_s0.png|width=40]] 0884 [[두랄루돈/포켓몬 카드 게임|두랄루돈]] || {{{+1 →}}} ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0885_f00_s0.png|width=40]] 0885 [[드라꼰/포켓몬 카드 게임|드라꼰]]''' || {{{+1 →}}} ||<width=30%> [[파일:icon0886_f00_s0.png|width=40]] 0886 [[드래런치/포켓몬 카드 게임|드래런치]] ||
+||<width=30%> [[파일:icon0884_f00_s0.png|width=40]] 0884 [[두랄루돈/포켓몬 카드 게임|두랄루돈]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0885_f00_s0.png|width=40]] 0885 [[드라꼰/포켓몬 카드 게임|드라꼰]]'''  ||<width=30%> [[파일:icon0886_f00_s0.png|width=40]] 0886 [[드래런치/포켓몬 카드 게임|드래런치]] ||
 
 [목차]
 [clearfix]
@@ -112,7 +112,7 @@ HP 60 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 약점 : '' [[파일:포켓몬 카드 게임 악타입.png|width=20px]] ×2 '' | 저항력 : '' [[파일:포켓몬 카드 게임 격투타입.png|width=20px]] -30 '' | 후퇴 : '' [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]  ''    
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
-||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_085.png|width=100%]] ||<width=50%> [[파일:S4a_259.png|width=100%]]||
+||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:S4a_085.png|width=100%]] ||<width=50%> [[파일:S4a_259.png|width=100%]] ||
 || [[샤이니스타V]][br][include(틀:포케카 레어도/N)] || [[샤이니스타V]][br][include(틀:포케카 레어도/S)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
