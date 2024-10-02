@@ -1,8 +1,10 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
 
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0408_f00_s0.png|width=40]] 0408 [[두개도스/포켓몬 카드 게임|두개도스]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0409_f00_s0.png|width=40]] 0409 [[램펄드/포켓몬 카드 게임|램펄드]]'''  ||<width=30%> [[파일:icon0410_f00_s0.png|width=40]] 0410 [[방패톱스/포켓몬 카드 게임|방패톱스]] ||
+{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> [[파일:icon0408_f00_s0.png|width=40]] 0408 [[두개도스/포켓몬 카드 게임|두개도스]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0409_f00_s0.png|width=40]] 0409 [[램펄드/포켓몬 카드 게임|램펄드]]'''  ||<width=33%> [[파일:icon0410_f00_s0.png|width=40]] 0410 [[방패톱스/포켓몬 카드 게임|방패톱스]] ||
+}}}
 
 [목차]
 [clearfix]

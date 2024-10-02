@@ -1,8 +1,10 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
 
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0962_f00_s0.png|width=40]] 0962 [[떨구새/포켓몬 카드 게임|떨구새]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0963_f00_s0.png|width=40]] 0963 [[맨돌핀/포켓몬 카드 게임|맨돌핀]]'''  ||<width=30%> [[파일:icon0964_f00_s0.png|width=40]] 0964 [[돌핀맨/포켓몬 카드 게임|돌핀맨]] ||
+{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> [[파일:icon0962_f00_s0.png|width=40]] 0962 [[떨구새/포켓몬 카드 게임|떨구새]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0963_f00_s0.png|width=40]] 0963 [[맨돌핀/포켓몬 카드 게임|맨돌핀]]'''  ||<width=33%> [[파일:icon0964_f00_s0.png|width=40]] 0964 [[돌핀맨/포켓몬 카드 게임|돌핀맨]] ||
+}}}
 
 [목차]
 [clearfix]

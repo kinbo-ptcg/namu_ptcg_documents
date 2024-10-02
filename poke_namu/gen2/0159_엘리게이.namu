@@ -1,8 +1,10 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
 
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0158_f00_s0.png|width=40]] 0158 [[리아코/포켓몬 카드 게임|리아코]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0159_f00_s0.png|width=40]] 0159 [[엘리게이/포켓몬 카드 게임|엘리게이]]'''  ||<width=30%> [[파일:icon0160_f00_s0.png|width=40]] 0160 [[장크로다일/포켓몬 카드 게임|장크로다일]] ||
+{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> [[파일:icon0158_f00_s0.png|width=40]] 0158 [[리아코/포켓몬 카드 게임|리아코]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0159_f00_s0.png|width=40]] 0159 [[엘리게이/포켓몬 카드 게임|엘리게이]]'''  ||<width=33%> [[파일:icon0160_f00_s0.png|width=40]] 0160 [[장크로다일/포켓몬 카드 게임|장크로다일]] ||
+}}}
 
 [목차]
 [clearfix]

@@ -1,8 +1,10 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
 
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0503_f00_s0.png|width=40]] 0503 [[대검귀/포켓몬 카드 게임|대검귀]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0504_f00_s0.png|width=40]] 0504 [[보르쥐/포켓몬 카드 게임|보르쥐]]'''  ||<width=30%> [[파일:icon0505_f00_s0.png|width=40]] 0505 [[보르그/포켓몬 카드 게임|보르그]] ||
+{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> [[파일:icon0503_f00_s0.png|width=40]] 0503 [[대검귀/포켓몬 카드 게임|대검귀]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0504_f00_s0.png|width=40]] 0504 [[보르쥐/포켓몬 카드 게임|보르쥐]]'''  ||<width=33%> [[파일:icon0505_f00_s0.png|width=40]] 0505 [[보르그/포켓몬 카드 게임|보르그]] ||
+}}}
 
 [목차]
 [clearfix]

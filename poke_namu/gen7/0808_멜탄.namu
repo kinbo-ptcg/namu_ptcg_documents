@@ -1,8 +1,10 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
 
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> [[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]]  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0808_f00_s0.png|width=40]] 0808 [[멜탄/포켓몬 카드 게임|멜탄]]'''  ||<width=30%> [[파일:icon0809_f00_s0.png|width=40]] 0809 [[멜메탈/포켓몬 카드 게임|멜메탈]] ||
+{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> [[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0808_f00_s0.png|width=40]] 0808 [[멜탄/포켓몬 카드 게임|멜탄]]'''  ||<width=33%> [[파일:icon0809_f00_s0.png|width=40]] 0809 [[멜메탈/포켓몬 카드 게임|멜메탈]] ||
+}}}
 
 [목차]
 [clearfix]

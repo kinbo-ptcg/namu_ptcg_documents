@@ -607,8 +607,10 @@ def write_order_table(data):
         return POKEDEX_REVERSED.get(pokedex_num, "포켓몬이 존재하지 않습니다")
     
     template = """
-||<-5><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
-||<width=30%> {before}  ||<width=30%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''{now}'''  ||<width=30%> {after} ||
+{{{{{{#!wiki style="word-break: keep-all"
+||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
+||<width=33%> {before}  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''{now}'''  ||<width=33%> {after} ||
+}}}}}}
 """
     cell_template = "[[파일:icon{pokedex_num}_f00_s0.png|width=40]] {pokedex_num} [[{pokemon_name}/포켓몬 카드 게임|{pokemon_name}]]"
     pokedex_num = data[0]['pokemons'][0]["pokedexNumber"]
