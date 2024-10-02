@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0082_f00_s0.png|width=40]] 0082 [[레어코일/포켓몬 카드 게임|레어코일]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0083_f00_s0.png|width=40]] 0083 [[파오리/포켓몬 카드 게임|파오리]]'''  ||<width=33%> [[파일:icon0084_f00_s0.png|width=40]] 0084 [[두두/포켓몬 카드 게임|두두]] ||
 }}}
-
 [목차]
 [clearfix]
 

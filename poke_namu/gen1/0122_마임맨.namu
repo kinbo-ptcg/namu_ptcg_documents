@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0121_f00_s0.png|width=40]] 0121 [[아쿠스타/포켓몬 카드 게임|아쿠스타]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0122_f00_s0.png|width=40]] 0122 [[마임맨/포켓몬 카드 게임|마임맨]]'''  ||<width=33%> [[파일:icon0123_f00_s0.png|width=40]] 0123 [[스라크/포켓몬 카드 게임|스라크]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -406,9 +404,9 @@ HP 80 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5t.png|height=25]] | 046/070 | [[타이달스톰]] | [include(틀:포케카 레어도/C)] ||
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_045.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -436,8 +434,8 @@ HP 70 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 045/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 090/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 045/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 090/171 | [[THE BEST OF XY]] ||
 === [[XY BREAK 메가 배틀 60장 덱 「M다부니 EX」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYH_004.png|width=100%]] ||
 || [[XY BREAK 메가 배틀 60장 덱 「M다부니 EX」]][br][include(틀:포케카 레어도/N)] ||

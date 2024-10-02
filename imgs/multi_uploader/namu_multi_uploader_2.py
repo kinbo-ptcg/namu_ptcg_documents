@@ -213,16 +213,23 @@ def upload_pokemon_imgs(poke_path):
         # CSV 파일을 다시 쓰기 모드로 열지 않고, 추가 모드로 열어서 한 줄씩 즉시 기록
         with open(ref_path, mode='r+', newline='', encoding='utf-8') as write_file:
             writer = csv.writer(write_file)
-
+            upload_count = 0
             for i, row in enumerate(rows):
                 try:
-                    print(i)
+                    print(f"{i}/{len(rows)}")
                     
                     # 이미 업로드한 이미지는 패스
                     if len(row) > 2 and row[2] == 'done':
                         continue
-
+                    
+                    print(f"upload count : {upload_count}")
+                    if upload_count % 10 == 0 and upload_count != 0:
+                        print("wait a bit")
+                        driver.get("https://namu.wiki/")
+                        sleep(5)
+                        
                     success = upload_image(driver, row)
+                    upload_count += 1
                     
                     # 3번째 열에 "ok" 추가
                     if success:
@@ -246,6 +253,6 @@ def upload_pokemon_imgs(poke_path):
         driver.quit()
 
 # 포켓몬의 이미지가 들어있는 경로를 입력받고, 그 도감번호의 포켓몬 카드 이미지 전부 업로드
-UPLOAD_POKEMON_PATH = '../pokemon/gen1/0020_레트라/'
+UPLOAD_POKEMON_PATH = '../pokemon/gen1/0031_니드퀸/'
 if __name__ == '__main__':
     upload_pokemon_imgs(UPLOAD_POKEMON_PATH)

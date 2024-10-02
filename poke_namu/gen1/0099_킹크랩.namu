@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0098_f00_s0.png|width=40]] 0098 [[크랩/포켓몬 카드 게임|크랩]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0099_f00_s0.png|width=40]] 0099 [[킹크랩/포켓몬 카드 게임|킹크랩]]'''  ||<width=33%> [[파일:icon0100_f00_s0.png|width=40]] 0100 [[찌리리공/포켓몬 카드 게임|찌리리공]] ||
 }}}
-
 [목차]
 [clearfix]
 

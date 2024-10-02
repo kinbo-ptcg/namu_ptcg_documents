@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0337_f00_s0.png|width=40]] 0337 [[루나톤/포켓몬 카드 게임|루나톤]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0338_f00_s0.png|width=40]] 0338 [[솔록/포켓몬 카드 게임|솔록]]'''  ||<width=33%> [[파일:icon0339_f00_s0.png|width=40]] 0339 [[미꾸리/포켓몬 카드 게임|미꾸리]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -133,9 +131,9 @@ HP 90 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 029/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_B.png|height=25]] | [[파일:SM6B.png|height=25]] | 029/066 | [[챔피언로드(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
 == A 레귤레이션 ==
-=== [[새로운 시련(포켓몬스터 TCG)]] ===
+=== [[새로운 시련]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:SM2plus_031.png|width=100%]] ||
-|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+|| [[새로운 시련]][br][include(틀:포케카 레어도/N)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -159,14 +157,14 @@ HP 90 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2plus_093.png|width=100%]] ||<width=50%> [[파일:SM4plus_053.png|width=100%]] ||
-|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
+|| [[새로운 시련]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SM4plus_053.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 031/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 031/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 031/049 | [[새로운 시련]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 031/049 | [[새로운 시련]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 053/114 | [[GX 배틀부스트]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 053/114 | [[GX 배틀부스트]] ||
 == XY 시리즈 ==
@@ -222,7 +220,7 @@ HP 80 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 038/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 038/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/C)] ||
 == BW 시리즈 ==
 === [[콜드플레어(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_coldflare_033.jpg|width=100%]] ||

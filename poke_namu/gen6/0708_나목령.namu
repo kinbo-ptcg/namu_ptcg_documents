@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0707_f00_s0.png|width=40]] 0707 [[클레피/포켓몬 카드 게임|클레피]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0708_f00_s0.png|width=40]] 0708 [[나목령/포켓몬 카드 게임|나목령]]'''  ||<width=33%> [[파일:icon0709_f00_s0.png|width=40]] 0709 [[대로트/포켓몬 카드 게임|대로트]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -255,7 +253,7 @@ HP 50 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY9.png|height=25]] | 045/080 | [[천공의 분노]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 053/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 053/171 | [[THE BEST OF XY]] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/6세대]][[분류:포켓몬 카드 게임/풀 타입]][[분류:포켓몬 카드 게임/초 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

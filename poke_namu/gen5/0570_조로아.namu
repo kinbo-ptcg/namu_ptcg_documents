@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0569_f00_s0.png|width=40]] 0569 [[더스트나/포켓몬 카드 게임|더스트나]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0570_f00_s0.png|width=40]] 0570 [[조로아/포켓몬 카드 게임|조로아]]'''  ||<width=33%> [[파일:icon0571_f00_s0.png|width=40]] 0571 [[조로아크/포켓몬 카드 게임|조로아크]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -225,9 +223,9 @@ HP 50 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY1x.png|height=25]] | 037/060 | [[X컬렉션]] | [include(틀:포케카 레어도/C)] ||
-=== [[푸른 충격(포켓몬스터 TCG)]] ===
+=== [[푸른 충격]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_035.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/C)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -255,12 +253,12 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 035/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 035/059 | [[푸른 충격]] | [include(틀:포케카 레어도/C)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:UBD.png|height=25]] | 003/017 | [[XY BREAK 30장 덱 「음번 BREAK」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 073/171 | [[THE BEST OF XY]] ||
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 073/171 | [[THE BEST OF XY]] ||
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_041.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/C)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#3F7885; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -284,7 +282,7 @@ HP 60 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 041/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 041/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/C)] ||
 == BW 시리즈 ==
 === [[화이트 컬렉션]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw1_white_036.jpg|width=100%]] ||

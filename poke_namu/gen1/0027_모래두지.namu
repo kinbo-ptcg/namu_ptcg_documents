@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0026_f00_s0.png|width=40]] 0026 [[라이츄/포켓몬 카드 게임|라이츄]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0027_f00_s0.png|width=40]] 0027 [[모래두지/포켓몬 카드 게임|모래두지]]'''  ||<width=33%> [[파일:icon0028_f00_s0.png|width=40]] 0028 [[고지/포켓몬 카드 게임|고지]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -209,21 +207,21 @@ HP 60 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:SM2plus_011.png|width=100%]] ||<width=50%> [[파일:SM2plus_075.png|width=100%]] ||
-|| [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] || [[새로운 시련(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/N)] ||
+|| [[새로운 시련]][br][include(틀:포케카 레어도/N)] || [[새로운 시련]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff><width=50%> [[파일:SM4plus_020.png|width=100%]] ||<width=50%> [[파일:SM4plus_020.png|width=100%]] ||
 || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] || [[GX 배틀부스트]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2K.png|height=25]] | 010/050 | [[알로라의 햇빛]] | [include(틀:포케카 레어도/C)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련(포켓몬스터 TCG)]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM2PLUS.png|height=25]] | 011/049 | [[새로운 시련]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 020/114 | [[GX 배틀부스트]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 020/114 | [[GX 배틀부스트]] ||
 == XY 시리즈 ==
-=== [[푸른 충격(포켓몬스터 TCG)]] ===
+=== [[푸른 충격]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_031.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/C)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/C)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -247,7 +245,7 @@ HP 60 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 031/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 031/059 | [[푸른 충격]] | [include(틀:포케카 레어도/C)] ||
 === [[BASE PACK 20th Anniversary]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:CP6_054.jpg|width=100%]] ||
 || [[BASE PACK 20th Anniversary]][br][include(틀:포케카 레어도/C)] ||

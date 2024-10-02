@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0899_f00_s0.png|width=40]] 0899 [[신비록/포켓몬 카드 게임|신비록]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0900_f00_s0.png|width=40]] 0900 [[사마자르/포켓몬 카드 게임|사마자르]]'''  ||<width=33%> [[파일:icon0901_f00_s0.png|width=40]] 0901 [[다투곰/포켓몬 카드 게임|다투곰]] ||
 }}}
-
 [목차]
 [clearfix]
 

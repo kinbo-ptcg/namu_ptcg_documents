@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0827_f00_s0.png|width=40]] 0827 [[훔처우/포켓몬 카드 게임|훔처우]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0828_f00_s0.png|width=40]] 0828 [[폭슬라이/포켓몬 카드 게임|폭슬라이]]'''  ||<width=33%> [[파일:icon0829_f00_s0.png|width=40]] 0829 [[꼬모카/포켓몬 카드 게임|꼬모카]] ||
 }}}
-
 [목차]
 [clearfix]
 

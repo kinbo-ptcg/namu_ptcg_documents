@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0274_f00_s0.png|width=40]] 0274 [[잎새코/포켓몬 카드 게임|잎새코]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0275_f00_s0.png|width=40]] 0275 [[다탱구/포켓몬 카드 게임|다탱구]]'''  ||<width=33%> [[파일:icon0276_f00_s0.png|width=40]] 0276 [[테일로/포켓몬 카드 게임|테일로]] ||
 }}}
-
 [목차]
 [clearfix]
 

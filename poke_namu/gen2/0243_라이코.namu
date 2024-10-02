@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0242_f00_s0.png|width=40]] 0242 [[해피너스/포켓몬 카드 게임|해피너스]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0243_f00_s0.png|width=40]] 0243 [[라이코/포켓몬 카드 게임|라이코]]'''  ||<width=33%> [[파일:icon0244_f00_s0.png|width=40]] 0244 [[앤테이/포켓몬 카드 게임|앤테이]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -166,9 +164,9 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM3PLUS.png|height=25]] | 033/072 | [[빛나는 전설]] | [include(틀:포케카 레어도/R)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 034/150 | [[GX 울트라샤이니]] ||
 == XY 시리즈 ==
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_026.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/R)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/R)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#F8D648; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -196,8 +194,8 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 026/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/R)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 033/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 026/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 033/171 | [[THE BEST OF XY]] ||
 == BW 시리즈 ==
 === [[다크러시]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw4_025.jpg|width=100%]] ||

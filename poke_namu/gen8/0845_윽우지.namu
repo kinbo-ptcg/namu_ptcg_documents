@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0844_f00_s0.png|width=40]] 0844 [[사다이사/포켓몬 카드 게임|사다이사]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0845_f00_s0.png|width=40]] 0845 [[윽우지/포켓몬 카드 게임|윽우지]]'''  ||<width=33%> [[파일:icon0846_f00_s0.png|width=40]] 0846 [[찌로꼬치/포켓몬 카드 게임|찌로꼬치]] ||
 }}}
-
 [목차]
 [clearfix]
 

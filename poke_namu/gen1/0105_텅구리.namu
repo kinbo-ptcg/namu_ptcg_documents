@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0104_f00_s0.png|width=40]] 0104 [[탕구리/포켓몬 카드 게임|탕구리]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0105_f00_s0.png|width=40]] 0105 [[텅구리/포켓몬 카드 게임|텅구리]]'''  ||<width=33%> [[파일:icon0106_f00_s0.png|width=40]] 0106 [[시라소몬/포켓몬 카드 게임|시라소몬]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -269,10 +267,10 @@ HP 100 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4S.png|height=25]] | 006/050 | [[각성의 용사]] | [include(틀:포케카 레어도/R)] ||
 == XY 시리즈 ==
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ==== 텅구리 ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_035.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/U)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/U)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -300,11 +298,11 @@ HP 100 [[파일:포켓몬 카드 게임 격투타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 035/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 035/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/U)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 069/131 | [[프리미엄 챔피언팩]] ||
 ==== 텅구리 BREAK ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_036.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#B76D3B; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -327,7 +325,7 @@ BREAK진화
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 036/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 036/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
 === [[unknown]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_129.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||

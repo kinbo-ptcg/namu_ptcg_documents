@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0593_f00_s0.png|width=40]] 0593 [[탱탱겔/포켓몬 카드 게임|탱탱겔]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0594_f00_s0.png|width=40]] 0594 [[맘복치/포켓몬 카드 게임|맘복치]]'''  ||<width=33%> [[파일:icon0595_f00_s0.png|width=40]] 0595 [[파쪼옥/포켓몬 카드 게임|파쪼옥]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -43,7 +41,7 @@ HP 120 [[파일:포켓몬 카드 게임 물타입.png|width=20px]]
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVAW.png|height=25]] | 001/023 | [[스칼렛&바이올렛 스타터 세트 ex 「꾸왁스&따라큐 ex」]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 026/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD_pk.png|height=25]] | 026/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG_pk.png|height=25]] | 017/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
 == A 레귤레이션 ==
 === [[알로라의 달빛]] ===

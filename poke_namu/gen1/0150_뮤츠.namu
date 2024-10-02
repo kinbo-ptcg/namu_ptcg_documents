@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0149_f00_s0.png|width=40]] 0149 [[망나뇽/포켓몬 카드 게임|망나뇽]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0150_f00_s0.png|width=40]] 0150 [[뮤츠/포켓몬 카드 게임|뮤츠]]'''  ||<width=33%> [[파일:icon0151_f00_s0.png|width=40]] 0151 [[뮤/포켓몬 카드 게임|뮤]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -557,9 +555,9 @@ HP 190 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4PLUS.png|height=25]] | 036/114 | [[GX 배틀부스트]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM8B.png|height=25]] | 219/150 | [[GX 울트라샤이니]] | [include(틀:포케카 레어도/SSR)] ||
 == XY 시리즈 ==
-=== [[푸른 충격(포켓몬스터 TCG)]] ===
+=== [[푸른 충격]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_025.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -583,20 +581,20 @@ HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY8_BLUE_062.jpg|width=100%]] ||<width=50%> [[파일:CP4_050.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:XYpromo_124m2.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 025/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 062/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 025/059 | [[푸른 충격]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 062/059 | [[푸른 충격]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 050/131 | [[프리미엄 챔피언팩]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 124/XY-P | [[unknown]] ||
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ==== 뮤츠 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_027.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -621,19 +619,19 @@ HP 170 [[파일:포켓몬 카드 게임 초타입.png|width=20px]]
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY8_RED_062.jpg|width=100%]] ||<width=50%> [[파일:SMXY_042.png|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:XYpromo_125m2.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 027/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 062/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 042/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 027/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 062/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 042/171 | [[THE BEST OF XY]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:DPPROMO.png|height=25]] | 125/XY-P | [[unknown]] ||
 ==== M뮤츠 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_028.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -657,19 +655,19 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY8_RED_063.jpg|width=100%]] ||<width=50%> [[파일:CP4_052.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 ||<rowbgcolor=#ffffff> [[파일:SMXY_043.png|width=100%]] ||
 || [[THE BEST OF XY]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 028/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 063/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 028/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 063/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 052/131 | [[프리미엄 챔피언팩]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 043/171 | [[THE BEST OF XY]] ||
-=== [[푸른 충격(포켓몬스터 TCG)]] ===
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 043/171 | [[THE BEST OF XY]] ||
+=== [[푸른 충격]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_026.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#9986BA; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -693,12 +691,12 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=50%> [[파일:XY8_BLUE_063.jpg|width=100%]] ||<width=50%> [[파일:CP4_051.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/SR)] || [[프리미엄 챔피언팩]][br][include(틀:포케카 레어도/N)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 026/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 063/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 026/059 | [[푸른 충격]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 063/059 | [[푸른 충격]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 051/131 | [[프리미엄 챔피언팩]] ||
 === [[BASE PACK 20th Anniversary]] ===
 ==== 뮤츠 ====

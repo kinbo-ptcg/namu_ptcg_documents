@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0228_f00_s0.png|width=40]] 0228 [[델빌/포켓몬 카드 게임|델빌]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0229_f00_s0.png|width=40]] 0229 [[헬가/포켓몬 카드 게임|헬가]]'''  ||<width=33%> [[파일:icon0230_f00_s0.png|width=40]] 0230 [[킹드라/포켓몬 카드 게임|킹드라]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -125,7 +123,7 @@ HP 270 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 072/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD_pk.png|height=25]] | 072/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
 == E 레귤레이션 ==
 === [[일격마스터]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:S5I_045.png|width=100%]] ||
@@ -254,10 +252,10 @@ HP 110 [[파일:포켓몬 카드 게임 악타입.png|width=20px]]
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_A.png|height=25]] | [[파일:SM4A.png|height=25]] | 029/050 | [[초차원의 침략자]] | [include(틀:포케카 레어도/U)] ||
 == XY 시리즈 ==
-=== [[붉은 섬광(포켓몬스터 TCG)]] ===
+=== [[붉은 섬광(포켓몬 카드 게임)]] ===
 ==== 헬가 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_009.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -282,15 +280,15 @@ HP 170 [[파일:포켓몬 카드 게임 불꽃타입.png|width=20px]]
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_060.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 009/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 060/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 009/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 060/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/SR)] ||
 ==== M헬가 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_010.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#DA3642; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -314,12 +312,12 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 }}}}}}     
 {{{#!folding [ 다른 일러스트 보기 ]
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_RED_061.jpg|width=100%]] ||
-|| [[붉은 섬광(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/SR)] ||
+|| [[붉은 섬광(포켓몬 카드 게임)]][br][include(틀:포케카 레어도/SR)] ||
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 010/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 061/059 | [[붉은 섬광(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 010/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8R.png|height=25]] | 061/059 | [[붉은 섬광(포켓몬 카드 게임)]] | [include(틀:포케카 레어도/SR)] ||
 == BW 시리즈 ==
 === [[BW 「삼삼드래 덱」]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw_ssd_006.jpg|width=100%]] ||

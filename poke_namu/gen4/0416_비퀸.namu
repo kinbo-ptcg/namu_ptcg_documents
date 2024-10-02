@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0415_f00_s0.png|width=40]] 0415 [[세꿀버리/포켓몬 카드 게임|세꿀버리]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0416_f00_s0.png|width=40]] 0416 [[비퀸/포켓몬 카드 게임|비퀸]]'''  ||<width=33%> [[파일:icon0417_f00_s0.png|width=40]] 0417 [[파치리스/포켓몬 카드 게임|파치리스]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -228,7 +226,7 @@ HP 90 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 009/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 009/171 | [[THE BEST OF XY]] ||
 == BW 시리즈 ==
 === [[프리즈볼트]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:bw6_freezevolt_007.jpg|width=100%]] ||

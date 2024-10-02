@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0841_f00_s0.png|width=40]] 0841 [[애프룡/포켓몬 카드 게임|애프룡]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0842_f00_s0.png|width=40]] 0842 [[단지래플/포켓몬 카드 게임|단지래플]]'''  ||<width=33%> [[파일:icon0843_f00_s0.png|width=40]] 0843 [[모래뱀/포켓몬 카드 게임|모래뱀]] ||
 }}}
-
 [목차]
 [clearfix]
 

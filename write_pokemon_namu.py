@@ -606,12 +606,10 @@ def write_order_table(data):
         POKEDEX_REVERSED = {value: key for key, value in pokedex_ptcg_kr.POKEDEX.items()}
         return POKEDEX_REVERSED.get(pokedex_num, "포켓몬이 존재하지 않습니다")
     
-    template = """
-{{{{{{#!wiki style="word-break: keep-all"
+    template = """{{{{{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> {before}  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''{now}'''  ||<width=33%> {after} ||
-}}}}}}
-"""
+}}}}}}"""
     cell_template = "[[파일:icon{pokedex_num}_f00_s0.png|width=40]] {pokedex_num} [[{pokemon_name}/포켓몬 카드 게임|{pokemon_name}]]"
     pokedex_num = data[0]['pokemons'][0]["pokedexNumber"]
     pokemon_name = data[0]['pokemons'][0]["name"]
@@ -922,7 +920,14 @@ def modify_exceptions(namu_script):
     namu_script = namu_script.replace('파일:XY5T.png','파일:XY5t.png')
     namu_script = namu_script.replace('파일:BW8V.png','파일:BW8v.png')
     namu_script = namu_script.replace('파일:BW8S.png','파일:BW8s.png')
-        
+    namu_script = namu_script.replace('파일:SVD.png','파일:SVD_pk.png')
+    namu_script = namu_script.replace('파일:SN.png','파일:SN 포케카.png')
+    namu_script = namu_script.replace('파일:SC.png','파일:SC_포케카.png')
+    namu_script = namu_script.replace('파일:BW3H.png','파일:BW3h.png')
+    namu_script = namu_script.replace('파일:SMXY.png','파일:XY.png')
+    namu_script = namu_script.replace('파일:XY8B.png','파일:XY8b.png')
+    namu_script = namu_script.replace('파일:XY5G.png','파일:XY5g.png')
+    
     # 특별상품의 링크 제거
     namu_script = namu_script.replace('[[소드&실드 확장팩 세트 V]]','소드&실드 확장팩 세트 V')
     namu_script = namu_script.replace('[[썬&문 「TAG TEAM GX 태그올스타즈」 스페셜 키트]]','썬&문 「TAG TEAM GX 태그올스타즈」 스페셜 키트')

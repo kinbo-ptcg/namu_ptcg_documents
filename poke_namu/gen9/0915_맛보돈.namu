@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0914_f00_s0.png|width=40]] 0914 [[웨이니발/포켓몬 카드 게임|웨이니발]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0915_f00_s0.png|width=40]] 0915 [[맛보돈/포켓몬 카드 게임|맛보돈]]'''  ||<width=33%> [[파일:icon0916_f00_s0.png|width=40]] 0916 [[퍼퓨돈/포켓몬 카드 게임|퍼퓨돈]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -75,7 +73,7 @@ HP 60 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVAL.png|height=25]] | 009/021 | [[스칼렛&바이올렛 스타터 세트 ex 「뜨아거&전룡 ex」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVAM.png|height=25]] | 011/023 | [[스칼렛&바이올렛 스타터 세트 ex 「나오하&루카리오 ex」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVC.png|height=25]] | 010/021 | [[스칼렛&바이올렛 ex스폐셜세트]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 101/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD_pk.png|height=25]] | 101/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVG_pk.png|height=25]] | 027/049 | [[스칼렛&바이올렛 스페셜 덱 세트 ex 「이상해꽃·리자몽·거북왕」]] ||
 === [[스칼렛ex]] ===
 ==== 맛보돈 ====
@@ -214,7 +212,7 @@ HP 70 [[파일:포켓몬 카드 게임 무색타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD.png|height=25]] | 102/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_G.png|height=25]] | [[파일:SVD_pk.png|height=25]] | 102/139 | [[스칼렛&바이올렛 ex 스타트 덱]] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/9세대]][[분류:포켓몬 카드 게임/무색 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

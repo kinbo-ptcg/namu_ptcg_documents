@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0679_f00_s0.png|width=40]] 0679 [[단칼빙/포켓몬 카드 게임|단칼빙]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0680_f00_s0.png|width=40]] 0680 [[쌍검킬/포켓몬 카드 게임|쌍검킬]]'''  ||<width=33%> [[파일:icon0681_f00_s0.png|width=40]] 0681 [[킬가르도/포켓몬 카드 게임|킬가르도]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -261,7 +259,7 @@ HP 80 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 051/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/C)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 051/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/C)] ||
 === [[천공의 분노]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY9_042.jpg|width=100%]] ||
 || [[천공의 분노]][br][include(틀:포케카 레어도/C)] ||

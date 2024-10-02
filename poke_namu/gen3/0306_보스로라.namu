@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0305_f00_s0.png|width=40]] 0305 [[갱도라/포켓몬 카드 게임|갱도라]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0306_f00_s0.png|width=40]] 0306 [[보스로라/포켓몬 카드 게임|보스로라]]'''  ||<width=33%> [[파일:icon0307_f00_s0.png|width=40]] 0307 [[요가랑/포켓몬 카드 게임|요가랑]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -273,8 +271,8 @@ HP 180 [[파일:포켓몬 카드 게임 강철타입.png|width=20px]]
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 045/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 075/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 045/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 075/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/SR)] ||
 ==== M보스로라 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_046.jpg|width=100%]] ||
 || [[가이아 볼케이노]][br][include(틀:포케카 레어도/RR)] ||
@@ -305,8 +303,8 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 }}}
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 046/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/RR)] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 076/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/SR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 046/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 076/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/SR)] ||
 === [[마그마단vs아쿠아단 더블크라이시스]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY_CP1_014.jpg|width=100%]] ||
 || [[마그마단vs아쿠아단 더블크라이시스]][br][include(틀:포케카 레어도/R)] ||

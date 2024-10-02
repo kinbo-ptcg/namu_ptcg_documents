@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0806_f00_s0.png|width=40]] 0806 [[두파팡/포켓몬 카드 게임|두파팡]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0807_f00_s0.png|width=40]] 0807 [[제라오라/포켓몬 카드 게임|제라오라]]'''  ||<width=33%> [[파일:icon0808_f00_s0.png|width=40]] 0808 [[멜탄/포켓몬 카드 게임|멜탄]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -294,7 +292,7 @@ HP 120 [[파일:포켓몬 카드 게임 번개타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SH.png|height=25]] | 023/053 | [[소드&실드 「패밀리 포켓몬 카드 게임」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 151/414 | [[소드&실드 스타트 덱 100]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SI_pk.png|height=25]] | 152/414 | [[소드&실드 스타트 덱 100]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SN.png|height=25]] | 003/024 | [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SN 포케카.png|height=25]] | 003/024 | [[소드&실드 스타트 덱 100 「피카츄 V & 이브이 V」]] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:regu_E.png|height=25]] | [[파일:SO_pk.png|height=25]] | 014/030 | [[소드&실드 스페셜 덱 세트 「리자몽 VSTAR VS 레쿠쟈 VMAX」]] ||
 == D 레귤레이션 ==
 === [[전설의 고동]] ===

@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0670_f00_s0.png|width=40]] 0670 [[플라엣테/포켓몬 카드 게임|플라엣테]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0671_f00_s0.png|width=40]] 0671 [[플라제스/포켓몬 카드 게임|플라제스]]'''  ||<width=33%> [[파일:icon0672_f00_s0.png|width=40]] 0672 [[메이클/포켓몬 카드 게임|메이클]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -211,10 +209,10 @@ HP 160 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 060/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY4.png|height=25]] | 092/088 | [[팬텀게이트]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 086/131 | [[프리미엄 챔피언팩]] ||
-=== [[푸른 충격(포켓몬스터 TCG)]] ===
+=== [[푸른 충격]] ===
 ==== 플라제스 ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_042.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/U)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/U)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -238,10 +236,10 @@ HP 110 [[파일:포켓몬 카드 게임 페어리타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 042/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 042/059 | [[푸른 충격]] | [include(틀:포케카 레어도/U)] ||
 ==== 플라제스 BREAK ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY8_BLUE_043.jpg|width=100%]] ||
-|| [[푸른 충격(포켓몬스터 TCG)]][br][include(틀:포케카 레어도/RR)] ||
+|| [[푸른 충격]][br][include(틀:포케카 레어도/RR)] ||
 
 {{{#!wiki style="width:100%; border:2px solid #000000; background:#D5578A; color:#000;"
 {{{#!wiki style="margin:0; padding:8px; color: #fff"
@@ -264,7 +262,7 @@ BREAK진화
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8B.png|height=25]] | 043/059 | [[푸른 충격(포켓몬스터 TCG)]] | [include(틀:포케카 레어도/RR)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY8b.png|height=25]] | 043/059 | [[푸른 충격]] | [include(틀:포케카 레어도/RR)] ||
 [clearfix]
 [[분류:포켓몬 카드 게임/6세대]][[분류:포켓몬 카드 게임/페어리 타입]][[분류:포켓몬 카드 게임/초 타입]]
 ## 만약 다른 문서에서 내용을 일부 가져오셨다면, 문서 가져옴 틀을 꼭 넣어주세요

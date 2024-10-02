@@ -1,11 +1,9 @@
 [include(틀:포켓몬 카드 게임/레귤레이션)]
 [include(틀:포켓몬 카드 게임/카드일람)]
-
 {{{#!wiki style="word-break: keep-all"
 ||<-3><tablealign=center><tablewidth=900><tablebordercolor=#ddd,#383b40><bgcolor=#ddd,#1f2023><tablebgcolor=#fff,#2d2f34><tablecolor=#373a3c,#ddd><height=32> '''포켓몬 카드 게임의 포켓몬 카드일람''' ||
 ||<width=33%> [[파일:icon0253_f00_s0.png|width=40]] 0253 [[나무돌이/포켓몬 카드 게임|나무돌이]]  ||<width=33%><bgcolor=#f5f5f5,#191919><color=#2e2e2e,#ddd> '''[[파일:icon0254_f00_s0.png|width=40]] 0254 [[나무킹/포켓몬 카드 게임|나무킹]]'''  ||<width=33%> [[파일:icon0255_f00_s0.png|width=40]] 0255 [[아차모/포켓몬 카드 게임|아차모]] ||
 }}}
-
 [목차]
 [clearfix]
 
@@ -108,7 +106,7 @@ HP 130 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 005/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/U)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 005/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/U)] ||
 ==== 나무킹 ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY5_GV_006.jpg|width=100%]] ||
 || [[가이아 볼케이노]][br][include(틀:포케카 레어도/R)] ||
@@ -137,7 +135,7 @@ HP 140 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5G.png|height=25]] | 006/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/R)] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY5g.png|height=25]] | 006/070 | [[가이아 볼케이노]] | [include(틀:포케카 레어도/R)] ||
 === [[밴디트링]] ===
 ==== 나무킹 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY7_007.jpg|width=100%]] ||
@@ -175,7 +173,7 @@ HP 170 [[파일:포켓몬 카드 게임 풀타입.png|width=20px]]
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY7.png|height=25]] | 007/081 | [[밴디트링]] | [include(틀:포케카 레어도/RR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY7.png|height=25]] | 082/081 | [[밴디트링]] | [include(틀:포케카 레어도/SR)] ||
 ||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:CP4.png|height=25]] | 006/131 | [[프리미엄 챔피언팩]] ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 006/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 006/171 | [[THE BEST OF XY]] ||
 ==== M나무킹 EX ====
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XY7_008.jpg|width=100%]] ||
 || [[밴디트링]][br][include(틀:포케카 레어도/RR)] ||
@@ -267,7 +265,7 @@ EX 룰 : 포켓몬 EX가 기절한 경우 상대는 프라이즈를 2장 가져�
 }}}}}}     
 ## 유저가 작성하는 카드 설명이 들어가는 부분입니다.
 ||<tablewidth=100%><tablebordercolor=#000000><tablebgcolor=#fff,#191919><bgcolor=#777777><color=#fff>수록 정보 ||
-||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:SMXY.png|height=25]] | 007/171 | [[THE BEST OF XY]] ||
+||[include(틀:국기, 국명=대한민국, 출력= )] | [[파일:XY.png|height=25]] | 007/171 | [[THE BEST OF XY]] ||
 === [[unknown]] ===
 ||<tablealign=center><rowbgcolor=#ffffff><width=512px> [[파일:XYpromo_134.png|width=100%]] ||
 || [[unknown]][br][include(틀:포케카 레어도/N)] ||
